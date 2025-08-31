@@ -1,0 +1,139 @@
+type OrganizationProfile @model @auth(rules: [{allow: owner, ownerField: "owner"}])
+{
+  organizationName: String!
+  organizationType: OrganizationProfileOrganizationType
+  industry: String
+  naicsCode: String
+  naicsDescription: String
+  customOrganizationType: String
+  customIndustry: String
+  primaryContactName: String
+  primaryContactEmail: String
+  primaryContactPhone: String
+  alternateContact1Name: String
+  alternateContact1Email: String
+  alternateContact1Phone: String
+  alternateContact2Name: String
+  alternateContact2Email: String
+  alternateContact2Phone: String
+  primaryAddress: String
+  city: String
+  state: String
+  zipCode: String
+  country: String @default(value: "Canada")
+  buildingName: String
+  buildingType: OrganizationProfileBuildingType
+  numberOfFloors: Int
+  totalOccupancy: Int
+  buildingAge: Int
+  totalSquareFootage: Int
+  building2Name: String
+  building2Type: OrganizationProfileBuilding2Type
+  building2Floors: Int
+  building2Age: Int
+  building2SquareFootage: Int
+  building3Name: String
+  building3Type: OrganizationProfileBuilding3Type
+  building3Floors: Int
+  building3Age: Int
+  building3SquareFootage: Int
+  building4Name: String
+  building4Type: OrganizationProfileBuilding4Type
+  building4Floors: Int
+  building4Age: Int
+  building4SquareFootage: Int
+  building5Name: String
+  building5Type: OrganizationProfileBuilding5Type
+  building5Floors: Int
+  building5Age: Int
+  building5SquareFootage: Int
+  maximumOccupancy: Int
+  averageOccupancyWorkday: Int
+  averageOccupancyOffHours: Int
+  peopleWithDisabilities: String
+  evacuationRoutes: String
+  assemblyAreas: String
+  emergencyContactName: String
+  emergencyContactPhone: String
+  emergencyContactEmail: String
+  otherEmergencyServices: String
+  nearestHospital: String
+  nearestFireStation: String
+  nearestPoliceStation: String
+  specialConsiderations: String
+  isOnboardingComplete: Boolean @default(value: "false")
+  lastUpdated: AWSDateTime
+}
+
+enum OrganizationProfileOrganizationType {
+  ForProfit
+  NonProfit
+  Government
+  Educational
+  Other
+}
+
+enum OrganizationProfileBuildingType {
+  SingleStory
+  MultiStory
+  HighRise
+  Campus
+  Industrial
+  Warehouse
+  Retail
+  Healthcare
+  Educational
+  Other
+}
+
+enum OrganizationProfileBuilding2Type {
+  SingleStory
+  MultiStory
+  HighRise
+  Campus
+  Industrial
+  Warehouse
+  Retail
+  Healthcare
+  Educational
+  Other
+}
+
+enum OrganizationProfileBuilding3Type {
+  SingleStory
+  MultiStory
+  HighRise
+  Campus
+  Industrial
+  Warehouse
+  Retail
+  Healthcare
+  Educational
+  Other
+}
+
+enum OrganizationProfileBuilding4Type {
+  SingleStory
+  MultiStory
+  HighRise
+  Campus
+  Industrial
+  Warehouse
+  Retail
+  Healthcare
+  Educational
+  Other
+}
+
+enum OrganizationProfileBuilding5Type {
+  SingleStory
+  MultiStory
+  HighRise
+  Campus
+  Industrial
+  Warehouse
+  Retail
+  Healthcare
+  Educational
+  Other
+}

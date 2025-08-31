@@ -1,0 +1,191 @@
+{
+  "organization_profile": {
+    "basic_info": {
+      "name": "Vancouver General Hospital",
+      "location": "Vancouver, BC",
+      "type": "healthcare",
+      "subtype": "general",
+      "size": {
+        "category": "large",
+        "max_occupancy": 500,
+        "evacuation_time": "5-8 minutes"
+      }
+    },
+    "characteristics": [
+      "patient_population",
+      "medical_staff",
+      "critical_equipment",
+      "infection_control"
+    ],
+    "regulatory_context": [
+      "health_authority",
+      "patient_safety",
+      "medical_licensing"
+    ],
+    "operational_hours": "standard_business_hours",
+    "population_profile": {
+      "type": "mixed",
+      "size": "Large (200-500 people)"
+    }
+  },
+  "hazard_assessment": {
+    "primary_hazards": [
+      "medical_emergency",
+      "chemical_spill",
+      "power_outage"
+    ],
+    "secondary_hazards": [],
+    "risk_factors": {
+      "medical_emergency": [
+        "population_health",
+        "medical_staff",
+        "first_aid_equipment"
+      ],
+      "chemical_spill": [
+        "chemical_storage",
+        "handling_procedures",
+        "containment_systems"
+      ],
+      "power_outage": [
+        "electrical_infrastructure",
+        "backup_systems",
+        "critical_equipment"
+      ]
+    },
+    "response_priorities": {
+      "medical_emergency": [
+        "medical_response",
+        "emergency_services",
+        "family_notification"
+      ],
+      "chemical_spill": [
+        "containment",
+        "evacuation",
+        "decontamination"
+      ],
+      "power_outage": [
+        "backup_power",
+        "equipment_shutdown",
+        "communication"
+      ]
+    },
+    "special_considerations": {
+      "accessibility": [],
+      "infrastructure": [
+        "Multi-story Building"
+      ],
+      "operational": [
+        "24/7 Operations"
+      ],
+      "regulatory": []
+    }
+  },
+  "resource_inventory": {
+    "personnel": {
+      "security_staff": true,
+      "medical_staff": true,
+      "emergency_coordinators": true,
+      "backup_personnel": true
+    },
+    "equipment": {
+      "safety_equipment": [
+        "Fire Extinguishers",
+        "First Aid Kits",
+        "AED/Defibrillator",
+        "Emergency Lighting"
+      ],
+      "communication_equipment": [],
+      "medical_equipment": [],
+      "evacuation_equipment": [
+        "Emergency Lighting"
+      ]
+    },
+    "communication_systems": {
+      "primary_methods": [
+        "PA System",
+        "Email Alerts",
+        "Text/SMS"
+      ],
+      "backup_methods": [
+        "phone_tree",
+        "radio_system"
+      ],
+      "emergency_contacts": [
+        "emergency_services",
+        "management_contacts"
+      ]
+    },
+    "external_resources": [
+      "emergency_services",
+      "local_authorities"
+    ]
+  },
+  "procedural_requirements": {
+    "plan_scope": {
+      "level": "comprehensive",
+      "comprehensiveness": "all_hazards",
+      "detail_level": "detailed"
+    },
+    "required_procedures": [
+      "evacuation",
+      "communication",
+      "emergency_organization"
+    ],
+    "special_procedures": [],
+    "training_requirements": [
+      "emergency_response",
+      "first_aid",
+      "evacuation_procedures"
+    ],
+    "maintenance_requirements": [
+      "plan_review",
+      "equipment_maintenance",
+      "training_updates"
+    ]
+  },
+  "operational_context": {
+    "physical_environment": {
+      "building_type": "standard",
+      "accessibility": "basic"
+    },
+    "operational_constraints": [
+      "budget_limitations",
+      "staffing_constraints"
+    ],
+    "stakeholder_requirements": [
+      "employee_safety",
+      "regulatory_compliance"
+    ],
+    "compliance_requirements": [
+      "Patient Safety Standards",
+      "Medical Emergency Protocols"
+    ]
+  },
+  "validation": {
+    "is_valid": true,
+    "warnings": [],
+    "errors": [],
+    "recommendations": []
+  },
+  "enrichment": {
+    "additional_hazards": [
+      "infectious_disease",
+      "medical_emergency"
+    ],
+    "missing_procedures": [],
+    "resource_recommendations": {
+      "equipment": [
+        "AED/Defibrillator",
+        "Spill Kits"
+      ],
+      "personnel": [
+        "Medical Emergency Response Team"
+      ],
+      "training": []
+    },
+    "compliance_notes": [
+      "Occupational Safety",
+      "Emergency Management"
+    ]
+  }
+}

@@ -1,0 +1,942 @@
+Emergency Preparedness and Response Program
+Original:  February 2001
+Amended:  February 2011
+[Organization]
+Emergency Preparedness and
+Response Program
+Contents
+REFERENCE	3
+PURPOSE	1
+POLICY	1
+SCOPE	1
+DEFINITIONS	1
+SUMMARY OF REGULATIONS	2
+RESPONSIBILITIES	4
+[Organization]	4
+Managers	4
+Emergency Coordinator	5
+Supervisors	5
+Emergency Wardens	5
+Workers	6
+JHS Committee or Worker Health and Safety Representative	6
+PROGRAM DETAILS	7
+Planning	7
+Coordinating Response to Emergencies	8
+Risk Assessment	8
+Identification and Risk Assessment	8
+Written Procedure Requirements	9
+Evacuation Procedures	9
+Emergency Escape	9
+Confined Space	9
+Bomb Threats	9
+High Angle Rescue	10
+Hazardous Products Emergencies	10
+Hazardous Products Inventory	10
+Work On or Over Water	10
+Disabled Persons Evacuation	11
+Fire	11
+Earthquake	12
+Evacuation Drills	12
+TRAINING REQUIREMENTS	12
+Goal	12
+Objectives	12
+Summary of Training	13
+PROGRAM MAINTENANCE	14
+DOCUMENTATION	14
+APPENDICES	15
+Appendix A – Emergency Wardens’ Hand-out For Worker Orientation	15
+Appendix B – Emergency Eyewash or Shower Facility Risk Assessment	16
+Appendix C1 – Information About Risks	17
+Appendix C2 – Hazard Identification Worksheet for Emergency Response	20
+Appendix C3 – Risk Assessment Worksheet for Emergency Response	21
+Appendix C4 – Emergency Event Rating Score Sheet	22
+Appendix D – Draft Evacuation Plan	23
+PURPOSE	25
+WHO IS IN CHARGE?	25
+DEFINITIONS	26
+COMMUNICATION STRATEGY	27
+SECURING EQUIPMENT	27
+EVACUATION ROUTES AND EMERGENCY EXITS	28
+ASSEMBLY AREAS	28
+MUSTER STATION LOCATIONS	28
+EVACUATION ROLES AND RESPONSIBILITIES	28
+FIRE ESCAPE FOR WORKERS IN PUBLIC BUILDINGS	30
+Appendix E – Directions for Modifying the Draft Evacuation Plan	33
+Appendix F – All Space Clear Tag	35
+Appendix G – Checklist for Developing Emergency Escape Procedures	36
+Appendix H – High Angle Rescue Procedure	37
+WORK DESCRIPTION	37
+RESCUE DESCRIPTION	37
+Appendix I – High Angle Rope Rescue Service Request	38
+NOTICE OF WORK AT HEIGHT	38
+Appendix J – Evacuation Plan for Hazardous Products Emergency	39
+Appendix K - Earthquake Response	40
+Response Duties – All Personnel	40
+Earthquake Response Duties – Emergency Wardens	41
+Earthquake Response Duties – Runners	42
+Earthquake Response Duties – Command Post	42
+Under the Guidance of the Emergency Coordinator:	42
+Earthquake Response Duties – Search and Rescue Personnel	42
+Appendix L – Emergency Evacuation Drill Checklist	43
+PREPARATION:	44
+Appendix M – Evacuation Drill Observer’s Report	45
+REFERENCE
+WorkSafeBC Regulation:
+Part 4.13 – 4.17;  4.69
+5.85;  5.97 – 5.102
+6.125 – 6.126
+8.36(1)
+9.37
+Part 32
+PURPOSE
+To ensure that all workers are aware of the type of emergencies that can affect their workplace and that all workers are adequately prepared for emergency evacuation and rescue and can follow the emergency procedures.
+POLICY
+[Organization] will eliminate or minimize the risk arising from reasonably predictable emergencies, and will have procedures in place to deal with emergency evacuation and rescue. 
+SCOPE
+The program applies to all employees and visitors, including contractors, who may be involved in emergency preparedness and response or who may require evacuation or rescue.
+DEFINITIONS
+(For purposes of this program)
+SUMMARY OF REGULATIONS 
+A risk assessment must be completed in any workplace where a need for evacuation or rescue might arise.  The risk assessment must take into consideration factors such as:
+The presence of toxic process gases like chlorine or ammonia
+The existence of materials onsite that could pose a risk to workers or firefighters in the event of emergency
+The risk posed by emergencies at adjacent workplaces
+When a risk is identified, it is the employer's responsibility to ensure that written procedures and policies are implemented to eliminate or minimize the risk that is identified.  Written procedures are required, at a minimum, for work of the following types:
+Where there is a risk of entrapment
+Where there are persons who require physical assistance to be moved 
+With hazardous substances 
+In confined spaces
+At high angles
+Underground
+On or over water 
+Emergency exit routes must be provided and marked if regular exits could become dangerous or unusable in the case of an emergency.
+If failure of the lighting system would cause a risk to workers, an emergency lighting system must be provided for the workplace and exit routes.
+Supervisors must inform workers who may be exposed as to the nature and extent of the risk and must instruct workers on recognition, preparedness and response to potential emergency evacuation and rescue situations.
+Emergency drills must be held at least annually and records must be kept.
+If there are substances on site that would endanger firefighters or workers in an emergency, such as controlled substances governed by WHMIS, explosives, pesticides, radioactive material, consumer products or hazardous wastes, the organization must keep an inventory of the materials and alert the local fire department to the nature, MSDSs and locations of the materials.  
+The employer must provide emergency washing facilities in any work area where a risk assessment has shown that workers' eyes or skin may be exposed to harmful or corrosive materials.
+All workers must be trained in fire prevention for their respective work areas as appropriate, emergency procedures for any hazardous materials onsite and the emergency evacuation procedures.
+If toxic process gases such as ammonia or chlorine are used in the workplace, the employer must provide emergency ventilation and an emergency shut down system to ensure containment and control of an accidental release.  If the nature of the work could prevent a worker escaping from the contaminated area, the worker must carry an emergency escape respirator.
+If emergency action or rescue is required by workers, only properly instructed and qualified workers may be exposed to the hazard, and every possible effort must be made to control the hazard while their work is being done.  At least one member of the rescue team must hold a valid level one first aid certificate.
+Workers performing rescue or evacuation must wear personal protective equipment and clothing appropriate to the hazards.
+Rescue and evacuation equipment must be maintained according to the manufacturer's instructions.  The maintenance of that equipment must be documented.
+Effective communication must be maintained between the workers engaged in rescue or evacuation.
+Any workers who are assigned to fire fighting duties must be trained annually and be physically capable of performing their assigned duties safely and effectively before being permitted to do them.
+Written evacuation procedures must include methods to: 
+Notify workers about the emergency
+Evacuate all workers
+Notify the fire department
+Notify adjacent workplaces
+The employer must provide for rescue when a worker enters a confined space. 
+RESPONSIBILITIES
+[Organization] 
+[Organization] is responsible for ensuring that appropriate procedures are in place to prevent emergencies, where at all possible, and for dealing effectively with emergency incidents when they do occur.  Specifically, [Organization] will:
+Ensure emergency risk assessments are conducted and documented 
+Design and maintain the workplace emergency evacuation and rescue program
+Ensure that all facilities have accessible exit routes 
+Ensure that exit routes are appropriately marked and have emergency lighting as required 
+Ensure local emergency response plans are in place
+Ensure that workers are trained in fire prevention, emergency evacuation and rescue where required
+Appoint an emergency coordinator and delegate authority for emergency management 
+Establish policy to emphasize that emergency wardens have the ultimate authority during an emergency event evacuation, including drills
+Ensure local fire departments are made aware of any hazardous materials on site that might pose a risk to firefighters
+Managers
+Managers are responsible for:
+Recruiting emergency wardens 
+Ensuring or assigning the posting of emergency plans
+Assigning responsibility to an individual to post floor plans, establish and identify muster stations, and maintain emergency lighting equipment
+Ensuring that emergency evacuation and rescue risk assessments are completed 
+Developing or assisting departmental supervisors in the development of site specific emergency procedures, including those assisting the disabled during an emergency
+Communicating the results of emergency hazard identification and risk assessment to workers
+Communicating with the emergency coordinator, outside agencies and emergency supervisory personnel, in the event of an emergency and as required
+Emergency Coordinator
+The Emergency Coordinator is responsible for:
+Identifying positions, operational groups, worksites, jobs, tasks, activities, situations, etc., that may require emergency response 
+Reviewing and annually updating risk assessments on the need for evacuation and rescue
+Compiling and maintaining emergency procedures, including communications, specific rescue procedures and operational guidelines, in cooperation with operational groups
+Requesting and ensuring, by contract for service or agreement for reciprocal service, assistance for emergency rescue, by outside agencies, as identified and required by risk assessments
+Ensuring that Emergency Wardens have recruited workers who will assist disabled individuals during emergency evacuation procedures
+Making available floor plans showing evacuation routes and location of emergency equipment
+Making available a template for site specific emergency plans
+Supervisors 
+Designated Supervisors are responsible for ensuring that workers:
+Are aware of and understand the policies, procedures and work arrangements that are in place to prevent emergencies
+Have been introduced to, understand, and are able to follow emergency procedures including alarm systems 
+Are trained in fire prevention, emergency evacuation and rescue, as appropriate and applicable
+Are aware of the hazards due to emergency response and rescue activities
+Know how to request emergency evacuation and rescue
+Are aware of the resources available to help them if they experience trouble dealing with emergency evacuation and rescue
+Emergency Wardens
+Emergency wardens are responsible to:
+Familiarize themselves with the emergency procedures, exit routes, fire alarm pull stations, fire extinguisher locations, and assembly points
+Know the location and name of the first aid attendants, and location of first aid supplies
+Assist in the orientation of new employees on the emergency procedures
+In cooperation with supervisors, recruit workers to assist in the evacuation of disabled persons during an emergency and help establish the procedures to be followed to evacuate disabled persons
+In the event of an evacuation the emergency wardens are responsible to:
+Identify themselves by putting on their Emergency Warden hardhat and high visibility vest
+Enter each area for which they are responsible, including washrooms, and direct occupants to leave the building 
+Ensure that persons designated to assist in the evacuation of workers who need assistance are available
+Ensure that everyone has left the building
+Report to the Designated Emergency Supervisor on the state of evacuation of the building
+Prevent re-entry of the building
+Workers
+Workers are responsible for:
+Providing input into risk assessments
+Participating in education, training activities and drills for emergency evacuation and rescue
+Following the workplace procedures for emergency evacuation and rescue
+Accepting and following instructions of emergency wardens and emergency supervisory personnel
+JHS Committee or Worker Health and Safety Representative
+The Joint Health and Safety Committee (JHSC) will review the effectiveness of drills and make recommendations to management on possible corrective actions as a result of emergency evacuation and rescue.
+PROGRAM DETAILS
+Planning
+The success of our emergency program can only be achieved through careful planning.  In the event of an emergency, all of the preparatory work must have been completed in order for each individual to safely perform their designated duties.
+Risk assessments will be completed for each work site or operational situation where rescue or evacuation may be required.
+The risk of emergency requiring evacuation or rescue will be eliminated whenever possible.
+Floor plans are posted on each floor of each building, showing the primary and secondary routes of exiting the building, the fire alarm pull stations, the locations of fire extinguishers, and the location of an emergency response kit if one has been provided.
+Primary and secondary emergency muster stations are designated and identified for workers to gather after an evacuation so that the emergency warden can ensure that everyone has left the building.
+Emergency procedures will be developed as required that include internal and external communication, evacuation routes, and rescue procedures.
+Emergency lighting will be in place in situations where risk assessments have shown that the lack of lighting would make evacuation of workers hazardous.
+Procedures and personnel will be in place to help disabled workers to exit the building if the elevators are not working.
+A very important part of our emergency planning is to ensure that all workers and involved outside agencies are aware of the risk of emergency requiring evacuation and expected responses in the workplace.  The results of emergency hazard identification and risk assessments will be shared with all affected workers.
+In particular, knowledge about the existence of potentially high-risk emergency considerations such as chemical storage rooms, being in a flood plain or located on a dangerous goods route, will be shared with all workers who may be affected and the local fire department.  Locations of fire alarms, first aid, emergency response caches, and assembly areas will be communicated to workers and be coupled with regular drills.
+Appendix A contains a form that can be used to document the orientation on emergency procedures for new employees. 
+Coordinating Response to Emergencies 
+[Organization] has identified the positions and operational groups that are likely to be the recipients of emergency information and reports.  Managers and supervisors, in the event of an emergency, will communicate with the emergency coordinator, outside agencies and emergency supervisory personnel, as required. The emergency supervisory personnel will guide and lead the workforce in the event of an emergency and will coordinate their activities.
+Risk Assessment
+The WorkSafeBC OHS Regulation and Guidelines provide a model of risk assessment for emergency washing facilities, which is contained in Appendix B. 
+For all other forms of risk assessment the probability/ severity/ exposure/ response model will be utilized.  The risk assessment package for this program consists of three forms and one information sheet, contained in the following appendices:
+Appendix C1 provides Information About Risks in the workplace.  
+Appendix C2 is a Hazard Identification Worksheet for Emergency Response.  
+Appendix C3 is a Risk Assessment Worksheet for Emergency Response. 
+Appendix C4 is an Emergency Event Rating Score Sheet. 
+Identification and Risk Assessment
+Using the information and worksheets provided in the appendices, each department manager at [Organization] performs an emergency evacuation and rescue risk assessment to determine the requirement for response and any rescue requirements of workers.  Typical examples of risk may include, but are not limited to:
+Fires
+Earthquakes/tsunamis
+Evacuation for disabled persons
+First aid in emergencies
+Hazardous materials spills
+Significant hazardous products inventories
+Rescue involving:
+Working on or over water 
+High angle work
+Confined space entry
+Excavation and trench collapse
+Using workplace history of emergencies and the information obtained from government sources and others (included in Appendix C1) each department will: 
+Identify hazards that present the possibility of emergency and rescue requirements
+Determine the level of risk to workers
+Determine the potential solutions that can be put in place
+Determine whether an action plan must be in place
+Written Procedure Requirements
+If the risk assessment shows that written evacuation and rescue procedures are required by WorkSafeBC OHS Regulation, supervisors will ensure they will be put in place.  The following sections outline the written procedures that are required as part of the emergency response plan.
+Evacuation Procedures 
+Each department must complete an emergency evacuation procedure.  Those that have identified a requirement for rescue will complete a rescue procedure as well.  Since each evacuation procedure will be slightly different, but will share common components, a template and instructions are included in Appendices D and E, with a suggested “All Space Clear Tag” in Appendix F.
+Each department has the option of creating an original evacuation plan, or using the template and customizing it to their needs.
+The Emergency Coordinator keeps copies of the completed plans for reference, and each department will review their plans prior to the annual fire drill.
+Emergency Escape
+Where there is a need for emergency escape, supervisors will develop appropriate procedures and provide training and personal protective equipment for affected workers.  Examples of this situation are fire fighting or confined space entry.  A checklist to help design and develop emergency escape procedures can be found in Appendix G. 
+Confined Space
+Rescue procedures for confined space are included in the [Organization] Confined Space Entry Program.
+Bomb Threats
+Bomb threats are usually received by telephone.  Rarely are they in the form of a note or letter.  All bomb threats will be treated seriously and handled as though an explosion will occur in the building.  Any bomb threats will be reported to a supervisor who will notify the police and follow their direction.
+High Angle Rescue 
+Wherever it can be reasonably anticipated, through a risk assessment, that a worker will require rescue or evacuation from heights, [Organization] will institute a method for rescue.  A template for creating a high angle rescue procedure is included in Appendix H.
+Work at “high angles” means that a worker is in a position that cannot be reached by a standard stairway or elevator and cannot be stretcher evacuated without specialized rescue equipment and techniques.  
+It is possible that other organizations will request high angle rescue service from our organization.  All formal rescue service requests involving [Organization] will be approved by [insert job position or name here] of [Organization] and can be refused.
+It is also possible that our organization will request high angle rescue services from another organization.  [Insert job position or name here] will authorize such a request.  If all reasonable requirements for rescue services are not fulfilled, no agreement will be completed.  A sample letter for requests for high angle rescue services is contained in Appendix I.
+Drills for rescue must be conducted and documented at least annually.
+Hazardous Products Emergencies
+Where emergency conditions may arise as a result of hazardous products within the workplace, or in an adjacent workplace or facility, a written emergency plan is required.  It will be developed, implemented and reviewed annually by the affected department in consultation with the JHS Committee or the Worker Health and Safety Representative, as applicable.
+Appendix J contains a form that can be used to develop a hazardous products emergency evacuation plan.
+Hazardous Products Inventory
+[Insert job position or name here] will conduct an annual assessment to identify all hazardous substances in quantities sufficient to endanger workers or firefighters in an emergency, such as fires or spills.  The inventory will include the nature, location, and approximate quantity of all such substances.  Examples are large volumes of WHMIS controlled products, explosives, pesticides, radioactive materials, and hazardous wastes. The assessment results will be shared with affected workers and the local fire department.
+Work On or Over Water
+Lifesaving equipment will be provided and maintained at work areas on or over water, for any worker in danger of drowning, in areas not protected by guard rails or other means of fall protection.  This will include throwing lines, floatation devices, boat hooks and lifeboats.  A sufficient number of workers, who are properly equipped, will be available when work is underway to implement rescue procedures.
+Disabled Persons Evacuation
+Emergency wardens, with support from supervisors, will undertake to recruit workers to assist in the evacuation of disabled workers during an emergency.  Wherever it can be reasonably anticipated that a rescue of disabled persons may be required during an emergency evacuation, a rescue procedure will be developed, in consultation with the affected worker(s).  The rescue procedure will be coupled with site (structure)-specific rescue procedures.  
+It is the responsibility of [insert job position or name here] to procure and maintain any specialty rescue equipment required for rescue tasks.  Examples of this are basket stretchers or specialty products such as an Evacu-trak.
+Fire
+The emergency preparation for fire includes fire prevention training, Emergency Warden training, and evacuation drills.
+Fire prevention training takes place during fire prevention week.  It includes:
+A review of fire extinguisher use
+Location of fire alarm pull stations and fire extinguishers
+Hazards associated with poor housekeeping in electrical rooms
+The use of electrical equipment such as portable heaters
+Emergency Warden training takes place annually.  It includes:
+A review of emergency warden equipment
+The evacuation plan for fire 
+The locations of fire extinguishers and alarm pulls
+A walk-through of evacuation routes
+A rendezvous at assembly points
+A review of communication strategies 
+A review of the new employee emergency orientation
+If a fire rescue is to be carried out by workers, in-depth training is required.  This is beyond the scope of this program.  Standards 1001 and 1006 of the National Fire Protection Association (NFPA) apply.  
+Earthquake
+The Emergency Coordinator will perform a risk assessment of the likelihood of significant earthquake damage in consultation with affected managers and the JHS Committee.  The Provincial Emergency Program can be used as a reference.  Each department manager will ensure that safe places (refuges) are identified in the office.  The procedures in Appendix K can be used for annual review.
+Evacuation Drills
+Evacuation drills take place annually.  They are planned and executed using the procedures outlined on the form in Appendix L.  Observers using the form in Appendix M will check the effectiveness of the evacuation.  If an actual emergency has occurred within the year, or a false alarm, where evacuation takes place and is evaluated, no evacuation drill is required.
+TRAINING REQUIREMENTS
+Goal
+All workers will be trained in the policies, procedures, work arrangements and emergency response procedures necessary to:
+Eliminate or minimize the risk of further injury during emergencies, and 
+Respond effectively to the response and rescue needs of others
+
+Objectives
+As a result of this training, workers and supervisors will know:
+What the potential emergencies are for the organization
+What preventive measures, procedures and programs are in place at the workplace
+What other municipal and community support systems are in place in case of emergencies, and how to access them
+How to recognize when emergency events are beyond the scope or ability of the organization and its immediate workplace resources and how to gain assistance from outside agencies
+How to report appropriately, communicate and respond to emergency situations and events
+Summary of Training
+Orientation for all workers regarding:
+Evacuation procedures 
+Fire prevention 
+First aid – summoning and reporting
+Emergency Warden orientation and training:
+Typical emergency responses for fire and events such as hazardous materials spills
+Earthquake response
+Fire prevention and use of fire extinguishers
+Bomb threat response
+First aid – summoning and reporting
+Requirements for supervisors:
+Incident reporting procedures
+Documentation of events, time logs and radio communications records
+Radio communication operations
+Contact lists for personnel and organizations for emergency response and rescue
+Introduction to basic response procedures and response agencies
+Minimum requirements for Emergency Coordinator and managers that supervise operations potentially requiring rescue:
+Responsibilities of the organization
+Policy and regulatory requirements 
+Definitions used in the program
+Risk assessments:  known and recognized potentials for emergency situations
+Contact lists for personnel and organizations for emergency response and rescue
+Operational guidelines, typical and detailed response procedures, and roles of response agencies
+PROGRAM MAINTENANCE
+The emergency procedures will be reviewed after any emergency in order to improve the process.
+The program will be reviewed whenever there is a change in the [Organization] business or policies regarding emergency response.
+Risk assessments will be reviewed whenever there is a significant change in job procedures or duties that would affect the likelihood of emergency requiring evacuation or rescue.
+DOCUMENTATION
+The documentation for this program includes: 
+Emergency identifications and risk assessments
+Evacuation plans
+Emergency escape procedures
+High angle rescue procedures
+Emergency response agreements for service
+Evacuation plans for hazardous product spills
+Training records of affected workers
+Records of emergency evacuation drills
+Any other emergency response and rescue policies, procedures, or work arrangements
+APPENDICES
+Appendix A – Emergency Wardens’ Hand-out For Worker Orientation 
+Wardens must:
+
+Introduce themselves to all workers in their designated area
+Show workers the location of fire alarm pulls and fire stations
+Alert workers to existence of any unusual hazards from adjacent worksite or geographic location 
+Show workers two emergency exits from their area 
+Ensure workers know their designated assembly area
+Show workers first aid locations and attendants
+Demonstrate to workers any security measures in place, i.e. “panic” button
+Present emergency supplies, as applicable
+Keep an up-to-date register and training records of workers in their area
+Conduct an orderly evacuation when the evacuation alarm is activated
+Assign workers to a response job such as assisting disabled workers, if necessary
+Workers must:
+
+Be aware of the location of the nearest fire alarm station
+Be familiar with two emergency exits from their workplace
+Know where their designated assembly area is
+Know location of first aid and emergency supplies
+Understand how to contact a first aid attendant
+Evacuate in an orderly manner when the evacuation alarm is activated
+Stay with the group until given further instruction by a Warden
+After their emergency orientation, workers must:
+
+Sign off the warden’s emergency training log after having understood their responsibilities
+PLEASE NOTE: In an emergency or during a drill, the WARDEN IS IN CHARGE!
+Appendix B – Emergency Eyewash or Shower Facility Risk Assessment
+Appendix C1 – Information About Risks 
+Fire:
+The British Columbia Fire Commission maintains statistics on fire causation.  They have classifications for civic, federal or provincial office buildings, water supply systems, and sanitary services.  According to their documentation, from 1994 to 1998 there were 42 fires in these types of facilities. 25 were in offices, 13 in water supply systems and 4 in sanitary service.
+The chief cause of these fires was arson, accounting for 17 fires, followed by electrical short circuit with 10.
+From these statistics it appears that the risk of fire requiring evacuation can not be eliminated in civic or provincial government operations.
+Natural Disaster: 
+The Provincial Emergency Program maintains a website at www.pep.bc.ca.  They maintain on their website a map of the seismic zones for British Columbia. 
+The lowest risk for seismic activity is in zone 1, which includes a line through the province from Fort Nelson to Oliver.
+The highest risk for seismic activity is in zone 6, which includes the northern half of Vancouver Island and the Queen Charlotte Islands.
+By accessing the website and printing the map, your organization can determine the relative risk of earthquake in your area.
+The website also includes a map of flood risk areas in Canada that can be used to help assess the risk of floods in a given area.
+Toxic Process Gases:
+Toxic process gases are gases that are used in the development of a final product in manufacturing or other processes. Chlorine that is used to purify water for drinking systems or for swimming pools is included as a toxic process gas. Ammonia that is used as a refrigerant is included as a toxic process gas. If ozone is used as a purifying agent for water, it would be included as a toxic process gas.
+Toxic process gases are hazardous in the event of a leak of piping or other systems.
+Regardless of the effectiveness of the maintenance program, organizations that use toxic process gases must include evacuation procedures for workers in the event of a leak or spill.
+Controlled Products
+When controlled products are used in the workplace, the employer must assess the risk due to accidental release, fire, or other such emergency.  The risk of controlled product emergencies should be assessed in the same way as hazardous products (below). 
+Hazardous Materials
+There are no statistical categories or reports provided by WorkSafeBC on emergency response and rescue related activities.  Fire responses and harmful substance exposures appear to have the most profound effect on WorkSafeBC claims.  It follows that a review of the history of exposure to harmful substances, and major accident types would provide the best indicator of major hazardous material exposures in your organization.
+Firefighters are the most likely group to respond to emergencies or rescues within municipalities.  It seems reasonable to assume that many respiratory irritations would be for smoke inhalation rather than exposure to hazardous materials.  Chemical burns and poisoning, which would result from exposure to hazardous or controlled products, accounted for less than one half of a percent of all injuries.
+Adjacent Workplaces
+If your organization is located on a dangerous goods route or along the main rail line, your emergency procedures should include the possibility of a dangerous goods spill.
+If your organization is located next to a manufacturing facility or chemical plant, you should discuss with them the possibility of an upset condition and their emergency response procedures.
+Confined Space or Entrapment
+The employer must provide for the services of rescue persons when a worker enters a confined space.  WorkSafeBC OHS Regulation Part 9 outlines the requirements for rescue from confined spaces.
+High Angle Work
+If an injured worker on a stretcher could not be moved to the location of an ambulance without specialized rescue equipment, the organization must develop written procedures for rescue.  Window washing, swing stage work, and tower crane operation are examples of work that will result in the need for high angle rescue capability.
+Eye Injury
+WorkSafeBC has developed a risk assessment table for the requirements for emergency eyewash which is provided in Appendix B.
+Bomb Threats
+In the absence of evidence to the contrary, every bomb threat must be treated as valid. Therefore, even if there may be situations where an evacuation is not required, an evacuation plan must be prepared.
+The risk assessment will then focus on whether the specific threat is valid in the circumstances of the case.  The assessment will address whether the person making the threat is known to the organization, the history of the individual, and the likelihood of the existence of a bomb.
+Appendix C2 – Hazard Identification Worksheet for Emergency Response 
+Date: 	  Completed by: 	
+Individual or group of workers affected: _______________________________________ 
+Instructions and Score Sheet:
+Complete this worksheet for each different situation where a worker or group of workers may be at risk of injury and require emergency response and/or evacuation.
+Read the types of hazards listed in column A and the examples in column B.
+In column C list the type of hazards that could occur in your workplace. 
+Write “not known” or ”none” in column C if appropriate. 
+Appendix C3 – Risk Assessment Worksheet for Emergency Response 		
+Instructions and Score Sheet:
+Complete this worksheet for each situation where there is a hazard that might require emergency response or evacuation.
+In column A write the specific workplace hazards that you listed in column C of Appendix B.
+Using knowledge and experience of your workplace and the information on the risks from Appendix B, determine the likelihood, consequences and exposure of the hazard.  To do this, turn to Appendix B, list the score for the emergency under column B Likelihood, column C Consequence, and column D Exposure. If the hazard is to the eyes, use the eyewash and shower risk assessment in Appendix C.
+Multiply the numbers in columns B, C, and D and put the resulting number in column E under Risk Score.
+Place a Yes or No in column F Emergency Response Required.
+If a response is required, return to the program to determine which response is most appropriate.
+Appendix C4 – Emergency Event Rating Score Sheet
+Appendix D – Draft Evacuation Plan
+[Insert address or building description here]
+Emergency Phone Numbers
+ISSUED:  [Insert date here]
+Appendix D Contents
+PURPOSE
+WHO IS IN CHARGE?
+Emergency
+Evacuations
+First Aid
+More Information
+DEFINITIONS
+Emergency Coordinator
+Emergency Supervisor
+Emergency Wardens
+Designated Receptionist
+First Aid Attendants
+COMMUNICATION STRATEGY
+Alarms
+Worker Notification
+Outside Notification
+SECURING EQUIPMENT
+EVACUATION ROUTES AND EMERGENCY EXITS
+ASSEMBLY AREAS
+MUSTER STATION LOCATIONS
+EVACUATION ROLES AND RESPONSIBILITIES
+Designated Receptionist
+Line Managers and Supervisors
+Emergency Wardens
+FIRE ESCAPE FOR WORKERS IN PUBLIC BUILDINGS
+Building Characteristics
+Remember What To Do
+PURPOSE
+The purpose of this evacuation plan is to prepare all employees for an evacuation of the building so that, if and when the time arrives, they will act in a safe, rapid and orderly manner.
+Although the plan is primarily designed for "FIRE", it is also intended to function for other potential emergencies, such as earthquakes, bomb threats, or possible building occupations. 
+WHO IS IN CHARGE?
+Emergency
+The Emergency Coordinator, [insert name of Emergency Coordinator], will coordinate services to all workers.
+Evacuations
+Evacuations are under the control of [insert names of Emergency Wardens and the Worksite Emergency Supervisor (a.k.a. as Chief Emergency Warden) here].  [Organization] or managers have appointed these personnel to carry out required planning and implementation of this plan, as required by the WorkSafeBC OHS Regulation.
+First Aid
+All First Aid services are legally under the direction and control of the building First Aid Attendants.  
+More Information
+If clarification is required on any point concerning this emergency plan, ask your supervisor.  Supervisors should address their questions to [insert the name or job title of your Emergency Coordinator here].
+DEFINITIONS
+Emergency Coordinator
+Employee designated by [Organization] to coordinate the emergency procedures for evacuation and rescue for the organization, and liaise with the emergency supervisor(s).
+Emergency Supervisor
+Employee designated by local management to be responsible for the implementation of the evacuation plan within a building or worksite. 
+Emergency Wardens
+Employees designated by the emergency supervisor to be responsible for the implementation of this plan on specific floors in a building or worksite areas.
+Designated Receptionist
+Employee designated by the emergency coordinator to coordinate emergency communications pertaining to this plan. 
+First Aid Attendants
+Those persons who have been designated by local management and supervisors to provide first aid to workers at a workplace, and who hold an appropriate and valid first aid certificate for that workplace. 
+COMMUNICATION STRATEGY
+Alarms
+Two types of alarms may be used to evacuate the building:
+A bell alarm in the event of a fire, or
+A silent alarm (by verbal/written order) in the event of bomb threat or building
+occupation.
+Worker Notification
+The Emergency Warden will:
+Enter all rooms, including washrooms to ensure that all workers are notified of the evacuation
+Personally notify any worker with a hearing impairment
+Notify the workers who are required to assist persons with a disability
+Outside Notification 
+The Designated Receptionist will notify the fire department and any adjacent workplaces that may be affected by the emergency.  They will be told the nature of the emergency and that an evacuation is underway.
+SECURING EQUIPMENT
+Time permitting, the following equipment must be shut down or secured at the time of an evacuation:
+Exit all computer programs and turn off all computers
+Secure all laptop computers
+Secure all cash drawers
+Shut off all kitchen appliances
+Close the door to the records vault
+Close but do not lock all other doors
+Shut off all portable heaters
+EVACUATION ROUTES AND EMERGENCY EXITS
+Illuminated EXIT signs (red letters) identify all emergency routes/exits.  All workers must know the evacuation routes to the two nearest exits in the immediate area. Appropriate floor plans are to be posted near the reception area for reference.
+ASSEMBLY AREAS
+All workers must meet at the following muster stations so that the emergency warden can do a head count thereby ensuring that everyone has left the building.  Workers should not leave the muster station until the Emergency Warden has completed a head count.  In the event that an employee is not accounted for, the Emergency Warden will alert the emergency response team to institute a search of the building.  Workers may be putting others at risk if they leave the area.
+Note to Workers: If you are aware that one of your co-workers is absent from work at the time of the evacuation, please notify the Emergency Warden.
+MUSTER STATION LOCATIONS
+[Insert location here].
+EVACUATION ROLES AND RESPONSIBILITIES
+Designated Receptionist 
+The designated receptionist shall:
+Have readily available an up-to-date list of the names and phone numbers of:
+The Emergency Wardens 
+The building Emergency Supervisor
+First Aid services
+9-911 emergency services
+Building security
+The Provincial Emergency Program
+Implement the communications strategy used to summon assistance (fire/police/security) when, and as directed by local building procedures.
+Line Managers and Supervisors
+Each manager or supervisor shall:
+Pre-determine what special attention, if any is to be taken to protect records, securities, etc., in case of fire/evacuation.  These responsibilities shall be assigned to designated personnel.
+Follow the evacuation directions of Emergency Wardens.
+Emergency Wardens
+When the general evacuation alarm system is activated, the building will be evacuated, and emergency wardens will respond in the following manner:
+Activate fire alarm if not already active, put on hard hat, high visibility vest and collect work site register for roll call.
+Check evacuation route(s) to be taken by doing the following: 
+Put hand on exit door to look and smell for smoke.
+Keep in mind that wood is an insulator and even a warm wooden door is cause for concern.
+If heat is not felt, stay low and open door carefully to look and smell for smoke.
+If either the door feels warm/hot or there is smoke in the stairwell, ensure the door is closed and direct staff to the next closest exit.
+If the exit appears clear, send a runner ahead to ascertain nothing is blocking the exit.
+Instruct all staff and visitors within your area of responsibility to evacuate the building by the designated evacuation route.
+Direct staff assigned to assist in evacuating persons with physical disabilities. Disabled staff are to be moved to areas of refuge and await assistance from assigned rescue workers of the site or the fire department.
+When all persons have been evacuated from your area of responsibility, quickly search all rooms and washrooms to ensure no one is left behind.
+Attempt to ensure all doors are closed, placing “All Space Clear” tags on doorknobs and leave the building (see Appendix F for sample of tag).
+Complete roll call at individual assembly area. Report to Emergency Supervisor or Emergency Coordinator or fire department via a runner or radio.
+Report anyone missing to the emergency supervisor or emergency coordinator, having confirmed with your staff that the missing person was in fact at work at the time of the fire.
+Re-enter the building only upon instructions from the Emergency Supervisor or Emergency Coordinator or the responding emergency department. 
+FIRE ESCAPE FOR WORKERS IN PUBLIC BUILDINGS
+Building Characteristics
+Modern office buildings are constructed of fire resistant materials and contain a variety of built-in safety features, as well as enclosed stairways, which prevent the spread of fires.  Fires in these modern buildings are generally confined to individual rooms or offices or possibly to one floor level.  FIRE DOORS protecting stairways MUST BE KEPT CLOSED AT ALL TIMES – an open door is no door!!  
+Safety features may include fire stops and fire dampers that are activated by smoke or heat sensors, partial or full sprinkler systems, and modern fire alarm systems with heat and smoke sensing devices.
+A fire in a public building is no cause for panic. The Fire Department answers all fire alarms with up-to-date equipment and firefighters trained in rescue and fire control procedures.  Upon their arrival, firefighters will effect necessary rescues, confine and control the fire, and ventilate smoke and fumes from the building.
+If a fire occurs on or close to your floor level, it will be necessary for you to seek refuge as soon as possible.  For the safety of yourself and others, it is extremely important that you become well acquainted with the stairways provided in your building, and with procedures to follow in case of fire.
+What to know:
+Most public buildings have fire alarms to signal evacuation.  Check their location and how they work.
+Know where your two nearest exits are located.  Learn how doors swing and where stairs lead.  
+Know who your emergency warden and your “buddy” is (the buddy system is a reciprocal way of checking on each other: Pick a person who knows your whereabouts and you know theirs to ensure the roll call will be successful after an evacuation).
+Know which corridors are "dead-ends". Avoid them in case of fire or other emergencies. 
+Know not to use elevators in an emergency. Use the stairs. 
+Areas of refuge are temporary places of shelter from fire.  Exit stairways are suitable areas of refuge because they are enclosed by solid walls.  Certain floors or portions thereof may be refuge areas.  Check your building to know such areas.
+Remember what to do:
+If you observe obvious smoke or a fire, sound the fire alarm.
+If the alarm sounds, leave at once taking direction from the Emergency Warden!  Close doors behind you.  Do not delay yourself by gathering personal items.  Your personal safety always comes first.
+Get out quickly using designated fire exits.  Know TWO ways out. Do not use elevators. 
+Go directly to and remain at the designated assembly area.  Await instruction from your Warden and the Chief Emergency Warden or the fire department that it is safe to return to the building.
+If you are in smoke or heat -- stay low.  If you are trapped and cannot reach an exit, close nearest doors and seal cracks with extra clothing, wait at a window, and signal for help.  Do not panic or jump!!  WAIT!
+Do not endanger yourself unnecessarily.  If you are trained to use available emergency fire equipment, do so if the fire is still very small.  But do not take risks or fight a fire alone.  
+REMEMBER:  Fight only small fires and those in way of your exit.
+Appendix E – Directions for Modifying the Draft Evacuation Plan
+The draft evacuation plan in Appendix D can be modified to be site specific for your buildings or workplace.  You can go through the plan and modify it so that it meets your needs.  These directions are designed to help you complete the process. 
+First Page: 
+Insert your address or building description at the top of the page.
+Insert the date that you have completed the evacuation plan at the bottom of the page.
+Insert the phone numbers for first aid.
+If you have a security service insert their number as well.  If you don't have a security service delete that line.
+If you have a critical incident response team insert their phone number as well.
+If you have a team but you have a different name for them, change the name and insert the phone number.
+If you have no critical incident response team, delete that line.
+Third Page:
+In the section under “Who is in charge” insert the name of your emergency coordinator.  If you do not have an emergency coordinator in your organization, delete this line.
+In the section “evacuations” insert the name of the emergency supervisor and the name (s) of your warden(s).  If you have not yet designated the emergency supervisor, check the definitions on the third page and determine who should be designated to fulfill those obligations.  
+In the section “more information” list the name of the person who supervisors can call to get more information about the program.
+Fourth Page:
+The definitions do not require modification.  You can delete any that are not applicable to your operation.
+Fifth Page:
+In the section “alarms,” add any other alarm system that you use in your building.
+In the section ”outside notification” you may want to list the adjacent worksites that would be notified.  If there are no adjacent worksites, you may delete the reference.
+In the section ”securing equipment” you should delete any of the equipment that does not apply to you.  You should add any equipment such as chlorine systems, ammonia systems, etc. that you may have in your workplace that are not listed here, but that must be shut off in the event of an emergency.  If you are using pressurized gases that could cause injury in the event of a leak it is very important that you have an emergency ventilation system in place.  You should describe that system here.
+Sixth Page:
+In the section ”evacuation routes and emergency exits” you may be able to list the fastest way out of the building for your site.
+In the section ”muster station locations” you can list the areas where you want all workers to congregate after evacuation.  There may be more than one muster station if you have a large building, or you may want to use different muster stations for bomb threats than you would for fire.
+The section on evacuation roles and responsibilities for “all personnel” should be reviewed, because it mentions members of the public.  If there are no members of the public in your particular facility you can delete the reference.
+In the section “designated receptionist” you may wish to delegate the duties to another individual if you do not have a receptionist who can perform the communication duties.  In that case you should change the title of this section.
+If you do not have building security, you can delete the reference to building security.
+Seventh Page:
+In the section “line managers and supervisors” you may wish to specifically list the records, securities, etc. that must be protected in the event of an evacuation.  You may also want to create a section here called “designated personnel” and list the individuals who will be designated to protect documents or other materials.
+In the section “Emergency Wardens” you may have other ways besides hardhats to identify wardens.  You can add those here.  You may have equipment such as whistles or flashlights that wardens use.  Add a reference to that equipment.
+You may have a check-in system for wardens using cell phones or radios.  You should describe that system.
+Appendix F – All Space Clear Tag
+Appendix G – Checklist for Developing Emergency Escape Procedures
+Include the following items when drafting and revising emergency escape procedures:
+[Organization] name
+Department
+Subject title
+Statement of intent or purpose (outlining the recognized hazard that might require escape)
+Policy  (stating primary workgroup affected and the situation or circumstance under which the workgroup might need to escape)
+Procedure 
+Identify the work that must be performed
+Identify how often the work must be performed
+List communications equipment to be used in the event of an emergency escape
+Outline how to call for assistance or rescue, as applicable 
+Identify the number of personnel affected
+Identify any training required
+Summarize minimum equipment requirements for escape (respirators, radios, flashlights etc.)
+Describe required personal protective equipment and its use in escape
+Outline preferred and alternate action plans for escape.  Discuss emergency debriefing requirements including role call, if required
+List frequency and duration of emergency escape drills 
+Original issue date
+Last revision date
+Signature of issuing authority, emergency response/ rescue leader or workgroup supervisor
+Appendix H – High Angle Rescue Procedure
+WORK DESCRIPTION
+Location: 	
+Work to be conducted: 	
+Number of workers employed at height: 	
+Description of structure/building: 	
+Maximum height that work must be performed: 	
+Permanent engineered anchors installed?	Yes 	 	No 	
+Load rating of anchors if provided: 	
+Type of fall protection in place (guardrails, restraint system, arrest system, control zone): 	
+High voltage power lines within 6 meters of the structure? Yes 	    	No 	
+Power lines covered and flagged? N/A 	 	Yes	 	No 	
+	(If yes, attach a copy of WorkSafeBC Form 30M33)
+RESCUE DESCRIPTION
+Communications system to call for help: 		
+Rescue contact person: 	
+Equipment required: (man-lift, rope, come-along, shepherd’s crook, basket stretcher, etc.)
+Personnel required:   			
+Method to be used to reach worker that must be rescued: ____	
+Method to be used to lower worker to the ground:		______			
+Appendix I – High Angle Rope Rescue Service Request
+NOTICE OF WORK AT HEIGHT
+From: 	
+[Organization Name]
+To: 	
+[Fire/Rescue Service]
+This letter is to inform the Fire/Rescue Service of 	
+that work at height, which could require high angle rope rescue team response in the event of an accident, will be conducted at the following location (please print):
+Workplace address: 	
+Describe work to be conducted: 	
+Number of workers employed at height: 	
+Description of structure/building: 	
+Maximum height of structure from the ground: 	
+Permanent engineered anchors installed?	Yes 	 	No 	
+Load rating of anchors if provided: 	
+First day / last day of project (not to exceed 60 days): 	
+Days / hours of work shifts: 	
+High voltage power lines within 6 meters of the structure? Yes 	 	No 	
+Power lines covered and flagged? N/A 	 	Yes	 	No 	
+	(If yes, attach a copy of WorkSafeBC Form 30M33)
+[Organization] head office contact person: 	
+Telephone: 	 Cellular: 	 Fax: 	
+Site contact person: 	
+Telephone: 	 Cellular: 	 Fax: 	
+	(Signed) 							     (Date)
+Appendix J – Evacuation Plan for Hazardous Products Emergency
+Location: 											
+Name of the hazardous product:								
+Volumes that might be involved in a spill:							
+Agencies that must be notified immediately:							
+Containment methods:									
+Fire control required: 										
+Vapour control required: 									
+Health hazards that may be created in emergency:						
+Workers or others who may be affected:							
+Special needs population at risk (nursing homes, hospitals, and handicapped persons):
+Time available to respond: 									
+Method of protection (evacuation, shelter in place, respirators):				
+Assembly areas for evacuation:								
+Evacuation procedure:									
+Person(s) in charge of evacuation:								
+Telephone: 			 Cellular: 	 		Email: 				
+Telephone: 			 Cellular: 	 		 Email: 			
+Appendix K - Earthquake Response
+Response Duties – All Personnel
+When the building shakes or you hear a shout “EARTHQUAKE! DUCK, COVER AND HOLD,” take cover under the nearest safe piece of furniture, such as a desk or table, or against inside walls. Hold your arms over your head and try to keep your body as compact as possible.
+Stay away from danger spots in the room: near windows, hanging objects, tall unsecured furniture such as bookcases or file cabinets, and light fixtures.
+Be aware that doors may swing shut during the shaking, causing injury. You may not be able to walk far; do not try to return to your regular work area if you are elsewhere in the building.
+If in a hallway or stairway where no cover is available, move to an inside wall, kneel with your back to the wall, place your head close to your knees, clasp your hands firmly behind your neck to cover the sides of your head with your arms.
+If you are in an elevator, you are probably better protected than most people – the elevator will not fall down the shaft, and nothing heavy can fall on you. If the power fails, the elevators will return to the first floor, and the lights will remain off until emergency power is restored.  Press the emergency button to let people know you are trapped, and wait for assistance.
+When the shaking has stopped, remain covered and holding until directed to move by the Emergency Warden. 
+When AFTERSHOCKS occur, return to your safe holding location and repeat above procedures, including counting. 
+Move to the nearest safe assembly area when directed by the Emergency Warden. 
+Bring along your jacket and purse/wallet and if possible, change to flat-soled shoes, if you are not already wearing some. 
+Check for the location of your workmates, if they were at work that day. 
+Report any injuries or trapped persons in your area to the Emergency Warden.
+Follow the instructions of your Emergency Warden for further relocation, assistance of injured persons, or evacuation. 
+Do not attempt to use telephones unless instructed it is clear to do so; even if operational, they may be required for communication between Emergency Wardens, First Aid Attendants, and outside rescue teams. 
+Appendix K - Earthquake Response (continued)
+Earthquake Response Duties – Emergency Wardens
+When the building shakes, loudly shout “EARTHQUAKE! DUCK, COVER AND HOLD!” and also duck, cover and hold.
+When the shaking has stopped, remain covered and holding, and tell everyone to wait 60 seconds.  Lead personnel in counting off 60 seconds (calling out the number at “5, 10, 15," etc.).
+
+When AFTERSHOCKS occur, interrupt all activities, and call loudly, “AFTERSHOCK! DUCK, COVER AND HOLD!” then repeat above procedure, including counting.
+
+Put on your yellow hard hat to identify yourself as the Emergency Warden, and TAKE YOUR WORKER REGISTER, jacket, purse/wallet, and Personal Emergency Kit. Wear flat-soled, sturdy shoes.
+
+Assemble staff in the safest clear area (preferably the assembly area or near an Emergency Response Cache). Conduct a roll call using your Worker Register, and note any visitors or extra personnel not normally in your area.
+
+Check surrounding area for damage and trapped individuals.  Note injuries or missing persons.
+
+Check to see if exits are clear. If staff wishes to leave, record their names so they are not counted as missing.
+
+Post individuals at exit doors, to allow passage of emergency personnel or runners from other areas. If fire, flooding, smoke, etc. threaten your location, evacuate immediately, otherwise:
+
+Break open the Emergency Response Cache and use contents as appropriate.  Assign jobs to personnel: clearing exit routes, comforting wounded, helping wounded to First Aid stations (predetermined), controlling supplies, assessing damage, unplugging electrical devices, etc.  DO NOT attempt to move an injured person who is unable or unwilling to move, has been unconscious, is confused or disoriented, or who has received a blow to the head, neck, shoulders or torso.  Avoid the use of telephones unless there is a severe injury or fire.  The phones will be for emergency use only.  Ignore ringing phones and replace handsets that have fallen off the hook.
+Appendix K - Earthquake Response (continued)
+Designate a pair of runners and send them to the command post with information on any injured or missing workers.  Runners should be fully equipped with hard hats, gloves, goggles, flashlights, dust masks, whistles, etc.  The Command Post will be established in the least damaged area.
+Cautiously evacuate the building when all wounded are in care, and when deemed safe to do so.  Be sure that the Command Post is aware that your area is being evacuated.  As you evacuate, place “All Space Clear” (Appendix F) tags on doorknobs.  If you have left injured persons at first aid stations, record which first aid station they are at, and what time you left them there.
+Earthquake Response Duties – Runners
+Once outfitted with hard hats, gloves, goggles, flashlights, dust masks, whistles, etc., proceed with your partner to the Command Post as best you can.  Use emergency stairs only.  Doors should be opened for you at other floors.  If all routes are impassible return to your area and report to your Emergency Warden.
+
+At the Command Post, make your report and ensure your information is recorded.  Report any pertinent information about other areas that you have noticed while travelling.  Return to your area with any information from the Command Post.
+
+Earthquake Response Duties – Command Post
+Receive runners’ reports and record information.
+Maintain data on current status of the building.
+Feed information back to groups on safe exit routes, distribution of supplies, etc.
+Under the Guidance of the Emergency Coordinator:
+Have groups move from less-safe to more-safe areas.
+Prioritize and coordinate use of resources for rescue of trapped individuals.
+Liaise with whatever emergency services are available and groups in other buildings.
+Earthquake Response Duties – Search and Rescue Personnel
+Due to collapsed building elements and overturned furniture, search and rescue may be beyond the capabilities of most personnel.  Consequently, any search and rescue activities are deemed entirely voluntary.  The use of tools and movement of heavy and collapsed objects by unskilled persons may result in further injury and damage.  Search and Rescue operations should be conducted under the direction of the Emergency Coordinator and in conjunction with police, fire, emergency and military personnel.
+Appendix L – Emergency Evacuation Drill Checklist
+PLANNING:
+One Month Prior to Evacuation Drill:
+Alert local management to the necessity of an annual emergency drill 
+Establish date and time of emergency drill
+Ensure emergency coordinator and emergency supervisor(s) will be available
+Contact local fire department officials or observers for input
+If a building is shared, contact any other building occupants to alert them to the planned drill
+Contact the landlord or building services regarding activating and de-activating the alarm system
+Develop a checklist for observers to use when monitoring the effectiveness of the evacuation
+One Week Prior to Evacuation Drill:
+Confirm the date and time with the local fire department
+Notify first aid attendants of date and time of drill
+Coordinate drill details with Emergency Wardens
+Request that Emergency Wardens walk the actual exit routes
+Designate observers who will monitor and time the evacuation
+Schedule a debriefing session to take place immediately after the drill
+Appendix L – Emergency Evacuation Drill Checklist (continued)
+PREPARATION:
+Just prior to the drill, call the local fire department and confirm that an evacuation drill will be conducted at your address and give the exact time
+Request that the fire department not respond to any phone calls reporting a fire alarm sounding at this address
+Ask the fire department if they wish you to phone them back at the conclusion of the evacuation drill
+Inform the reception area staff that there will be an evacuation drill, that they would normally call the emergency number upon hearing alarm, but in this case they will not be required to call the emergency number
+Sound the alarm
+DEBRIEFING:
+Immediately hold a debriefing with emergency wardens, first aid attendants, and fire department representative
+Prepare written report stating the time and duration of the evacuation drill and recommendations for improvement
+Send copies of the report to the Joint Health and Safety Committee and local management
+Appendix M – Evacuation Drill Observer’s Report
+Date:						
+Start Time:				 Completion Time:				
+Location: 										
+Observer’s Name: 									
+Participants:   Staff   Customers   Visitors
+Notice Given to Occupants?  			  Yes	  No
+Number of Emergency Wardens:				
+Emergency Coordinator Present?		  Yes	  No
+Wardens Identified? 				  Yes	  No
+Evacuation Orderly?				  Yes	  No
+Comments:											
+All Occupants Evacuated? 			  Yes	  No
+Comments:											
+Any Other Issues? (Describe)								
+CANUTEC
+The Canadian Transport Emergency Centre operated by the Transport Dangerous Goods Directorate of Transport Canada, staffed by expert chemists trained in interpretation of technical information, providing 24 hour emergency response advisory service [call collect (613) 996-6666 or *666 cellular].
+Continuous Flow 
+Eyewash Facility 
+
+A plumbed or portable facility capable of delivering a minimum of 1.5 litres of water per minute (0.33 imp gal per minute) with a water pressure not exceeding 175 kPa (25 psi) and with a spray pattern designed to effectively flush both eyes.
+Emergency
+A present or imminent event that:
+is caused by accident, fire, explosion or technical failure or by the forces of nature, and
+requires prompt coordination of action or special regulation of persons or property to protect the health, safety or welfare of people or to limit damage to property.
+Emergency Incident
+A specific emergency operation of a fire department or industrial fire brigade.
+Emergency Supervisory Personnel (a.k.a. 
+Chief Emergency Warden)
+Those who supervise emergency response and rescue operations; not necessarily the same as those who usually supervise workers in the regular performance of their duties
+Emergency Warden
+The supervisor or an individual who has been assigned, or accepted voluntarily, to guide workers during an emergency event, abiding by established procedures and protocols.
+High Angle Rescue
+
+Work at high angles includes workers in a position that cannot be reached by a standard stairway or elevator.  Some examples include swing stage work, tower crane work and work in an excavation.
+Emergency Warden
+Alternate Emergency Warden
+Name:
+Name:
+Phone:
+Phone:
+Location:
+Location:
+Table 5-2:  WorkSafeBC
+OHS Regulation
+Description of the Workplace
+Examples
+High risk
+Workplaces at which corrosive chemicals or other materials are used in a manner, concentration and quantity which present a risk of irreversible tissue damage to the eyes or skin, or of serious illness resulting from rapid absorption of a toxic substance through the eyes or skin, or where the work activity presents a risk of ignition of the clothing
+Maintenance of ammonia refrigeration equipment or chlorine bleaching or disinfecting equipment, handling corrosive (WHMIS Class E) materials such as corrosive cleaning products or chemical reagents where there is a high risk of skin or eye contact, filling chemical storage batteries
+Moderate risk
+Workplaces at which chemicals or other materials are used in a manner, concentration and quantity which present a risk of irritation or other reversible harm to the eyes or skin, or of illness resulting from absorption of a toxic substance through the eyes or skin
+Spraying automotive paints and finishes, operating solvent degreasing equipment, handling irritant materials (irritants classified as WHMIS Class D2B) such as cleaning products or chemical reagents where there is a moderate risk of skin or eye contact, handling dry-cleaning solvents and spotting agents
+Low risk
+Workplaces at which chemicals or other materials are used in a manner and quantity which present a risk of mild eye or skin irritation
+Using detergents, silicone-based mold-release agents, some hairdressing solutions, rosin-cored solders, welding and grinding, working in dusty areas
+A
+Hazard Identification
+B
+Examples of Hazards
+C
+Hazards Specific to this Workplace
+Fire
+Building fires, wild fires, brush fires, and arson
+Toxic Process Gases
+Chlorine, ammonia, acetylene, ozone, methane
+Controlled Products
+Pesticides, explosives, radioactive materials, Workplace Hazardous Materials Information System controlled products
+Hazardous Materials
+Asbestos, flammables, combustibles, carcinogens, biohazardous materials, hazardous waste
+Adjacent Worksites
+Transport routes, chemical plants, heavy manufacturing, natural gas
+Confined Space or Entrapment
+Entering piping, manholes, vaults, chambers, bins, trench collapse, etc.
+High Angle Work
+Arborist work, bridge work, work on roofs, pole work, aerial devices
+Eye Injury – Chemical
+Corrosive cleaners, irritants, filling batteries, spraying, using solvents
+Fire fighting
+Heat, respiratory contaminants, falls, electrocution, burns, motor vehicle accidents
+Bomb Threats
+Phoned threats, threats in person, suspicious packages
+Other
+Individual or group of workers affected:
+Date:
+Completed by:
+A
+B
+C
+D
+E
+F
+G
+Specific Hazard
+Likelihood
+Consequence
+Exposure
+Risk Score
+Emergency Response Required
+ Y / N
+Emergency Response
+E.g. evacuation, emergency escape, rescue, high angle rescue, 
+outside agencies
+
+Fire
+
+
+Toxic Process Gases
+
+
+Controlled Products
+
+
+Hazardous Materials
+
+
+Adjacent Worksites
+
+Confined Space or Entrapment
+
+High Angle Work
+
+
+Other
+
+LIKELIHOOD
+The likelihood of an emergency situation, including the consequences of evacuation and possible rescue:
+Rating
+Is the most likely and expected result if no changes are made
+10
+Is quite possible, would not be unusual, has an even 50/50 chance
+6
+Would be an unusual sequence or coincidence
+3
+Would be a remotely possible coincidence, it has been known to happen
+1
+Extremely remote but conceivably possible, has never happened after many years of exposure
+0.5
+Practically impossible sequence or coincidence, a "one in a million" chance, has 
+never happened in spite of exposure over many years
+0.1
+CONSEQUENCES
+Degree of severity of consequences:
+Rating
+Catastrophic: numerous fatalities & requirement for evacuation and rescue
+100
+Several fatalities & requirement for evacuation and rescue
+75
+Fatality & requirement for evacuation and rescue
+50
+Extremely serious injury or occupational disease & requirement for evacuation and rescue
+30
+Disabling injuries, reversible tissue damage, post traumatic stress & requirement for evacuation and rescue
+10
+Minor cuts, bruises, irritations, minor damage 
+2
+EXPOSURE
+The hazard event occurs:
+Rating
+Continuously (or many times daily)
+10
+Frequently (approximately once daily)
+6
+Usually (from once per week to once per month)
+3
+Occasionally (from once per month to once per year)
+2
+Rarely (it has been known to happen)
+1
+Very rarely (not known to have occurred but considered remotely possible)
+0.5
+RISK SCORE
+Consequences  Exposure  Likelihood
+Score
+High – requires corrective action and emergency response
+>250
+Medium – requires emergency response
+101 - 250
+Low – situation may have to be corrected, emergency response may be required
+3 - 100
+Risk Acceptable – no emergency response required
+<2
+Fire Department
+9 - 911
+Provincial Emergency Program
+1- 800- 663-3456
+Police
+9 - 911
+Ambulance
+9 - 911
+First aid
+[insert number here]
+Security
+[insert number here]
+Critical Incident Response Team
+[insert number here]
+ALL SPACE CLEAR BEHIND THIS
+DOOR
+The space behind this door is unoccupied.
+
+EVACUATION INSTRUCTIONS:
+Guide all people in a known space to the nearest emergency exit or assembly area, close all windows and doors, and 
+hang this sign on the outside knob for reference by rescue agencies.
+
+

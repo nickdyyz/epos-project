@@ -1,0 +1,1513 @@
+                 2023
+
+Emergency Management Plan
+
+
+
+
+                 Prepared by: W. George Bench
+                 May 18, 2023
+                              Emergency Management Plan
+
+Table of Contents
+
+ Part 1: An Introduction to the Emergency Management Plan
+ 1.1 Introduction                                                    2
+ 1.2 Definitions                                                     3
+ Part 2: Background
+ 2.1 Hazard Identification Risk Analysis                             6
+ 2.2 Emergency Declarations                                          6
+ 2.3 Operational Response Priorities                                 7
+ 2.4 Evacuations                                                     7
+     ➢ Precautionary and Mandatory                                   7
+     ➢ Shelter in Place                                              8
+     ➢ Evacuation Instructions                                       8
+ Part 3: Ontario Incident Management System
+ 3.1 Incident Management System (IMS)                                10
+ 3.2 Site Management                                                 10
+     ➢ Single Command                                                11
+     ➢ Characteristics of Unified Command                            11
+     ➢ Incident Action Plan (IAP)                                    11
+     ➢ Span of Control                                               11
+     ➢ Simple IMS Organizational Chart                               12
+ 3.3 IMS Functional Roles at Site                                    12
+ 3.4 Emergency Operations Centre (EOC)                               15
+ 3.5 Functional Roles within an Emergency Operations Centre (EOC)    16
+ 3.6 Incident Management Forms                                       19
+ Part 4: The Brock University Approach
+ 4.1 Incident Classification Levels                                  20
+ 4.2 Initial University Response and Considerations                  21
+ 4.3 Activation of an Emergency Operations Centre                    23
+ 4.4 Brock EOC Organizational Chart and Functional Roles             24
+ 4.5 Emergency Assistance to the Brock Community                     25
+ 4.6 External Resources                                              26
+ 4.7 Demobilization                                                  27
+ 4.8 Emergency Recovery                                              28
+ 4.9 Emergency Exercises                                             29
+ 4.10 Emergency Plan Annex List and Additional Resources             31
+
+
+
+
+                                                                    1|Page
+                                   Emergency Management Plan
+
+Part 1:          An Introduction to the Emergency Management Plan
+1.1       Introduction
+
+Ontario communities are required by regulation to maintain emergency management programs based on
+local hazards and risks, with oversight and support provided by Emergency Management Ontario (EMO).
+In order to share a common operating structure with our local municipalities, emergency service providers
+and to maintain effective business practices, Brock University has adopted emergency management
+practices as outlined within the Ontario Incident Management System (IMS). This system serves as a
+framework to guide our organizational response to significant events that impact the University and our
+local communities (see Incident Management System (IMS) Guidance Version 2.0 – upon which a large
+part of this plan was based).
+
+The Emergency Management and Civil Protection Act R.S.O. 1990, defines an emergency as a situation or
+an impending situation that constitutes a danger of major proportions that could result in serious harm
+to persons or substantial damage to property and that is caused by the forces of nature, a disease or other
+health risk, an accident or an act whether intentional or otherwise. Any situation that meets this definition
+may call for the activation of this plan and those held by a local municipality and/or the Regional
+Municipality of Niagara.
+
+Effective emergency management programs strive to improve public safety and security by addressing
+the five areas of emergency management - prevention, mitigation, preparedness, response, and recovery:
+
+      • Prevention: includes actions taken to stop an emergency or disaster from occurring. Such
+           actions may include legislative controls, zoning restrictions, improved operating
+           standards/procedures or critical infrastructure management.
+      •    Mitigation: includes actions taken to reduce the adverse impacts of an emergency or disaster
+           that cannot be reasonably prevented. Mitigation strategies can be undertaken by any individual
+           or organization. Mitigation strategies are based on the results of a risk assessment and may
+           include short-term and long-term plans and actions.
+      •    Preparedness: ensures the ability to prevent, mitigate, respond to, and recover from an
+           emergency.
+      •    Response: refers to measures taken immediately before, during, or immediately after an
+           emergency for the purpose of managing the consequences. This may require the
+           implementation / activation of appropriate response plan(s) as well as the provision and pre-
+           positioning of resources (such as personnel, services and/or equipment), the establishment and
+           staffing of a response structure, the activation of information collection and sharing protocols,
+           and the development of an incident-specific action plan to address the emergency.
+      •    Recovery: refers to the process of restoring an affected community to a pre-disaster or higher
+           level of functioning. This may include the provision of financial assistance, rehabilitation of
+           critical infrastructure and habitats, return of evacuees, restoration of the environment or critical
+           incident stress counseling. Recovery components also involve risk reduction components that
+           encourage all levels, including communities and residents to build back better.
+
+Based upon the IMS structure, this plan serves as an all-hazards response and management tool. It may
+be used during simple (single agency) or complex (multi-agency) incidents that call for either single or
+unified command. As a flexible structure, only the required functions of the IMS model should be
+implemented as the incident response develops.
+
+                                                                                                2|Page
+                                  Emergency Management Plan
+
+This document will include an introduction and basic orientation to the Incident Management System,
+with information reproduced, summarized, or sourced to the latest guidance. That said, should the reader
+require additional information or clarity in relation to aspects of IMS, they should review provincial
+guidance directly.
+
+1.2     Definitions
+
+Access route: a route designated for the use of emergency vehicles approaching the emergency site.
+
+CBRNE team: a team established under the authority of the Niagara Region with the support of the local
+area municipalities. Partners include the Niagara Regional Police Service, local Fire Services, Niagara EMS,
+Niagara Region Public Health, and the Niagara Health System. The team provides a response to
+emergencies that are of a Chemical, Biological, Radioactive, Nuclear or Explosive (CBRNE) nature.
+
+Command Post: the location from which the Incident Commander oversees incident management and
+response at the site. There will be one command post per incident, and it is the headquarters for Incident
+Command only. A vehicle, trailer, tent, or building may serve as the CP dependent upon the situation and
+what is available (IMS definition).
+
+Common Operating Picture: an understanding of a situation based on the most up-to-date information
+and is shared among all responders and incident response organizations.
+
+Community Emergency Management Coordinator (CEMC): the person designated to act as the
+emergency manager for a municipality. Local Fire Chiefs generally serve as the CEMC in each of the
+municipalities within the Region. Further, the Regional Municipality of Niagara also maintains staff in the
+role of a CEMC to assist with the response to emergencies that affect regional infrastructure or are broad
+in scope.
+
+Debriefing: a formal opportunity to evaluate efficiency, learn from the experience gained and determine
+how well the incident management process went. Leadership should facilitate the debriefing and the
+results should be included in the After-Action Report (AAR). (Those incidents which are less serious may
+not require a formal debrief, as a “hot-wash” (see definition below) may suffice.
+
+Egress route: the route designated for exiting the emergency site.
+
+Emergency Information Centre (EIC) and Joint-Emergency Information Centre (Joint-EIC): a designated
+location that is properly equipped to coordinate public information management activities including the
+sharing of information with the public and the media, receiving public inquiries and monitoring. A Joint-
+EIC includes representatives from multiple communities and organizations to allow information and key
+messaging to be coordinated more easily.
+
+Emergency Management Ontario (EMO): a government organization responsible for monitoring,
+coordinating, and assisting in the development and implementation of emergency management programs
+throughout the province.
+
+Emergency Operations Centre (EOC): a designated location where personnel representing communities and
+organizations come together to support site response efforts. Activities in an EOC include managing and
+providing information and resources, long-term planning, and other forms of coordination. In some non-site-
+based incidents such as widespread flooding, an EOC may coordinate and command direct response efforts.
+                                                                                            3|Page
+                                   Emergency Management Plan
+
+Brock University maintains primary and alternate EOC locations on the main campus and has the capacity to
+meet virtually.
+
+Emergency Response Route: roads or highways, designated to accommodate vital Emergency vehicles
+and equipment without obstruction.
+
+Emergency Services: all Police, Fire, Hydro, Gas, or related resources that may be utilized to effectively
+respond to the emergency.
+
+Emergency Site: the area where the actual scene of the emergency is located. An emergency may include
+several sites, calling for a coordinated response.
+
+Evacuation Centre: a premise established outside the emergency area which is capable of accommodating
+persons displaced by the incident. For large scale situations, the activation of an evacuation centre should
+be done in consultation with the Regional Municipality of Niagara Community Services Department.
+
+Function: a set of related tasks and responsibilities. Incident management is divided into six main
+functions: Coordination and Command, Operations, Planning, Logistics, Finance and Administration and
+Public Information Management. In some incidents, additional functions may need to be carried out. This
+can include Intelligence, Investigations, Scientific/Technical, Emergency Social Services and Continuity of
+Operations. Other functions may need to be considered depending on the size and nature of an incident.
+
+Hazard Identification and Risk Assessment (HIRA): the HIRA completed by Brock University in relation
+to potential hazards and their impact on the community should they be experienced.
+
+Hot-Wash: an informal debriefing process that occurs immediately following an incident and allows
+responders the opportunity to provide feedback. This process captures events while they remain fresh in
+the minds of the responders to identify any issues or concerns and/or proposed improvements. Each
+functional section should conduct a hot wash facilitated by their Section Lead.
+
+Human-Caused Hazard: those hazards that involve an element of human intent.
+
+Incident: a single distinct occurrence that calls for action to prevent or minimize loss. It may be described
+as having potential to cause interruption, disruption, crisis, disaster, or catastrophe. Incidents may be
+classified as simple or complex.
+
+Incident Action Plan (IAP): a verbal or written plan that describes how an incident will be managed. It
+includes incident objectives, strategies, and tactics. In a simple incident, objectives, strategies, and tactics
+may be determined by the Incident Commander or EOC Director. In a complex incident, a network of
+organizations may work together to determine objectives, strategies, and tactics. The written IAP is
+coordinated by the Planning Section and explains how incident responders will work together and utilize
+resources to achieve the response objectives.
+
+Inner Perimeter: the area immediately surrounding the incident site that is designated as not accessible
+to unauthorized persons for reasons of safety, preservation of evidence and/or security of the scene.
+
+Natural Hazard: naturally occurring physical phenomena caused either by rapid or slow onset events
+which can be geophysical, hydrological, climatological, meteorological, or biological in nature.
+
+                                                                                                 4|Page
+                                  Emergency Management Plan
+
+Outer Perimeter: the larger area defined by the agency with jurisdiction, that encompasses the inner
+perimeter. It protects the public from entering a danger zone, protects the command post (site) from
+traffic and public interference and provides a level of defence in the event a subject were to breach the
+inner perimeter.
+
+Provincial Emergency Operations Centre (PEOC): an EOC managed by Emergency Management Ontario
+(EMO), that actively monitors the level of emergencies and incidents throughout Ontario 24 hours a day, 7
+days a week. The PEOC alerts ministries and senior levels of government and coordinates the provincial
+response to incidents.
+
+Scribe: a qualified person assigned to the Command Post and/or the EOC to maintain a record of activities
+and decisions made.
+
+Site: the location where an incident is or has happened (e.g., the scene of a high-rise fire or motor vehicle
+accident). Some incidents, such as ice storms, do not have one single, defined site.
+
+Site Response: the immediate response to an emergency situation, provided by responders at the scene
+of the incident. Incident command will be established at the site to direct resources involved in priority
+response. An Emergency Operations Centre may be implemented to provide strategic planning and
+support to Site Command.
+
+Staging Area: an area established away from the emergency site that is of sufficient size to accommodate
+large numbers of personnel and vehicles, where responding personnel may report for briefing and
+assignment of duties.
+
+Technological Hazard: those hazards that stem from technological or industrial conditions. This includes
+accidents, dangerous procedures, infrastructure deficiencies, and specific human activities that can cause
+hazards.
+
+
+
+
+                                                                                               5|Page
+                                  Emergency Management Plan
+
+Part 2:         Background
+2.1     Hazard Identification and Risk Assessment (HIRA)
+
+In general, a hazard is defined as an event or physical condition that has the potential to cause fatalities,
+injuries, property damage, infrastructure damage, agricultural loss, damage to the environment,
+interruption of business, or other types of harm or loss. Hazards may be naturally occurring, technological
+or involve an element of human intent.
+
+Similar to the approach taken by the Regional Municipality of Niagara, Brock University has completed a
+Hazard Identification and Risk Assessment (HIRA). This assessment examines the probability of occurrence
+of credible worst-case scenarios and determines the potential adverse effects on our community. The
+contents of the HIRA remain confidential and play a key role in emergency planning processes.
+
+2.2   Emergency Declarations
+
+A disaster can occur with little or no warning and cause emergency conditions in any area of the Regional
+Municipality of Niagara. Emergencies vary in scope and intensity, from small, local incidents with minimal
+damage to multi-jurisdictional disasters with extensive devastation and loss of life. They can escalate
+rapidly with the potential to overwhelm the response capacity of an organization.
+
+An emergency declaration promotes a sense of urgency in the community regarding the severity of an
+emergency situation and the danger it presents. An emergency declaration should be made if the
+community must take "extraordinary" measures to protect life, health, safety, and property. An
+emergency must be declared in order to formally engage the powers described within the Emergency
+Management and Civil Protection Act.
+
+Specifically, section 4(1) of the Emergency Management and Civil Protection Act, states:
+
+      • The head of council of a municipality may declare that an emergency exists in the municipality
+        or in any part thereof and may take such action and make such orders as he or she considers
+        necessary and are not contrary to law to implement the emergency plan of the municipality and
+        to protect property and the health, safety, and welfare of the inhabitants of the emergency area.
+
+As a private organization, Brock University has no authority to declare an emergency, however it may
+implement its Emergency Management Plan (as appropriate) to coordinate a response to any incident
+that impacts the Brock community, or to ensure there is a coordinated organizational response to
+emergency declarations that have been introduced in accordance with the Act. An emergency declaration
+may take three forms:
+
+      a) A Municipal Emergency Declaration, where the Mayor or designate of a local area municipality
+         has the authority under the Act to declare that an emergency situation exists within the
+         boundaries of their municipality.
+
+      b) A Regional Emergency Declaration, where the Regional Chair or designate has the authority to
+         declare that an emergency situation exists within the boundaries of the Regional Municipality.
+         Although the Regional Chair is empowered to declare a regional emergency at any location
+
+
+
+                                                                                               6|Page
+                                  Emergency Management Plan
+
+         within regional boundaries, the Chair does not have the authority to declare an emergency on
+         behalf of any area municipality, and
+
+      c) A Provincial Emergency Declaration, where the Premier of the Province of Ontario or designate
+         has the authority to declare that an emergency exists within Ontario. Further, the Premier also
+         has the authority to declare an emergency on behalf of any community within the province and
+         may also at any time declare that an emergency has been terminated on behalf of any Ontario
+         municipality.
+
+An emergency may be declared terminated at any time by:
+
+      • The Head of Council (Municipal or Regional as the case may be), or
+      • The majority of Council by vote, or
+      • The Premier of Ontario, as the case may be.
+
+2.3   Operational Response Priorities During an Emergency
+
+Operational response priorities when conducting
+emergency operations are:
+
+      1. Safety and health of responders,
+      2. Save lives,
+      3. Reduce suffering,
+      4. Protect public health,
+      5. Protect critical infrastructure,
+      6. Protect property and the environment, and
+      7. Reduce economic and social losses.
+
+2.4   Evacuations
+
+In an emergency, it may be necessary to evacuate people
+and animals from buildings or other areas due to:
+
+      a) actual or potential threats to safety,
+      b) the lack of sanitation facilities, or
+      c) a lack of utilities.
+
+There are two types of evacuations, Precautionary and
+Mandatory:
+
+      a) Precautionary Evacuation occurs when an
+         evacuation is recommended within a certain
+         perimeter, usually a building or a block until the initial situation in contained.
+
+      b) Mandatory Evacuation takes place when it is determined that there is an absolute need to
+         evacuate an area, usually on a large-scale, possibly for a long period of time (i.e., for more than
+         24 hours).
+
+
+                                                                                              7|Page
+                                   Emergency Management Plan
+
+Evacuation is one means of protecting the public from the effects of a hazard. The characteristics of the
+hazard and its magnitude, intensity, speed of onset, and anticipated duration are all significant factors to
+be considered. An evaluation of these factors will assist in determining the number of people to be
+evacuated, the distance people must be moved to ensure their safety, the need for Reception/Evacuation
+Centres, and the extent of traffic control and security required.
+
+As a private organization, Brock University maintains the authority to close all or part of its facilities (which
+are normally accessible to the public) and direct occupants to leave. Further, Brock University could be
+impacted by an evacuation order, lawfully issued under the following circumstances:
+
+      a) by the Regional Medical Officer of Health or Public Health Inspector, when a health hazard exists
+         in any premises, in accordance with the Health Protection and Promotion Act. R.S.O. 1990,
+         Section 13, Chapter H.7,
+      b) by the Fire Department, when persons are in the immediate vicinity of a fire and when a local
+         Municipal Fire Department By-Law is in effect, or
+      c) in accordance with the Emergency Management and Civil Protection Act, during a declared
+         emergency, the Lieutenant Governor in Council may make emergency orders, including those
+         that apply to evacuations (Section 7.0.2(4)).
+
+Police generally maintain the responsibility to co-ordinate the physical evacuation of buildings or areas.
+The designation of evacuation or reception centres, which may be required for larger evacuations, should
+be made in consultation with the Regional Municipality of Niagara Social Services Department.
+
+In certain circumstances, it may be more appropriate to direct that occupants remain in place within a
+building as opposed to risking evacuation through an area that may present a high risk to personal safety
+due to the actions of an offender or the condition of the environment. This is commonly referred to as
+"Shelter in Place." In relation to environmental hazards, when the Fire Department or Public Health
+recommends this approach, those impacted would be advised to remain indoors, close all windows and
+doors (sealing around them if possible) and turning off heating and ventilation systems. This would be
+adapted as necessary should the situation impact a Brock University facility. This approach is not suitable
+for prolonged emergencies.
+
+Evacuation Instructions
+
+In the event that an evacuation order is necessary, it is important that the message delivered does not
+cause panic. The notification should provide as much information as possible, including (as applicable to
+the situation):
+
+                 a)   A short, concise description of the emergency using simple, everyday language
+                 b)   Direct occupants to evacuate and the reason
+                 c)   Identify the reception/evacuation centre and routes to that location
+                 d)   Transportation options and pick-up points for those without transportation
+                 e)   For residence students in particular, the need to lock their room and reminders to
+                      take medication, food, suitable clothing, adequate blankets for duration of stay, if
+                      known and if practicable.
+
+During evacuation efforts, members of Brock Campus Security Services (CSS), Emergency Wardens or
+other supervisory staff may come upon those who simply refuse to comply with the evacuation order. In
+
+                                                                                                  8|Page
+                                 Emergency Management Plan
+
+such a situation, attempts should be made to persuade that person to comply with the direction. If they
+continue to refuse, CSS, Emergency Wardens, or other supervisory staff (as the case may be) should
+continue their effort to effect/confirm the evacuation in the rest of the facility. A record should be made
+of the attempt to gain compliance, including the following detail:
+
+            a)   Name of person refusing to leave
+            b)   Name of any other occupants
+            c)   Reason person is refusing to leave
+            d)   Name of any witnesses present
+            e)   Date and time of attempt
+            f)   Location of person
+            g)   Description or identifiers
+            h)   Any other actions taken (including who this information was reported to Campus Security,
+                 St. Catharines Fire Department, Police, etc.).
+
+In contrast to evacuation efforts in the community at large, as Brock University is private property, CSS
+Special Constables and/or police officers may consider authorities granted under the Trespass to Property
+Act to compel an evacuation from any owned/operated by the university. This action would be a last resort
+after all attempts to otherwise gain compliance have failed and evacuation is absolutely necessary. This
+option may only reasonable once the initial evacuation effort has been completed, thereby avoiding
+unreasonable delay which could otherwise impact the safety of others.
+
+Upon being advised of the termination of the evacuation, the University shall (where necessary) develop
+a resumption of activity plan and communicate key elements to the community. The resumption of
+activity plan will focus on the operational readiness of university facilities to safely welcome occupants.
+
+
+
+
+                                                                                             9|Page
+                                    Emergency Management Plan
+
+Part 3:           Ontario Incident Management System
+3.1       Incident Management System (IMS)
+
+The Incident Management System (IMS) is a standardized approach to emergency management
+encompassing personnel, facilities, equipment, procedures, and communications operating within a
+common organizational structure. IMS is predicated on the understanding that in every incident, there
+are certain management functions that must be carried out regardless of the number of persons who are
+available or involved in the emergency response. Beyond its use in the response to incidents, IMS may
+also be used for managing planned events, such as a concert or parade.
+
+A simple incident may involve few resources, be located within a small geographical area and last for only
+a short period of time. For example, a structure fire, a water main break, a call for medical assistance, or
+non-routine snow clearance.
+
+A complex incident may involve the coordination of vast resources from many organizations and from
+municipal, provincial, and federal governments. A complex incident may persist for weeks, months or even
+longer periods. Organizations with vast resources may be able to handle some complex incidents without
+assistance from outside agencies. The COVID-19 pandemic is a recent example of a complex incident.
+
+Whether the incident is simple or complex, the principles of IMS can be applied as the process is highly
+flexible, with a capacity to quickly expand or contract according to changing circumstances and
+organizational needs. It is predicated on the understanding that in any incident there are certain
+management functions – coordination and command, operations, planning, logistics,
+finance/administration, and public information management - that must be carried out/considered,
+regardless of the scale or complexity.
+
+3.2       Site Management
+
+In general, the first response to an incident at Brock University may include members of Campus Security
+Services and/or subject matter experts from Facilities Management (electricians, gas fitters, etc.). In cases
+where the incident is beyond their response capacity, assistance from emergency response agencies
+would be sought. Effective and efficient site management enables all responders to work together to
+achieve common goals/objectives.
+
+Should an incident at Brock University require support from an external emergency response agency
+(Police, Fire, EMS, etc.), command and control of the response would be assumed by the appropriate
+agency. The organization leading the effort would establish Incident Command at the site and assume
+responsibility for managing the response to the incident. The responsibility for Incident Command may
+change from one organization or jurisdiction to another, based on required expertise or the scale of the
+incident.
+
+The primary responsibilities of the Incident Commander at the site include:
+
+      •   Defining the objectives, strategies, and tactics for the overall incident response,
+      •   Coordinating the activities of the incident response organizations,
+      •   Maintaining the safety of all incident responders, and
+
+
+                                                                                                10 | P a g e
+                                   Emergency Management Plan
+
+     •   Coordinating all aspects of the site including facilities, communications, logistics and other aspects
+         as appropriate.
+
+The Incident Commander coordinates and commands all the incident site response activities. It is
+important to note that no organization has tactical command authority over any resources or personnel
+from another organization unless such authority has been transferred. Coordination and command of an
+incident at the site takes place from an Incident Command Post.
+
+Single Command
+
+This is the most common model of command. It exists when incident decision-making in relation to
+directing, ordering, or controlling the response to an incident is straightforward and independent. A Single
+Command model is usually followed when:
+
+a)       only one organization or jurisdiction is involved,
+b)       multiple jurisdictions or organizations involved in decision-making agree to follow this model, and
+c)       if the responsibility is legally that of one jurisdiction or organization.
+
+Characteristics of a Unified Command
+
+Unified Command enables decisions to be made jointly by two or more jurisdictions that have legal
+responsibilities regarding an incident. The members of the Unified Command team are the designated
+representatives of the jurisdictions involved in the unified decision-making.
+
+The concept of "Unity of Command" means that each person, at every level, reports to only one clearly
+designated supervisor, who may or may not come from the same organization or jurisdiction. This
+provides orderly lines of command and accountability from individual responders up through supervisory
+personnel to the Incident Commander.
+
+Incident Action Plan (IAP)
+
+Every incident must have an Immediate Action Plan (IAP) that may be spoken or written. It provides all
+incident supervisory personnel with objectives and the strategies, tactics, and directions for achieving
+them. An IAP will address response priorities as outlined on page 7.
+
+The Operational Period is the period of time assigned to achieve the objectives of an Incident Action Plan.
+It can be of varied length, though usually would not be longer than 24 hours. An Operational Period may
+be modified or revised if the IAP is altered as circumstances change.
+
+Span of Control
+
+Experience shows that one person can effectively supervise between 3 and 7 elements, with 5 being the
+optimal number. One element could be a single individual (such as technical specialist) or a complex
+resource (such as a team with a shared intent and skill set). When an incident expands or contracts, span
+of control must be maintained by either combining resources within larger components (such as a Strike
+Teams or Groups with adequate supervision) or by eliminating components.
+
+
+
+                                                                                                 11 | P a g e
+                                     Emergency Management Plan
+
+Simple IMS Organization Chart (Site Command)
+
+A simple incident may require little in
+the way of resources to implement an
+effective response, while a more
+complex incident may call for support
+from several agencies. Regardless of
+scale, IMS recognizes that responses,
+both simple and complex, share
+common function requirements.
+
+3.3       IMS Functional Roles at Site
+
+Primary functions called for during a response to an incident at site include:
+
+      •     Coordination and command (formerly referred to as command staff)
+                o Incident Commander (supported by a scribe),
+                o Liaison Officer,
+                o Safety Officer, and
+                o Emergency Information Officer
+      •     Operations
+      •     Planning
+      •     Logistics, and
+      •     Finance and Administration.
+
+It is important to remain mindful that these functions are common across incident types and that in simple
+incidents, few people may be responsible for all necessary functions without being overwhelmed. As the
+response to an incident expands in scale or complexity, additional resources may be assigned to perform
+these functional requirements.
+
+The Incident Commander (sometimes referred to as Manager) leads the response activities at the incident
+site. Primary responsibilities of the Incident Commander (at the site) have been highlighted earlier.
+
+In a large or complex incident, an Incident Commander may appoint a Deputy Incident Commander to
+assist with incident coordination and command. The Deputy Incident Commander may also take site
+command while the Incident Commander in unavailable.
+
+Scribes provide critical support and take notes during meetings and teleconferences, document key
+activities, events, agreements, decisions, and any matters of potential legal significance throughout an
+incident. Although a Scribe may be assigned to take notes, documentation is the responsibility of all
+responders.
+
+Liaison Officer
+
+      •     The primary contact for incident response organizations; reporting directly to the Incident
+            Commander,
+
+
+
+                                                                                                12 | P a g e
+                                  Emergency Management Plan
+
+    •   Incident response organizations may include all levels of government, first responder services,
+        nongovernmental organizations (NGOs) and private sector organizations, and
+    •   Incident response organizations may provide knowledge, skills and/or other supports arranged
+        through the Liaison Officer.
+
+Safety Officer
+
+    •   Monitors safety conditions and develops safety measures for an incident,
+    •   Assesses and communicates information on hazards that are present within an incident,
+    •   Advises the Incident Commander (or Unified Command) on matters relating to the health and
+        safety of incident responders,
+    •   Ensures that the required personal protective equipment (PPE) is worn,
+    •   Contributes to the safety portion of the IAP and/or Incident Medical Plan as needed,
+    •   Coordinates safety efforts if more than one response organization is involved in the incident, and
+    •   Has the authority to change, suspend or stop any activities that are deemed hazardous to
+        protect the health and safety of incident responders.
+
+*It is important to note that final responsibility for health and safety matters in an incident rest with the
+Incident Commander.
+
+The Emergency Information Officer (EIO) communicates with the public and liaises with the media to
+provide information relating to an incident. In a large incident, the EIO may lead a team of communications
+personnel. In larger or more complex incidents, organizations may prefer to establish a Public Information
+Management Section with the EIO assigned as the lead.
+
+The Operations Section carries out the tactical activities necessary to implement the Immediate Action
+Plan (IAP) and coordinates all incident response actions at site. This includes managing the day-to-day
+response and establishing short-term planning. The Section should be organized to meet the needs of an
+incident and make efficient use of resources assigned to an incident. Like all IMS Sections, the Operations
+Section may be scaled to the situation. The Section may include personnel from incident response
+organizations that have a major role in the response.
+
+The primary responsibilities of the Operations Section include:
+
+    •   Coordinating incident response activities,
+    •   Communicating with the Incident Commander and other functional sections to keep responders
+        informed of the current situation,
+    •   Supporting the development of the IAP, including the development of strategies and tactics to
+        achieve incident objectives,
+    •   Implementing the IAP and making tactical adjustments as necessary, as the situation changes,
+    •   Managing the operation of all resources assigned to an incident,
+    •   Planning immediate response tasks in detail, and
+    •   Coordinating volunteer activities.
+
+It is important to note that in a complex incident, the Operations Section may expand to include multiple
+branches such as volunteer management, victim services or other emergency services.
+
+
+
+                                                                                               13 | P a g e
+                                 Emergency Management Plan
+
+The Planning Section is responsible for maintaining situational awareness, developing the IAP and long-
+term planning. The Planning Section may be scaled as necessary, depending on the nature of the event
+and the capacity of the organization. Incident action planning is the first priority for this Section and
+includes:
+
+    •   Working with the Incident Commander and the other functional sections to prepare the IAP that
+        captures incident objectives, strategies, and tactics for the next operational period, and
+    •   Producing and sharing a written version of the IAP.
+
+The Planning Section should develop long-term plans that consider all possible situations and resource
+needs beyond the current operational period as well as contingency plans that incorporate possible risks
+and outcomes based on the best and worst-case scenarios. The Planning Section should also develop
+demobilization plans.
+
+The Planning Section at the site is responsible for the information management and promotes
+situational awareness and record keeping by:
+
+    •   Collecting, confirming, analyzing, and sharing information about an incident,
+    •   Developing situation reports and ensuring that up-to-date situation information is available to
+        incident responders, and
+    •   Managing documentation and records relating to an incident.
+
+
+The Logistics Section performs several important functions at the site such as providing and tracking
+resources to support an incident response. The resources arranged support both the incident and the
+responders. The primary responsibilities of the Logistics Section include:
+
+    •   Ordering, receiving, storing, and housing resources,
+    •   Setting up, maintaining and demobilizing facilities such as the Incident Command Post,
+    •   Arranging transportation,
+    •   Setting up, maintaining, and tracking telecommunications and IT equipment,
+    •   Providing medical services for incident responders, and
+    •   Arranging food services.
+
+The Logistics Section has an important role to play at the site where resources are higher in demand.
+During an evacuation coordinated by a municipality, the Logistics Section at the site may arrange food,
+shelter, and other personal items for evacuees.
+
+The Finance and Administration Section is responsible for the financial and administrative aspects of an
+incident including tracking personnel time sheets. Typically, most of the work under the Finance and
+Administration Section is not carried out at the site.
+
+Please refer directly to Emergency Management Ontario: Position Checklists for a more detailed
+explanation of expectations had for each role associated with the Incident Management System model.
+
+
+
+
+                                                                                            14 | P a g e
+                                  Emergency Management Plan
+
+More Complex Incidents
+
+As incidents evolve, so must the response model. In simple incidents, the Incident Commander may be
+responsible for all the components associated with the IMS model. In more complex incidents,
+responsibilities will be assigned (Operations, Planning, Logistics and Finance/Administration) to support
+the response. Functions not specifically assigned, remain the responsibility of the Incident Commander.
+In addition, site operations may require support from an Emergency Operations Centre.
+
+3.3       Emergency Operations Centre
+
+As described in the latest IMS guidance document, an Emergency Operations Centre (EOC) is a place
+where those responsible for the response come together to:
+
+      •   Support incident response activities and responders at the site as well as other EOCs (when
+          applicable),
+      •   Coordinate incident resources as well as inter-organizational activities and internal operations
+          relating to an incident,
+      •   Coordinate plans and planning for short and long-term needs,
+      •   Coordinate and command incident response directly from an EOC (usually in non-site-based
+          incidents),
+      •   Coordinate collaboration between incident response organizations and additional EOCs, and
+      •   Share the responsibility with incident responders at the site and manage certain operations such
+          as emergency shelters.
+
+An EOC may operate with an organizational chart that is very similar to that of site command (see page
+12) as it shares similar functional requirements of coordination and command, operations, planning,
+logistics, finance/administration, and public information management. Just as IMS is scalable at the site,
+it too remains scalable in an EOC. Depending upon the nature of the incident, few or all EOC functions
+could be stood up to support the response effort.
+
+The role of an EOC may vary
+depending upon the nature of the
+incident and the response
+organization. In general, EOCs
+function to provide support to
+site operations. To illustrate this
+distinction, site command would
+be responsible for the tactical
+response to the incident (in the
+controlled area of the scene)
+whereas the EOC would provide
+support for this response and
+focus on strategic issues and/or those outside of the scene itself. This is the most common structure of an
+EOC at Brock University, as responding agencies will be responsible for site command and resolution of
+the incident. That said, there are rare situations where an EOC at Brock University may have command
+authority, as was the case during the COVID-19 pandemic.
+
+Organizations may modify titles and sections to meet their specific needs – as has Brock University.
+
+                                                                                             15 | P a g e
+                                  Emergency Management Plan
+
+3.4       Functional Roles in an Emergency Operations Centre
+
+The role of an Emergency Operations Centre may vary due to the nature of the response and the capacity
+of the organization(s). EOCs often provide support to the site(s). However, in some responses, they may
+play a coordination or, more rarely, a command role.
+
+Similar to the Site Incident Command model, EOCs have standard functional responsibilities of roles and
+responsibilities (or functions). The EOC Director ultimately decides which of the roles/functions are to be
+staffed in order to manage the incident effectively.
+
+The EOC Director has a primary responsibility to coordinate support (resources and information) for
+incident response. In rare circumstances, the EOC Director may be in command of an incident response
+and take on the title of EOC Commander. At Brock University, this may be the case in situations where the
+response effort is not otherwise subject to Site Command provided by an external agency (such as the
+COVID-19 pandemic response).
+
+The primary responsibilities of the person assigned as Scribe relate to incident record-keeping. Scribes
+take and collect notes throughout the duration of an incident. They should also take notes during meetings
+and teleconference calls as well as record key activities, events, agreements, decisions, and any matters
+of potential legal significance.
+
+In the absence of an EOC Director, the Deputy EOC Director may be given the authority to manage a
+function or coordinate tasks. In some cases, the Deputy EOC Director may step in when an EOC Director
+is handling other duties or is otherwise unavailable.
+
+The primary responsibility of the Executive Director is to support the work of an EOC Director. The
+Executive Assistant often coordinates the “briefing up” of incident information to senior and elected
+officials, which includes managing correspondence, preparing briefing decks and other documents as
+needed.
+
+A Legal Advisor may be needed to provide advice and to identify and manage legal matters relating to an
+incident.
+
+The Liaison, Safety and Emergency Information Officers share similar responsibilities to those described
+earlier in relation to Site Command.
+
+Unless an EOC has a command responsibility, an EOC Operations Section does not carry out tactical
+activities needed to directly respond to an incident. This would be the responsibility of the site operations
+team.
+
+The EOC Operations Section may instead focus on supporting the response or directly coordinating
+aspects of an incident. IMS offers three EOC options to reflect the needs of different organizations and
+varying incident demands:
+
+      •   EOC Option 1 uses an EOC Operations Section that helps support site operations and remains
+          responsible for communication and coordination with the site. (This is the option commonly in
+          place at Brock, however this remains situationally dependent.)
+
+
+                                                                                               16 | P a g e
+                                  Emergency Management Plan
+
+    •   EOC Option 2 combines the responsibilities of the Operations Section with the Situation Unit
+        (which would normally fall under Planning) to become an EOC Situational Awareness Section.
+    •   EOC Option 3 introduces an EOC Operational Awareness Section as opposed to an Operations
+        Section. This Section assumes responsibility of functions normally assigned to those carried out
+        by the Operations Section and the Situation Unit (normally falls under planning).
+
+Regardless of the EOC options, an Operations Section should coordinate with other EOCs and incident
+response organizations throughout the planning cycle. This may include meetings, teleconference calls
+and other regularly scheduled check-ins. This section may work with the Logistics Section to gather
+resources for the site or with the Planning Section to develop short-term plans.
+
+The primary responsibilities of the EOC Operations Section include:
+
+    •   Coordinating day-to-day support and EOC coordination activities on behalf of the EOC Director,
+    •   Communicating with the EOC Director and other functional sections to keep them informed of
+        the current situation,
+    •   Supporting the development of the Incident Action Plan, including the development of objectives,
+        strategies, and tactics,
+    •   Implementing the IAP and adjusting, if necessary, as the incident develops (subject to EOC
+        Director approval as required), and
+    •   Managing the operation of all resources assigned to an incident.
+
+If an incident involves a large number of casualties, a victim services or emergency social services branch
+may also be required within an EOC Operations Section.
+
+The EOC Planning Section is responsible for managing the Incident Action Plan process, long-term
+planning, and contingency planning. Depending on the EOC option, they may also be responsible for
+situational awareness. The Planning Section function may be stood up and staffed depending on the
+capacity of the response organization and the nature of the incident.
+
+It is important to note that unlike the Site Command model, the Situation Unit may or may not sit within
+the EOC Planning Section. In EOC Option 2 (above), the Operations Section would become a Situational
+Awareness Section, supervising the Situation Unit, which remains responsible for gathering, sharing, and
+maintaining situational awareness. In EOC Option 3 (above), the Operational Awareness Section absorbs
+the role of the Situation Unit. Regardless of the EOC option, situational awareness must be clearly assigned
+and is key to effective and efficient incident management.
+
+Incident Action Planning is the first priority for an EOC Planning Section. This process includes:
+
+    •   Working with other functional sections and the EOC Director to prepare the IAP that captures
+        incident objectives, strategies, and tactics for the next operational period, and
+    •   Producing and sharing a written version of the Incident Action Plan.
+
+Long-term planning is an ongoing process that includes:
+
+    •   Consulting with the other functional sections and the EOC Director as well as making use of
+        existing plans such as an emergency response plan,
+
+
+                                                                                               17 | P a g e
+                                  Emergency Management Plan
+
+    •   Considering scenarios for possible situations and resource needs beyond the current operational
+        period based on current situational awareness and risk assessments,
+    •   Developing plans for incident response activities beyond the current IAP, and
+    •   When needed, beginning to plan for the shift from response to recovery, including demobilization.
+
+Contingency Planning is an important aspect of preparedness both before and during an incident. This
+process includes developing plans that incorporate possible risks and outcomes based on the best and
+worst-case scenarios for possible events that may happen in the future in order to be better prepared.
+The EOC Planning Section may have an information management function (Situation Unit) similar to that
+described earlier in reference to Site Command (page 14).
+
+The EOC Logistics Section locates, provides, and tracks resources to support an incident response. These
+resources support both the incident and the responders. The EOC Logistics Section is responsible for
+meeting the needs of an EOC and/or additional incident management locations as well as its personnel.
+This includes ensuring that there is equipment, supplies and food as needed for an EOC and/or additional
+incident management locations.
+
+Resources at the site or in an EOC may include:
+
+    •   Personnel,
+    •   Equipment,
+    •   Supplies,
+    •   Services,
+    •   Telecommunications and IT Support,
+    •   Transportation, and
+    •   Medical Services for incident response personnel.
+
+The primary responsibilities of the EOC Logistics Section are similar to those described earlier, in relation
+to Site Command. In addition, the EOC Logistics Section often works closely with the EOC Finance and
+Administration Section to coordinate efforts around procurement, tracking and paying for resources and
+keeping records.
+
+The primary responsibilities of the EOC Finance and Administration Section include:
+
+    •   Managing financial matters, including leases and vendor contracts,
+    •   Tracking and reporting on costs incurred,
+    •   Recommending cost-saving measures,
+    •   Managing administrative databases,
+    •   Tracking timesheets for incident response personnel and other resources,
+    •   Tracking, analyzing, and reporting on compensation resulting from property damage or injuries,
+    •   Tracking mutual assistance arrangements and monitoring their costs,
+    •   Tracking disaster recovery assistance arrangements and monitoring their costs, and
+    •   Tracking fundraising when needed.
+
+
+
+
+                                                                                               18 | P a g e
+                                 Emergency Management Plan
+
+EOC Public Information Management Section (where activated)
+
+Depending on the nature of the incident, an EOC may operate with an Emergency Information Officer
+(EIO), or a section may be stood up and staffed to address needs. The EIO may lead this new section or the
+EIO may remain a part of command staff and the new section would have a lead appointed.
+
+The primary responsibilities of a Public Information Management Unit include:
+
+    •   Preparing and sharing information with the public through public information releases,
+        warnings, and alerts,
+    •   Monitoring the media and public reaction,
+    •   Acting as the media liaison for all media related activities such as press briefings,
+    •   Developing media messages for the IAP and all public facing messages, and
+    •   Advising the EOC Director/EOC Commander and Public Information Management Section
+        personnel on communications issues.
+
+Incident Management System Forms
+
+The Ontario Incident Management System (IMS) uses
+specific forms to assist with incident management
+processes and procedures, as well as to represent a
+record of decisions and actions. In keeping with the IMS
+‘toolbox concept’, organizations may use only the forms
+needed for a specific incident response. These forms are
+designed for all-hazard use and are applicable to both
+site-level and EOC-level responses. Detailed instructions
+and a brief overview of the form’s purpose, preparation
+and distribution accompany each form.
+
+The IMS Forms Package is available on the Brock
+Emergency Management SharePoint Portal. Also
+available on the SharePoint site are Microsoft Word-
+fillable forms amended for use within a Brock University
+EOC.
+
+
+
+
+                                                                                            19 | P a g e
+                                  Emergency Management Plan
+
+Part 4:         The Brock University Approach
+4.1     Incident Classification Levels
+
+Members of Campus Security Services (CSS) and Facilities Management (FM) are routinely involved in the
+initial response to incidents on campus, with the scope of their involvement being dependent upon the
+nature and scale of the event. In many circumstances, the incident may be resolved in short order, without
+support from outside agencies. In others, the incident may require support from one or more outside
+agencies and vary in complexity and duration.
+
+An IMS Guidance document prepared by Emergency Management Ontario, provides response escalation
+guidelines, which can assist organizations in classifying incidents, supporting an effective and efficient
+response. In this model, there are four response levels which detail escalating incident complexity: small
+(single organization response), large, major, and lastly, a local, provincial and/or national level emergency.
+
+An assessment as to where an incident may fall on this scale may assist in reaching a determination if the
+Brock University Emergency Operations Centre (EOC) should be established and further, whether a full or
+partial activation (only some functions required) is appropriate.
+
+Level 1 (Single organization): Site Command only
+
+In general, an incident that may be resolved by one or more Brock departments with or without support
+from another organization (police, fire, EMS, Enbridge, etc.) will generally not be viewed as a complex
+incident. These incidents are more routine in nature and span a relatively short time frame. Examples of
+a level one incident may include a minor vehicle collision, personal injuries/medical issues, natural gas
+leak, a fire alarm/minor fire or disturbance. A Level 1 incident is managed at the site of the incident and
+will likely not require support from the Brock Emergency Operations Centre.
+
+Level 2 (Large incident – multiple organizations): Site Command with optional EOC support
+
+An incident that requires support from multiple emergency service organizations will be classified as a
+Level 2 incident. In these incidents, site command will be assumed by the lead emergency response
+agency, with Brock staff providing support as necessary and appropriate. Depending upon the nature of
+the event, a Level 2 incident may lead to partial or full activation of the Brock University EOC. These
+incidents are naturally more complex and may extend for a greater period.
+
+It is important to note that a routine incident that calls for a multi-agency response, not considered
+complex, may not lead to a partial or full activation of the Brock University EOC.
+
+Level 3 (Major or complex incident): Site Command with EOC support
+
+Major incidents by their nature are complex and may be large in scale and/or duration. Incidents of this
+type will require effective command at the site with support from a fully activated EOC. Should Brock
+University be impacted directly by a Level 3 incident, it is important to recognize that site command will
+be assumed by the appropriate emergency response agency or agencies. Brock University staff may be
+required to support the effort of emergency responders at or near the incident site.
+
+
+
+
+                                                                                               20 | P a g e
+                                   Emergency Management Plan
+
+An event of this nature may lead to an activation of more than one EOC (organizational, municipal and/or
+regional). In such circumstances, it is important to ensure that response efforts are coordinated, and
+communication chains remain effective between EOCs.
+
+Level 4 (Local, provincial and/or national level emergency): In this level, a complex incident may impact
+one or more sites over a large geographic area or be non-site specific with multiple EOCs requiring multi-
+agency coordination.
+
+This response level includes complex incidents that may have an impact at a local, provincial and/or
+national level with potential for very serious or potentially catastrophic consequences to life safety, critical
+infrastructure, property and/or the environment. The response and recovery phases to a Level 4 incident
+may last for an extended time. The COVID-19 pandemic is an example of an incident that met this
+threshold.
+
+At Brock University, for incidents of this nature, the EOC will take immediate responsive action and
+develop plans to address the evolving situation as necessary. Where appropriate, recommendations may
+be made to senior administration who will continue to provide strategic leadership in relation to the
+ongoing operation of the University and retain decision making authority. That said, while activated, the
+EOC remains empowered to make decisions and take immediate action for any emergent or exigent
+situation.
+
+4.2       Initial University Response and Considerations
+
+The nature of incidents that may occur at Brock University, or in the nearby community with a direct
+impact on campus activities, may vary significantly. Incidents may be naturally occurring, technological or
+the result of human action – accidental or with criminal intent. Staff members who respond to any incident
+on campus will do so in accordance with standard operating procedures.
+
+While responding to any incident, all staff must assess the scene for potential hazards prior to entering
+and only take action that is appropriate given their level of training and availability of personal protective
+equipment (as required). It is important that others involved in the response, including those from an
+outside agency, be informed as to the nature of the identified hazard as soon as possible.
+
+Members of Campus Security Services (CSS) are likely to play a significant role in the response to any
+incident on campus. Depending on the nature of the incident and the risk, information may be relayed
+directly to the appropriate emergency service via 9-1-1. Members assigned to the Central
+Communications and Monitoring Centre (CCMC) may be required to relay this information where 9-1-1
+calls were not placed directly by those at the site.
+
+The CCMC is operated by CSS and remains available to provide support 24 hours a day, 7 days week. In an
+emergency, the CCMC can be reached at 905-688-5550 extension 3200.
+
+Staff responding to any incident must remain aware that several hazards could be present. Some incidents
+could include chemical, biological, radioactive, nuclear, or explosive hazards. More common examples of
+hazards include:
+
+      •   fallen wires,
+      •   gas leaks,
+
+                                                                                                 21 | P a g e
+                                   Emergency Management Plan
+
+    •    weather/road conditions (ice/high winds),
+    •    tanks containing flammable or explosive material,
+    •    unstable ground/buildings, or
+    •    smoke and dust particulates.
+
+The first Campus Security Officer (or *certified/qualified staff member as the case may be) on the scene
+of an emergency shall:
+
+        a) advise the CCMC (Dispatch) of the following:
+              i. the exact location of the emergency,
+             ii. a brief description of the type of incident,
+            iii. an estimate of the number of casualties/injuries and/or the extent of damage,
+            iv. other services required to assist, and
+             v. access routes and precautionary measures for others who may be responding.
+        b) take the necessary immediate action(s) to safeguard life and property,
+        c) assume control until the first supervisor arrives, and
+        d) maintain radio communications (CSS specific).
+
+        * In this case, certified/qualified staff is defined as employees who have had specific training and
+        certification directly related to the nature of the emergency. An example of a certified/qualified
+        staff member may be an electrician, should the issue relate to an electrical hazard.
+
+The first Campus Security Supervisor (or certified/qualified supervisor as the case may be) on the scene
+shall:
+
+        a) assume command of the site until relieved by a more senior member of CSS, a certified/qualified
+           supervisor of another Brock department if appropriate (provided that department will remain
+           responsible for the response effort – example, FM qualified staff who may oversee an
+           emergency repair to a utility), or a member of the emergency response agency having
+           jurisdiction,
+        b) evaluate the scale and scope of the emergency scene,
+        c) assist with the safeguarding of life and property,
+        d) establish the inner and outer perimeters as necessary,
+        e) provide further details of the incident to the CCMC and other supervisors as appropriate,
+        f) at the earliest opportunity, ensure the Director of CSS (or their delegate) has been notified of
+           the incident,
+        g) request the attendance of additional emergency and support services, as required,
+        h) at the earliest opportunity, ensure that Marketing and Communications have been advised of
+           the incident, and
+        i) as appropriate, obtain support of the CCMC to issue a bulletin via the mass notification
+           application.
+
+The Campus Security Supervisor (or person acting in that capacity) remains specifically responsible for the
+following actions, as necessary:
+
+        j) establish or recommend an area for a temporary field command post for emergency services if
+           required,
+        k) designate emergency response routes to and from the scene,
+
+                                                                                              22 | P a g e
+                                     Emergency Management Plan
+
+          l) designate the location of a staging area if required,
+          m) co-ordinate the evacuation of persons in the immediate area of the incident, as required,
+          n) brief the appropriate supervisor of the emergency services agency leading the response effort
+             on all relevant information,
+          o) provide support to emergency services as required, and
+          p) as necessary, support the exchange of information between the Incident Commander (police,
+             fire, or EMS) at the emergency site and the Brock University EOC should it be activated.
+
+The Director of Campus Security or delegate will:
+
+          a) be briefed by the first supervisor, as to the status of the situation,
+          b) take steps to ensure that the responsibilities assigned to the first supervisor on scene have been
+             addressed,
+          c) redeploy resources as necessary to meet the requirement of the situation,
+          d) in all response options, prioritize the safety of members,
+          e) ensure that Marketing and Communications is advised and responds to the situation,
+          f) as required, request that an Emergency Operations Centre be implemented in accordance with
+             the process outlined in Annex 1, “Activation of the Emergency Operations Centre,” and
+          g) as appropriate, ensure that an investigation (scaled to the nature of the incident) is commenced.
+
+4.3        Activation of the Emergency Operations Centre
+
+Any supervisor may escalate a request to implement an Emergency Operations Centre through their chain
+of command to the Vice-President Administration, or delegate.
+
+Once approved, the Director of Emergency Management (or delegate) will be notified. They in turn will
+activate this plan and implement an Emergency Operations Centre, in accordance with the process as
+outlined within Annex 1, “Activation of the Emergency Operations Centre.”
+
+In situations where the escalation of such a request may result in an undue delay, the Director of
+Emergency Management (or delegate) may authorize the activation of an Emergency Operations Centre.
+
+All requests to activate an Emergency Operations Centre proactively, to plan for an anticipated event, are
+to be approved by the Vice-President Administration, or delegate.
+
+An Emergency Operations Centre may be established in the following locations on campus:
+
+      •    The Primary EOC will be established in the Kenmore Centre Classroom (KC-120), in close proximity
+           to the CSS office.
+      •    An Alternate EOC may be established in the Sankey Chamber, located on the 300 level of
+           Mackenzie Chown A-Block.
+
+Dependent upon the situation, should the locations listed above not be suitable due to scale or proximity
+to the incident, an Emergency Operations Centre may be established on or off campus in any facility
+deemed suitable by the EOC Director. In addition, should circumstances require, a virtual Emergency
+Operations Centre may be established using a platform such as but not limited to, Microsoft Teams.
+
+
+
+                                                                                                 23 | P a g e
+                                  Emergency Management Plan
+
+Upon activation of the Emergency Management Plan, members required to staff an Emergency
+Operations Centre will be notified of the nature of the incident and location of the Emergency Operations
+Centre in accordance with the process described in Annex 1 “Activation of the Emergency Operations
+Centre.”
+
+It is important to note that the staffing level of an Emergency Operations Centre will vary dependent upon
+the nature and scale of the incident. For example, a relatively simple incident may only require that
+command staff and key section leads be engaged. In contrast, a complex incident may call for a fully
+staffed Emergency Operations Centre with expanded support as appropriate.
+
+4.4       Brock Emergency Operations Centre Organizational Chart and Functional Roles
+
+Brock University has adopted a Site Support based EOC model, with amendment as necessary to best suit
+our organization. In the organizational chart below, positions in grey are commonly associated with an
+EOC and have been described earlier. The organizational charts that follow are not intended to be
+prescriptive, as additional resources (not depicted) may be invited to participate in the EOC as required.
+Functions in red are unique to Brock and are described below:
+
+
+
+
+As necessary, the Director of Emergency Management & Life Safety, may fill a role similar to that of
+Deputy EOC Director. This position will support the EOC Director during major incidents, assisting with the
+general operation and focus of the EOC in relation to operational objectives. The function of EOC Liaison
+will also be performed by the Director of Emergency Management or their delegate.
+
+The EOC Director Support will be staffed by the Executive Director – Office of the Vice-President
+Administration and will provide all necessary support to the EOC Director and may coordinate/deliver
+briefings for senior officials and develop associated documentation.
+
+The functional role of Academic Liaison will be filled by the Provost and Vice-President Academic or
+delegate. This is a critical role to ensure that the response is inclusive and considers (among other things):
+
+      •   risks to faculty/students both short and long-term,
+      •   challenges to the mission to deliver academic programming as well as student experience, and
+                                                                                           24 | P a g e
+                                  Emergency Management Plan
+
+      •   continuity of academic programming.
+
+Further, the Provost, or delegate, may add various positions that would report to them should it become
+necessary to support an effective and efficient response. For example, the Provost (or delegate) may ask one
+or more Vice-Provosts, Associate Vice-Presidents or Deans to participate in the EOC as the situation develops.
+This may be more likely in protracted or Level 3 or 4 incident response scenarios, or those circumstances
+where specific support or subject matter expertise is required, or in circumstances in which the impact of
+the situation makes it reasonable to do so.
+
+The EOC Director may request that the Vice-President Research, or delegate, assume a position in an
+expanded EOC. Responsibilities would be similar to those of the Academic Liaison, with a focus on all
+research related aspects. An expanded EOC could be staffed as outlined on the chart below with some or
+all positions implemented as necessary.
+
+
+
+
+As indicated earlier, IMS forms are available on the Emergency Management SharePoint site to support
+the work of the Brock EOC. Although not necessary in all incidents, these forms are helpful to ensure that
+the mission, objectives, and immediate action plans are developed. Brock staff with responsibility in an
+EOC should maintain familiarity with the forms that may be most often relied upon, specifically:
+
+      •   IMS 201:       Incident Briefing,
+      •   IMS 202:       Incident Objectives,
+      •   IMS 207:       Incident Organizational Chart, and
+      •   IMS 1001:      Incident Action Plan
+
+4.5       Emergency Assistance to the Brock Community
+
+Dependent upon the scale of the incident, assistance and support may be required for students, staff,
+faculty and/or members of the community at large. This will be considered during risk-specific planning
+                                                                                               25 | P a g e
+                                   Emergency Management Plan
+
+by the EOC Planning and Logistic Sections. In addition, the EOC may establish distinct working committees
+to examine issues, develop plans and return recommendations for consideration.
+
+An emergency on campus could result in a need for temporary shelter. Should a portion of a residence
+complex or other facility no longer be suitable for occupancy, the Walker Complex may be used as a
+temporary reception centre or shelter facility (for a brief period - generally less than 24 hours).
+
+A temporary shelter plan may be developed by the EOC Planning and Logistic Sections, and should
+consider:
+
+      •   Reception and registration of students who are temporarily displaced from their on-campus
+          housing,
+      •   Locating students who are temporarily displaced by the emergency, but have not registered at
+          the temporary shelter, including determining whether such students have been transferred off-
+          site for medical attention,
+      •   Establishing and maintaining a sign-in/sign-out registry for students who choose to leave the
+          temporary shelter for alternate accommodation,
+      •   Providing facilities for displaced students to contact family members to advise of their condition,
+          and as necessary, implementing a process for family members to obtain information with respect
+          to the health and welfare of their children/wards (see Annex 4-Inquiry Centre),
+      •   Access to alternate sources of prescription medicines where the student’s supply is inaccessible
+          due to the incident,
+      •   Providing access to showers, restroom facilities, and blankets/bedding on a temporary basis,
+      •   Providing emergency clothing, toiletries, meals, and funds,
+      •   Support regarding lost/misplaced documentation,
+      •   Where necessary, assisting in the implementation of transfers from the temporary shelter to
+          other accommodation, and
+      •   The provision of food/beverages should the temporary shelter be required for more than 6 hours.
+
+4.6       External Resources
+
+During an emergency, Brock University may access support from emergency service agencies, as well as
+several public-sector organizations. Organizations that may play a role in response and recovery include
+(but are not limited to):
+
+      •   Local Canadian and American Police Organizations
+      •   Regional Fire Coordinator
+      •   Fire Department Dispatch
+      •   Municipal Fire Services and Community Emergency Management Coordinators
+      •   Niagara Region, including:
+              o Emergency Planning
+              o Community Services
+              o EMS
+              o Public Health
+              o Environmental Health
+              o Public Works (Transportation, Waste Mgt, Water and Waste Services)
+              o Corporate Communications
+      •   Emergency Management Ontario
+
+                                                                                               26 | P a g e
+                                   Emergency Management Plan
+
+      •   Red Cross
+      •   The Salvation Army
+      •   Victim Services Niagara
+      •   Ministry Action Groups, including:
+              o Ministry of Municipal Affairs and Housing
+              o Ministry of Transportation
+              o CANUTEC
+              o Ministry of the Environment – Spills Action Centre
+              o Ministry of Natural Resources (MNR)
+              o Ministry of Agriculture, Food and Rural Affairs
+              o Environment Canada Severe Weather Desk
+      •   Niagara Peninsula Conservation Authority
+      •   Niagara Health System
+      •   Border Services, including:
+              o Canada Border Services Agency
+              o Land Border International Ports of Entry Canada
+              o Niagara Falls Bridge Commission
+      •   Cross Border Emergency Services, including:
+               o Niagara County Emergency Services
+              o Erie County Emergency Services
+      •   Educational Institutions (Niagara College/District School Boards)
+      •   Information Niagara – 211
+      •   Private Sector
+              o Enbridge Gas, Power Utilities
+      •   Amateur Radio Emergency Services (ARES) Niagara
+              o   Potential support for emergency communications, with established base station already
+                  in place at the Kenmore Centre (CSS).
+
+A list of organizations that may be available to support Brock University as well as current contact
+information may be found within Annex 9, “Emergency Resource Database.” This includes the Niagara
+Emergency Contact Directory, which provides confidential contact information for all local relevant
+organizations and stakeholders. This directory is maintained by Niagara Region Emergency Management.
+Should external resources be required, contact should generally be made by the assigned EOC Liaison
+Officer.
+
+4.7       Demobilization
+
+Once the incident response objectives have been met, the Incident Commander or an EOC Director will
+direct that incident responders and resources be released. This process is called demobilization.
+
+The demobilization process should include:
+
+      •   Releasing incident response personnel and resources as soon as they are no longer needed,
+      •   A formal check-out procedure,
+      •   Awareness of any mental and physical health and safety concerns with special emphasis on:
+              o Incident response personnel who have worked the longest or performed exhausting tasks
+                  who may need to be released first,
+              o Formal or informal support that may be needed for incident response personnel who
+                                                                                          27 | P a g e
+                                   Emergency Management Plan
+
+                  have been exposed to extreme stress or trauma,
+      •   The return of all equipment to the organization(s) who provided them,
+      •   Storing all records, data, and final reports for future reference, and
+      •   A plan for the transfer of ongoing recovery activities (if possible).
+
+It is important to note that releasing personnel and other resources is not the end of demobilization. An
+after-action review process offers important lessons for improvement. Demobilization should also
+include:
+
+      •   Hot wash/debrief activity
+              o A hot wash is an informal debrief with involved personnel that should take place
+                  immediately after the incident response ends,
+              o A debrief is usually an in-person session to capture feedback from incident response
+                  personnel that is often more structured and may take more time than a hot wash. Ideally,
+                  a debrief will involve both an in-person and a written commentary component to allow
+                  for feedback from those involved and should occur while the incident is still fresh in the
+                  minds of those involved.
+      •   After-action review is a process for:
+              o Reviewing and documenting the performance of tasks during an incident, and
+              o Making tangible recommendations in a report for improvement.
+      •   Improvement planning for future incidents:
+              o Taking recommendations from the after-action review process and best practices to
+                  improve the management of future incidents.
+
+
+At minimum, a hot wash should be conducted for all incidents that require an activation of a Brock
+Emergency Operations Centre. A hot wash alone may be appropriate for incidents that are relatively
+simple, including those that do not require a full EOC activation and/or are not protracted.
+
+In some cases (such as those for which a response may be protracted), the EOC Director may request that
+a mid-event debrief take place. Doing so may allow the organization to identify areas for improvement
+and implement changes to processes without delay, thereby enhancing the effectiveness of the ongoing
+response effort. Once the Incident Commander or an EOC Director has demobilized all resources, the
+process of deactivation has begun. This represents an end of incident activities and the return to normal
+operations.
+
+4.8       Emergency Recovery
+
+Once risks have been mitigated, the effort will transition from response to recovery. During this phase, it
+will be a priority to ensure that there is an effective structure for the administration, coordination and/or
+implementation of actions required to recover from the incident. The decision to transition to recovery
+operations rests with the EOC Director.
+
+Several options are open to the University with respect to managing recovery operations, all dependent
+upon the nature and scale of the emergency. They include, but are not limited to the following:
+
+      •   The EOC may remain activated in order to develop/implement a recovery plan. During this phase,
+          unless exigent circumstances exist, recommendations on actions should be brought forward to
+          senior staff for approval.
+                                                                                               28 | P a g e
+                                   Emergency Management Plan
+
+      •   The EOC may remain activated and designate a recovery committee or working group to examine
+          issues related to recovery and make appropriate recommendations. It will be the responsibility of
+          this working group to develop plans and recommend actions to the EOC. As is the case in the
+          previous model, unless exigent circumstances exist, recommendations adopted at the EOC level
+          would be brought forward to senior staff for approval.
+      •   The EOC may stand down and where necessary, a new committee focused on recovery may be
+          struck. This committee would be responsible to identify outstanding issues and recommend
+          actions to senior staff through a defined reporting structure.
+      •   The EOC may stand down and senior staff will continue to provide leadership and strategic
+          direction through the recovery phase.
+
+4.9       Emergency Exercises
+
+An exercise is a simulated emergency, in which Brock staff are asked to perform functions or roles that
+would be expected of them if the emergency were real. This process provides an opportunity to develop
+new or validate current plans and procedures, while raising awareness to prevention, mitigation,
+preparedness, response, and recovery capabilities. In addition, outside agencies may participate in or
+otherwise support emergency exercises at Brock, promoting an efficient and effective response capacity.
+
+As an essential component of any emergency management program, exercises have three main functions:
+
+      •   Validation: to validate plans, protocols, and procedures and demonstrate a capacity to effectively
+          respond to emergencies.
+      •   Training: to develop staff competencies, provide practice performing functions expected of staff
+          and to assess/improve performance.
+      •   Testing: to test well established procedures and identify/correct any gaps that exist.
+
+Emergency exercises can be discussion or operations based. Discussion based exercises may include
+seminars, workshops, table-top scenarios, or games. This format can highlight existing plans, policies and
+procedures while familiarizing staff with current or expected capabilities. Brock has used this exercise
+process to support the development of specific action plans, an example being the development of the
+COVID-19 Outbreak Management Plan.
+
+Operations based exercises are more complex, as they involve participants acting out their responses, as
+opposed to discussing how they would respond. These exercises may be classed as functional or full scale.
+
+A functional exercise tests the capability of individual or multiple emergency functions, with time
+constraints, normally in an EOC environment. In this case, simulated events drive activity at the
+management level within an EOC, however movement of personnel and equipment at site is simulated.
+Responders are not actually actively participating in the exercise. Functional exercises can provide an
+opportunity to:
+
+      •   evaluate the response of an EOC and staff working within,
+      •   reinforce established policies/procedures,
+      •   measure adequacy of resources available, and to
+      •   examine inter-jurisdictional relationships.
+
+
+
+                                                                                              29 | P a g e
+                                  Emergency Management Plan
+
+
+
+
+A full-scale exercise is the most complex and costly exercise format. These exercises may involve more
+than one organization and can be multi-jurisdictional. They are used to evaluate aspects of response and
+recovery in an interactive manner. Events unfold in a scripted exercise scenario that has the flexibility to
+allow updates to drive activities. The exercise occurs in real time with first responders deployed near the
+event so that they may conduct their actions as if it were a real incident. Full scale exercises can provide
+many opportunities to assess response, including but not limited to, organizational performance, inter-
+organizational cooperation, and inter-operability across organizations.
+
+As part of the emergency management program, Brock University conducts an emergency exercise on an
+annual basis.
+
+
+
+
+                                                                                              30 | P a g e
+                                Emergency Management Plan
+
+4.10    Emergency Plan Annex List and Additional Resources
+
+A number of confidential annexes have been developed to support the response to any incident at Brock
+University. A summary of each annex follows in the chart below:
+
+       Annex      Description
+         1        Emergency Alerting System
+                      • This outlines the process by which an Emergency Operations Centre will be
+                          activated at Brock and includes contact information for those who are
+                          expected to fulfill various functional roles both in a primary and alternate
+                          capacity.
+         2        HIRA (Hazard Identification Risk Assessment)
+                      • Similar to municipalities in Ontario, the University has prepared a Hazard
+                          identification Risk Assessment, commonly referred to as a “HIRA.” Through
+                          this process, hazards, and risks to the organization (and community) are
+                          assessed. Based on this assessment, an organization can plan responses to
+                          hazards and develop operational exercises to assess response readiness.
+         3        Department Emergency Plans
+                      • Various departments have completed emergency plans specific to their areas
+                          of responsibility. These plans include specific information that includes
+                          emergency contacts, general evacuation plans and muster points, evacuation
+                          planning for persons who require assistance, and the identification of
+                          essential functions and continuity planning.
+         4        Inquiry Centre
+                      • A procedure to respond and/or redirect inquiries when the capacity of the
+                          University to do so may otherwise be overwhelmed given the nature and
+                          scale of the incident.
+         5        Emergency Communication Plan
+                      • Marketing and Communications is responsible for the release of information
+                          to the Brock community and the community at large. In a crisis situation,
+                          Marketing and Communications may establish a Media Information Centre to
+                          ensure effective communication.
+         6        Emergency Shelter
+                      • This plan outlines actions to be taken in the event that shelter is required for
+                          on-campus residence students – both temporary and longer term.
+         7        Medical Emergency Response Planning
+                      • This annex describes the role and responsibility of Student Health Services in
+                          both acute and long-term medical emergencies.
+         8        Emergency Transportation
+                      • This annex outlines considerations and actions to be taken should there be a
+                          requirement to evacuate the University in situations where additional public
+                          transportation is required.
+         9        Emergency Resource Contact List
+                      • This annex contains contact information for various emergency response
+                          stakeholder groups
+
+
+
+
+                                                                                           31 | P a g e
+                                 Emergency Management Plan
+
+In addition, the following specific plans have been developed to support Brock University’s response
+capacity and remain available to Emergency Operations Centre staff as necessary:
+
+   •    Pandemic Plan – Guiding Document (applicable to all pandemics),
+   •    Pandemic Recovery General Guiding Document (COVID-19 specific),
+   •    Outbreak Management Plan,
+   •    Fire Safety Plans for each facility,
+   •    Containment Lab (level 3) Standard Operating Procedures,
+   •    Inclement Weather Procedures, and
+   •    The Brock University Faculty Handbook (which includes provisions relating to the disruption of
+        academic activities).
+
+
+
+
+                                                                                           32 | P a g e
+

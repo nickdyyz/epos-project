@@ -1,0 +1,32 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "AllowUserToSeeTheirOwnRequestsAndPlans",
+      "Effect": "Allow",
+      "Action": [
+        "s3:GetObject",
+        "s3:PutObject",
+        "s3:DeleteObject"
+      ],
+      "Resource": [
+        "arn:aws:s3:::emplan-plan-requests/requests/${cognito-identity.amazonaws.com:sub}/*",
+        "arn:aws:s3:::emplan-plan-requests/plans/${cognito-identity.amazonaws.com:sub}/*"
+      ]
+    },
+    {
+      "Sid": "AllowUserToListTheirOwnFolders",
+      "Effect": "Allow",
+      "Action": "s3:ListBucket",
+      "Resource": "arn:aws:s3:::emplan-plan-requests",
+      "Condition": {
+        "StringLike": {
+          "s3:prefix": [
+            "requests/${cognito-identity.amazonaws.com:sub}/*",
+            "plans/${cognito-identity.amazonaws.com:sub}/*"
+          ]
+        }
+      }
+    }
+  ]
+} 

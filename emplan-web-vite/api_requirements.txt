@@ -1,0 +1,8 @@
+flask==2.3.3
+flask-cors==4.0.0
+ollama==0.1.7
+pathlib2==2.3.7
+# PDF Generation Libraries
+reportlab==4.0.4
+PyPDF2==3.0.1
+markdown==3.5.1 

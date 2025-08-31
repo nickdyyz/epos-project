@@ -1,0 +1,857 @@
+Safety & [PERSON_NAME] [PERSON_NAME] Plan
+2024-2025
+[PERSON_NAME] [PERSON_NAME] 2 of 38
+March 2025 | [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]                                                                     3
+Section 1. [PERSON_NAME]                                                       5
+[PERSON_NAME]                                                                      5
+Revisions                                                                             5
+        [PERSON_NAME]                                                          5
+Acronyms/Abbreviations                                                                6
+
+Section 2. [PERSON_NAME] Profile                                           8
+[PERSON_NAME] Campus                                                              8
+      [PERSON_NAME] (UNA)                                     8
+
+Section 3. [PERSON_NAME]                                                             9
+Introduction                                                                          9
+Purpose                                                                               9
+Scope                                                                                 9
+[PERSON_NAME]                                                        10
+[PERSON_NAME] [PERSON_NAME] Vulnerability         10
+[PERSON_NAME] Plan                                                              11
+[PERSON_NAME] Documents                                                          12
+
+Section 4. [PERSON_NAME]                                              14
+[PERSON_NAME]                                                                    14
+[PERSON_NAME]                                                                    15
+         [PERSON_NAME] [PERSON_NAME]                                       15
+
+Section 5. Mitigation                                                              16
+        [PERSON_NAME]                                                         16
+
+Section 6. Preparedness                                                            17
+[PERSON_NAME] Information                                                  17
+[PERSON_NAME]                                                                     18
+Training, [PERSON_NAME] Program                                            19
+         [PERSON_NAME]                                                       19
+         Engagement                                                                  19
+Hazards, [PERSON_NAME] (HRVA)                                             19
+[PERSON_NAME]                                                          19
+
+Section 7. [PERSON_NAME] [PERSON_NAME]                            20
+Section 8. UBCV’s [PERSON_NAME]                                            21
+
+  [PERSON_NAME] [PERSON_NAME] 3 of 38
+  March 2025 | [PERSON_NAME] Phases                                                               21
+[PERSON_NAME]                                                       22
+[PERSON_NAME]                                                                    23
+[PERSON_NAME] Level                                                        23
+[PERSON_NAME] Centre (EOC)                                      23
+        [PERSON_NAME] [PERSON_NAME]                          23
+[PERSON_NAME] (CMT)                                                  24
+UBCV’s [PERSON_NAME]                                                    24
+
+Section 9. Recovery                                                         25
+[PERSON_NAME] Recovery                                                      25
+[PERSON_NAME] Recovery                                                      26
+
+Section 10. [PERSON_NAME]                                        27
+[PERSON_NAME]                                                            27
+
+Appendices                                                                  28
+Geographical/[PERSON_NAME]                                        29
+[PERSON_NAME]                                                           30
+Glossary                                                                      32
+[PERSON_NAME]                                                        35
+         [PERSON_NAME]                                                 35
+         [PERSON_NAME]                                                    35
+[PERSON_NAME], [PERSON_NAME], [PERSON_NAME]         36
+[PERSON_NAME]                                                               37
+
+
+
+
+  [PERSON_NAME] [PERSON_NAME] 4 of 38
+  March 2025 | [PERSON_NAME] 1. [PERSON_NAME] [PERSON_NAME] Vancouver, [PERSON_NAME] ([PERSON_NAME]) [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] & [PERSON_NAME], [PERSON_NAME] (SRS-EM) team. [PERSON_NAME] [PERSON_NAME]:
+
+         [PERSON_NAME] [PERSON_NAME];
+         [PERSON_NAME] and/[PERSON_NAME];
+         [PERSON_NAME]/[PERSON_NAME];
+         [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] procedure;
+         [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] table, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+
+[PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+revisions; [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] Director,
+[PERSON_NAME] Services.
+
+[PERSON_NAME]
+
+ [PERSON_NAME]      [PERSON_NAME]                                   [PERSON_NAME]
+ November, 2024       [PERSON_NAME] a [PERSON_NAME]           [DATE]
+                      [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] (EDMA) [PERSON_NAME] force [DATE].
+
+
+
+
+  [PERSON_NAME] [PERSON_NAME] 5 of 38
+  March 2025 | [PERSON_NAME]/Abbreviations
+
+C&[PERSON_NAME] [PERSON_NAME]             [PERSON_NAME] [PERSON_NAME]
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+
+[PERSON_NAME] [PERSON_NAME]
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME]              [PERSON_NAME] [PERSON_NAME]               [PERSON_NAME]
+
+[PERSON_NAME] [PERSON_NAME]
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME]              Hazard, Risk, [PERSON_NAME]
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME]             [PERSON_NAME] [PERSON_NAME]
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]               [PERSON_NAME]
+
+[PERSON_NAME] [PERSON_NAME]              [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]                                 Page 6 of 38
+     March 2025 | [PERSON_NAME]            Post-[PERSON_NAME]          [PERSON_NAME] [PERSON_NAME]           [PERSON_NAME]-[PERSON_NAME] [PERSON_NAME]           [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+
+SRS-[PERSON_NAME] [PERSON_NAME], [PERSON_NAME]            [PERSON_NAME]
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME]                               Page 7 of 38
+  March 2025 | [PERSON_NAME] 2. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] (UBCV) [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] xʷməθkʷəy̓əm (Musqueam). [PERSON_NAME] [PERSON_NAME]’s [PERSON_NAME] [PERSON_NAME]
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] – [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]’s [PERSON_NAME] (ISP).
+
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] 30,000 ([PERSON_NAME] [PERSON_NAME]) [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME], [PERSON_NAME]-[PERSON_NAME] nearly 100,000, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME]’s (MVRD) [PERSON_NAME] A on 400 [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+academic/[PERSON_NAME], [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] shops, [PERSON_NAME], and a hospital. [PERSON_NAME] [PERSON_NAME] services, [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] Columbia. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] routes. [PERSON_NAME] [PERSON_NAME]-[PERSON_NAME]
+[PERSON_NAME], [PERSON_NAME] post-[PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME], [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] measures, [PERSON_NAME] [PERSON_NAME] services. [PERSON_NAME], [PERSON_NAME] is a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME] (UNA)
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] neighbourhoods, totaling 13,000
+residents. [PERSON_NAME] [PERSON_NAME] UBC’s [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME]:
+
+          [PERSON_NAME];
+          [PERSON_NAME];
+          [PERSON_NAME];
+          [PERSON_NAME], and
+          [PERSON_NAME].
+
+[PERSON_NAME] a [PERSON_NAME] types, [PERSON_NAME], low-[PERSON_NAME]-[PERSON_NAME] ([PERSON_NAME] 22 storeys)
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] a [PERSON_NAME] [PERSON_NAME] Act. [PERSON_NAME] a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] Agreement 2024; [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] services.
+
+
+
+
+  [PERSON_NAME] [PERSON_NAME] 8 of 38
+  March 2025 | [PERSON_NAME] 3. [PERSON_NAME]
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] for, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME], [PERSON_NAME] emergencies, [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]. Therefore, [PERSON_NAME] [PERSON_NAME] large-[PERSON_NAME] [PERSON_NAME] [PERSON_NAME], faculty, [PERSON_NAME] impacted. [PERSON_NAME] [PERSON_NAME], multi-[PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+
+[PERSON_NAME] [PERSON_NAME] executable, [PERSON_NAME] [PERSON_NAME], faculty, [PERSON_NAME]
+[PERSON_NAME], [PERSON_NAME] a [PERSON_NAME] emergencies, incidents, [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME]:
+
+          [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] of a disaster;
+          [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME];
+          [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] emergency.
+
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] UNA, [PERSON_NAME] Square; [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] (EOC) [PERSON_NAME] [PERSON_NAME].
+
+
+
+
+  [PERSON_NAME] [PERSON_NAME] 9 of 38
+  March 2025 | [PERSON_NAME] [PERSON_NAME]’s [PERSON_NAME] [PERSON_NAME]:
+
+    1.   [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+    2.   [PERSON_NAME].
+    3.   [PERSON_NAME].
+    4.   [PERSON_NAME].
+    5.   [PERSON_NAME].
+    6.   [PERSON_NAME].
+    7.   [PERSON_NAME].
+    8.   [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] 2016 (BCEMS).
+
+
+[PERSON_NAME] [PERSON_NAME]
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME]’s [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] (ISP) [PERSON_NAME] [PERSON_NAME]
+[PERSON_NAME] [PERSON_NAME] action.
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME]’s [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] (IAP)
+[PERSON_NAME] [PERSON_NAME]’s [PERSON_NAME] traditional, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] vulnerability.
+
+
+
+
+  [PERSON_NAME] [PERSON_NAME] 10 of 38
+  March 2025 | [PERSON_NAME] [PERSON_NAME]
+
+[PERSON_NAME]-[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] legislation: [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME], Part 2 [PERSON_NAME] Safety, [PERSON_NAME]
+[PERSON_NAME] Regulation, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+[PERSON_NAME] [PERSON_NAME] Act (EDMA), [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] to:
+
+          [PERSON_NAME] & Safety (SC01)
+          [PERSON_NAME] Management (SC10)
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] a [PERSON_NAME] (CMT) [PERSON_NAME]’s [PERSON_NAME] [PERSON_NAME], [PERSON_NAME],
+[PERSON_NAME], [PERSON_NAME] [PERSON_NAME], strategic, financial, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] occurs, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] (GA1).
+
+
+
+
+  [PERSON_NAME] [PERSON_NAME] 11 of 38
+  March 2025 | [PERSON_NAME] [PERSON_NAME]
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+ Document(s)                      Purpose/[PERSON_NAME](s)/Lead(s)
+ [PERSON_NAME]      [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+ Plans (BERP)                     [PERSON_NAME] [PERSON_NAME]             (SRS)
+                                  [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+ [PERSON_NAME] (CPs)           [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+                                  [PERSON_NAME] a disruption. [PERSON_NAME]           [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]/[PERSON_NAME].
+ [PERSON_NAME] (e.g.,        [PERSON_NAME] [PERSON_NAME]               [PERSON_NAME], [PERSON_NAME]         [PERSON_NAME] [PERSON_NAME], [PERSON_NAME])                 capabilities; [PERSON_NAME]/[PERSON_NAME], [PERSON_NAME] services,
+                                  [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] emergency. [PERSON_NAME]
+                                  [PERSON_NAME] [PERSON_NAME]
+                                  Plan.
+ [PERSON_NAME] Plan       A [PERSON_NAME] [PERSON_NAME]                    [PERSON_NAME] [PERSON_NAME]
+                                  [PERSON_NAME], [PERSON_NAME] research.
+ [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]/Department/[PERSON_NAME] (e.g., flood, etc.). Typically, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+ [PERSON_NAME]       [PERSON_NAME] [PERSON_NAME]           [PERSON_NAME], [PERSON_NAME]-[PERSON_NAME] [PERSON_NAME]
+                                  [PERSON_NAME] [PERSON_NAME]-[PERSON_NAME].
+ [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]              [PERSON_NAME] (IT)
+ Response ([PERSON_NAME] 3)    [PERSON_NAME] [PERSON_NAME]
+                                  [PERSON_NAME] integrity.
+ Hazard, [PERSON_NAME]   Hazard, [PERSON_NAME] [PERSON_NAME]
+ Assessment (HRVA)                [PERSON_NAME] risk-[PERSON_NAME]
+                                  [PERSON_NAME], [PERSON_NAME]
+                                  [PERSON_NAME] to, [PERSON_NAME], a
+                                  [PERSON_NAME].
+ [PERSON_NAME]         [PERSON_NAME]-[PERSON_NAME] [PERSON_NAME]
+ [PERSON_NAME] A [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]’s [PERSON_NAME] A region.
+
+
+
+
+  [PERSON_NAME] [PERSON_NAME] 12 of 38
+  March 2025 | [PERSON_NAME](s)                     Purpose/[PERSON_NAME](s)/Lead(s)
+[PERSON_NAME]    [PERSON_NAME] a [PERSON_NAME] a net-[PERSON_NAME] & [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] (C&CP)
+                                [PERSON_NAME]’s [PERSON_NAME].
+[PERSON_NAME] 2030        [PERSON_NAME] a UBC-[PERSON_NAME] both            C&[PERSON_NAME] [PERSON_NAME]
+                                [PERSON_NAME] [PERSON_NAME]
+                                [PERSON_NAME] [PERSON_NAME],
+                                [PERSON_NAME] change; [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME],
+                                [PERSON_NAME], [PERSON_NAME]
+                                [PERSON_NAME] time.
+[PERSON_NAME]           A [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]     [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]                 UBC’s [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] beyond.
+[PERSON_NAME] 2050              [PERSON_NAME] a comprehensive, 2.5-[PERSON_NAME]             C&[PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+                                [PERSON_NAME] [PERSON_NAME]
+                                [PERSON_NAME] [PERSON_NAME]
+                                [PERSON_NAME] a Musqueam-[PERSON_NAME], co-[PERSON_NAME] [PERSON_NAME],
+                                [PERSON_NAME] [PERSON_NAME]
+                                [PERSON_NAME] [PERSON_NAME] Plan.
+
+
+
+
+ [PERSON_NAME] [PERSON_NAME] 13 of 38
+ March 2025 | [PERSON_NAME] 4. [PERSON_NAME]
+[PERSON_NAME]                     [PERSON_NAME]
+[PERSON_NAME] [PERSON_NAME](s) [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] Policy (SC10) [PERSON_NAME]
+                          [PERSON_NAME]. [PERSON_NAME], Resolution 20-[PERSON_NAME] [PERSON_NAME] [PERSON_NAME]—specifically, [PERSON_NAME] [PERSON_NAME]
+                          Governors, Chancellor, [PERSON_NAME]—[PERSON_NAME] [PERSON_NAME]
+                          [PERSON_NAME] [PERSON_NAME] a disaster.
+
+                          [PERSON_NAME] [PERSON_NAME] (CMT) [PERSON_NAME] for a non-[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] risk.
+
+                          [PERSON_NAME] [PERSON_NAME].
+
+                          [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] (IMT) [PERSON_NAME] Centre (EOC) [PERSON_NAME] [PERSON_NAME] incident.
+
+                          Ensures a [PERSON_NAME] [PERSON_NAME] a [PERSON_NAME], conducts a post-
+                          [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] emergency/[PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME] mechanisms (EOC, IMT, DOC) [PERSON_NAME]-[PERSON_NAME]
+[PERSON_NAME] (CIRT)      [PERSON_NAME] [PERSON_NAME] impacts.
+
+VPs, Deans, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] event, [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME]    [PERSON_NAME] to a [PERSON_NAME] [PERSON_NAME]/[PERSON_NAME](s)                   activities.
+
+                          [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] safety.
+
+[PERSON_NAME] ([PERSON_NAME] [PERSON_NAME] [PERSON_NAME] University (e.g., [PERSON_NAME] Services,
+[PERSON_NAME] SC10)          [PERSON_NAME], [PERSON_NAME], Facilities, [PERSON_NAME]
+                          [PERSON_NAME]); [PERSON_NAME]-[PERSON_NAME], response,
+                          [PERSON_NAME].
+
+
+
+
+ [PERSON_NAME] [PERSON_NAME] 14 of 38
+ March 2025 | [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] (EMCR) [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] (ECC), [PERSON_NAME] [PERSON_NAME] (PREOCs),
+and/[PERSON_NAME] [PERSON_NAME] (PECC), [PERSON_NAME], [PERSON_NAME] [PERSON_NAME]
+[PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] Post-[PERSON_NAME] [PERSON_NAME] (PSFS) [PERSON_NAME] [PERSON_NAME] Post-[PERSON_NAME] (PSIs); [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+ [PERSON_NAME] [PERSON_NAME]     [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+                     [PERSON_NAME] District (MVRD) [PERSON_NAME]’s [PERSON_NAME] [PERSON_NAME]
+                     [PERSON_NAME] a [PERSON_NAME] [PERSON_NAME] a [PERSON_NAME] [PERSON_NAME] UBCV.
+
+                     [PERSON_NAME] a [PERSON_NAME] [PERSON_NAME] – [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+                     [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+                     community.
+
+ [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], fire, ambulance, [PERSON_NAME]/[PERSON_NAME]/[PERSON_NAME] [PERSON_NAME].
+
+ [PERSON_NAME]-   [PERSON_NAME]/[PERSON_NAME] [PERSON_NAME] [PERSON_NAME]           [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] (PECC)/[PERSON_NAME]       [PERSON_NAME] [PERSON_NAME] (CERRC).
+ [PERSON_NAME]
+ (PSFS)              Activates a [PERSON_NAME] (MOC) [PERSON_NAME] [PERSON_NAME], [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+                     [PERSON_NAME] and/[PERSON_NAME]:
+                          [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME];
+                          [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]; and
+                          [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+ [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME]’
+                     Agreement 2024.
+
+
+
+
+  [PERSON_NAME] [PERSON_NAME] 15 of 38
+  March 2025 | [PERSON_NAME] 5. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] scale, scope, [PERSON_NAME] [PERSON_NAME], [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME] a policy ([PERSON_NAME] SC10) [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]-[PERSON_NAME]
+                                       [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] unit. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] scenarios:
+                                             [PERSON_NAME] [PERSON_NAME];
+                                             [PERSON_NAME];
+                                             [PERSON_NAME];
+                                             [PERSON_NAME].
+ [PERSON_NAME] a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]’s [PERSON_NAME] [PERSON_NAME], deductibles, [PERSON_NAME].
+ [PERSON_NAME]               Since 2016 [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] with a [PERSON_NAME] [PERSON_NAME]-[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] utilities, [PERSON_NAME] continuity. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] priorities.
+ [PERSON_NAME] [PERSON_NAME] a [PERSON_NAME] [PERSON_NAME] severity,
+                                       complexity, [PERSON_NAME] of, [PERSON_NAME], [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] a [PERSON_NAME]
+                                       [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] requires.
+ [PERSON_NAME] Plan 2030          [PERSON_NAME] [PERSON_NAME] 2030 (CAP 2030) is a UBC-[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+                                       [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] implementation, [PERSON_NAME], [PERSON_NAME] decision-[PERSON_NAME].
+ Adaptation, [PERSON_NAME] [PERSON_NAME] a [PERSON_NAME], [PERSON_NAME]
+ [PERSON_NAME] [PERSON_NAME] "umbrella" [PERSON_NAME] [PERSON_NAME],
+                                       [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] as a [PERSON_NAME] [PERSON_NAME]-[PERSON_NAME].
+
+
+
+
+  [PERSON_NAME] [PERSON_NAME] 16 of 38
+  March 2025 | [PERSON_NAME] 6. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] knowledge, capability, [PERSON_NAME] anticipate, [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+
+[PERSON_NAME] [PERSON_NAME] a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] type, [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+
+
+
+[PERSON_NAME] [PERSON_NAME]’s [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] ([PERSON_NAME] [PERSON_NAME]
+[PERSON_NAME] notifications).
+
+[PERSON_NAME].[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] up-to-[PERSON_NAME] [PERSON_NAME]. [PERSON_NAME].[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] ([PERSON_NAME] [PERSON_NAME]).
+
+[PERSON_NAME] [PERSON_NAME] a [PERSON_NAME] [PERSON_NAME] Vancouver ([PERSON_NAME] students,
+faculty, [PERSON_NAME] visitors) [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+notifications ([PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] notifications, e.g.,
+[PERSON_NAME], [PERSON_NAME], etc.).
+
+  [PERSON_NAME] [PERSON_NAME] 17 of 38
+  March 2025 | [PERSON_NAME] [PERSON_NAME]’s [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] A
+(UBCV/UNA) [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] region.
+
+[PERSON_NAME]’s [PERSON_NAME] System ([PERSON_NAME] [PERSON_NAME]) [PERSON_NAME]
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] required. [PERSON_NAME] [PERSON_NAME], [PERSON_NAME]
+[PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] system. [PERSON_NAME] [PERSON_NAME] tens-of-[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME].
+
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME]-[PERSON_NAME] [PERSON_NAME] a risk-[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] ([PERSON_NAME] [PERSON_NAME] 45).
+
+
+
+
+  [PERSON_NAME] [PERSON_NAME] 18 of 38
+  March 2025 | [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME]‐[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] response. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] (e.g., [PERSON_NAME] [PERSON_NAME], Facilities, UNA) [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME]:
+
+          [PERSON_NAME];
+          [PERSON_NAME] (RDA);
+          [PERSON_NAME] - [PERSON_NAME], [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME], responsibilities, processes, procedures, [PERSON_NAME].
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] cycle. At a minimum, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] aspects.
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] through a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME], [PERSON_NAME], [PERSON_NAME] Day, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+
+Hazards, [PERSON_NAME] (HRVA)
+
+[PERSON_NAME] a Hazard, Risk, [PERSON_NAME] (HRVA) [PERSON_NAME] [PERSON_NAME]-[PERSON_NAME]
+[PERSON_NAME], [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME]
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] Vancouver, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] (IPREM) [PERSON_NAME] a [PERSON_NAME] workshops, [PERSON_NAME]’s [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] includes:
+      1. Earthquake
+      2. [PERSON_NAME]
+      3. Flooding
+      4. [PERSON_NAME] wildfires
+      5. Landslides
+A [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+
+[PERSON_NAME]
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] readiness. [PERSON_NAME] [PERSON_NAME] to: [PERSON_NAME], [PERSON_NAME], [PERSON_NAME], [PERSON_NAME] redundancy.
+
+[PERSON_NAME] maintains a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] post-disaster.
+
+
+
+
+  [PERSON_NAME] [PERSON_NAME] 19 of 38
+  March 2025 | [PERSON_NAME] 7. [PERSON_NAME]
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] (BCEMS) is a [PERSON_NAME] [PERSON_NAME] a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] a [PERSON_NAME] a
+[PERSON_NAME] developing, coordinating, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+In 2016 [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] a [PERSON_NAME] [PERSON_NAME] phases: mitigation,
+preparedness, response, [PERSON_NAME].
+
+
+
+
+  [PERSON_NAME] [PERSON_NAME] 20 of 38
+  March 2025 | [PERSON_NAME] 8. UBCV’s [PERSON_NAME]’s [PERSON_NAME] [PERSON_NAME] a site (i.e., [PERSON_NAME] facilities) [PERSON_NAME]
+(i.e., [PERSON_NAME]) [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME]; [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] required.
+
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], provincial, [PERSON_NAME],
+[PERSON_NAME] [PERSON_NAME], following a [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]: [PERSON_NAME] response. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] phases.
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] care, [PERSON_NAME] [PERSON_NAME],
+[PERSON_NAME] [PERSON_NAME] for a sustained, [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME], a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], e.g., [PERSON_NAME] a [PERSON_NAME], [PERSON_NAME]/[PERSON_NAME] areas.
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME]; however, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] authorities.
+
+Once a [PERSON_NAME] requested, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+[PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME].
+
+
+
+
+  [PERSON_NAME] [PERSON_NAME] 21 of 38
+  March 2025 | [PERSON_NAME] 1 – [PERSON_NAME]
+
+
+
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], with a well-[PERSON_NAME], [PERSON_NAME]
+[PERSON_NAME] understood. Typically, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], i.e.,
+department-[PERSON_NAME]/[PERSON_NAME] plan(s). [PERSON_NAME] [PERSON_NAME] a
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME]
+[PERSON_NAME] [PERSON_NAME] (i.e., DOC). [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME]/department(s) [PERSON_NAME] [PERSON_NAME](s) [PERSON_NAME] [PERSON_NAME]. Examples: short-[PERSON_NAME], [PERSON_NAME].
+
+Non-[PERSON_NAME] [PERSON_NAME] a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+require a [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] activities. [PERSON_NAME] Team (IMT) [PERSON_NAME]-[PERSON_NAME] DOCs. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] necessary, [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] fully,
+[PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+[PERSON_NAME]. Examples: [PERSON_NAME], [PERSON_NAME], [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME], [PERSON_NAME], [PERSON_NAME] [PERSON_NAME]; [PERSON_NAME] [PERSON_NAME]; [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] 22 of 38
+  March 2025 | [PERSON_NAME] [PERSON_NAME], e.g., earthquake, [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME]/[PERSON_NAME]. A [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], and/[PERSON_NAME]. [PERSON_NAME](s)/department(s) [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] plan(s) [PERSON_NAME] [PERSON_NAME] EOC.
+
+
+[PERSON_NAME]’s [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], e.g., [PERSON_NAME], Facilities, [PERSON_NAME] [PERSON_NAME] (SHCS) [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+[PERSON_NAME] [PERSON_NAME] continue. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], i.e., police, fire, [PERSON_NAME], [PERSON_NAME] [PERSON_NAME].
+
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] (IMT) [PERSON_NAME]-[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] a [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME], [PERSON_NAME]
+[PERSON_NAME] virtually, in-[PERSON_NAME].
+
+
+[PERSON_NAME] Centre (EOC)
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] a [PERSON_NAME]
+[PERSON_NAME] a [PERSON_NAME] stakeholders. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]’s [PERSON_NAME].
+
+[PERSON_NAME], UBCV:
+
+          [PERSON_NAME];
+          [PERSON_NAME] [PERSON_NAME], [PERSON_NAME], [PERSON_NAME];
+          [PERSON_NAME] [PERSON_NAME] employees;
+          [PERSON_NAME], [PERSON_NAME];
+          [PERSON_NAME];
+          [PERSON_NAME] [PERSON_NAME], PSFS, EMCR, [PERSON_NAME], [PERSON_NAME]
+           agencies;
+          [PERSON_NAME] [PERSON_NAME];
+          [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME];
+          [PERSON_NAME];
+          [PERSON_NAME] [PERSON_NAME];
+          [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]/[PERSON_NAME] [PERSON_NAME] briefings, email, [PERSON_NAME], [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] each.
+
+
+
+  [PERSON_NAME] [PERSON_NAME] 23 of 38
+  March 2025 | [PERSON_NAME] [PERSON_NAME] plans/[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]’s [PERSON_NAME], [PERSON_NAME] [PERSON_NAME].
+
+
+[PERSON_NAME] (CMT)
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] a [PERSON_NAME] [PERSON_NAME], [PERSON_NAME]/[PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME]; [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+guidance. However, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] without a [PERSON_NAME]
+[PERSON_NAME] [PERSON_NAME] activation.
+
+
+UBCV’s [PERSON_NAME]-[PERSON_NAME]’s [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] part, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] events. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+[PERSON_NAME].
+
+A UBC-V [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME]
+a [PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] ([PERSON_NAME] C -
+[PERSON_NAME]). [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+[PERSON_NAME] [PERSON_NAME]:
+
+          [PERSON_NAME], Safety & [PERSON_NAME] designate;
+          Director, [PERSON_NAME] [PERSON_NAME] designate.
+
+Figure 2 – [PERSON_NAME]
+
+
+
+
+  [PERSON_NAME] [PERSON_NAME] 24 of 38
+  March 2025 | [PERSON_NAME] 9. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]/[PERSON_NAME]:
+
+         [PERSON_NAME] UBCV’s [PERSON_NAME] [PERSON_NAME] a disaster;
+         [PERSON_NAME] [PERSON_NAME] or, [PERSON_NAME], [PERSON_NAME];
+         [PERSON_NAME]-[PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+UBCV’s [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+
+[PERSON_NAME] [PERSON_NAME]
+ [PERSON_NAME]          [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]: [PERSON_NAME]       [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] incident.
+
+                                      [PERSON_NAME] services, programs, [PERSON_NAME] [PERSON_NAME] a
+                                      [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+                                      [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] when a
+                                      [PERSON_NAME].
+
+                                      [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] required.
+ [PERSON_NAME]               [PERSON_NAME] attractions, [PERSON_NAME] activities,
+ [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] purposes.
+
+ [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+                                      following a disaster.
+
+                                      [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+ [PERSON_NAME]         [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME]/[PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+                                      [PERSON_NAME]/[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] threat.
+ [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], e.g., [PERSON_NAME].
+ [PERSON_NAME]-[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+                                      [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+
+
+
+  [PERSON_NAME] [PERSON_NAME] 25 of 38
+  March 2025 | [PERSON_NAME] [PERSON_NAME]
+
+[PERSON_NAME] [PERSON_NAME]: short, [PERSON_NAME]-term, [PERSON_NAME] [PERSON_NAME].
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] stages. [PERSON_NAME] [PERSON_NAME], or,
+[PERSON_NAME] [PERSON_NAME]. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] recovery. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+[PERSON_NAME] [PERSON_NAME] years.
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], mandate, [PERSON_NAME]. [PERSON_NAME],
+[PERSON_NAME] [PERSON_NAME]-[PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+
+
+
+  [PERSON_NAME] [PERSON_NAME] 26 of 38
+  March 2025 | [PERSON_NAME] 10. [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] actions, [PERSON_NAME] [PERSON_NAME] a [PERSON_NAME] ([PERSON_NAME] 20 – [PERSON_NAME]) [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]:
+
+         [PERSON_NAME] [PERSON_NAME];
+         Chancellor;
+         President.
+
+
+
+
+  [PERSON_NAME] [PERSON_NAME] 27 of 38
+  March 2025 | [PERSON_NAME]
+
+
+
+
+ [PERSON_NAME] [PERSON_NAME] 28 of 38
+ March 2025 | [PERSON_NAME]/[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] 29 of 38
+ March 2025 | [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]                         [URL]
+                                                       9E77A41F30B9D533
+[PERSON_NAME]                                        [URL]-safety-and-
+                                                       emergency-services/emergency-preparedness-response-
+                                                       recovery/provincial-emergency-planning/embc-all-hazard-
+                                                       plan.[PERSON_NAME] List                                [URL]-
+                                                       management/local-emergency-programs/establishing-an-
+                                                       emergency-program#planning-[PERSON_NAME] Plans                             [URL]-
+                                                       management/emergency-management/provincial-
+                                                       emergency-[PERSON_NAME] [PERSON_NAME]               [URL]-safety-and-
+[PERSON_NAME]-services/emergency-preparedness-response-
+                                                       recovery/embc/plans/peirs.[PERSON_NAME] [PERSON_NAME] (BCEMS)                 [URL]-safety-and-
+                                                       emergency-services/emergency-preparedness-response-
+                                                       recovery/embc/bcems/bcems_guide.[PERSON_NAME] [PERSON_NAME] and             [URL]-
+[PERSON_NAME]/prevention#:~:text=The%20goal%20of%20the%20BC
+                                                       ,disciplines%20of%20the%20FireSmart%20program.
+ClimateReadyBC                                         [URL]
+[PERSON_NAME]                     [URL]-
+                                                       management/local-emergency-programs/assessment-
+                                                       analysis#[PERSON_NAME] [PERSON_NAME]                      [URL]-
+                                                       management/local-emergency-programs/[PERSON_NAME]-[PERSON_NAME]                     [URL]
+                                                       -people/new-relationship/united-nations-declaration-on-the-
+                                                       rights-of-indigenous-peoples/distinctions-based-[PERSON_NAME]                                                [URL]
+[PERSON_NAME] [PERSON_NAME]                  [URL]-
+                                                       Legacy.aspx#%2Fcontent%2Fdata%2520-
+                                                       %2520ldp%2Fpages%2F42nd4th%2F3rd_read%2Fgov31-
+                                                       3.[PERSON_NAME] [PERSON_NAME]                             [URL]-
+                                                       [PERSON_NAME] Guidelines                             [URL]-safety-and-
+                                                       emergency-services/emergency-preparedness-response-
+                                                       recovery/local-government/eoc_operational_guidelines.[PERSON_NAME] [PERSON_NAME]                  [URL]
+Community: [PERSON_NAME] [PERSON_NAME]-prep/
+[PERSON_NAME] Disabilities, [PERSON_NAME]
+
+
+ [PERSON_NAME] [PERSON_NAME] 30 of 38
+ March 2025 | [PERSON_NAME], [PERSON_NAME] Analysis (HRVA)    [URL]-
+                                                  management/local-emergency-programs/assessment-
+                                                  analysis#[PERSON_NAME] [PERSON_NAME]         [URL]-safety-and-
+[PERSON_NAME]-services/emergency-preparedness-response-
+                                                  recovery/embc/legislation/ier_primer.[PERSON_NAME]-Land.ca                                    [URL]
+
+Policy 2.14 [PERSON_NAME] Navigator     [URL]-safety-and-
+[PERSON_NAME] [PERSON_NAME]-services/emergency-preparedness-response-
+                                                  recovery/embc/policies/214_embc_community_navigator_for
+                                                  _ess_policy.[PERSON_NAME] 2.15 [PERSON_NAME] Support   [URL]-safety-and-
+                                                  emergency-services/emergency-preparedness-response-
+                                                  recovery/embc/policies/215_embc_cultural_activites_location
+                                                  _support_cals_policy.[PERSON_NAME]-[PERSON_NAME]               Post-[PERSON_NAME] [PERSON_NAME]
+                                                  [PERSON_NAME]:
+                                                  [URL]-
+                                                  secondary-education/institution-resources-
+                                                  administration/emergency-support/psi_irp.[PERSON_NAME]-[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] Guide:
+                                                  [URL]-
+                                                  secondary-education/institution-resources-
+                                                  administration/emergency-support/psi_rrpg.[PERSON_NAME] [PERSON_NAME]         [URL]-
+                                                  management/preparedbc/guides-and-[PERSON_NAME] [PERSON_NAME]              [URL]
+                                                  86A938616F03B9CD
+
+
+
+
+ [PERSON_NAME] [PERSON_NAME] 31 of 38
+ March 2025 | [PERSON_NAME]
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] incident.
+
+[PERSON_NAME] [PERSON_NAME] mobilizing a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], process, [PERSON_NAME] [PERSON_NAME] incident.
+
+Authority                  a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] a department, agency, [PERSON_NAME].
+
+
+[PERSON_NAME]         a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] evacuation.
+
+[PERSON_NAME] [PERSON_NAME], ordering, [PERSON_NAME] [PERSON_NAME], regulatory, [PERSON_NAME].
+
+[PERSON_NAME] a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] 53
+plan (EDMA)                [[PERSON_NAME]] [PERSON_NAME] [PERSON_NAME] Act.
+
+[PERSON_NAME] a system, network, facility, [PERSON_NAME] (e.g., [PERSON_NAME], [PERSON_NAME]
+(EDMA)                     [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] health, [PERSON_NAME]-
+                           [PERSON_NAME]) [PERSON_NAME] 48 [[PERSON_NAME]] [PERSON_NAME] [PERSON_NAME] Act.
+[PERSON_NAME] (EDMA)   means a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]:
+                           (a) [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] a [PERSON_NAME]
+                                     (i) [PERSON_NAME] health, [PERSON_NAME]-[PERSON_NAME] [PERSON_NAME], or
+                                     (ii) for a [PERSON_NAME];
+                           (b) [PERSON_NAME] [PERSON_NAME] (a) [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME];
+                           (c) [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] a [PERSON_NAME]
+                           a [PERSON_NAME] [PERSON_NAME] a [PERSON_NAME] a [PERSON_NAME] [PERSON_NAME] made.
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], financial, [PERSON_NAME].
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]/[PERSON_NAME],
+                           physical, economic, [PERSON_NAME].
+[PERSON_NAME] a [PERSON_NAME]
+                           (a) [PERSON_NAME] accident, fire, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+                           nature, and
+                           (b) [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME];
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME], functions, operations, [PERSON_NAME], [PERSON_NAME] unanticipated.
+
+
+
+ [PERSON_NAME] [PERSON_NAME] 32 of 38
+ March 2025 | [PERSON_NAME] (EDMA)           means a [PERSON_NAME]
+                           (a) [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]:
+                                     (i) [PERSON_NAME]
+                                                (A) [PERSON_NAME], [PERSON_NAME] [PERSON_NAME], and
+                                                (B) [PERSON_NAME] [PERSON_NAME] incidents, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME], fire, explosion, [PERSON_NAME], rioting, [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] 83.01 [PERSON_NAME]
+                                                Code, [PERSON_NAME] or a [PERSON_NAME] incident;
+                                     (ii) [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] a
+                                     [PERSON_NAME] [PERSON_NAME];
+                                     (iii) a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] circumstances, and
+                           (b) [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME]
+                           [PERSON_NAME], [PERSON_NAME]
+                                     (i) [PERSON_NAME], [PERSON_NAME]-[PERSON_NAME], or
+                           (ii) [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] (EDMA)          [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] 52 [PERSON_NAME]            [PERSON_NAME] [PERSON_NAME].
+(EDMA)
+
+[PERSON_NAME] a [PERSON_NAME], or a [PERSON_NAME] characteristics,
+(EDMA)                     designed
+                           (a) [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] present, or
+                           (b) [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+                           management.
+Evacuation                 a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] a building,
+                           facility, [PERSON_NAME].
+[PERSON_NAME]           a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], e.g., [PERSON_NAME], Police, [PERSON_NAME], [PERSON_NAME].
+Hazard (EDMA)              means a circumstance, condition, process, phenomenon, [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] human-caused, [PERSON_NAME] [PERSON_NAME] emergency.
+Incident                   a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] a disruption, loss, emergency, [PERSON_NAME].
+
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]                     [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME].
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] 1 (1) [PERSON_NAME] [PERSON_NAME] of
+(EDMA)                     [PERSON_NAME].
+
+
+
+
+ [PERSON_NAME] [PERSON_NAME] 33 of 38
+ March 2025 | [PERSON_NAME]             [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME],
+disadvantage (EDMA)        [PERSON_NAME], race, [PERSON_NAME], sex, [PERSON_NAME], [PERSON_NAME] expression, [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] effects.
+[PERSON_NAME] (EDMA)     [PERSON_NAME]:
+                                     (a) a municipality;
+                                     (b) a [PERSON_NAME];
+                                     (c) [PERSON_NAME]'a Nation;
+                                     (d) a [PERSON_NAME].
+Recover (EDMA)             [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] a [PERSON_NAME] [PERSON_NAME] 3 (1) (d); [PERSON_NAME] [PERSON_NAME] Act.
+[PERSON_NAME] a [PERSON_NAME] [PERSON_NAME] section 51 [PERSON_NAME]
+(EDMA)                     [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+                           [PERSON_NAME] [PERSON_NAME] period; [PERSON_NAME]
+                           [PERSON_NAME] [PERSON_NAME].
+Shelter-in-[PERSON_NAME] [PERSON_NAME] a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+                           [PERSON_NAME] “[PERSON_NAME]” [PERSON_NAME] evacuate.
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] a [PERSON_NAME].
+
+
+
+
+ [PERSON_NAME] [PERSON_NAME] 34 of 38
+ March 2025 | [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] (MVRD)
+                         [PERSON_NAME]
+
+
+
+
+  [PERSON_NAME] [PERSON_NAME] 35 of 38
+  March 2025 | [PERSON_NAME] [PERSON_NAME], [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME], [PERSON_NAME], [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] stakeholders.
+
+[PERSON_NAME] [PERSON_NAME]:
+
+         [PERSON_NAME] [PERSON_NAME] Nation;
+         a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] (UEL) [PERSON_NAME];
+         a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] for a [PERSON_NAME] contract;
+         Neighbours’ Agreement 2024.
+
+
+
+
+  [PERSON_NAME] [PERSON_NAME] 36 of 38
+  March 2025 | [PERSON_NAME] [PERSON_NAME]                                        [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] (a circumstance, condition,
+                                            process, phenomenon, [PERSON_NAME] [PERSON_NAME],
+                                            [PERSON_NAME] human-caused, [PERSON_NAME] [PERSON_NAME]
+                                            emergency), risks ([PERSON_NAME] [PERSON_NAME] 51
+                                            [[PERSON_NAME]] [PERSON_NAME]) [PERSON_NAME]
+                                            ("vulnerable", [PERSON_NAME] [PERSON_NAME], animal, [PERSON_NAME], or a [PERSON_NAME], animals, [PERSON_NAME],
+                                            [PERSON_NAME]:
+                                            (a) [PERSON_NAME], [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] factors, [PERSON_NAME] [PERSON_NAME] emergency;
+                                            (b) [PERSON_NAME]).
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] Teams’ [PERSON_NAME] during a non-routine, [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], deactivation, [PERSON_NAME].
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] a non-[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] structure.
+[PERSON_NAME]                [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME]
+                                            [PERSON_NAME] [PERSON_NAME].
+[PERSON_NAME]                              [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME], [PERSON_NAME]; [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME],
+                                            [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] a
+                                            [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+                                            a [PERSON_NAME]; [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]’s [PERSON_NAME]
+                                            Plan.
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME],
+                                            [PERSON_NAME] [PERSON_NAME], [PERSON_NAME] “non-
+                                            essential” services, and/[PERSON_NAME] [PERSON_NAME].
+[PERSON_NAME] provides a [PERSON_NAME] [PERSON_NAME]
+                                            [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+                                            reduce, control, [PERSON_NAME] [PERSON_NAME] a [PERSON_NAME] [PERSON_NAME], [PERSON_NAME].
+
+
+
+ [PERSON_NAME] [PERSON_NAME] 37 of 38
+ March 2025 | [PERSON_NAME]                                     [PERSON_NAME] a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] conduct a [PERSON_NAME] [PERSON_NAME] a [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+                                           [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+                                           disturbance/[PERSON_NAME] [PERSON_NAME].
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+                                           [PERSON_NAME] [PERSON_NAME] [PERSON_NAME].
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]/[PERSON_NAME] [PERSON_NAME].
+[PERSON_NAME] [PERSON_NAME] [PERSON_NAME] [PERSON_NAME]
+                                           [PERSON_NAME] [PERSON_NAME].
+
+
+
+
+ [PERSON_NAME] [PERSON_NAME] 38 of 38
+ March 2025 | [PERSON_NAME]
+

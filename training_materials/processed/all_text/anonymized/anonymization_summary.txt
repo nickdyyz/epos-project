@@ -1,0 +1,17 @@
+ANONYMIZATION SUMMARY
+==================================================
+
+Total replacements made: 36789
+
+Breakdown by category:
+  ADDRESS: 30
+  COMPANY_SUFFIX: 1
+  CREDIT_CARD: 1
+  DATE: 20
+  EMAIL: 4
+  PERSON_NAME: 36393
+  PHONE_US: 132
+  POSTAL_CODE: 149
+  REFERENCE_CODE: 16
+  SSN: 2
+  URL: 41

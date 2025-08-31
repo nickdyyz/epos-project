@@ -1,0 +1,698 @@
+type OrganizationProfile @aws_iam @aws_cognito_user_pools {
+  organizationName: String!
+  organizationType: OrganizationProfileOrganizationType
+  industry: String
+  naicsCode: String
+  naicsDescription: String
+  customOrganizationType: String
+  customIndustry: String
+  primaryContactName: String
+  primaryContactEmail: String
+  primaryContactPhone: String
+  alternateContact1Name: String
+  alternateContact1Email: String
+  alternateContact1Phone: String
+  alternateContact2Name: String
+  alternateContact2Email: String
+  alternateContact2Phone: String
+  primaryAddress: String
+  city: String
+  state: String
+  zipCode: String
+  country: String
+  buildingType: OrganizationProfileBuildingType
+  numberOfFloors: Int
+  totalOccupancy: Int
+  buildingAge: Int
+  totalSquareFootage: Int
+  building2Name: String
+  building2Type: OrganizationProfileBuilding2Type
+  building2Floors: Int
+  building2Age: Int
+  building2SquareFootage: Int
+  building3Name: String
+  building3Type: OrganizationProfileBuilding3Type
+  building3Floors: Int
+  building3Age: Int
+  building3SquareFootage: Int
+  building4Name: String
+  building4Type: OrganizationProfileBuilding4Type
+  building4Floors: Int
+  building4Age: Int
+  building4SquareFootage: Int
+  building5Name: String
+  building5Type: OrganizationProfileBuilding5Type
+  building5Floors: Int
+  building5Age: Int
+  building5SquareFootage: Int
+  maximumOccupancy: Int
+  averageOccupancyWorkday: Int
+  averageOccupancyOffHours: Int
+  peopleWithDisabilities: String
+  evacuationRoutes: String
+  assemblyAreas: String
+  emergencyContactName: String
+  emergencyContactPhone: String
+  emergencyContactEmail: String
+  otherEmergencyServices: String
+  nearestHospital: String
+  nearestFireStation: String
+  nearestPoliceStation: String
+  specialConsiderations: String
+  isOnboardingComplete: Boolean
+  lastUpdated: AWSDateTime
+  id: ID!
+  createdAt: AWSDateTime!
+  updatedAt: AWSDateTime!
+  owner: String
+}
+
+enum OrganizationProfileOrganizationType {
+  ForProfit
+  NonProfit
+  Government
+  Educational
+  Other
+}
+
+enum OrganizationProfileBuildingType {
+  SingleStory
+  MultiStory
+  HighRise
+  Campus
+  Industrial
+  Warehouse
+  Retail
+  Healthcare
+  Educational
+  Other
+}
+
+enum OrganizationProfileBuilding2Type {
+  SingleStory
+  MultiStory
+  HighRise
+  Campus
+  Industrial
+  Warehouse
+  Retail
+  Healthcare
+  Educational
+  Other
+}
+
+enum OrganizationProfileBuilding3Type {
+  SingleStory
+  MultiStory
+  HighRise
+  Campus
+  Industrial
+  Warehouse
+  Retail
+  Healthcare
+  Educational
+  Other
+}
+
+enum OrganizationProfileBuilding4Type {
+  SingleStory
+  MultiStory
+  HighRise
+  Campus
+  Industrial
+  Warehouse
+  Retail
+  Healthcare
+  Educational
+  Other
+}
+
+enum OrganizationProfileBuilding5Type {
+  SingleStory
+  MultiStory
+  HighRise
+  Campus
+  Industrial
+  Warehouse
+  Retail
+  Healthcare
+  Educational
+  Other
+}
+
+input AmplifyAIConversationTurnErrorInput {
+  errorType: String!
+  message: String!
+}
+
+input ModelStringInput {
+  ne: String
+  eq: String
+  le: String
+  lt: String
+  ge: String
+  gt: String
+  contains: String
+  notContains: String
+  between: [String]
+  beginsWith: String
+  attributeExists: Boolean
+  attributeType: ModelAttributeTypes
+  size: ModelSizeInput
+}
+
+input ModelIntInput {
+  ne: Int
+  eq: Int
+  le: Int
+  lt: Int
+  ge: Int
+  gt: Int
+  between: [Int]
+  attributeExists: Boolean
+  attributeType: ModelAttributeTypes
+}
+
+input ModelFloatInput {
+  ne: Float
+  eq: Float
+  le: Float
+  lt: Float
+  ge: Float
+  gt: Float
+  between: [Float]
+  attributeExists: Boolean
+  attributeType: ModelAttributeTypes
+}
+
+input ModelBooleanInput {
+  ne: Boolean
+  eq: Boolean
+  attributeExists: Boolean
+  attributeType: ModelAttributeTypes
+}
+
+input ModelIDInput {
+  ne: ID
+  eq: ID
+  le: ID
+  lt: ID
+  ge: ID
+  gt: ID
+  contains: ID
+  notContains: ID
+  between: [ID]
+  beginsWith: ID
+  attributeExists: Boolean
+  attributeType: ModelAttributeTypes
+  size: ModelSizeInput
+}
+
+input ModelSubscriptionStringInput {
+  ne: String
+  eq: String
+  le: String
+  lt: String
+  ge: String
+  gt: String
+  contains: String
+  notContains: String
+  between: [String]
+  beginsWith: String
+  in: [String]
+  notIn: [String]
+}
+
+input ModelSubscriptionIntInput {
+  ne: Int
+  eq: Int
+  le: Int
+  lt: Int
+  ge: Int
+  gt: Int
+  between: [Int]
+  in: [Int]
+  notIn: [Int]
+}
+
+input ModelSubscriptionFloatInput {
+  ne: Float
+  eq: Float
+  le: Float
+  lt: Float
+  ge: Float
+  gt: Float
+  between: [Float]
+  in: [Float]
+  notIn: [Float]
+}
+
+input ModelSubscriptionBooleanInput {
+  ne: Boolean
+  eq: Boolean
+}
+
+input ModelSubscriptionIDInput {
+  ne: ID
+  eq: ID
+  le: ID
+  lt: ID
+  ge: ID
+  gt: ID
+  contains: ID
+  notContains: ID
+  between: [ID]
+  beginsWith: ID
+  in: [ID]
+  notIn: [ID]
+}
+
+enum ModelAttributeTypes {
+  binary
+  binarySet
+  bool
+  list
+  map
+  number
+  numberSet
+  string
+  stringSet
+  _null
+}
+
+input ModelSizeInput {
+  ne: Int
+  eq: Int
+  le: Int
+  lt: Int
+  ge: Int
+  gt: Int
+  between: [Int]
+}
+
+enum ModelSortDirection {
+  ASC
+  DESC
+}
+
+type ModelOrganizationProfileConnection @aws_iam @aws_cognito_user_pools {
+  items: [OrganizationProfile]!
+  nextToken: String
+}
+
+input ModelOrganizationProfileOrganizationTypeInput {
+  eq: OrganizationProfileOrganizationType
+  ne: OrganizationProfileOrganizationType
+}
+
+input ModelOrganizationProfileBuildingTypeInput {
+  eq: OrganizationProfileBuildingType
+  ne: OrganizationProfileBuildingType
+}
+
+input ModelOrganizationProfileBuilding2TypeInput {
+  eq: OrganizationProfileBuilding2Type
+  ne: OrganizationProfileBuilding2Type
+}
+
+input ModelOrganizationProfileBuilding3TypeInput {
+  eq: OrganizationProfileBuilding3Type
+  ne: OrganizationProfileBuilding3Type
+}
+
+input ModelOrganizationProfileBuilding4TypeInput {
+  eq: OrganizationProfileBuilding4Type
+  ne: OrganizationProfileBuilding4Type
+}
+
+input ModelOrganizationProfileBuilding5TypeInput {
+  eq: OrganizationProfileBuilding5Type
+  ne: OrganizationProfileBuilding5Type
+}
+
+input ModelOrganizationProfileFilterInput {
+  organizationName: ModelStringInput
+  organizationType: ModelOrganizationProfileOrganizationTypeInput
+  industry: ModelStringInput
+  naicsCode: ModelStringInput
+  naicsDescription: ModelStringInput
+  customOrganizationType: ModelStringInput
+  customIndustry: ModelStringInput
+  primaryContactName: ModelStringInput
+  primaryContactEmail: ModelStringInput
+  primaryContactPhone: ModelStringInput
+  alternateContact1Name: ModelStringInput
+  alternateContact1Email: ModelStringInput
+  alternateContact1Phone: ModelStringInput
+  alternateContact2Name: ModelStringInput
+  alternateContact2Email: ModelStringInput
+  alternateContact2Phone: ModelStringInput
+  primaryAddress: ModelStringInput
+  city: ModelStringInput
+  state: ModelStringInput
+  zipCode: ModelStringInput
+  country: ModelStringInput
+  buildingType: ModelOrganizationProfileBuildingTypeInput
+  numberOfFloors: ModelIntInput
+  totalOccupancy: ModelIntInput
+  buildingAge: ModelIntInput
+  totalSquareFootage: ModelIntInput
+  building2Name: ModelStringInput
+  building2Type: ModelOrganizationProfileBuilding2TypeInput
+  building2Floors: ModelIntInput
+  building2Age: ModelIntInput
+  building2SquareFootage: ModelIntInput
+  building3Name: ModelStringInput
+  building3Type: ModelOrganizationProfileBuilding3TypeInput
+  building3Floors: ModelIntInput
+  building3Age: ModelIntInput
+  building3SquareFootage: ModelIntInput
+  building4Name: ModelStringInput
+  building4Type: ModelOrganizationProfileBuilding4TypeInput
+  building4Floors: ModelIntInput
+  building4Age: ModelIntInput
+  building4SquareFootage: ModelIntInput
+  building5Name: ModelStringInput
+  building5Type: ModelOrganizationProfileBuilding5TypeInput
+  building5Floors: ModelIntInput
+  building5Age: ModelIntInput
+  building5SquareFootage: ModelIntInput
+  maximumOccupancy: ModelIntInput
+  averageOccupancyWorkday: ModelIntInput
+  averageOccupancyOffHours: ModelIntInput
+  peopleWithDisabilities: ModelStringInput
+  evacuationRoutes: ModelStringInput
+  assemblyAreas: ModelStringInput
+  emergencyContactName: ModelStringInput
+  emergencyContactPhone: ModelStringInput
+  emergencyContactEmail: ModelStringInput
+  otherEmergencyServices: ModelStringInput
+  nearestHospital: ModelStringInput
+  nearestFireStation: ModelStringInput
+  nearestPoliceStation: ModelStringInput
+  specialConsiderations: ModelStringInput
+  isOnboardingComplete: ModelBooleanInput
+  lastUpdated: ModelStringInput
+  id: ModelIDInput
+  createdAt: ModelStringInput
+  updatedAt: ModelStringInput
+  and: [ModelOrganizationProfileFilterInput]
+  or: [ModelOrganizationProfileFilterInput]
+  not: ModelOrganizationProfileFilterInput
+  owner: ModelStringInput
+}
+
+type Query {
+  getOrganizationProfile(id: ID!): OrganizationProfile @aws_iam @aws_cognito_user_pools
+  listOrganizationProfiles(filter: ModelOrganizationProfileFilterInput, limit: Int, nextToken: String): ModelOrganizationProfileConnection @aws_iam @aws_cognito_user_pools
+}
+
+input ModelOrganizationProfileConditionInput {
+  organizationName: ModelStringInput
+  organizationType: ModelOrganizationProfileOrganizationTypeInput
+  industry: ModelStringInput
+  naicsCode: ModelStringInput
+  naicsDescription: ModelStringInput
+  customOrganizationType: ModelStringInput
+  customIndustry: ModelStringInput
+  primaryContactName: ModelStringInput
+  primaryContactEmail: ModelStringInput
+  primaryContactPhone: ModelStringInput
+  alternateContact1Name: ModelStringInput
+  alternateContact1Email: ModelStringInput
+  alternateContact1Phone: ModelStringInput
+  alternateContact2Name: ModelStringInput
+  alternateContact2Email: ModelStringInput
+  alternateContact2Phone: ModelStringInput
+  primaryAddress: ModelStringInput
+  city: ModelStringInput
+  state: ModelStringInput
+  zipCode: ModelStringInput
+  country: ModelStringInput
+  buildingType: ModelOrganizationProfileBuildingTypeInput
+  numberOfFloors: ModelIntInput
+  totalOccupancy: ModelIntInput
+  buildingAge: ModelIntInput
+  totalSquareFootage: ModelIntInput
+  building2Name: ModelStringInput
+  building2Type: ModelOrganizationProfileBuilding2TypeInput
+  building2Floors: ModelIntInput
+  building2Age: ModelIntInput
+  building2SquareFootage: ModelIntInput
+  building3Name: ModelStringInput
+  building3Type: ModelOrganizationProfileBuilding3TypeInput
+  building3Floors: ModelIntInput
+  building3Age: ModelIntInput
+  building3SquareFootage: ModelIntInput
+  building4Name: ModelStringInput
+  building4Type: ModelOrganizationProfileBuilding4TypeInput
+  building4Floors: ModelIntInput
+  building4Age: ModelIntInput
+  building4SquareFootage: ModelIntInput
+  building5Name: ModelStringInput
+  building5Type: ModelOrganizationProfileBuilding5TypeInput
+  building5Floors: ModelIntInput
+  building5Age: ModelIntInput
+  building5SquareFootage: ModelIntInput
+  maximumOccupancy: ModelIntInput
+  averageOccupancyWorkday: ModelIntInput
+  averageOccupancyOffHours: ModelIntInput
+  peopleWithDisabilities: ModelStringInput
+  evacuationRoutes: ModelStringInput
+  assemblyAreas: ModelStringInput
+  emergencyContactName: ModelStringInput
+  emergencyContactPhone: ModelStringInput
+  emergencyContactEmail: ModelStringInput
+  otherEmergencyServices: ModelStringInput
+  nearestHospital: ModelStringInput
+  nearestFireStation: ModelStringInput
+  nearestPoliceStation: ModelStringInput
+  specialConsiderations: ModelStringInput
+  isOnboardingComplete: ModelBooleanInput
+  lastUpdated: ModelStringInput
+  and: [ModelOrganizationProfileConditionInput]
+  or: [ModelOrganizationProfileConditionInput]
+  not: ModelOrganizationProfileConditionInput
+  createdAt: ModelStringInput
+  updatedAt: ModelStringInput
+  owner: ModelStringInput
+}
+
+input CreateOrganizationProfileInput {
+  organizationName: String!
+  organizationType: OrganizationProfileOrganizationType
+  industry: String
+  naicsCode: String
+  naicsDescription: String
+  customOrganizationType: String
+  customIndustry: String
+  primaryContactName: String
+  primaryContactEmail: String
+  primaryContactPhone: String
+  alternateContact1Name: String
+  alternateContact1Email: String
+  alternateContact1Phone: String
+  alternateContact2Name: String
+  alternateContact2Email: String
+  alternateContact2Phone: String
+  primaryAddress: String
+  city: String
+  state: String
+  zipCode: String
+  country: String
+  buildingType: OrganizationProfileBuildingType
+  numberOfFloors: Int
+  totalOccupancy: Int
+  buildingAge: Int
+  totalSquareFootage: Int
+  building2Name: String
+  building2Type: OrganizationProfileBuilding2Type
+  building2Floors: Int
+  building2Age: Int
+  building2SquareFootage: Int
+  building3Name: String
+  building3Type: OrganizationProfileBuilding3Type
+  building3Floors: Int
+  building3Age: Int
+  building3SquareFootage: Int
+  building4Name: String
+  building4Type: OrganizationProfileBuilding4Type
+  building4Floors: Int
+  building4Age: Int
+  building4SquareFootage: Int
+  building5Name: String
+  building5Type: OrganizationProfileBuilding5Type
+  building5Floors: Int
+  building5Age: Int
+  building5SquareFootage: Int
+  maximumOccupancy: Int
+  averageOccupancyWorkday: Int
+  averageOccupancyOffHours: Int
+  peopleWithDisabilities: String
+  evacuationRoutes: String
+  assemblyAreas: String
+  emergencyContactName: String
+  emergencyContactPhone: String
+  emergencyContactEmail: String
+  otherEmergencyServices: String
+  nearestHospital: String
+  nearestFireStation: String
+  nearestPoliceStation: String
+  specialConsiderations: String
+  isOnboardingComplete: Boolean
+  lastUpdated: AWSDateTime
+  id: ID
+}
+
+input UpdateOrganizationProfileInput {
+  organizationName: String
+  organizationType: OrganizationProfileOrganizationType
+  industry: String
+  naicsCode: String
+  naicsDescription: String
+  customOrganizationType: String
+  customIndustry: String
+  primaryContactName: String
+  primaryContactEmail: String
+  primaryContactPhone: String
+  alternateContact1Name: String
+  alternateContact1Email: String
+  alternateContact1Phone: String
+  alternateContact2Name: String
+  alternateContact2Email: String
+  alternateContact2Phone: String
+  primaryAddress: String
+  city: String
+  state: String
+  zipCode: String
+  country: String
+  buildingType: OrganizationProfileBuildingType
+  numberOfFloors: Int
+  totalOccupancy: Int
+  buildingAge: Int
+  totalSquareFootage: Int
+  building2Name: String
+  building2Type: OrganizationProfileBuilding2Type
+  building2Floors: Int
+  building2Age: Int
+  building2SquareFootage: Int
+  building3Name: String
+  building3Type: OrganizationProfileBuilding3Type
+  building3Floors: Int
+  building3Age: Int
+  building3SquareFootage: Int
+  building4Name: String
+  building4Type: OrganizationProfileBuilding4Type
+  building4Floors: Int
+  building4Age: Int
+  building4SquareFootage: Int
+  building5Name: String
+  building5Type: OrganizationProfileBuilding5Type
+  building5Floors: Int
+  building5Age: Int
+  building5SquareFootage: Int
+  maximumOccupancy: Int
+  averageOccupancyWorkday: Int
+  averageOccupancyOffHours: Int
+  peopleWithDisabilities: String
+  evacuationRoutes: String
+  assemblyAreas: String
+  emergencyContactName: String
+  emergencyContactPhone: String
+  emergencyContactEmail: String
+  otherEmergencyServices: String
+  nearestHospital: String
+  nearestFireStation: String
+  nearestPoliceStation: String
+  specialConsiderations: String
+  isOnboardingComplete: Boolean
+  lastUpdated: AWSDateTime
+  id: ID!
+}
+
+input DeleteOrganizationProfileInput {
+  id: ID!
+}
+
+type Mutation {
+  createOrganizationProfile(input: CreateOrganizationProfileInput!, condition: ModelOrganizationProfileConditionInput): OrganizationProfile @aws_iam @aws_cognito_user_pools
+  updateOrganizationProfile(input: UpdateOrganizationProfileInput!, condition: ModelOrganizationProfileConditionInput): OrganizationProfile @aws_iam @aws_cognito_user_pools
+  deleteOrganizationProfile(input: DeleteOrganizationProfileInput!, condition: ModelOrganizationProfileConditionInput): OrganizationProfile @aws_iam @aws_cognito_user_pools
+}
+
+input ModelSubscriptionOrganizationProfileFilterInput {
+  organizationName: ModelSubscriptionStringInput
+  organizationType: ModelSubscriptionStringInput
+  industry: ModelSubscriptionStringInput
+  naicsCode: ModelSubscriptionStringInput
+  naicsDescription: ModelSubscriptionStringInput
+  customOrganizationType: ModelSubscriptionStringInput
+  customIndustry: ModelSubscriptionStringInput
+  primaryContactName: ModelSubscriptionStringInput
+  primaryContactEmail: ModelSubscriptionStringInput
+  primaryContactPhone: ModelSubscriptionStringInput
+  alternateContact1Name: ModelSubscriptionStringInput
+  alternateContact1Email: ModelSubscriptionStringInput
+  alternateContact1Phone: ModelSubscriptionStringInput
+  alternateContact2Name: ModelSubscriptionStringInput
+  alternateContact2Email: ModelSubscriptionStringInput
+  alternateContact2Phone: ModelSubscriptionStringInput
+  primaryAddress: ModelSubscriptionStringInput
+  city: ModelSubscriptionStringInput
+  state: ModelSubscriptionStringInput
+  zipCode: ModelSubscriptionStringInput
+  country: ModelSubscriptionStringInput
+  buildingType: ModelSubscriptionStringInput
+  numberOfFloors: ModelSubscriptionIntInput
+  totalOccupancy: ModelSubscriptionIntInput
+  buildingAge: ModelSubscriptionIntInput
+  totalSquareFootage: ModelSubscriptionIntInput
+  building2Name: ModelSubscriptionStringInput
+  building2Type: ModelSubscriptionStringInput
+  building2Floors: ModelSubscriptionIntInput
+  building2Age: ModelSubscriptionIntInput
+  building2SquareFootage: ModelSubscriptionIntInput
+  building3Name: ModelSubscriptionStringInput
+  building3Type: ModelSubscriptionStringInput
+  building3Floors: ModelSubscriptionIntInput
+  building3Age: ModelSubscriptionIntInput
+  building3SquareFootage: ModelSubscriptionIntInput
+  building4Name: ModelSubscriptionStringInput
+  building4Type: ModelSubscriptionStringInput
+  building4Floors: ModelSubscriptionIntInput
+  building4Age: ModelSubscriptionIntInput
+  building4SquareFootage: ModelSubscriptionIntInput
+  building5Name: ModelSubscriptionStringInput
+  building5Type: ModelSubscriptionStringInput
+  building5Floors: ModelSubscriptionIntInput
+  building5Age: ModelSubscriptionIntInput
+  building5SquareFootage: ModelSubscriptionIntInput
+  maximumOccupancy: ModelSubscriptionIntInput
+  averageOccupancyWorkday: ModelSubscriptionIntInput
+  averageOccupancyOffHours: ModelSubscriptionIntInput
+  peopleWithDisabilities: ModelSubscriptionStringInput
+  evacuationRoutes: ModelSubscriptionStringInput
+  assemblyAreas: ModelSubscriptionStringInput
+  emergencyContactName: ModelSubscriptionStringInput
+  emergencyContactPhone: ModelSubscriptionStringInput
+  emergencyContactEmail: ModelSubscriptionStringInput
+  otherEmergencyServices: ModelSubscriptionStringInput
+  nearestHospital: ModelSubscriptionStringInput
+  nearestFireStation: ModelSubscriptionStringInput
+  nearestPoliceStation: ModelSubscriptionStringInput
+  specialConsiderations: ModelSubscriptionStringInput
+  isOnboardingComplete: ModelSubscriptionBooleanInput
+  lastUpdated: ModelSubscriptionStringInput
+  id: ModelSubscriptionIDInput
+  createdAt: ModelSubscriptionStringInput
+  updatedAt: ModelSubscriptionStringInput
+  and: [ModelSubscriptionOrganizationProfileFilterInput]
+  or: [ModelSubscriptionOrganizationProfileFilterInput]
+  owner: ModelStringInput
+}
+
+type Subscription {
+  onCreateOrganizationProfile(filter: ModelSubscriptionOrganizationProfileFilterInput, owner: String): OrganizationProfile @aws_subscribe(mutations: ["createOrganizationProfile"]) @aws_iam @aws_cognito_user_pools
+  onUpdateOrganizationProfile(filter: ModelSubscriptionOrganizationProfileFilterInput, owner: String): OrganizationProfile @aws_subscribe(mutations: ["updateOrganizationProfile"]) @aws_iam @aws_cognito_user_pools
+  onDeleteOrganizationProfile(filter: ModelSubscriptionOrganizationProfileFilterInput, owner: String): OrganizationProfile @aws_subscribe(mutations: ["deleteOrganizationProfile"]) @aws_iam @aws_cognito_user_pools
+}

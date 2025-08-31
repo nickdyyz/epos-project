@@ -1,0 +1,68 @@
+Policy Name: Hazardous Materials Release Procedure
+Effective: Jan 28, 2025
+Next Review: [Insert Date]
+Responsibility: Responsible Department: Facilities, Campus Security, Administration
+Procedure Contact: Manager of Campus Safety and Security
+Approval: Director of Facilities and Executive Leadership Team
+Purpose
+This procedure provides direction for responding to the release of hazardous materials, either on-site or in the vicinity of the school, to ensure the safety and security of students, faculty, staff, and visitors while minimizing health risks and operational disruption.
+Procedure Statement
+This procedure was developed to address incidents involving hazardous materials, including toxic industrial chemicals, transport accidents, industrial spills, and on-site exposure to hazardous substances such as ammonia. It outlines response levels, communication protocols, and evacuation or shelter-in-place procedures.
+Scope
+This procedure applies to any situation where hazardous materials pose a potential or immediate threat to the school community, whether originating on-site or in the surrounding area. It provides a framework for decision-making regarding shelter-in-place, partial or full evacuation, and coordination with emergency services.
+Emergency Response Definitions
+LEVEL 1 - Localized Containment: A minor spill or exposure on campus that can be contained without a major health risk. Evacuation is limited to the affected area, and cleanup is handled by trained personnel or contracted services.
+
+LEVEL 2 - Shelter-in-Place or Partial Evacuation: A moderate hazardous materials release in the vicinity or a controlled release on campus that requires individuals to shelter-in-place to avoid exposure. Partial evacuation may be necessary if conditions worsen.
+
+LEVEL 3 - Full Evacuation: A severe hazardous materials incident that poses a significant threat to health and safety, requiring immediate evacuation of the entire school or campus under the direction of emergency services.
+
+Emergency Notification Procedure
+Report: Any individual witnessing or becoming aware of a hazardous materials release must immediately notify Campus Security and Facilities.
+Assess: Campus Security, in coordination with Facilities, will assess the severity of the incident and consult with emergency services as needed.
+Activate Response: The Manager of Campus Safety will determine the appropriate response level and implement the necessary protective actions. This can include the contracting of professional services should remediation be beyond the school’s capacity and available resources.
+Communicate: If warranted, notifications will be sent via the campus emergency communication system, instructing students, staff, and faculty on shelter-in-place or evacuation procedures or to avoid specific areas.
+Notifications will be sent via same and other means to indicate an all clear following remediation and declaration of emergency termination by a designated authority.
+Responsibilities
+Facilities Team
+Identify and isolate the source of the hazardous materials release, if safe to do so.
+Shut down HVAC systems if necessary to prevent air contamination.
+Coordinate with emergency services to facilitate containment and cleanup.
+Campus Security Team
+Establish a secure perimeter and restrict access to affected areas.
+Assist in directing students, faculty, and staff to designated shelter or evacuation areas.
+Maintain communication with law enforcement, fire department, and hazardous materials response teams.
+Manager of Campus Safety and Security
+Oversee the emergency response and make critical decisions regarding evacuation or shelter-in-place orders.
+Communicate with the Headmaster and Executive Leadership Team regarding situational updates.
+Ensure that emergency services are informed and provided with necessary resources (e.g., site maps, chemical inventory).
+Executive Leadership Team (ELT)
+Provide oversight and strategic direction during the response.
+Coordinate external communications, including notifications to parents and media.
+Support post-incident recovery, including facility decontamination and student/staff well-being measures.
+Faculty and Staff
+Follow shelter-in-place or evacuation instructions promptly.
+Keep students calm and accounted for during the emergency.
+Close doors and windows to prevent exposure if shelter-in-place is required.
+Assist individuals with mobility limitations in evacuations.
+Students
+Follow instructions provided by staff, faculty, and emergency personnel.
+Stay in designated areas until given the all-clear notification.
+Avoid touching or approaching any spilled or airborne substances.
+Supplementary Duties
+LEVEL 1 Response – Localized Containment
+Contain spill if trained personnel are available and it is safe to do so.
+Restrict access to the affected area.
+Notify appropriate first responders (fire department) and/or hazardous materials response personnel.
+LEVEL 2 Response – Shelter-in-Place or Partial Evacuation
+Direct students and staff to remain indoors with doors and windows closed.
+Shut down HVAC systems to prevent external air from entering.
+Monitor updates from emergency services for further instructions.
+LEVEL 3 Response – Full Evacuation
+Evacuate all buildings immediately, following pre-designated evacuation routes.
+Move individuals upwind of the hazardous materials release, if possible.
+Account for all students, faculty, and staff at the designated safe assembly area.
+Await further instructions from emergency services before re-entering buildings.
+Approval Dates:
+Initial Approval: [Insert Date]
+Revisions: [Insert Date]

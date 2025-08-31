@@ -1,0 +1,1044 @@
+City of Toronto
+Emergency Plan
+September 2024
+
+
+
+
+Toronto Emergency Management
+www.toronto.ca/oem
+
+
+
+
+                               1
+Table of Contents
+1.0 Introduction ............................................................................................................... 3
+2.0 Purpose ..................................................................................................................... 4
+3.0 Scope ........................................................................................................................ 4
+4.0 Legal Authorities........................................................................................................ 4
+5.0 Planning Assumptions ............................................................................................... 5
+6.0 Emergency Management Governance Structure ...................................................... 6
+7.0 Hazard Identification and Risk Assessment ............................................................ 14
+8.0 Preparedness Cycle ................................................................................................ 14
+9.0 Concept of Operations ............................................................................................ 15
+10.0 Recovery Operations............................................................................................. 22
+11.0 Revision History .................................................................................................... 23
+
+
+
+
+                                                                                                                                  2
+1.0 Introduction
+The City of Toronto is vulnerable to numerous hazards. The hazards can be natural
+such as extreme weather, human-caused such as an incident at a special event or
+cyber-attack, or technological such as those involving hazardous materials,
+infrastructure disruptions, and utility and power failures.
+The City of Toronto Emergency Plan establishes the framework that ensures the City is
+prepared to deal with any of these hazards. It is the methodology through which the City
+will mobilize its resources in the event of an emergency, thereby restoring the
+municipality to a state of normalcy. The Plan is designed to ensure that all agencies
+which may become involved in an emergency are aware of their respective roles and
+responsibilities during that emergency and participate in the emergency management
+program.
+Additionally, the Emergency Plan makes provisions for the earliest possible coordinated
+response to an emergency, an understanding of the personnel and resources available
+to the City, and recognition that additional expertise and resources can be called upon if
+required.
+The Emergency Plan is utilized as a tool to assist emergency and municipal services
+and officials in their emergency response activities to provide an efficient and effective
+response to an emergency. The Plan must be flexible enough to adapt to a broad
+spectrum of emergencies and must be supported with:
+•   adequate personnel, equipment, and expertise from the response agencies
+•   familiarity with contents of the Plan and its supporting documents by participating
+    agencies
+•   training and exercises
+•   awareness of resources available from neighbouring municipalities and the private
+    sector, supplemented by prearranged agreements
+•   testing of the Plan on a regular basis
+•   review of the Plan following an emergency or exercise where it was implemented
+The Emergency Plan outlines how City agencies will respond to, recover from, and
+mitigate the impact of an emergency. The Plan contains sections that describe legal
+authorities, planning assumptions, concept of operations, operational life cycle,
+organizational responsibilities, and the preparedness cycle.
+Emergency Support Functions are supporting documents to the Emergency Plan that
+provide structure for City divisions, agencies and corporations and outside stakeholders
+that work collaboratively to provide coordinated support, resources and personnel
+during an emergency response to an incident. The documents describe how the City’s
+divisions, agencies and corporations and outside stakeholders coordinate to save lives,
+protect property and the environment, restore essential services and critical
+infrastructure, and help victims and communities return to normal following an
+emergency.
+Hazard-Specific Plans are also supporting documents to the Emergency Plan. They
+contain specific response plans for hazards that may pose a threat to the City of
+
+
+                                                                                             3
+Toronto. These plans reflect the City of Toronto’s Hazard Identification and Risk
+Assessment (see Section 7.0).
+
+2.0 Purpose
+The aim of the City of Toronto Emergency Plan is to provide the framework for
+extraordinary arrangements and measures that can be taken to protect the health,
+safety, and welfare of the inhabitants of the City of Toronto when faced with an
+emergency.
+The Plan unifies the efforts of the City’s divisions, agencies and corporations and
+outside stakeholders for a comprehensive and effective approach to response and
+reduction of impact from an emergency. It is intended to increase the emergency
+response capability of the City of Toronto by establishing a plan of action to deploy
+emergency services efficiently and effectively.
+
+3.0 Scope
+This Emergency Plan and its supporting documents (Emergency Support Functions and
+Hazard-Specific Plans) outline the coordinated response that the City of Toronto
+undertakes in collaboration with its divisions, agencies and corporations and outside
+stakeholders to ensure an effective response and recovery from an emergency.
+
+4.0 Legal Authorities
+Legislation under which the municipality, its employees and agents are authorized to
+respond to an emergency are as follows:
+•   City of Toronto Municipal Code, Chapter 59, Emergency Management ("Chapter
+    59")
+•   Emergency Management and Civil Protection Act
+•   Ontario Regulation 380/04
+
+4.1 Toronto Municipal Code, Chapter 59, Emergency
+Management
+
+The provisions of Chapter 59 provide the governance structure, including delegated
+authorities, membership of the Toronto Emergency Management Program Committee
+and reporting relationships to City Council.
+
+4.2 Emergency Management and Civil Protection Act
+
+The Emergency Management and Civil Protection Act is provincial legislation which,
+among other subjects, imposes requirements on municipalities concerning their
+emergency management program. Section 2.1 of the Act requires municipalities to
+
+
+
+                                                                                        4
+develop and implement an emergency management program and adopt it through by-
+law. An emergency management program must consist of:
+•   an emergency plan
+•   training programs and exercises for employees of municipalities and other persons
+    with respect to the provision of required services and procedures to be followed in
+    emergency response and recovery activities,
+•   public education on risks to public safety and on public preparedness for
+    emergencies, and
+•   any other element required by standards for emergency management programs that
+    may be developed by the Solicitor General
+In developing the emergency management program, the municipality must identify and
+assess various hazards and risks to public safety that could give rise to emergencies
+and identify the facilities and other elements of the infrastructure that are at risk of being
+affected by emergencies. Each municipality must conduct training programs and
+exercises to ensure the readiness of employees of the municipality and other persons to
+act under the emergency plan. Each municipality shall review and, if necessary, revise
+its emergency plan on an annual basis.
+
+5.0 Planning Assumptions
+•   An emergency is defined under the Emergency Management and Civil Protection
+    Act as a situation or an impending situation that constitutes a danger of major
+    proportions that could result in serious harm to persons or substantial damage to
+    property and that is caused by the forces of nature, a disease or other health risk, an
+    accident or an act whether intentional or otherwise.
+•   During regular operations, Incidents (Level 1) are within the response capabilities of
+    the City and its divisions, agencies, and corporations. A Level 2 or 3 (Emergency or
+    Major Emergency) will likely strain the City’s capabilities and require provincial
+    and/or federal assistance (see Section 9.2).
+•   An emergency in the City may occur with little or no warning and may escalate more
+    rapidly than response organizations can manage.
+•   An emergency may cause injury, fatalities, property loss, and disruption of normal
+    support systems. A large number of casualties, heavy damage to buildings and
+    basic infrastructure, and disruption of essential public services may stress the
+    capabilities of the City to meet the needs of the situation.
+•   Achieving and maintaining effective resident and community preparedness reduces
+    the immediate demands on response organizations. Public awareness and
+    education programs are required to ensure residents will take appropriate advance
+    actions to reduce their vulnerability especially during the first 72 hours of an
+    emergency.
+•   When the City’s resources are strained, additional resources may be requested
+    through mutual assistance agreements with neighbouring municipalities and/or
+    through requests to the provincial and federal governments.
+
+
+
+
+                                                                                            5
+•   The Emergency Operations Centre will be activated and staffed to manage the
+    strategic response to the emergency and to support emergency operations at the
+    site.
+•   Members of the Toronto Emergency Management Program Committee will be
+    required to mobilize on short notice to provide timely and effective direction or
+    assistance.
+•   If activated, members of the Emergency Management Working Group (the "Working
+    Group") will identify staff from their division, agency or corporation to attend the
+    Emergency Operations Centre.
+•   Each division, agency or corporation will track, document and seek reimbursement,
+    as appropriate, for costs incurred during emergency response and recovery
+    operations.
+
+6.0 Emergency Management
+Governance Structure
+6.1 Toronto Emergency Management Program
+Committee
+
+Chapter 59 defines the composition of the Toronto Emergency Management Program
+Committee.
+Composition
+The Toronto Emergency Management Program Committee consists of representatives
+holding positions in the City, its divisions, agencies, and corporations, or those
+designated to act on their behalf.
+The membership of the Toronto Emergency Management Program Committee includes
+the following positions or such successor titles as outlined in Chapter 59:
+•   Mayor
+•   Deputy Mayor
+•   City Manager
+•   Deputy City Manager, Community and Social Services
+•   Deputy City Manager, Corporate Services
+•   Deputy City Manager, Infrastructure Services
+•   Fire Chief and General Manager, Toronto Fire Services
+•   Chief and General Manager, Toronto Paramedic Services
+•   Medical Officer of Health
+•   Chief Communications Officer
+•   Chief People Officer
+•   General Manager, Transportation Services
+•   General Manager, Toronto Water
+•   General Manager, Toronto Shelter and Support Services
+
+
+                                                                                       6
+•   City Solicitor
+•   Chief Financial Officer and Treasurer
+•   Chief Building Official and Executive Director, Toronto Building
+•   General Manager, Parks, Forestry and Recreation
+•   General Manager, Solid Waste Management Services
+•   General Manager, Corporate Real Estate Management
+•   Chief Technology Officer
+•   Director, Insurance and Risk Management
+•   Executive Director, Toronto Emergency Management
+•   City Clerk
+•   Executive Director, Environment and Climate
+•   Executive Director, Engineering and Construction Services
+•   Chief of Police
+•   Chief General Manager, Toronto Transit Commission
+•   Chief Executive Officer and Secretary Treasurer, Toronto and Region Conservation
+    Authority
+•   Executive Vice-President, Toronto Hydro
+The Toronto Emergency Management Program Committee has identified the following
+positions as informal “appointed members”1:
+•   Deputy City Manager, Development and Growth Services
+•   Chief Information Security Officer
+•   Executive Director, Customer Experience Division
+Objectives of the Toronto Emergency Management Program
+Committee
+The City of Toronto Emergency Management Program Committee provides the City
+with an effective vehicle for developing and maintaining a comprehensive emergency
+management program, as defined under the Emergency Management and Civil
+Protection Act and Chapter 59.
+Toronto Emergency Management Program Committee Control Group
+In the event of an emergency, the Toronto Emergency Management Program
+Committee Control Group (the "Control Group") convenes as it becomes reactive. The
+membership of the Control Group remains the same as the Toronto Emergency
+Management Program Committee.
+The Mayor; or in the absence or unavailability of the Mayor, the City Manager; or,
+alternatively a designate for the Mayor, or City Manager as may be required, will act as
+Chair of the Control Group as specified in Chapter 59. The Control Group will provide
+
+
+
+1 Changes to the formal membership of the Toronto Emergency Management Program Committee must
+
+be approved by updating Chapter 59 through Council authority. As an interim measure, on June 3, 2024,
+the Committee appointed additional informal members to attend meetings. These appointed members
+provide advice and expertise but do not have voting rights.
+
+
+                                                                                                    7
+overall policy and strategic direction to the Emergency Operations Centre to support the
+evolving response activities on the road to recovery.
+The Emergency Operations Centre will coordinate the City's response to the emergency
+using the Incident Management System. The foundation of the Incident Management
+System is the collaboration and coordination in the establishment of goals, the setting of
+priorities and the assignment of resources to effectively manage the emergency.
+Authority of Control Group
+Under section 59-7.1, of Chapter 59 in the event of an emergency, whether declared or
+not under the Act, the Control Group is authorized to:
+•   initiate, coordinate, direct and otherwise bring about the implementation of the Plan
+    and undertake such other activities as they consider necessary to address the
+    emergency
+•   expend funds for the purposes of responding to and recovering from the emergency,
+    including obtaining and distributing emergency materials, equipment and supplies,
+    notwithstanding the requirements of any by-law governing the commitment of funds
+    and the payment of accounts
+•   obtain volunteer support from public agencies and other persons as considered
+    necessary and to indemnify such agencies, their personnel, and other persons
+    engaged in work that has been authorized pursuant to this Chapter or any other law,
+    from liability for any acts or omissions resulting from any actions taken pursuant to
+    this Chapter or any other law
+Role of Chair, Control Group
+The Chair of the Control Group is responsible for initiating, coordinating and directing
+activities that the Control Group considers necessary to respond to the emergency
+including, but not limited to:
+•   taking actions considered necessary to implement the Emergency Plan and to
+    protect the health, safety and welfare of the public and protect property, government
+    infrastructure, and the environment; these actions are not contrary to law or the
+    responsibilities and authorities of the Chief of Police, Fire Chief and General
+    Manager, Medical Officer of Health and/or Chief Building Official and Executive
+    Director of Toronto Building
+•   ensuring that a designated City spokesperson is appointed to provide a coordinated
+    approach in directing public information activities during the initial phase of the
+    emergency
+•   coordinating communications between the Mayor's Office and/or Council and the
+    Control Group on the necessary actions being taken
+•   determining if municipal resources are adequate or if further resources are required
+•   providing advice on an emergency declaration and terminating an emergency
+•   ensuring that when required, assistance be facilitated from other levels of
+    government
+•   liaising with other levels of government on areas of collaboration and cooperation
+
+
+
+
+                                                                                           8
+6.2 Notifying City Manager of Emergency
+
+The Deputy City Manager, Infrastructure Services, or their designate contacts the City
+Manager to report that the City of Toronto Emergency Operations Centre has been
+activated. Depending on the nature of the emergency, the Executive Director, Toronto
+Emergency Management, or any member of the Toronto Emergency Management
+Program Committee may notify the City Manager of an impending or actual emergency
+and request activation of the Emergency Operations Centre.
+
+6.3 Emergency Management Working Group
+
+Composition
+Chapter 59 defines the composition of the Emergency Management Working Group
+("Working Group") as those individuals selected by the Toronto Emergency
+Management Program Committee. Under this authority, the Committee has designated
+that the Working Group will consist of director-level representatives from the following
+divisions, agencies and corporations:
+•   Children’s Services
+•   City Clerk's Office
+•   City Manager’s Office
+•   Corporate Real Estate Management
+•   Customer Experience
+•   Deputy City Manager’s Office, Community and Social Services
+•   Deputy City Manager’s Office, Corporate Services
+•   Deputy City Manager’s Office, Development and Growth Services
+•   Deputy City Manager’s Office, Infrastructure Services
+•   Economic Development and Culture
+•   Employment and Social Services
+•   Engineering and Construction Services
+•   Environment and Climate
+•   Exhibition Place
+•   Fleet Services
+•   Housing Secretariat
+•   Office of the Chief Financial Officer and Treasurer
+•   Office of the Chief Information Security Officer
+•   Municipal Licensing and Standards
+•   Parks, Forestry and Recreation
+•   People and Equity
+•   Purchasing and Materials Management
+•   Seniors Services and Long-Term Care
+•   Shelter, Support and Housing Administration
+•   Social Development, Finance and Administration
+
+
+                                                                                           9
+•   Solid Waste Management Services
+•   Strategic Public and Employee Communications
+•   Technology Services
+•   Toronto and Region Conservation Authority
+•   Toronto Building
+•   Toronto Community Housing
+•   Toronto Emergency Management (Chair)
+•   Toronto Fire Services
+•   Toronto Hydro
+•   Toronto Paramedic Services
+•   Toronto Parking Authority
+•   Toronto Police Service
+•   Toronto Public Health
+•   Toronto Public Library
+•   Toronto Seniors Housing Corporation
+•   Toronto Shelter and Support Services
+•   Toronto Transit Commission
+•   Toronto Water
+•   Transportation Services
+Toronto Emergency Management coordinates with the Committee to identify the
+appropriate representatives and maintains a contact list of the Working Group
+members, along with two alternates for each member.
+
+6.4 Authority to Activate the Emergency Operations
+Centre
+
+Any member of the Toronto Emergency Management Program Committee or Working
+Group has the authority and responsibility to request an activation of the Emergency
+Operations Centre and initiate the implementation of the Emergency Plan. Requests to
+activate the Emergency Operations Centre are directed to either the Executive Director,
+Toronto Emergency Management or to Toronto Emergency Management's 24 hours a
+day, 7 days a week On-Call Function.
+Should an incident be classified as a Level 2 Emergency or Level 3 Major Emergency,
+the Toronto Emergency Management On-Call Function is contacted by Toronto Fire
+Services, Toronto Police Service and/or Toronto Paramedic Services. Toronto
+Emergency Management staff would connect with the Deputy City Manager,
+Infrastructure Services, to initiate the implementation of the Emergency Plan.
+The City of Toronto uses a three-tier emergency level system to determine appropriate
+notifications as follows:
+•   Level 1 – Incident
+•   Level 2 – Emergency
+•   Level 3 – Major Emergency
+
+
+                                                                                     10
+Upon receiving an emergency notification, the Toronto Emergency Management 24/7
+On-Call Function will liaise with the notifying division, agencies or corporation and utilize
+the Emergency Level Notifications table (see Section 9.2) as a tool to assist in
+establishing the immediate notifications that may be necessary and/or appropriate.
+
+6.5 Staffing the Emergency Operations Centre
+
+The Emergency Operations Centre ensures that the Control Group can uphold core
+functions of the Emergency Plan, including:
+•   effective policy and strategic direction to the emergency
+•   support of emergency operations at the site(s)
+•   consequence management
+•   resource management to support the site(s)
+•   coordination of management links to other Command/Divisional Operations Centres,
+    external agencies and the Provincial Emergency Operations Centre
+•   provide information to the public and the news media
+•   maintain business continuity for the rest of the City
+During a response, select members of the Working Group will establish and convene at
+the Emergency Operations Centre to activate these functions. The Emergency
+Operations Centre staff will provide operational guidance and support to the Incident
+Commander who maintains the lead role at a site. When divisions establish Divisional
+Operations Centres to provide operational support during an emergency response,
+there is a need to centralize efforts and coordinate operational response between all
+responding divisions. This function is provided by the City's Emergency Operations
+Centre.
+The City's Emergency Operations Centre staffing plan ensures that the Emergency
+Operations Centre is always operationally ready for activation. Staff are required to take
+pre-requisite training to enable an effective and efficient implementation of Emergency
+Operations Centre initiatives through the Incident Management System.
+
+6.6 Role of Emergency Operations Centre Director
+
+The Emergency Operations Centre Director has overall authority and responsibility for
+activities of the Emergency Operations Centre and for ensuring organizational
+effectiveness. The Emergency Operations Centre Director establishes the Emergency
+Operations Centre’s staffing levels, sets the Emergency Operations Centre priorities
+and objectives for each operational period and ensures objectives are carried out. The
+Emergency Operations Centre Director briefs the Control Group and other senior
+officials, as required, and directs appropriate public information in coordination with the
+Chief Communications Officer.
+
+
+
+
+                                                                                          11
+6.7 Site Response and Emergency Operations Centre
+Support
+
+The Emergency Operations Centre maintains a dedicated facility from which the City of
+Toronto coordinates its strategic response to an emergency. The Emergency
+Operations Centre coordinates the management of resources, personnel and incident
+information.
+The Emergency Operations Centre does not replace the need for a sound command
+structure at the site; instead, it complements the site with further coordination, resource
+management, information management and overall support.
+
+6.8 Toronto Police Service Major Incident Command
+Centre
+
+The Toronto Police Service Major Incident Command Centre is a central point of
+command, control, communication, and information for the Toronto Police Service.
+When activated, the Major Incident Command Centre's Incident Commander has a full
+perspective of all resources under the command of the Toronto Police Service and
+tactical oversight of those resources in their function of ensuring public safety and
+security.
+When activated, the Major Incident Command Centre is responsible for the continuity of
+policing services throughout the City of Toronto and for liaising with the City's
+Emergency Operations Centre (if activated) which provides links to all City divisions,
+agencies and corporations.
+During a Major Incident Command Centre activation, Toronto Emergency Management
+may send a representative to convene at the Major Incident Command Centre and act
+as a Liaison Officer.
+Toronto Fire Services, Toronto Paramedic Services, the Toronto Transit Commission
+and other external partners may also attend the Major Incident Command Centre to
+oversee coordination of their respective services with Toronto Police Service
+operations.
+
+6.9 Councillor Roles in an Emergency
+
+The Toronto Emergency Management Program Committee approved the Councillor
+Coordination Emergency Support Function in 2015. This Emergency Support Function
+outlines when and how Councillors' Offices are notified of an activation of the
+Emergency Operations Centre. It outlines protocols for regular communication with
+Councillors during a Level 2 Emergency or a Level 3 Major Emergency. The Emergency
+Support Function also outlines the councillors' requirements for keeping contact
+information for themselves and their staff up to date and responding to the quarterly
+
+
+                                                                                         12
+requirement to confirm their information for the mass notification system. It specifies
+parameters for training of appropriate parties, including councillors and their staff, City
+Clerk's Office and Toronto Emergency Management.
+The Councillor Coordination Emergency Support Function also outlines the role of the
+councillors' offices throughout an emergency. For example, during a Level 2 Emergency
+or Level 3 Major Emergency, councillors leverage formal and informal community
+networks to help disseminate the information provided by the Emergency Operations
+Centre Councillor Coordination Liaison. They also report urgent matters to the
+Councillor Coordination Liaison for escalation to the appropriate parties.
+
+6.10 Standardized Response Goals
+
+A response goal is a broad statement that describes a desired outcome. Priorities for
+response goals generally focus on eliminating or minimizing impacts of the incident on
+people, property, and financial resources.
+Emergency Operations Centre staff ensure that all levels of the response management
+system adhere to standardized response goals in the following order of priority:
+•   provide for the safety and health of responders
+•   save lives
+•   reduce suffering
+•   protect public health
+•   protect government infrastructure
+•   protect property
+•   protect the environment
+•   reduce economic and social losses
+
+6.11 External Organizations – Private Sector Partners
+
+Depending on the nature of the emergency, external organizations may be asked to
+provide a representative (e.g., Enbridge, Greater Toronto Airport Authority, Canadian
+National or Canadian Pacific Rail, etc.) to join the Emergency Operations Centre to
+assist in coordinating the response.
+
+6.12 Divisional Emergency Management
+
+To fully implement the emergency management program horizontally and vertically
+throughout the City of Toronto's organizational structure, it is recommended that those
+divisions with membership on Toronto Emergency Management Program Committee
+and/or Working Group have a designated staff member(s), with roles and
+responsibilities included in formal job descriptions. This increases the City of Toronto's
+ability to mitigate, prepare, respond, and recover from emergencies and major
+
+
+
+
+                                                                                          13
+emergencies and begin the process of embedding an emergency management and
+business continuity culture to routine business processes and program considerations.
+
+7.0 Hazard Identification and Risk
+Assessment
+Hazard Identification and Risk Assessment is an evaluation method used to understand
+hazards. This method helps determine which hazards are most likely to result in an
+emergency and allows for the comparison of risk between hazards.
+Toronto Emergency Management has identified and assessed the various hazards and
+risks to public safety that could give rise to emergencies and has identified the facilities
+and other elements of the infrastructure that are at risk of being affected by
+emergencies. Toronto Emergency Management has developed Emergency Support
+Functions and Hazard-Specific Plans based on this assessment.
+There are three major categories of hazards that may pose a threat to the City of
+Toronto:
+•   natural hazards are hazards that are caused by forces of nature; human activity may
+    trigger or worsen the hazard
+•   human-caused hazards are hazards that result from direct human action or inaction,
+    either intentional or unintentional
+•   technological hazards are hazards that arise from the manufacture, transportation,
+    and use of substances such as radioactive materials, chemicals, explosives, and
+    flammables
+The top 10 risks for the City of Toronto are:
+•   energy emergency (supply)
+•   explosions / fires
+•   winter weather
+•   pandemic
+•   cyber threats
+•   terrorism
+•   epidemic
+•   flood
+•   fuel/ natural gas supply disruption
+•   extreme heat
+
+8.0 Preparedness Cycle
+The Emergency Plan is maintained, reviewed, and updated according to a
+preparedness cycle that includes four phases: plan, operate, evaluate, and take
+corrective action. The Toronto Emergency Management Program Committee provides
+oversight of the Plan during all phases of the preparedness cycle, ensuring the Plan
+aligns with the City's current policies, organizational structures, and methodologies.
+
+
+
+                                                                                          14
+Diagram Description: This diagram depicts the maintenance schedule of the Emergency
+Plan
+                           Plan
+                           Ana lysis
+        Conduct                                       Conduct
+                         Assessment
+        Training                                      Training
+                            Audit
+
+
+            Corrective Action                      Operate
+       Tra ck
+  Assign Actions                                                  Rea l World
+                                                Exercise
+   Review Pla ns                                                  Response
+    Pla n Aga in
+                                                   Lessons         After Action
+                           Evaluate                Learned         Reports
+         Conduct              Pla ns                   Conduct
+         Training          Procedures                  Training
+                             Policies
+
+
+9.0 Concept of Operations
+9.1 General
+
+The City’s emergency services (Toronto Police Service, Toronto Fire Services, and
+Toronto Paramedic Services) and other divisions, agencies and corporations manage
+many incidents that occur on a day-to-day basis. As the magnitude of an emergency
+increases, so will the requirement for additional support from within the City. The City’s
+Emergency Operations Centre may be activated to provide support. The Control Group
+may elect to call upon neighbouring municipalities to provide mutual assistance in
+accordance with standing agreements. The City may also call upon the provincial
+government to provide supplemental financial and/or physical resources necessary to
+deal with the overall impacts of the emergency.
+The City’s Emergency Plan adopts the principles of the Incident Management System.
+The Incident Management System is a standardized approach to emergency
+management that encompasses personnel, facilities, equipment, procedures, and
+communications operating within a common organizational structure. Incident
+Management System concepts and principles include comprehensive resource
+management, action planning, integrated communications, interoperability, a modular
+and scalable framework, standard terminology, and span of control.
+The five major sections of the Incident Management System (Command, Operations,
+Planning, Logistics and Finance & Administration) can be expanded or contracted to
+meet requirements as an event progresses. When activated, the City of Toronto staff
+who fill these roles are referred to as an Incident Management Team.
+
+
+
+
+                                                                                        15
+The response to an emergency in the City will be managed using the Toronto
+Emergency Plan and any relevant Emergency Support Functions and Hazard-Specific
+Plans with the following assumptions:
+•     the Head of each division, agency and corporation is responsible for the overall
+      operation of their organization
+•     use of mutual aid assistance for cooperative response will be entered into and
+      maintained with adjoining municipalities for the purpose of reciprocal assistance
+•     normal communication modes and reporting channels will be used to the maximum
+      practical extent; back-up communications systems will be used in the event that
+      commercial communications systems are disrupted, saturated, or otherwise
+      unavailable
+•     City divisions will employ their standard business continuity and business
+      resumption planning principles to ensure the continuity of essential services
+•     day-to-day functions that do not contribute directly to the operation may be
+      suspended for the duration of the emergency; efforts that would normally be required
+      of those day-to-day functions will be redirected to accomplish the emergency task
+
+9.2 Emergency Levels
+
+Most emergencies are managed at site by emergency services and other divisions,
+agencies, and corporations, and are considered routine operations. Emergencies of
+greater magnitude do happen from time to time and require an emergency management
+response structure beyond normal daily operations. The required response must be
+appropriate to the magnitude of the incident and follow the notification system as
+defined in the following Emergency Level Notifications table.
+Table 1: Emergency Level Notifications
+    Level 1 – Incident
+    Operational             This level requires coordination, collaboration and/or
+    Implications            communications for one or a combination of the following:
+                            •   effective policy and strategic direction to the emergency
+                            •   support of emergency operations at the site(s)
+                            •   consequence management
+                            •   resource management
+                            •   coordination of management linkages to the site,
+                                Divisional Operations Centre(s), external agencies and
+                                the Provincial Emergency Operations Centre
+                            •   information to the public and news media
+                            •   business continuity for the rest of the City
+    Toronto Emergency       Support available through 24/7 On-Call Function.
+    Management Support
+
+
+
+
+                                                                                            16
+City Division         Lead division(s) will follow established notification and
+Notification          escalation procedures to their chain of command.
+Toronto Emergency     No notifications required as division(s) will follow established
+Management            internal notification and escalation procedures.
+Notification          If Toronto Emergency Management is activated to monitor, it
+                      will notify members of the Control Group, Emergency
+                      Management Working Group, Strategic Public and
+                      Employee Communications, City Clerk's Office and other
+                      divisions, agencies and corporations.
+Examples              Localized power disruptions, severe weather watches and
+                      warnings, localized flooding, Emergency Social Services
+                      coordination and response.
+Level 2 – Emergency
+Operational           This level requires coordination, collaboration and/or
+Implications          communications for one or a combination of the following:
+                      •   effective policy and strategic direction to the emergency
+                      •   support of emergency operations at the site(s)
+                      •   consequence management
+                      •   resource management
+                      •   coordination of management linkages to the site,
+                          Divisional Operations Centre, external agencies and the
+                          Provincial Emergency Operations Centre
+                      •   information to the public and news media
+                      •   business continuity for the rest of the City
+Toronto Emergency     Toronto Emergency Management will:
+Management Support
+                      •   facilitate access to City divisions/external agencies
+                          and/or
+                      •   facilitate integration of City divisions/external agencies
+                          into the Incident Management System in the Emergency
+                          Operations Centre and/or
+                      •   attend site as a Liaison Officer
+City Division         Lead divisions will follow established notification and
+Notification          escalation procedures to their chain of command and
+                      Toronto Emergency Management.
+
+
+
+
+                                                                                      17
+Toronto Emergency     Toronto Emergency Management will notify:
+Management
+                      •     Deputy City Manager, Infrastructure Services
+Notification
+                      •     City Clerk's Office
+                      •     Strategic Public and Employee Communications
+                      •     Control Group, Emergency Management Working Group
+                            and Emergency Social Services Working Group
+                      Strategic Public and Employee Communications will activate
+                      the Emergency Information and Media Relations Emergency
+                      Support Function
+                      The City Clerk's Office will notify Councillors of the activation
+                      of the Emergency Operations Centre and the Councillor
+                      Coordination Emergency Support Function.
+Examples              High-rise(s) or large area evacuation, major road(s)
+                      washout/closures, emergency social services reception
+                      centre, large power outage (2010 - 200 Wellesley St., 2013
+                      – July 8 flooding).
+Level 3 – Major Emergency
+Operational           This level requires coordination, collaboration and/or
+Implications          communications for ALL of the following purposes:
+                      •     effective policy and strategic direction to the emergency
+                      •     support of emergency operations at the site(s)
+                      •     consequence management
+                      •     resource management
+                      •     co-ordination of management linkages to the site,
+                            Divisional Operations Centre, external agencies and the
+                            Provincial Emergency Operations Centre
+                      •     information to the public and news media
+                      •     business continuity for the rest of the City
+Toronto Emergency     Toronto Emergency Management may;
+Management Support
+                      •     facilitate access to City divisions/external agencies
+                            and/or
+                      •     facilitate integration of City divisions/external agencies
+                            into the Incident Management System in the Emergency
+                            Operations Centre and/or
+                      •     attend site as a Liaison Officer
+City Division         Lead divisions will follow established notification and
+Notification          escalation procedures to their chain of command and
+                      Toronto Emergency Management.
+
+
+
+
+                                                                                        18
+ Toronto Emergency          Toronto Emergency Management will notify:
+ Management
+                            •   Deputy City Manager, Infrastructure Services
+ Notification
+                            •   City Clerk's Office
+                            •   Strategic Public and Employee Communications
+                            •   the Control Group, Emergency Management Working
+                                Group, and Emergency Social Services Working Group
+                            •   the Provincial Emergency Operations Centre
+                            Strategic Public and Employee Communications will activate
+                            the Emergency Information and Media Relations Emergency
+                            Support Function.
+                            The City Clerk's Office will notify Councillors of the activation
+                            of the Emergency Operations Centre and the activation of
+                            the Councillor Coordination Emergency Support Function.
+                            The Clerk's Office will follow established protocols set out in
+                            the Councillor Coordination Emergency Support Function.
+ Examples                   Nuclear incident, COVID-19 pandemic, city-wide power
+                            outage, severe storm/weather
+
+9.3 Emergency Support Functions
+
+Councillor Coordination
+The Councillor Coordination Emergency Support Function establishes when and how
+City Clerk's and Councillors' Offices are notified of an activation of the Emergency
+Operations Centre. It outlines protocols for regular communication with Councillors
+during a Level 2 Emergency or a Level 3 Major Emergency. It specifies parameters for
+training for appropriate parties, including Councillors and their staff, City Clerk's Office
+staff and Toronto Emergency Management staff.
+Animal Care and Relief Services
+Animal care and relief is coordinated by Toronto Animal Services in the Municipal
+Licensing & Standards Division and delivered by pre-identified animal care and relief
+responders with pre-determined roles that come together to provide these services in
+emergencies. The Animal Care and Relief Services Emergency Support Function
+outlines the response provided to service and companion animals that are displaced or
+otherwise affected by an emergency and provides an overview of roles and
+responsibilities.
+Damage Assessment
+The purpose of the Damage Assessment Emergency Support Function is to define the
+roles and responsibilities of City of Toronto divisions, agencies and corporations in order
+to provide guidance to staff related to the inspection and reporting on the condition of
+buildings, designated structures and municipal infrastructure.
+
+
+
+                                                                                           19
+Debris Management
+The Debris Management Emergency Support Function defines the roles and
+responsibilities of divisions, agencies and corporations for the management (removal
+and disposition) of debris following an incident. The purpose of this Emergency Support
+Function is to mitigate against any potential threat to lives, health, safety and welfare of
+the impacted citizens, expedite search and rescue and/or recovery efforts of impacted
+area(s).
+Emergency Donations Management
+This Emergency Donations Management Emergency Support Function applies to
+financial contributions and donated goods. It guides emergency donations management
+during an emergency response. It does not include offers of personal service or labour.
+Emergency Information and Media Relations
+The Emergency Information and Media Relations Emergency Support Function outlines
+the role of the Strategic Public and Employee Communications Division during an
+emergency and supports the City of Toronto’s efforts to assist Toronto residents in
+coping with, and recovering from, a Level 2 Emergency or Level 3 Major Emergency.
+The Strategic Public and Employee Communications Division is responsible for
+implementation and oversight of the City of Toronto's communications activities. The
+Division will provide advice to the City's divisions, agencies and corporations as
+required, or as directed by the City Manager.
+Strategic Public and Employee Communications is responsible for communicating
+critical information before an impending incident (if applicable), during and after a major
+disaster or public emergency on behalf of the Emergency Operations Centre and City
+officials to 311 Toronto, City staff, members of Council, community leaders, residents,
+businesses and the media.
+This Emergency Support Function addresses the principles, planning assumptions and
+concept of operations for emergency information, issues management and media
+relations for a potential or imminent emergency.
+If the emergency involves multiple jurisdictions, communications may be joint where
+necessary or appropriate. In the event of a major public emergency that requires a
+provincial and/or federal response, Strategic Public and Employee Communications will
+coordinate City of Toronto communications with provincial and federal officials as
+appropriate.
+Emergency Social Services
+The Emergency Social Services Emergency Support Function outlines the response
+provided when residents are displaced or otherwise affected by an emergency. This
+Emergency Support Function guides the Emergency Social Services response provided
+during a Level 1 – Incident up to a Level 3 – Major Emergency.
+This Emergency Support Function does not include services for people who require
+immediate medical care. When evacuees who need immediate medical assistance are
+identified, services are provided by Toronto Paramedic Services through 911 calls and
+
+
+                                                                                          20
+other procedures. Long-term housing is also outside the scope of this Emergency
+Support Function.
+Evacuation
+This Emergency Support Function deals with planning and preparing for a decision to
+evacuate an area in the event of an emergency or pending emergency, a description of
+responsibilities to conduct the evacuation, and the process for re-entry. It includes a
+description of the responsibilities of staff, agencies and procedures involved in alerting
+the community of the need to evacuate, movement of the population during the
+evacuation and re-entry of the population once the affected area is deemed safe.
+Since emergencies and pending emergencies are diverse in nature, it is difficult to
+create a plan that has a detailed account of the duties involved. The aim of this
+document is to provide guidance for the responsibilities that will ensure the safety and
+security of the community during an emergency evacuation.
+Mass Casualty
+The Mass Casualty Emergency Support Function describes a coordinated and effective
+approach to providing health and medical assistance in the immediate aftermath of a
+mass casualty emergency that impedes routine health and medical services within the
+City of Toronto. It provides direction for responding to mass casualty needs following an
+emergency. Assistance provided under this Emergency Support Function is directed by
+Toronto Paramedic Services and is supported by several agencies within the City as
+well as the coordination between the agencies and private healthcare service providers.
+Traffic Management
+The Traffic Management Emergency Support Function describes the transportation
+resources (facilities, equipment, materials, supplies, and human and technical
+information) that support the City’s ability to implement an emergency transportation
+response. The aim of this Emergency Support Function is to provide the inter-Divisional
+and inter-agency operational support responsibilities that will ensure the safety and
+security of first responders, the general public and visitors to the City of Toronto.
+Volunteer Management
+The purpose of this Emergency Support Function is to facilitate and coordinate the
+placement of unaffiliated volunteers to assist in an emergency. It defines the roles and
+responsibilities within the volunteer coordination plan and provides guidance to Human
+Resources as the lead division for volunteer coordination.
+
+9.4 Hazard-Specific Plans
+
+The City of Toronto develops hazard-specific plans to complement its all-hazards
+planning. These plans address the unique risks, vulnerabilities, and response actions
+required for specific hazards, clarifying how roles, resources, and coordination may
+differ during various emergencies.
+The City has developed hazard-specific plans for the following hazards:
+
+
+                                                                                           21
+•   Extreme Heat Emergency Coordination Plan
+•   Extreme Winter Weather Coordination Plan
+•   Flood Coordination Plan
+•   Nuclear Emergency Response Plan
+•   Power Disruption Plan
+Divisions, agencies, and corporations may also develop plans for specific hazards that
+complement their all-hazards plans and procedures.
+
+10.0 Recovery Operations
+Recovery planning identifies issues, coordinates resources, ensures information is
+accurate and reliable, and works to restore utilities and other services in a timely
+manner. It provides an accountable, transparent process that ensures recovery services
+are accessible and applied in a consistent manner City-wide.
+Recovery is a coordinated process of supporting affected communities in the
+reconstruction of the physical infrastructure and restoration of emotional, social,
+economic and physical wellbeing.
+
+
+
+
+                                                                                      22
+11.0 Revision History
+Rev.                                                                        Revision
+               Revised by                           Details
+No.                                                                           Date
+       City of Toronto, Office of
+                                     Plan Development and Report to
+1      Emergency Management                                                May 2005
+                                     Committee.
+       (OEM)
+2      City of Toronto, OEM          Plan Review.                          May 2006
+       City of Toronto, OEM:
+3                                    Plan Review.                          June 2007
+       W. Leonard, J. Smysnuik
+       City of Toronto, OEM:
+                                                                           August
+4      W. Leonard, J. Smysnuik,      Plan Revision/Edit.
+                                                                           2008
+       G. Symonds
+
+       City of Toronto, OEM:         Plan Revision as per by-law
+5                                    revisions and report to Executive     April 2009
+       W. Leonard, J. Smysnuik       Committee.
+       City of Toronto, OEM:         Plan Revision as per by-law
+                                                                           October
+6      L. Chandler, W. Leonard, J.   revisions and report to Executive
+                                                                           2011
+       Kilgour, W. Banon             Committee.
+
+       City of Toronto, OEM:         Plan Revision as per by-law
+                                     revisions and reported to Toronto December
+7      L. Chandler, W. Leonard, J.   Emergency Management Program 2011
+       Kilgour, W. Banon             Committee.
+
+       City of Toronto, OEM:         Plan Revision as per by-law
+                                     revisions and reported to Toronto October
+8      L. Chandler, W. Leonard, J.   Emergency Management Program 2012
+       Kilgour, W. Banon             Committee.
+       City of Toronto, OEM:         Emergency Levels Table as per         February
+9
+       W. Banon                      Ombudsman Report.                     2013
+                                     Annual update and revisions as
+                                     per changes to the Municipal
+       City of Toronto, OEM:         Code, Chapter 59. Minor
+                                     language clarifications to Sections   December
+10     J. Kilgour, B. Eyre, W.       6.3 and 6.7 as presented to           2013
+       Banon                         Toronto Emergency Management
+                                     Program Committee, December
+                                     19, 2013.
+
+
+
+
+                                                                                      23
+Rev.                                                                      Revision
+                Revised by                        Details
+No.                                                                         Date
+                                     Annual update and revisions as
+       City of Toronto, OEM:         per changes to the Municipal
+                                                                         December
+11                                   Code, Chapter 59. EMWG
+       J. Kilgour, D. Clark                                              2014
+                                     feedback, and reported to Toronto
+                                     Emergency Program Committee.
+       City of Toronto, OEM:         Annual Update and revisions as
+       L. Chandler, T. Griffin, J.   per the Municipal Code, Chapter
+       Kilgour, S. Waters            59, Emergency Management
+                                                                     December
+12                                   Working Group (EMWG)
+       City of Toronto, Strategic                                    2015
+                                     feedback, and Toronto
+       Communications:               Emergency Management Program
+       J. DeSouza, W. Brown          Committee approval.
+                                     Annual Update and revisions as
+       City of Toronto, OEM:         per the Municipal Code, Chapter
+                                     59, Emergency Management            September
+13     L. Chandler, T. Griffin, J.   Working Group feedback, and         2016
+       Kilgour, S. Waters            Toronto Emergency Management
+                                     Program Committee approval.
+                                     Annual Update and revisions as
+       City of Toronto, OEM:         per the Municipal Code, Chapter
+                                     59, Emergency Management            September
+14     L. Chandler, T. Griffin, D.   Working Group feedback, and         2017
+       Clark                         Toronto Emergency Management
+                                     Program Committee approval.
+                                     Annual update and revisions as
+       City of Toronto, OEM          per the Municipal Code, Chapter
+                                                                         December
+15     T. Griffin, J. Smysnuik, C.   59 and Toronto Emergency
+                                                                         2020
+       O’Sullivan                    Management Program Committee
+                                     approval.
+                                     Annual update and revisions as
+       City of Toronto, OEM          per the Municipal Code, Chapter
+                                                                         December
+16     C. O’Sullivan, W. Banon, J.   59 and Toronto Emergency
+                                                                         2021
+       Beaven-Desjardins             Management Program Committee
+                                     approval.
+                                     Annual update and revisions as
+       City of Toronto, OEM          per the Municipal Code, Chapter
+                                                                         November
+17     C. O’Sullivan, J. Beaven-     59 and Toronto Emergency
+                                                                         2022
+       Desjardins                    Management Program Committee
+                                     approval.
+
+
+
+
+                                                                                 24
+Rev.                                                                 Revision
+                  Revised by                  Details
+No.                                                                    Date
+
+       City of Toronto, Toronto   Annual update and revisions as
+       Emergency Management       per the Municipal Code, Chapter
+                                                                    November
+18     (TEM)                      59, and Toronto Emergency
+                                                                    2023
+                                  Management Program Committee
+       S. Wells                   approval.
+
+       City of Toronto, Toronto   Annual update and revisions as
+       Emergency Management       per the Municipal Code, Chapter
+                                                                    September
+19     (TEM)                      59, and Toronto Emergency
+                                                                    2024
+                                  Management Program Committee
+       C. O’Sullivan              approval.
+
+
+
+
+                                                                            25
+

@@ -1,0 +1,246 @@
+EMERGENCY MANAGEMENT DOCUMENT ORGANIZATION SUMMARY
+============================================================
+
+Generated: 2025-08-31 11:30:34
+
+DOCUMENT CATEGORIES:
+------------------------------
+
+HAZARDS:
+  cyber_attack: 2 documents
+    - Anonymous and Digital Threats Procedure DRAFT.txt
+    - Ridley ERP Draft for EPOS.txt
+  fire: 10 documents
+    - 20240724 Working Alone Procedure.txt
+    - Emergency-Preparedness-and-Response-110316.txt
+    - 2025 UBC Emergency Plan.txt
+    - Hazardous Materials Release Procedure.txt
+    - 202409 City of Toronto Emergency Plan.txt
+    - 2023 Brock Emergency Response Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Ridley ERP Draft for EPOS.txt
+    - Emergency-Preparedness-Manual-2025.txt
+    - 202401 Fraser Valley Emergency Plan.txt
+  medical_emergency: 7 documents
+    - 20240724 Working Alone Procedure.txt
+    - Emergency-Preparedness-and-Response-110316.txt
+    - 202409 City of Toronto Emergency Plan.txt
+    - 2023 Brock Emergency Response Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Ridley ERP Draft for EPOS.txt
+    - Emergency-Preparedness-Manual-2025.txt
+  earthquake: 2 documents
+    - Emergency-Preparedness-and-Response-110316.txt
+    - 2025 UBC Emergency Plan.txt
+  flood: 7 documents
+    - Emergency-Preparedness-and-Response-110316.txt
+    - 2025 UBC Emergency Plan.txt
+    - 202409 City of Toronto Emergency Plan.txt
+    - 2023 Brock Emergency Response Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Emergency-Preparedness-Manual-2025.txt
+    - 202401 Fraser Valley Emergency Plan.txt
+  chemical_spill: 7 documents
+    - Emergency-Preparedness-and-Response-110316.txt
+    - 2025 UBC Emergency Plan.txt
+    - Hazardous Materials Release Procedure.txt
+    - 202409 City of Toronto Emergency Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Ridley ERP Draft for EPOS.txt
+    - Emergency-Preparedness-Manual-2025.txt
+  transportation_accident: 4 documents
+    - Emergency-Preparedness-and-Response-110316.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Ridley ERP Draft for EPOS.txt
+    - Emergency-Preparedness-Manual-2025.txt
+  infectious_disease: 7 documents
+    - Infectious Disease Response Procedure.txt
+    - 2025 UBC Emergency Plan.txt
+    - 202409 City of Toronto Emergency Plan.txt
+    - 2023 Brock Emergency Response Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Ridley ERP Draft for EPOS.txt
+    - Emergency-Preparedness-Manual-2025.txt
+  severe_weather: 7 documents
+    - 2025 UBC Emergency Plan.txt
+    - 202409 City of Toronto Emergency Plan.txt
+    - 2023 Brock Emergency Response Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Ridley ERP Draft for EPOS.txt
+    - Emergency-Preparedness-Manual-2025.txt
+    - 202401 Fraser Valley Emergency Plan.txt
+  power_outage: 5 documents
+    - 2025 UBC Emergency Plan.txt
+    - 202409 City of Toronto Emergency Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Ridley ERP Draft for EPOS.txt
+    - Emergency-Preparedness-Manual-2025.txt
+  workplace_violence: 2 documents
+    - 2025 UBC Emergency Plan.txt
+    - 202401 Fraser Valley Emergency Plan.txt
+  equipment_failure: 1 documents
+    - Ridley ERP Draft for EPOS.txt
+
+ORGANIZATION_TYPES:
+  educational: 11 documents
+    - Anonymous and Digital Threats Procedure DRAFT.txt
+    - Heat Interruption Draft.txt
+    - Infectious Disease Response Procedure.txt
+    - 2025 UBC Emergency Plan.txt
+    - Hazardous Materials Release Procedure.txt
+    - Bussing and Transportation Contingency Procedure.txt
+    - 2023 Brock Emergency Response Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Ridley ERP Draft for EPOS.txt
+    - Emergency-Preparedness-Manual-2025.txt
+    - 202401 Fraser Valley Emergency Plan.txt
+  retail: 8 documents
+    - Heat Interruption Draft.txt
+    - Emergency-Preparedness-and-Response-110316.txt
+    - 2025 UBC Emergency Plan.txt
+    - 202409 City of Toronto Emergency Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Ridley ERP Draft for EPOS.txt
+    - Emergency-Preparedness-Manual-2025.txt
+    - 202401 Fraser Valley Emergency Plan.txt
+  healthcare: 10 documents
+    - 20240724 Working Alone Procedure.txt
+    - Emergency-Preparedness-and-Response-110316.txt
+    - Infectious Disease Response Procedure.txt
+    - 2025 UBC Emergency Plan.txt
+    - 202409 City of Toronto Emergency Plan.txt
+    - 2023 Brock Emergency Response Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Ridley ERP Draft for EPOS.txt
+    - Emergency-Preparedness-Manual-2025.txt
+    - 202401 Fraser Valley Emergency Plan.txt
+  corporate: 9 documents
+    - 20240724 Working Alone Procedure.txt
+    - Emergency-Preparedness-and-Response-110316.txt
+    - 2025 UBC Emergency Plan.txt
+    - 202409 City of Toronto Emergency Plan.txt
+    - 2023 Brock Emergency Response Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Ridley ERP Draft for EPOS.txt
+    - Emergency-Preparedness-Manual-2025.txt
+    - 202401 Fraser Valley Emergency Plan.txt
+  non_profit: 7 documents
+    - 20240724 Working Alone Procedure.txt
+    - 2025 UBC Emergency Plan.txt
+    - 202409 City of Toronto Emergency Plan.txt
+    - 2023 Brock Emergency Response Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Emergency-Preparedness-Manual-2025.txt
+    - 202401 Fraser Valley Emergency Plan.txt
+  government: 9 documents
+    - Emergency-Preparedness-and-Response-110316.txt
+    - 2025 UBC Emergency Plan.txt
+    - Hazardous Materials Release Procedure.txt
+    - 202409 City of Toronto Emergency Plan.txt
+    - 2023 Brock Emergency Response Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Ridley ERP Draft for EPOS.txt
+    - Emergency-Preparedness-Manual-2025.txt
+    - 202401 Fraser Valley Emergency Plan.txt
+  industrial: 6 documents
+    - Emergency-Preparedness-and-Response-110316.txt
+    - Hazardous Materials Release Procedure.txt
+    - 2023 Brock Emergency Response Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Emergency-Preparedness-Manual-2025.txt
+    - 202401 Fraser Valley Emergency Plan.txt
+
+PROCEDURES:
+  evacuation: 10 documents
+    - Anonymous and Digital Threats Procedure DRAFT.txt
+    - Emergency-Preparedness-and-Response-110316.txt
+    - 2025 UBC Emergency Plan.txt
+    - Hazardous Materials Release Procedure.txt
+    - 202409 City of Toronto Emergency Plan.txt
+    - 2023 Brock Emergency Response Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Ridley ERP Draft for EPOS.txt
+    - Emergency-Preparedness-Manual-2025.txt
+    - 202401 Fraser Valley Emergency Plan.txt
+  communication: 14 documents
+    - Anonymous and Digital Threats Procedure DRAFT.txt
+    - Heat Interruption Draft.txt
+    - 20240724 Working Alone Procedure.txt
+    - Emergency-Preparedness-and-Response-110316.txt
+    - Infectious Disease Response Procedure.txt
+    - 2025 UBC Emergency Plan.txt
+    - Hazardous Materials Release Procedure.txt
+    - Bussing and Transportation Contingency Procedure.txt
+    - 202409 City of Toronto Emergency Plan.txt
+    - 2023 Brock Emergency Response Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Ridley ERP Draft for EPOS.txt
+    - Emergency-Preparedness-Manual-2025.txt
+    - 202401 Fraser Valley Emergency Plan.txt
+  security: 13 documents
+    - Anonymous and Digital Threats Procedure DRAFT.txt
+    - Heat Interruption Draft.txt
+    - Emergency-Preparedness-and-Response-110316.txt
+    - Infectious Disease Response Procedure.txt
+    - 2025 UBC Emergency Plan.txt
+    - Hazardous Materials Release Procedure.txt
+    - Bussing and Transportation Contingency Procedure.txt
+    - 202409 City of Toronto Emergency Plan.txt
+    - 2023 Brock Emergency Response Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Ridley ERP Draft for EPOS.txt
+    - Emergency-Preparedness-Manual-2025.txt
+    - 202401 Fraser Valley Emergency Plan.txt
+  transportation: 10 documents
+    - Heat Interruption Draft.txt
+    - Emergency-Preparedness-and-Response-110316.txt
+    - 2025 UBC Emergency Plan.txt
+    - Bussing and Transportation Contingency Procedure.txt
+    - 202409 City of Toronto Emergency Plan.txt
+    - 2023 Brock Emergency Response Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Ridley ERP Draft for EPOS.txt
+    - Emergency-Preparedness-Manual-2025.txt
+    - 202401 Fraser Valley Emergency Plan.txt
+  heat_interruption: 5 documents
+    - Heat Interruption Draft.txt
+    - 2023 Brock Emergency Response Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Ridley ERP Draft for EPOS.txt
+    - Emergency-Preparedness-Manual-2025.txt
+  medical_response: 6 documents
+    - 20240724 Working Alone Procedure.txt
+    - Emergency-Preparedness-and-Response-110316.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Ridley ERP Draft for EPOS.txt
+    - Emergency-Preparedness-Manual-2025.txt
+    - 202401 Fraser Valley Emergency Plan.txt
+  working_alone: 1 documents
+    - 20240724 Working Alone Procedure.txt
+  hazardous_materials: 7 documents
+    - Emergency-Preparedness-and-Response-110316.txt
+    - 2025 UBC Emergency Plan.txt
+    - Hazardous Materials Release Procedure.txt
+    - 202409 City of Toronto Emergency Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Ridley ERP Draft for EPOS.txt
+    - Emergency-Preparedness-Manual-2025.txt
+  infectious_disease: 6 documents
+    - Infectious Disease Response Procedure.txt
+    - 2025 UBC Emergency Plan.txt
+    - 2023 Brock Emergency Response Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Ridley ERP Draft for EPOS.txt
+    - Emergency-Preparedness-Manual-2025.txt
+
+COMPREHENSIVE_PLANS:
+  healthcare: 5 documents
+    - Emergency-Preparedness-and-Response-110316.txt
+    - 202409 City of Toronto Emergency Plan.txt
+    - 2025 Emergency-Preparedness-Manual-Shepherd Village.txt
+    - Emergency-Preparedness-Manual-2025.txt
+    - 202401 Fraser Valley Emergency Plan.txt
+  educational: 3 documents
+    - 2025 UBC Emergency Plan.txt
+    - 2023 Brock Emergency Response Plan.txt
+    - Ridley ERP Draft for EPOS.txt

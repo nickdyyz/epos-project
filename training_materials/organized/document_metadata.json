@@ -1,0 +1,311 @@
+{
+  "Anonymous and Digital Threats Procedure DRAFT.txt": {
+    "hazards": [
+      "cyber_attack"
+    ],
+    "organization_types": [
+      "educational"
+    ],
+    "procedures": [
+      "evacuation",
+      "communication",
+      "security"
+    ]
+  },
+  "Heat Interruption Draft.txt": {
+    "organization_types": [
+      "educational",
+      "retail"
+    ],
+    "procedures": [
+      "communication",
+      "security",
+      "transportation",
+      "heat_interruption"
+    ]
+  },
+  "20240724 Working Alone Procedure.txt": {
+    "hazards": [
+      "fire",
+      "medical_emergency"
+    ],
+    "organization_types": [
+      "healthcare",
+      "corporate",
+      "non_profit"
+    ],
+    "procedures": [
+      "communication",
+      "medical_response",
+      "working_alone"
+    ]
+  },
+  "Emergency-Preparedness-and-Response-110316.txt": {
+    "comprehensive_plans": "healthcare",
+    "hazards": [
+      "earthquake",
+      "flood",
+      "fire",
+      "chemical_spill",
+      "medical_emergency",
+      "transportation_accident"
+    ],
+    "organization_types": [
+      "healthcare",
+      "government",
+      "corporate",
+      "industrial",
+      "retail"
+    ],
+    "procedures": [
+      "evacuation",
+      "communication",
+      "medical_response",
+      "security",
+      "transportation",
+      "hazardous_materials"
+    ]
+  },
+  "Infectious Disease Response Procedure.txt": {
+    "hazards": [
+      "infectious_disease"
+    ],
+    "organization_types": [
+      "educational",
+      "healthcare"
+    ],
+    "procedures": [
+      "communication",
+      "security",
+      "infectious_disease"
+    ]
+  },
+  "2025 UBC Emergency Plan.txt": {
+    "comprehensive_plans": "educational",
+    "hazards": [
+      "earthquake",
+      "flood",
+      "fire",
+      "severe_weather",
+      "power_outage",
+      "chemical_spill",
+      "workplace_violence",
+      "infectious_disease"
+    ],
+    "organization_types": [
+      "educational",
+      "healthcare",
+      "government",
+      "corporate",
+      "retail",
+      "non_profit"
+    ],
+    "procedures": [
+      "evacuation",
+      "communication",
+      "security",
+      "transportation",
+      "hazardous_materials",
+      "infectious_disease"
+    ]
+  },
+  "Hazardous Materials Release Procedure.txt": {
+    "hazards": [
+      "fire",
+      "chemical_spill"
+    ],
+    "organization_types": [
+      "educational",
+      "government",
+      "industrial"
+    ],
+    "procedures": [
+      "evacuation",
+      "communication",
+      "security",
+      "hazardous_materials"
+    ]
+  },
+  "Bussing and Transportation Contingency Procedure.txt": {
+    "organization_types": [
+      "educational"
+    ],
+    "procedures": [
+      "communication",
+      "security",
+      "transportation"
+    ]
+  },
+  "202409 City of Toronto Emergency Plan.txt": {
+    "comprehensive_plans": "healthcare",
+    "hazards": [
+      "flood",
+      "fire",
+      "severe_weather",
+      "power_outage",
+      "chemical_spill",
+      "medical_emergency",
+      "infectious_disease"
+    ],
+    "organization_types": [
+      "healthcare",
+      "government",
+      "corporate",
+      "retail",
+      "non_profit"
+    ],
+    "procedures": [
+      "evacuation",
+      "communication",
+      "security",
+      "transportation",
+      "hazardous_materials"
+    ]
+  },
+  "2023 Brock Emergency Response Plan.txt": {
+    "comprehensive_plans": "educational",
+    "hazards": [
+      "flood",
+      "fire",
+      "severe_weather",
+      "medical_emergency",
+      "infectious_disease"
+    ],
+    "organization_types": [
+      "educational",
+      "healthcare",
+      "government",
+      "corporate",
+      "industrial",
+      "non_profit"
+    ],
+    "procedures": [
+      "evacuation",
+      "communication",
+      "security",
+      "transportation",
+      "heat_interruption",
+      "infectious_disease"
+    ]
+  },
+  "2025 Emergency-Preparedness-Manual-Shepherd Village.txt": {
+    "comprehensive_plans": "healthcare",
+    "hazards": [
+      "flood",
+      "fire",
+      "severe_weather",
+      "power_outage",
+      "chemical_spill",
+      "medical_emergency",
+      "transportation_accident",
+      "infectious_disease"
+    ],
+    "organization_types": [
+      "educational",
+      "healthcare",
+      "government",
+      "corporate",
+      "industrial",
+      "retail",
+      "non_profit"
+    ],
+    "procedures": [
+      "evacuation",
+      "communication",
+      "medical_response",
+      "security",
+      "transportation",
+      "heat_interruption",
+      "hazardous_materials",
+      "infectious_disease"
+    ]
+  },
+  "Ridley ERP Draft for EPOS.txt": {
+    "comprehensive_plans": "educational",
+    "hazards": [
+      "fire",
+      "severe_weather",
+      "power_outage",
+      "chemical_spill",
+      "cyber_attack",
+      "equipment_failure",
+      "medical_emergency",
+      "transportation_accident",
+      "infectious_disease"
+    ],
+    "organization_types": [
+      "educational",
+      "healthcare",
+      "government",
+      "corporate",
+      "retail"
+    ],
+    "procedures": [
+      "evacuation",
+      "communication",
+      "medical_response",
+      "security",
+      "transportation",
+      "heat_interruption",
+      "hazardous_materials",
+      "infectious_disease"
+    ]
+  },
+  "Emergency-Preparedness-Manual-2025.txt": {
+    "comprehensive_plans": "healthcare",
+    "hazards": [
+      "flood",
+      "fire",
+      "severe_weather",
+      "power_outage",
+      "chemical_spill",
+      "medical_emergency",
+      "transportation_accident",
+      "infectious_disease"
+    ],
+    "organization_types": [
+      "educational",
+      "healthcare",
+      "government",
+      "corporate",
+      "industrial",
+      "retail",
+      "non_profit"
+    ],
+    "procedures": [
+      "evacuation",
+      "communication",
+      "medical_response",
+      "security",
+      "transportation",
+      "heat_interruption",
+      "hazardous_materials",
+      "infectious_disease"
+    ]
+  },
+  "202401 Fraser Valley Emergency Plan.txt": {
+    "comprehensive_plans": "healthcare",
+    "hazards": [
+      "flood",
+      "fire",
+      "severe_weather",
+      "workplace_violence"
+    ],
+    "organization_types": [
+      "educational",
+      "healthcare",
+      "government",
+      "corporate",
+      "industrial",
+      "retail",
+      "non_profit"
+    ],
+    "procedures": [
+      "evacuation",
+      "communication",
+      "medical_response",
+      "security",
+      "transportation"
+    ]
+  }
+}

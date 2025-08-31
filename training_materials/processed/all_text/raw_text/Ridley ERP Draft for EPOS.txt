@@ -1,0 +1,837 @@
+     Ridley College
+Emergency Response Plan
+     Content Draft
+Table of Contents
+
+Introduction .................................................................................................................................... 4
+Approach ......................................................................................................................................... 4
+Core Elements ................................................................................................................................. 4
+Legislative Context .......................................................................................................................... 5
+Distribution ..................................................................................................................................... 5
+Review and Revision ....................................................................................................................... 5
+Definitions ....................................................................................................................................... 5
+Response Levels .............................................................................................................................. 8
+    Level Criteria ............................................................................................................................. 8
+Activation ........................................................................................................................................ 9
+Incident Management Structure .................................................................................................. 10
+Emergency Response Team .......................................................................................................... 11
+    Executive Strategy & Recovery Team ..................................................................................... 12
+    Incident Commander (IC) ........................................................................................................ 12
+    Emergency Information & Liaison .......................................................................................... 13
+    Safety & Operations ................................................................................................................ 14
+    Scribe....................................................................................................................................... 15
+    Planning & Logistics section .................................................................................................... 15
+    Finance & Administration ....................................................................................................... 16
+Incident Action Plan (IAP) ............................................................................................................. 17
+Operational Period ........................................................................................................................ 18
+Emergency Operation Centre (EOC) ............................................................................................. 18
+Temporary On-Campus Shelter .................................................................................................... 19
+    Temporary Shelter Management ........................................................................................... 19
+    Backup Power Facilities .......................................................................................................... 19
+Reunification ................................................................................................................................. 20
+Cybersecurity Incident Response .................................................................................................. 20
+Mental Health Support ................................................................................................................. 20
+Transportation Incident ................................................................................................................ 21
+Recovery Plan ................................................................................................................................ 21
+After Action Review ...................................................................................................................... 22
+
+                                                                                                                                                   2
+Training & Exercises ...................................................................................................................... 22
+Conclusion ..................................................................................................................................... 23
+Document Control......................................................................................................................... 23
+Appendix ....................................................................................................................................... 24
+    Appendix: Emergency Management Templates..................................................................... 24
+    Appendix: Crisis Communication Procedures ......................................................................... 24
+    Appendix: Temporary Shelter ................................................................................................. 24
+    Appendix: Lockdown Procedure ............................................................................................. 24
+    Appendix: Hold and Secure Procedure ................................................................................... 24
+    Appendix: Shelter in Place Procedure .................................................................................... 24
+    Appendix: Evacuation Procedure............................................................................................ 24
+    Appendix: Medical Emergency Response Procedure ............................................................. 24
+    Appendix: Bomb Threat Procedure ........................................................................................ 24
+    Appendix: Anonymous and Digital Threats Response ............................................................ 24
+    Appendix: Hazardous Material Spill Response ....................................................................... 24
+    Appendix: Utility Failure (Heat, Water, Power Interruptions) Response ............................... 24
+    Appendix: Infectious Disease Response ................................................................................. 24
+    Appendix: Reunification Procedures ...................................................................................... 24
+    Appendix: Cybersecurity Incident Response .......................................................................... 24
+    Appendix: Transportation Incident Response ........................................................................ 24
+    Appendix: After Action Review (AAR) ..................................................................................... 24
+    Appendix: Recovery Plan ........................................................................................................ 24
+
+
+
+
+                                                                                                                                                 3
+Introduction
+Ridley College’s mission is to prepare students for meaningful and flourishing lives by instilling
+the values necessary for leadership in a global society. Central to this mission is our
+commitment to creating a safe, supportive, and inclusive environment where all members of
+our community can thrive.
+
+The Ridley College Emergency Response Plan (ERP) serves as a flexible framework to ensure
+preparedness in managing exceptional circumstances and emergency situations. This plan
+reflects our dedication to safeguarding the well-being of our community, protecting our
+operations and facilities, and minimizing disruptions that may impact our ability to fulfill our
+mission.
+
+The ERP outlines the roles, responsibilities, and communication protocols required to
+effectively address risks, allocate resources, and ensure coordination during emergencies. It is a
+critical reference that reflects the College’s commitment to service and care, empowering our
+community to respond confidently and compassionately in times of need.
+
+
+Approach
+Ridley College’s Emergency Management Program incorporates prevention, mitigation,
+preparedness, response, and recovery to ensure a unified, proactive approach to safeguarding
+our community.
+
+
+Core Elements
+   1. Prevention: Actions to reduce or eliminate risks, including implementing policies,
+      conducting risk assessments, and maintaining infrastructure.
+   2. Mitigation: Measures to reduce the impact of unavoidable emergencies.
+   3. Preparedness: Readiness through resource identification and pre-positioning, role
+      assignment, testing life safety systems, training, and awareness.
+   4. Response: Actions during an emergency to protect individuals, manage risks, and
+      minimize disruption.
+   5. Recovery: Efforts to restore the College to pre-incident conditions or better with
+      continuous learning and improvement.
+
+
+
+
+                                                                                                     4
+Legislative Context
+Ridley College’s emergency planning is informed by the Emergency Management and Civil
+Protection Act (R.S.O. 1990, c. E.9), emphasizing planning, training, education, and recovery
+initiatives. This alignment underscores our commitment to fostering a safe, resilient campus
+environment.
+
+
+Distribution
+To ensure the safety, security, and effectiveness of Ridley College's Emergency Response Plan,
+access to specific restricted procedures and sensitive information is limited to the following:
+
+   1. Ridley College Board of Governors: including the Board Chair, members of the
+      committee(s) responsible for crisis management, and any additional Board members
+      authorized by the Chair to access the information.
+   2. Executive Leadership Team Members: Includes all members as defined in the
+      "Executive Strategy & Recovery" section of this plan.
+   3. Emergency Response Team Members: Comprises individuals designated within the
+      "Emergency Response Team Structure" who have direct responsibilities in implementing
+      emergency protocols.
+   4. Authorized External Agencies: Third-parties such as emergency services or professional
+      consulting firms, etc.
+
+
+Review and Revision
+The Manager of Campus Safety and Security Services reviews the ERP annually and after any
+activation to ensure its policies, procedures, and training programs are up to date and able to
+address evolving challenges. The Executive Leadership Team approves major revisions.
+
+
+
+
+                                                                                                  5
+Definitions
+Declared Emergency: An emergency formally acknowledged by the Headmaster or designate,
+in consultation with the Executive Leadership Team and Incident Commander (IC), due to its
+severity, complexity, or potential impact. This declaration activates the Emergency Response
+Plan, mobilizing resources and coordinating response efforts.
+
+Disaster: An event that exceeds the College’s capacity to manage with available resources
+and/or one that affects the broader community, necessitating independent operation or self-
+sufficiency for 72 hours or more. It includes situations that disrupt normal operations, requiring
+immediate and coordinated efforts across the campus and external partners to restore safety,
+services, and operations.
+
+Emergency: As defined by the Emergency Management & Civil Protection Act (R.S.O. 1990,
+c.E.9): “a situation or an impending situation that constitutes a danger of major proportions
+that could result in serious harm to persons or substantial damage to property and that is
+caused by the forces of nature, a disease or other health risk, an accident or an act whether
+intentional or otherwise.”
+
+Emergency Response Team (ERT): The group responsible for responding to emergencies by
+implementing protocols and coordinating response actions to ensure the safety and well-being
+of all individuals involved.
+
+First Responders: May include staff from Security, Facilities, Health Services, Residential
+Boarding team, or other departments, alongside external emergency services (Police, Fire, and
+Ambulance).
+
+Incident: Any event threatening or has the potential to threaten the normal operations, safety,
+or well-being of individuals or assets within the Ridley College community. Incidents can range
+from minor incidents to major incidents, or disasters, requiring a coordinated response.
+
+Incident Action Plan (IAP): A verbal or written plan outlining how a particular incident will be
+managed, including objectives, strategies, and tactics. For simple incidents, the Incident
+Commander (IC) may set these elements. In complex incidents, the Planning & Logistics section
+is responsible for developing and maintaining the IAP in coordination with the IC.
+
+Incident Command (IC): The functional authority within Ridley College’s emergency response
+framework, holding overall responsibility for coordinating and directing all aspects of an
+incident. Through Incident Command, Ridley College maintains unified control over the
+emergency response to protect the safety and well-being of the entire community.
+                                                                                                6
+Incident Command Post (ICP): The location where the ERT oversees and manages an incident.
+It should be situated outside of hazardous areas yet close enough to allow effective
+coordination and command.
+
+Incident Management System (IMS): A standardized approach to managing incidents and
+disasters by utilizing facilities, equipment, personnel, procedures, and communications within a
+common organizational structure.
+
+Major Incident: A mid-level emergency that involves significant risks to safety or operations,
+requiring coordination between multiple departments and potentially external agencies.
+
+Minor Incident: The lowest level of emergency or disruption that is localized and manageable
+and does not pose a significant risk to campus safety, operations, or the broader community.
+
+Ridley College Community: Primarily consists of current students, parents, and employees, but
+also includes alumni, donors, retirees, and others who have an official connection to the
+College.
+
+Section: An organizational level having responsibility for a functional area of incident
+management (e.g., Emergency Information & Liaison, Safety & Operations, Planning & Logistics,
+Finance & Administration).
+
+Single Command: Occurs when one organization or jurisdiction is responsible for coordinating
+and managing an incident.
+
+Unified Command Structure: In rare cases when multiple incident response organizations are
+involved, a shared management approach replaces a single command. In this setup, two or
+more lead organizations or jurisdictions collaborate through a common set of objectives,
+strategies, and tactics.
+
+
+
+
+                                                                                                 7
+Response Levels
+The Emergency Response Plan (ERP) categorizes emergencies into three levels, Minor Incident,
+Major Incident, and a Disaster, based on the severity, complexity, required resources for
+response, and duration. This framework ensures a scalable, consistent approach to managing
+emergencies and minimizing disruption to the campus community.
+
+Level Criteria
+The level of an emergency is determined by evaluating several factors, including:
+
+   1. Impact: How many people, areas, or systems are affected? Is the incident localized, or
+      does it have a broader impact?
+   2. Severity of Risk: Does the incident pose a minor inconvenience, significant risk to safety
+      or operations, or immediate life-threatening danger?
+   3. Resource Requirements: Can the situation be managed with internal resources, or are
+      external emergency services required?
+   4. Duration of Response: Is the response short-term, requiring only hours, or prolonged,
+      involving days or weeks of recovery
+   5. Potential for Escalation: Could the incident grow in severity or complexity if not
+      addressed promptly or if available resources are exhausted before replacements can be
+      accessed?
+
+Level 1 Minor Incident: Involves a localized and predictable situation that can be managed
+using the College’s standard, planned responses. These events typically affect specific areas,
+require minimal resources, and do not significantly disrupt operations.
+
+   ●   Localized short term power outage affecting a part of a building.
+   ●   Small fire in a microwave.
+   ●   Vehicle breakdown off campus with students aboard.
+   ●   A minor medical emergency:
+          o Basic first aid for a small cut.
+          o Mild symptoms like dizziness or dehydration.
+          o Twisted ankle.
+
+Level 2 Major Incident: An Incident involving an unpredictable, serious situation with
+significant potential impacts on operations and/or safety. These incidents require a
+coordinated response from multiple departments and possibly external agencies.
+
+
+                                                                                                 8
+   ● Severe weather (e.g., windstorm) causing major disruptions to campus operations for
+     more than 24 hours.
+   ● Fire affecting the occupancy of a building.
+   ● Transportation accident with injuries.
+   ● Life-threatening medical emergency:
+         o Cardiac arrest.
+         o Severe allergic reaction.
+
+Level 3 Disaster: a severe event with widespread impacts on campus safety, operations, and
+potentially the environment. These events demand significant resources and full coordination
+with external agencies.
+
+   ●   Tornado causing widespread damage to campus buildings and grounds.
+   ●   Prolonged campus-wide power outage.
+   ●   Transportation accident with fatalities.
+   ●   Health crises, such as pandemics or large-scale disease outbreaks.
+
+
+Activation
+   1. Declaring an Emergency: The authority to officially declare an emergency rests primarily
+      with the Headmaster, who consults with the Executive Leadership Team and Incident
+      Commander (IC). If the Headmaster or IC is unavailable or immediate action is required,
+      designated alternate ICs or members of the Executive Leadership Team may declare an
+      emergency and activate the Emergency Response Plan.
+   2. Incident Identification: Once an emergency is declared, the IC, in consultation with
+      relevant ERT members, determines the appropriate level of activation based on the
+      situation’s nature and scale.
+   3. Incident Command Post (ICP): Upon activation, the IC and ERT coordinate response
+      operations from the ICP, ensuring the responsibilities outlined in the Incident
+      Management Structure are assigned.
+   4. Incident Action Plan (IAP): The ERT develops or updates a verbal or written IAP,
+      mobilizing resources as required. By following the IMS framework, Ridley College can
+      escalate or scale back its emergency response as conditions change.
+   5. Prioritizing Well-Being: All response activities prioritize the safety and well-being of
+      students, staff, visitors, and the broader Ridley community.
+
+
+
+
+                                                                                               9
+Incident Management Structure
+Ridley College’s emergency response structure is composed of First Responders and the
+Emergency Response Team (ERT), mobilized as needed to effectively address incidents.
+
+First Responders: are the initial layer of response that has the capacity to stabilize the situation
+and communicate critical information to ensure the correct resources are deployed. They may
+include staff from Security, Facilities, Health Services, Residential Boarding team, or other
+departments, alongside external emergency services (Police, Fire, and Ambulance).
+
+   Responsibilities:
+      ● Perform an initial assessment and protect life and property.
+      ● Coordinate activities among Ridley College personnel present at the scene.
+      ● Inform and collaborate with external emergency services.
+
+Emergency Response Team (ERT): The group implementing the Emergency Response Plan
+(ERP) and coordinating incident response. Working with first responders, the Emergency
+Response Team (ERT) ensures a quick and organized response to emergencies, minor incidents,
+major incidents, and disasters. The ERT is led by the Incident Commander (IC) during active
+incidents, directed by the Executive Strategy & Recovery Team and supported by other roles
+within the Incident Management System (IMS) structure.
+
+   Responsibilities:
+      ● Activate the ERP when an incident is identified.
+      ● Assess situations by gathering and evaluating information about the incident’s
+         scope, risks, and immediate needs.
+      ● Support the IC in developing or updating the Incident Action Plan (IAP).
+      ● Coordinate resources (personnel, equipment, supplies) to meet response objectives.
+      ● Maintain communication among first responders, external agencies, and Ridley
+         College departments.
+      ● Implement safety measures to protect responders and the community.
+      ● Document actions to facilitate clear post-incident analysis and review.
+
+Members:
+The ERT includes representatives from the operational and administrative areas of the school
+(e.g., Security, Facilities, Finance, and other support units). Membership may expand or
+contract based on incident complexity, but the purpose is to address immediate threats and
+support recovery efforts.
+
+
+                                                                                                  10
+Emergency Response Team
+
+
+
+
+                          11
+Executive Strategy & Recovery Team
+The Executive Strategy & Recovery Team provides strategic direction to the IC and coordinates
+long-term recovery efforts to minimize an incident’s impact.
+
+Strategic Planning:
+    ● Coordinate with the IC to adjust strategies as conditions evolve.
+    ● Ensure alignment of response with overall organizational goals.
+    ● Oversee the development and implementation of long-term recovery plans
+
+Resource Allocation:
+   ● Allocate financial, human, and material resources to support response and recovery.
+
+Key Stakeholder Communication:
+   ● Maintain communication with the Board of Governors, Ridley College community,
+       external agencies, community leaders, and government officials.
+   ● Provide updates on incident status and recovery progress.
+
+Recovery Coordination:
+   ● Develop strategies for business continuity and resumption of normal operations.
+   ● Collaborate with internal and external partners to facilitate a smooth transition from
+      response to recovery.
+   ● Lead planning and implementation of post-incident recovery efforts.
+
+Members:
+  ● Executive Leadership Team members required for effective response of an incident or
+     disaster determined by the Headmaster or designate at the time of the emergency.
+
+Incident Commander (IC)
+The IC holds responsibility for the management, coordination, and oversight of the immediate
+emergency response.
+
+Selection & Rotation:
+    ● The IC is chosen based on availability, typically serving 8–12 hours. For prolonged
+       events, multiple ICs may rotate.
+
+Continuity:
+    ● Adequate briefing time for incoming ICs is essential; other roles should also have
+        staggered handovers to ensure an entire staff does not change at the same time.
+Establishing Incident Command:
+                                                                                              12
+   ● Assess the situation, identifying the incident type, scope, hazards, and resources.
+   ● Determine the level of IMS activation, from a minimal single-responder system to a
+     multi-agency structure for major incidents or disasters.
+   ● Designate an Incident Command Post (ICP) as the central location for communication
+     and resource management, ensuring it’s safe from direct hazards.
+
+Activate necessary IMS Sections based on incident needs:
+    ● Develop the IAP in coordination with ERT members, outlining objectives, strategies,
+       tactics, resources, and safety protocols.
+    ● Ensure clear communication within the ERT throughout the incident.
+    ● Oversee resources (personnel, equipment, supplies) with support from Planning &
+       Logistics.
+    ● Establish a unified command structure if multiple agencies respond, ensuring
+       collaboration without undermining each agency’s authority.
+
+Coordination:
+   ● Review and approve the IAP.
+   ● Delegate tasks to IMS sections.
+   ● Liaise with external agencies (e.g., emergency services, public health) via the Emergency
+      Information & Liaison section.
+   ● Represent the ERT at briefings and meetings.
+   ● Provide updates to the Emergency Information & Liaison section for public information
+      strategy.
+   ● Facilitate resource sharing across responding organizations.
+
+Designated Leads:
+   ● Manager of Safety & Security Services
+   ● Alternates:
+          o Executive Director Strategy & Innovation
+          o Assistant Head Co-curricular & Community Connections
+
+Emergency management training IMS/ICS 100 provided by Emergency Management Ontario is
+recommended for all ICs.
+
+Emergency Information & Liaison
+
+The Emergency Information & Liaison section is responsible for developing and disseminating
+timely, accurate information to the Ridley College community and the public during an
+emergency.
+
+                                                                                              13
+Ridley Community Communications:
+    ● Provide accurate, timely updates on the situation, response, and recovery.
+    ● Act as the primary point of contact for inquiries from internal and external stakeholders.
+
+Public Communications:
+   ● Develop public information and messaging plans for the incident.
+   ● Draft press releases and media statements for the Executive Strategy & Recovery Team.
+   ● Conduct press conferences and media briefings as authorized by the Executive Strategy
+        & Recovery Team.
+   ● Address inquiries and concerns related to the incident.
+   ● Designate a primary contact for individuals seeking emergency information.
+   ● Monitor public perception and respond to misinformation.
+   ● Serve as a liaison with external organizations assisting with the response.
+
+Designated Leads:
+   ● Director of Strategic Marketing and Communications
+   ● Alternates:
+          o Communications Manager
+          o Associate Director of Admissions
+          o Assistant Head Co-Curriculars & Community Connections
+
+Parent & Student Communication Leads:
+   ● Head of Upper School
+   ● Head of Middle School
+   ● Head of Lower School
+          o Alternate
+                 ▪ Director of Wellbeing
+
+Safety & Operations
+
+The Safety & Operations section ensures responder safety and manages operations during an
+incident. This role works closely with the IC to ensure safety measures are implemented into
+operational strategies, balancing incident objectives with personnel protection.
+
+Safety:
+   ● Identify potential hazards associated with the incident.
+   ● Develop and implement safety protocols for responders and the public.
+   ● Enforce safety standards.
+
+                                                                                               14
+   ● Track the inventory of safety equipment (e.g., PPE) to ensure timely replenishment.
+   ● Monitor environmental and weather conditions.
+
+Operations:
+   ● Develop and implement plans to contain and resolve the incident.
+   ● Coordinate and direct personnel assigned to operational tasks.
+   ● Deploy resources effectively and safely.
+   ● Identify operational challenges and resource shortfalls.
+   ● Monitor incident progress and update the IC.
+
+Designated Leads:
+   ● Director of Facilities
+   ● Alternates:
+          o Manager of Facilities – Maintenance
+          o Mechanical Lead - Maintenance
+
+Scribe
+
+The Scribe is responsible for documenting critical information throughout an incident.
+
+Responsibilities:
+   ● Document decisions made by the IC and ERT.
+   ● Record key activities, events, and timelines.
+   ● Prepare reports for post-incident analysis.
+   ● Maintain accurate and complete records of the response.
+
+Designated Leads:
+   ● Board Administrative Assistant
+   ● Alternates:
+          o Project Coordinator to the CFO and Executive Director of Strategy & Innovation
+          o Executive Assistant to the Headmaster
+
+Planning & Logistics section
+
+The Planning & Logistics section is responsible for strategic planning and resource support,
+ensuring objectives are met. This includes coordinating personnel, equipment, and supplies, as
+well as developing and updating the IAP.
+
+Planning:
+
+                                                                                            15
+   ● Collect and analyze incident data (scope (i.e. duration, locations, population), hazards,
+     etc.) to maintain situational awareness.
+   ● Provide recommendations and decision support to the IC.
+   ● Maintain and revise the IAP as new information emerges.
+
+Logistics:
+   ● Oversee procurement, deployment, and accountability of resources, including those
+        beyond immediate availability.
+   ● Identify and acquire necessary supplies, equipment, and facilities for the response.
+   ● Manage distribution of resources (stockpiling, replenishment, etc.).
+   ● Establish support systems (e.g., food, shelter, transportation).
+   ● Coordinate with vendors and suppliers for timely delivery of resources.
+   ● Track resource usage and maintain inventory records.
+
+Designated Leads:
+   ● CFO
+   ● Alternates:
+          ○ Facilities Project Manager
+          ○ Manager of Service Delivery, Innovation & Projects, Information Technology
+
+Finance & Administration
+The Finance & Administration section oversees financial and administrative functions during an
+incident. This includes coordinating with Planning & Logistics for financial reconciliation and
+tracking any relief efforts. In major incidents, the section may expand by adding specialized
+units to manage greater financial or administrative demands.
+
+Finance:
+    ● Develop a financial plan for response activities.
+    ● Track expenditures incurred during the incident.
+    ● Secure funding or reimbursement for incident-related costs.
+    ● Provide financial reports to Executive Strategy & Recovery.
+
+Administration:
+  ● Collaborate with all sections to ensure financial considerations are integrated into
+      response efforts.
+  ● Manage personnel records, timekeeping, and payroll during the incident.
+
+Designated Leads:
+   ● Finance Controller
+
+                                                                                                 16
+   ● Alternates:
+         o Finance Accounting Specialists
+         o Finance Accounts Payable Clerk
+
+
+Incident Action Plan (IAP)
+The Incident Action Plan (IAP) provides a structured outline for managing an incident, detailing
+objectives, strategies, tactics, resource requirements, and safety measures. It serves as a
+central reference for all personnel involved in the response, promoting unified and efficient
+operations.
+
+Development and Approval:
+   1. Initiation: In simple incidents, the Incident Commander (IC) may set objectives and
+      tactics verbally. In complex incidents, the Planning & Logistics Section takes the lead on
+      drafting the IAP in coordination with the IC and other relevant Sections.
+   2. Operational Periods: The IAP is typically developed or updated before each operational
+      period (e.g., 12- or 24-hour cycles) or whenever significant changes occur.
+   3. Review: Section Leads, and key personnel review the proposed plan. The IC has final
+      approval, ensuring it aligns with overall objectives.
+
+Content:
+   1. Objectives & Strategies: Clearly stated incident goals, along with the overarching
+      methods to achieve them.
+   2. Tactics & Assignments: Specific actions and responsibilities for each Section or
+      functional area.
+   3. Resource Requirements: Identification of personnel, equipment, and supplies needed
+      to meet objectives.
+   4. Safety Considerations: Any hazards, safety protocols, and protective measures essential
+      for responders and the Ridley College community.
+
+Execution and Monitoring:
+   1. Distribution: Once approved, the IAP is shared with all relevant response personnel to
+       ensure unified action.
+   2. Updates: As the incident evolves, the plan may be adjusted to address new challenges
+       or revised objectives.
+   3. Documentation: The Scribe maintains records of key decisions, progress, and any
+       modifications to the IAP.
+
+   Incident Action Plan (IAP) templates can be found in Appendix
+
+                                                                                              17
+Operational Period
+An operational period is a designated time frame during which specific objectives, strategies,
+and tactics are planned, implemented, and evaluated in response to an incident. The Incident
+Commander (IC), in coordination with the Planning & Logistics Section, determines the length
+of each operational period based on the incident's scope, complexity, and evolving conditions.
+
+Key activities:
+   1. Incident Action Plan Execution: Objectives outlined in the IAP are implemented and
+       monitored.
+   2. Briefings: Clear communication of responsibilities and safety measures to all personnel
+       at the start of each period.
+   3. Situation Monitoring: Continuous assessment of progress and emerging needs to adjust
+       strategies as required.
+   4. End-of-Period Review: Evaluation of outcomes and preparation of objectives for the
+       next operational period.
+
+Operational periods typically last 12–24 hours but may vary based on incident requirements
+and should account for personnel availability and shifts.
+
+
+Emergency Operation Centre (EOC)
+In the event of an emergency at Ridley College, one or more Emergency Operations Centres
+(EOCs) may be established by the IC in consultation with the Headmaster to facilitate
+coordinated decision-making and resource allocation. Depending on the incident type, scope,
+and safety considerations, the following locations have been designated:
+
+   ● Primary EOC: Upper School Headmaster’s Office
+   ● Alternate EOC #1: Iggulden Building Board Room
+   ● Alternate EOC #2: Upper School Matthews Wing
+
+Should primary and alternate EOC locations become inaccessible, the Incident Commander (IC).
+or designated alternates will identify and establish additional Emergency Operation Centres.
+
+EOC Equipment & Resources
+
+To ensure effective emergency management, each EOC should be equipped with:
+
+
+
+                                                                                              18
+   ● Secure facility with sufficient space, power backup, HVAC, and workstations for key IMS
+     roles.
+   ● Communication Tools including a landline, two-way radios, internet with redundant
+     connectivity.
+   ● Monitors
+   ● Emergency plans and contact directories. Including:
+         o Emergency Response Plan
+         o Student contact & emergency contact information
+         o Employee contact & emergency contact information
+   ● Office supplies, first aid kits, PPE, food, water, and emergency lighting.
+
+
+Temporary On-Campus Shelter
+In the event of an emergency that renders a dormitory or campus building uninhabitable,
+temporary shelter will be established to assist affected students, faculty, and staff. The Athletic
+Centre Field House and Gyms will serve as the primary temporary shelter for up to 12–24 hours.
+These facilities ensure safety and stability until off-site accommodations can be arranged by the
+Planning Section, if required.
+
+Temporary Shelter Management
+   1. Attendance Tracking: Managers, Residential staff, and Faculty will monitor attendance
+      and maintain a sign-in/sign-out registry to ensure the safety of all individuals.
+   2. Communication Assistance: Affected individuals will be provided with facilities to
+      contact family members and inform them of their condition.
+   3. Basic Amenities:
+         o Access to showers, restrooms, and sleeping arrangements.
+         o Emergency supplies, including clothing, toiletries, meals, and blankets.
+         o Assistance in accessing necessary medications or replacing lost documentation.
+
+Backup Power Facilities
+In the event of a power outage, the Upper School and Iggulden buildings have limited backup
+power systems and offer the best on-campus shelter options. These locations will provide
+continuity of essential services, such as heating, lighting, and communication capabilities.
+
+Detailed temporary shelter protocols can be found in Appendix
+
+
+
+
+                                                                                                19
+Reunification
+In the aftermath of an emergency, the safe and orderly reunification of students with their
+guardians is a top priority.
+
+Reunification protocols include:
+   1. Designated Sites: Identification of primary and alternate reunification locations on and
+       off campus.
+   2. Check-In/Check-Out Procedures: Tracking the release of students to authorized
+       individuals.
+   3. Communication: Clear communication protocols for engaging with parents and
+       Guardians.
+   4. Staff Assignments: Deployment of staff to manage reunification processes, ensuring
+       smooth operations and support for students and families.
+
+Detailed reunification protocols can be found in Appendix
+
+
+Cybersecurity Incident Response
+Digital threats require a proactive approach to protect Ridley College’s data, digital
+infrastructure and communication systems. The key components of the cybersecurity incident
+response plan include:
+
+   1. Threat Identification and Response: Immediate action plans for detecting and
+      mitigating cyber incidents such as data breaches, ransomware, or phishing attacks.
+   2. Collaboration with IT: Coordination with internal and external IT professionals to
+      restore systems, safeguard sensitive data, preserve evidence (e.g. logs and traces), and
+      perform remediation.
+   3. Stakeholder Notification: Ensuring timely and appropriate communication with affected
+      parties, in compliance with applicable privacy laws.
+   4. Prevention and Resilience: Regular audits of the school’s IT systems and ongoing
+      cybersecurity training for staff and students.
+
+Detailed response protocols can be found in Appendix
+
+
+Mental Health Support
+Mental health measures:
+
+
+                                                                                              20
+   1. Immediate Support: Deployment of Ridley and third-party mental health professionals
+      during and immediately following an incident to provide emotional support.
+   2. Post-Incident Counseling: Availability of long-term counseling services to help
+      individuals recover and build resilience.
+   3. Collaboration with Experts: Partnerships with local mental health organizations to
+      ensure access to additional resources and expertise.
+
+Detailed response protocols and support services can be found in Appendix
+
+
+Transportation Incident
+Ridley College’s commitment to student safety extends beyond the campus to include all
+transportation activities, including field trips, athletic events, and daily commutes. This section
+outlines the response framework for managing transportation-related emergencies such as
+vehicular accidents and mechanical failures, or other incidents that could disrupt Ridley
+coordinated transportation operations.
+
+When a transportation-related incident occurs, the following actions will be taken:
+
+   1. Emergency Services Notification
+   2. On site Assignment and response by Senior Staff
+   3. Communication
+         a. College Notification
+         b. Parental/Guardian Communication
+   4. Coordination and Support
+         a. Emergency Transportation
+         b. Incident Documentation:
+   5. Post-Incident
+         a. Debriefing:
+         b. Reporting and Analysis
+         c. Policy Updates
+
+Detailed response protocols can be found in Appendix
+
+
+Recovery Plan
+Recovery is a critical phase of emergency management, focused on restoring operations and
+supporting the Ridley College community. The recovery plan includes:
+
+
+                                                                                                  21
+   1. Immediate Recovery: Addressing immediate safety concerns and restoring essential
+      functions.
+   2. Intermediate Recovery: Rehabilitating infrastructure and supporting displaced
+      individuals.
+   3. Long-Term Recovery: Ensuring the emotional and operational resilience of the
+      community.
+   4. Resource Allocation: Collaboration with insurers, local agencies, and government
+      bodies to secure necessary resources for rebuilding.
+   5. Transparent Communication: Keeping stakeholders informed about recovery efforts to
+      build trust and maintain morale.
+
+Detailed recovery plans can be found in Appendix
+
+
+After Action Review
+Following each declared emergency and in other circumstances, Ridley staff will conduct an
+After-Action Review (AAR).
+
+The (AAR) is a structured process conducted after an emergency response or exercise to assess
+performance, identify strengths, and address gaps. Led by the Emergency Management
+Coordinator or designated facilitator, the AAR involves key stakeholders, including incident
+commanders (IC), operations personnel, and support staff.
+
+The review covers incident response objectives, decision-making processes, resource utilization,
+interagency coordination, and communication effectiveness. During the review, a detailed
+timeline of the incident should be established with input from stakeholders and based on notes
+produced by the scribe(s) and others in real time.
+
+The output of the AAR is a formal report that includes key findings, lessons learned, and
+actionable recommendations. These findings inform updates to emergency plans, training
+programs, and operational procedures, ensuring continuous improvement and enhanced
+preparedness for future incidents.
+
+The formal report shall be reviewed by the ELT.
+
+After Action Review templates can be found in Appendix
+
+
+Training & Exercises
+Ridley College maintains preparedness through regular training and exercises:
+                                                                                             22
+   1. Annual Tabletop Exercises: ERT members will participate annually in scenario-based
+      tabletop exercises to simulate emergency responses, test plan effectiveness, and
+      identify areas for
+   2. Semi-Annual Lockdown Exercises: Conducted twice each academic year to ensure
+      readiness and familiarity with lockdown protocols.
+   3. School Fire Drills: A minimum of six fire drills will be conducted from September to June.
+      Additionally, monthly fire drills will occur throughout July and August to ensure
+      preparedness throughout the year, in compliance with provincial regulations and safety
+      standards.
+   4. Dormitory Drills: An additional seven dormitory drills will be conducted annually during
+      evening hours, ensuring dormitory residents and staff are prepared for emergencies
+      occurring outside regular school hours.
+
+
+Conclusion
+The Ridley College Emergency Response Plan (ERP) supports the College’s commitment to
+safeguarding its community, assets, and operations while upholding its mission of fostering
+resilience, service, and adaptability. By integrating planning, cultivating a culture of readiness,
+and prioritizing recovery, the College ensures its ability to navigate challenges with confidence
+and purpose.
+
+
+Document Control
+ Version                          Date                              Next Review
+ 1.0                              August 1, 2024
+ 1.1                              December 13, 2024
+ 1.2                              January 22, 2025
+
+
+
+
+                                                                                                  23
+Appendix
+Appendix: Emergency Management Templates
+Appendix: Crisis Communication Procedures
+Appendix: Temporary Shelter
+Appendix: Lockdown Procedure
+Appendix: Hold and Secure Procedure
+Appendix: Shelter in Place Procedure
+Appendix: Evacuation Procedure
+Appendix: Medical Emergency Response Procedure
+Appendix: Bomb Threat Procedure
+Appendix: Anonymous and Digital Threats Response
+Appendix: Hazardous Material Spill Response
+Appendix: Utility Failure (Heat, Water, Power Interruptions) Response
+Appendix: Infectious Disease Response
+Appendix: Reunification Procedures
+Appendix: Cybersecurity Incident Response
+Appendix: Transportation Incident Response
+Appendix: After Action Review (AAR)
+Appendix: Recovery Plan
+
+
+
+                                                                        24
+

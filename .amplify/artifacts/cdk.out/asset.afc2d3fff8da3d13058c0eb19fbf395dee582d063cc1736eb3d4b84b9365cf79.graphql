@@ -1,0 +1,450 @@
+type OrganizationProfile @aws_iam @aws_cognito_user_pools {
+  organizationName: String!
+  organizationType: OrganizationProfileOrganizationType
+  industry: String
+  primaryContactName: String
+  primaryContactEmail: String
+  primaryContactPhone: String
+  secondaryContactName: String
+  secondaryContactEmail: String
+  secondaryContactPhone: String
+  primaryAddress: String
+  city: String
+  state: String
+  zipCode: String
+  country: String
+  buildingType: OrganizationProfileBuildingType
+  numberOfFloors: Int
+  totalOccupancy: Int
+  buildingAge: Int
+  emergencyContactName: String
+  emergencyContactPhone: String
+  emergencyContactEmail: String
+  nearestHospital: String
+  nearestFireStation: String
+  nearestPoliceStation: String
+  primaryHazards: String
+  secondaryHazards: String
+  specialConsiderations: String
+  operatingHours: String
+  specialPopulations: String
+  accessibilityFeatures: String
+  isOnboardingComplete: Boolean
+  lastUpdated: AWSDateTime
+  userId: String
+  id: ID!
+  createdAt: AWSDateTime!
+  updatedAt: AWSDateTime!
+  owner: String
+}
+
+enum OrganizationProfileOrganizationType {
+  CorporateOffice
+  HealthcareFacility
+  EducationalInstitution
+  GovernmentBuilding
+  RetailCommercial
+  Manufacturing
+  Other
+}
+
+enum OrganizationProfileBuildingType {
+  SingleStory
+  MultiStory
+  HighRise
+  Campus
+  Industrial
+  Other
+}
+
+input AmplifyAIConversationTurnErrorInput {
+  errorType: String!
+  message: String!
+}
+
+input ModelStringInput {
+  ne: String
+  eq: String
+  le: String
+  lt: String
+  ge: String
+  gt: String
+  contains: String
+  notContains: String
+  between: [String]
+  beginsWith: String
+  attributeExists: Boolean
+  attributeType: ModelAttributeTypes
+  size: ModelSizeInput
+}
+
+input ModelIntInput {
+  ne: Int
+  eq: Int
+  le: Int
+  lt: Int
+  ge: Int
+  gt: Int
+  between: [Int]
+  attributeExists: Boolean
+  attributeType: ModelAttributeTypes
+}
+
+input ModelFloatInput {
+  ne: Float
+  eq: Float
+  le: Float
+  lt: Float
+  ge: Float
+  gt: Float
+  between: [Float]
+  attributeExists: Boolean
+  attributeType: ModelAttributeTypes
+}
+
+input ModelBooleanInput {
+  ne: Boolean
+  eq: Boolean
+  attributeExists: Boolean
+  attributeType: ModelAttributeTypes
+}
+
+input ModelIDInput {
+  ne: ID
+  eq: ID
+  le: ID
+  lt: ID
+  ge: ID
+  gt: ID
+  contains: ID
+  notContains: ID
+  between: [ID]
+  beginsWith: ID
+  attributeExists: Boolean
+  attributeType: ModelAttributeTypes
+  size: ModelSizeInput
+}
+
+input ModelSubscriptionStringInput {
+  ne: String
+  eq: String
+  le: String
+  lt: String
+  ge: String
+  gt: String
+  contains: String
+  notContains: String
+  between: [String]
+  beginsWith: String
+  in: [String]
+  notIn: [String]
+}
+
+input ModelSubscriptionIntInput {
+  ne: Int
+  eq: Int
+  le: Int
+  lt: Int
+  ge: Int
+  gt: Int
+  between: [Int]
+  in: [Int]
+  notIn: [Int]
+}
+
+input ModelSubscriptionFloatInput {
+  ne: Float
+  eq: Float
+  le: Float
+  lt: Float
+  ge: Float
+  gt: Float
+  between: [Float]
+  in: [Float]
+  notIn: [Float]
+}
+
+input ModelSubscriptionBooleanInput {
+  ne: Boolean
+  eq: Boolean
+}
+
+input ModelSubscriptionIDInput {
+  ne: ID
+  eq: ID
+  le: ID
+  lt: ID
+  ge: ID
+  gt: ID
+  contains: ID
+  notContains: ID
+  between: [ID]
+  beginsWith: ID
+  in: [ID]
+  notIn: [ID]
+}
+
+enum ModelAttributeTypes {
+  binary
+  binarySet
+  bool
+  list
+  map
+  number
+  numberSet
+  string
+  stringSet
+  _null
+}
+
+input ModelSizeInput {
+  ne: Int
+  eq: Int
+  le: Int
+  lt: Int
+  ge: Int
+  gt: Int
+  between: [Int]
+}
+
+enum ModelSortDirection {
+  ASC
+  DESC
+}
+
+type ModelOrganizationProfileConnection @aws_iam @aws_cognito_user_pools {
+  items: [OrganizationProfile]!
+  nextToken: String
+}
+
+input ModelOrganizationProfileOrganizationTypeInput {
+  eq: OrganizationProfileOrganizationType
+  ne: OrganizationProfileOrganizationType
+}
+
+input ModelOrganizationProfileBuildingTypeInput {
+  eq: OrganizationProfileBuildingType
+  ne: OrganizationProfileBuildingType
+}
+
+input ModelOrganizationProfileFilterInput {
+  organizationName: ModelStringInput
+  organizationType: ModelOrganizationProfileOrganizationTypeInput
+  industry: ModelStringInput
+  primaryContactName: ModelStringInput
+  primaryContactEmail: ModelStringInput
+  primaryContactPhone: ModelStringInput
+  secondaryContactName: ModelStringInput
+  secondaryContactEmail: ModelStringInput
+  secondaryContactPhone: ModelStringInput
+  primaryAddress: ModelStringInput
+  city: ModelStringInput
+  state: ModelStringInput
+  zipCode: ModelStringInput
+  country: ModelStringInput
+  buildingType: ModelOrganizationProfileBuildingTypeInput
+  numberOfFloors: ModelIntInput
+  totalOccupancy: ModelIntInput
+  buildingAge: ModelIntInput
+  emergencyContactName: ModelStringInput
+  emergencyContactPhone: ModelStringInput
+  emergencyContactEmail: ModelStringInput
+  nearestHospital: ModelStringInput
+  nearestFireStation: ModelStringInput
+  nearestPoliceStation: ModelStringInput
+  primaryHazards: ModelStringInput
+  secondaryHazards: ModelStringInput
+  specialConsiderations: ModelStringInput
+  operatingHours: ModelStringInput
+  specialPopulations: ModelStringInput
+  accessibilityFeatures: ModelStringInput
+  isOnboardingComplete: ModelBooleanInput
+  lastUpdated: ModelStringInput
+  userId: ModelStringInput
+  id: ModelIDInput
+  createdAt: ModelStringInput
+  updatedAt: ModelStringInput
+  and: [ModelOrganizationProfileFilterInput]
+  or: [ModelOrganizationProfileFilterInput]
+  not: ModelOrganizationProfileFilterInput
+  owner: ModelStringInput
+}
+
+type Query {
+  getOrganizationProfile(id: ID!): OrganizationProfile @aws_iam @aws_cognito_user_pools
+  listOrganizationProfiles(filter: ModelOrganizationProfileFilterInput, limit: Int, nextToken: String): ModelOrganizationProfileConnection @aws_iam @aws_cognito_user_pools
+}
+
+input ModelOrganizationProfileConditionInput {
+  organizationName: ModelStringInput
+  organizationType: ModelOrganizationProfileOrganizationTypeInput
+  industry: ModelStringInput
+  primaryContactName: ModelStringInput
+  primaryContactEmail: ModelStringInput
+  primaryContactPhone: ModelStringInput
+  secondaryContactName: ModelStringInput
+  secondaryContactEmail: ModelStringInput
+  secondaryContactPhone: ModelStringInput
+  primaryAddress: ModelStringInput
+  city: ModelStringInput
+  state: ModelStringInput
+  zipCode: ModelStringInput
+  country: ModelStringInput
+  buildingType: ModelOrganizationProfileBuildingTypeInput
+  numberOfFloors: ModelIntInput
+  totalOccupancy: ModelIntInput
+  buildingAge: ModelIntInput
+  emergencyContactName: ModelStringInput
+  emergencyContactPhone: ModelStringInput
+  emergencyContactEmail: ModelStringInput
+  nearestHospital: ModelStringInput
+  nearestFireStation: ModelStringInput
+  nearestPoliceStation: ModelStringInput
+  primaryHazards: ModelStringInput
+  secondaryHazards: ModelStringInput
+  specialConsiderations: ModelStringInput
+  operatingHours: ModelStringInput
+  specialPopulations: ModelStringInput
+  accessibilityFeatures: ModelStringInput
+  isOnboardingComplete: ModelBooleanInput
+  lastUpdated: ModelStringInput
+  userId: ModelStringInput
+  and: [ModelOrganizationProfileConditionInput]
+  or: [ModelOrganizationProfileConditionInput]
+  not: ModelOrganizationProfileConditionInput
+  createdAt: ModelStringInput
+  updatedAt: ModelStringInput
+  owner: ModelStringInput
+}
+
+input CreateOrganizationProfileInput {
+  organizationName: String!
+  organizationType: OrganizationProfileOrganizationType
+  industry: String
+  primaryContactName: String
+  primaryContactEmail: String
+  primaryContactPhone: String
+  secondaryContactName: String
+  secondaryContactEmail: String
+  secondaryContactPhone: String
+  primaryAddress: String
+  city: String
+  state: String
+  zipCode: String
+  country: String
+  buildingType: OrganizationProfileBuildingType
+  numberOfFloors: Int
+  totalOccupancy: Int
+  buildingAge: Int
+  emergencyContactName: String
+  emergencyContactPhone: String
+  emergencyContactEmail: String
+  nearestHospital: String
+  nearestFireStation: String
+  nearestPoliceStation: String
+  primaryHazards: String
+  secondaryHazards: String
+  specialConsiderations: String
+  operatingHours: String
+  specialPopulations: String
+  accessibilityFeatures: String
+  isOnboardingComplete: Boolean
+  lastUpdated: AWSDateTime
+  userId: String
+  id: ID
+}
+
+input UpdateOrganizationProfileInput {
+  organizationName: String
+  organizationType: OrganizationProfileOrganizationType
+  industry: String
+  primaryContactName: String
+  primaryContactEmail: String
+  primaryContactPhone: String
+  secondaryContactName: String
+  secondaryContactEmail: String
+  secondaryContactPhone: String
+  primaryAddress: String
+  city: String
+  state: String
+  zipCode: String
+  country: String
+  buildingType: OrganizationProfileBuildingType
+  numberOfFloors: Int
+  totalOccupancy: Int
+  buildingAge: Int
+  emergencyContactName: String
+  emergencyContactPhone: String
+  emergencyContactEmail: String
+  nearestHospital: String
+  nearestFireStation: String
+  nearestPoliceStation: String
+  primaryHazards: String
+  secondaryHazards: String
+  specialConsiderations: String
+  operatingHours: String
+  specialPopulations: String
+  accessibilityFeatures: String
+  isOnboardingComplete: Boolean
+  lastUpdated: AWSDateTime
+  userId: String
+  id: ID!
+}
+
+input DeleteOrganizationProfileInput {
+  id: ID!
+}
+
+type Mutation {
+  createOrganizationProfile(input: CreateOrganizationProfileInput!, condition: ModelOrganizationProfileConditionInput): OrganizationProfile @aws_iam @aws_cognito_user_pools
+  updateOrganizationProfile(input: UpdateOrganizationProfileInput!, condition: ModelOrganizationProfileConditionInput): OrganizationProfile @aws_iam @aws_cognito_user_pools
+  deleteOrganizationProfile(input: DeleteOrganizationProfileInput!, condition: ModelOrganizationProfileConditionInput): OrganizationProfile @aws_iam @aws_cognito_user_pools
+}
+
+input ModelSubscriptionOrganizationProfileFilterInput {
+  organizationName: ModelSubscriptionStringInput
+  organizationType: ModelSubscriptionStringInput
+  industry: ModelSubscriptionStringInput
+  primaryContactName: ModelSubscriptionStringInput
+  primaryContactEmail: ModelSubscriptionStringInput
+  primaryContactPhone: ModelSubscriptionStringInput
+  secondaryContactName: ModelSubscriptionStringInput
+  secondaryContactEmail: ModelSubscriptionStringInput
+  secondaryContactPhone: ModelSubscriptionStringInput
+  primaryAddress: ModelSubscriptionStringInput
+  city: ModelSubscriptionStringInput
+  state: ModelSubscriptionStringInput
+  zipCode: ModelSubscriptionStringInput
+  country: ModelSubscriptionStringInput
+  buildingType: ModelSubscriptionStringInput
+  numberOfFloors: ModelSubscriptionIntInput
+  totalOccupancy: ModelSubscriptionIntInput
+  buildingAge: ModelSubscriptionIntInput
+  emergencyContactName: ModelSubscriptionStringInput
+  emergencyContactPhone: ModelSubscriptionStringInput
+  emergencyContactEmail: ModelSubscriptionStringInput
+  nearestHospital: ModelSubscriptionStringInput
+  nearestFireStation: ModelSubscriptionStringInput
+  nearestPoliceStation: ModelSubscriptionStringInput
+  primaryHazards: ModelSubscriptionStringInput
+  secondaryHazards: ModelSubscriptionStringInput
+  specialConsiderations: ModelSubscriptionStringInput
+  operatingHours: ModelSubscriptionStringInput
+  specialPopulations: ModelSubscriptionStringInput
+  accessibilityFeatures: ModelSubscriptionStringInput
+  isOnboardingComplete: ModelSubscriptionBooleanInput
+  lastUpdated: ModelSubscriptionStringInput
+  userId: ModelSubscriptionStringInput
+  id: ModelSubscriptionIDInput
+  createdAt: ModelSubscriptionStringInput
+  updatedAt: ModelSubscriptionStringInput
+  and: [ModelSubscriptionOrganizationProfileFilterInput]
+  or: [ModelSubscriptionOrganizationProfileFilterInput]
+  owner: ModelStringInput
+}
+
+type Subscription {
+  onCreateOrganizationProfile(filter: ModelSubscriptionOrganizationProfileFilterInput, owner: String): OrganizationProfile @aws_subscribe(mutations: ["createOrganizationProfile"]) @aws_iam @aws_cognito_user_pools
+  onUpdateOrganizationProfile(filter: ModelSubscriptionOrganizationProfileFilterInput, owner: String): OrganizationProfile @aws_subscribe(mutations: ["updateOrganizationProfile"]) @aws_iam @aws_cognito_user_pools
+  onDeleteOrganizationProfile(filter: ModelSubscriptionOrganizationProfileFilterInput, owner: String): OrganizationProfile @aws_subscribe(mutations: ["deleteOrganizationProfile"]) @aws_iam @aws_cognito_user_pools
+}

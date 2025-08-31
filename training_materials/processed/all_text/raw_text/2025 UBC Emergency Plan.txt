@@ -1,0 +1,1274 @@
+Safety & Risk Services
+
+
+
+
+UBC Vancouver
+Emergency
+Management Plan
+2024-2025
+UBC Vancouver Emergency Management Plan   Page 2 of 38
+March 2025 | Version One
+Table of Contents
+Table of Contents                                                                     3
+Section 1. Plan Administration                                                       5
+Plan Maintenance                                                                      5
+Revisions                                                                             5
+        Record of Amendments                                                          5
+Acronyms/Abbreviations                                                                6
+
+Section 2. UBC Vancouver Community Profile                                           8
+The UBC Vancouver Campus                                                              8
+      University Neighbourhoods Association (UNA)                                     8
+
+Section 3. Plan Overview                                                             9
+Introduction                                                                          9
+Purpose                                                                               9
+Scope                                                                                 9
+Emergency Response Priorities                                                        10
+Cultural Safety Considerations Intersectional Disadvantage and Vulnerability         10
+Authority for this Plan                                                              11
+Related Plans and Documents                                                          12
+
+Section 4. Roles and Responsibilities                                              14
+Internal Supports                                                                    14
+External Agencies                                                                    15
+         Provincial and Federal Agency Support                                       15
+
+Section 5. Mitigation                                                              16
+        Mitigations Measures                                                         16
+
+Section 6. Preparedness                                                            17
+Public Notification and Information                                                  17
+Subsidiary Plans                                                                     18
+Training, Exercise and Engagement Program                                            19
+         Training and Exercise                                                       19
+         Engagement                                                                  19
+Hazards, Risk and Vulnerabilities (HRVA)                                             19
+Infrastructure and Supplies                                                          19
+
+Section 7. British Columbia Emergency Management System                            20
+Section 8. UBCV’s Response Organization                                            21
+
+  UBC Vancouver Emergency Management Plan                                      Page 3 of 38
+  March 2025 | Version One
+Response Phases                                                               21
+Incident Classification                                                       22
+Site Level                                                                    23
+Supports to Site Level                                                        23
+Campus Emergency Operations Centre (EOC)                                      23
+        EOC Communication and Information Management                          23
+Crisis Management Team (CMT)                                                  24
+UBCV’s Response Structures                                                    24
+
+Section 9. Recovery                                                         25
+Five Aspects of Recovery                                                      25
+Three Stages of Recovery                                                      26
+
+Section 10. Financial Considerations                                        27
+Spending Authority                                                            27
+
+Appendices                                                                  28
+Geographical/Jurisdictional Boundaries                                        29
+Links and Resources                                                           30
+Glossary                                                                      32
+Plan Distribution List                                                        35
+         Internal Departments                                                 35
+         External Agencies                                                    35
+Mutual Aid Agreements, Memorandum of Understandings, and Affiliations         36
+List of Annexes                                                               37
+
+
+
+
+  UBC Vancouver Emergency Management Plan                               Page 4 of 38
+  March 2025 | Version One
+Section 1. Plan Administration
+Plan Maintenance
+
+The UBC Vancouver, Emergency Management Plan (UBCV EMP) will be reviewed and revised annually by the
+Safety & Risk Services, Emergency Management (SRS-EM) team. It will undergo revision when:
+
+         UBCV hazards or vulnerabilities change;
+         UBC governance structure and/or policy changes;
+         relevant legislation and/or regulations change;
+         exercises or emergencies identify gaps or opportunities for improvement in policy and procedure;
+         an annual review takes place.
+
+Amendments will be documented in the Records of Amendments table, and an updated plan will be distributed
+to the distribution list.
+
+
+Revisions
+
+The Director, Emergency Management and Continuity Planning or alternate will be the point of contact for any
+revisions; they are responsible for ensuring that an annual review of the plan is conducted and the plan and its
+annexes are amended and updated when required. The signing authority for this plan is the Executive Director,
+Safety and Risk Services.
+
+Record of Amendments
+
+ Date of Changes      Description of Change                                   Change Approval Date
+ November, 2024       Development of a revised emergency management           March 18, 2024
+                      plan under new Emergency and Disaster Management
+                      Act (EDMA) which came into force November 8, 2023.
+
+
+
+
+  UBC Vancouver Emergency Management Plan                                                               Page 5 of 38
+  March 2025 | Version One
+Acronyms/Abbreviations
+
+C&CP              Campus and Community Planning
+
+CERRC             Catastrophic Emergency Response and Recovery Centre
+
+CMT               Crisis Management Team
+
+CIRT              Campus Incident Response Team
+
+BCEMS             British Columbia Emergency Management System
+
+DOC               Departmental Operations Centre
+
+ECC               Emergency Coordination Centre
+
+EDMA              Emergency and Disaster Management Act
+
+EMP               Emergency Management Plan
+
+EMCR              Emergency Management and Climate Readiness
+
+EOC               Emergency Operations Centre
+
+ESS               Emergency Support Services
+
+HRVA              Hazard, Risk, and Vulnerability Analysis
+
+IAP               Inclusion Action Plan
+
+ICS               Incident Command System
+
+IPREM             Integrated Partnership for Regional Emergency Management
+
+ISP               Indigenous Strategic Plan
+
+IT                Information Technology
+
+IMT               Incident Management Team
+
+MOC               Ministry Operations Centre
+
+MVRD              Metro Vancouver Regional District
+
+PECC              Provincial Emergency Coordination Centre
+
+
+
+     UBC Vancouver Emergency Management Plan                                 Page 6 of 38
+     March 2025 | Version One
+PSI            Post-Secondary Institutions
+
+PREOC          Provincial Regional Emergency Coordination Centre
+
+PSFS           Ministry of Post-Secondary Education and Future Skills
+
+RCMP           Royal Canadian Mounted Police
+
+SHCS           Student Housing and Community Services
+
+SRS            Safety and Risk Services
+
+SRS-EM         Safety and Risk Services, Emergency Management
+
+UEL            University Endowment Lands
+
+UNA            University Neighbourhoods Association
+
+
+
+
+  UBC Vancouver Emergency Management Plan                               Page 7 of 38
+  March 2025 | Version One
+Section 2. UBC Vancouver Community Profile
+This plan recognizes UBC Vancouver (UBCV) is situated on the traditional, ancestral and unceded territory of
+the xʷməθkʷəy̓əm (Musqueam). The plan is guided by UBC’s commitment to implement the United Nations
+Declaration on the Rights of Indigenous People Act – the roadmap for transforming the intent of reconciliation
+into action can be found in UBC’s Indigenous Strategic Plan (ISP).
+
+
+The UBC Vancouver Campus
+
+UBCV has an overnight population of over 30,000 (including the University Neighbourhoods Association) and
+is the largest university in the country by overnight population, and the third largest by enrolment. When in
+session, the day-time population reaches nearly 100,000, which is larger than many British Columba cities.
+
+The campus sits within the Metro Vancouver Regional District’s (MVRD) Electoral Area A on 400 hectares
+located at the western tip of the Point Grey Peninsula surrounded by forest and ocean consisting of
+academic/institutional facilities, student housing, residential housing in addition to retail shops, recreational
+amenities, and a hospital. The University manages its own municipal services, including energy and water
+infrastructure, and operates as the largest daycare provider in British Columbia. The campus is geographically
+isolated with limited transportation access routes. UBC Vancouver is the largest non-municipal community in
+Canada and, unlike all other post-secondary institutions, is not supported by any municipal emergency
+management infrastructure.
+
+The area hazards include earthquakes, extreme weather events, and the potential threat of urban and wildland
+fires necessitating comprehensive emergency and disaster preparedness measures, including the provision of
+mass care services. During emergencies, the Vancouver campus is a refuge and has played host to evacuees
+from disaster affected areas outside its community.
+
+University Neighbourhoods Association (UNA)
+The Neighbourhood housing areas consist of five densely populated neighbourhoods, totaling 13,000
+residents. These communities are not part of UBC’s student housing infrastructure. From south to north they
+are:
+
+          Wesbrook Place;
+          Hampton Place;
+          Hawthorn Place;
+          East Campus, and
+          Chancellor Place.
+
+UNA contains a mix of property types, including townhouses, low-rise and high-rise buildings (up to 22 storeys)
+and commercial and community centres located in Wesbrook Place and Hawthorn Place. UNA is a society
+incorporated under the BC Societies Act. It is not a local government and has no authority other than that
+delegated to it by UBC as per the Neighbours Agreement 2024; it relies on UBC for emergency management
+planning and services.
+
+
+
+
+  UBC Vancouver Emergency Management Plan                                                                 Page 8 of 38
+  March 2025 | Version One
+Section 3. Plan Overview
+Introduction
+
+The UBCV EMP documents the framework that UBCV will use to prepare for, respond to and recover from
+emergencies and disasters.
+
+UBCV recognizes that, in times of emergencies, our community partners may seek assistance, support and
+possibly refuge within the campus area. Therefore, we must be prepared to manage large-scale complex
+emergencies where more than our students, faculty, and staff are impacted. This level of preparation requires
+collaborative, multi-jurisdictional planning with engagement from the whole UBCV community.
+
+
+Purpose
+
+Designed to be functional and executable, the UBCV EMP will enable staff, faculty, and their emergency
+management partners, to deal with a broad spectrum of emergencies, incidents, and disruptions. Through
+preparation and planning for various types of emergencies, the University can protect the safety and wellbeing
+of the UBCV community.
+
+This plan is intended to:
+
+          provide guidance for response and coordination in the event of a disaster;
+          establish the incident response system and stakeholder partnerships for clear communication;
+          outline roles and responsibilities in the event of an emergency.
+
+
+Scope
+
+The UBCV EMP applies to the Point Grey campus including the UNA, and UBC Robson Square; the UBC
+facilities located at the Learning Exchange and other satellite UBCV sites will coordinate their emergency
+requirements through the UBCV Emergency Operations Centre (EOC) and their respective faculties and
+departments.
+
+
+
+
+  UBC Vancouver Emergency Management Plan                                                              Page 9 of 38
+  March 2025 | Version One
+Emergency Response Priorities
+
+UBCV’s emergency response priorities are to:
+
+    1.   Provide for the safety and health of all responders.
+    2.   Save lives.
+    3.   Reduce suffering.
+    4.   Protect public health.
+    5.   Protect infrastructure.
+    6.   Protect property.
+    7.   Protect the environment.
+    8.   Reduce economic and social losses.
+
+These priorities are issued to support decision making through the response. These priorities adhere to those
+established by the Government of British Columbia as outlined in the British Columbia Emergency
+Management System 2016 (BCEMS).
+
+
+Cultural Safety Considerations Intersectional Disadvantage and
+Vulnerability
+
+The UBCV EMP is guided by UBC’s commitment to implementing the United Nations Declaration on the Rights
+of Indigenous People Act and by its Indigenous Strategic Plan (ISP) which lays out the roadmap for
+transforming the intent of reconciliation into action.
+
+The UBCV EMP is also guided by UBC’s commitment to inclusion as set out in the Inclusion Action Plan (IAP)
+which is grounded in UBCV’s location on the traditional, ancestral and unceded territory of the Musqueam and
+recognizes Indigenous people and Indigenous concerns.
+
+The Vancouver campus risk assessments, consider the potential consequences of emergencies for those
+experiencing intersectional disadvantage and vulnerability.
+
+
+
+
+  UBC Vancouver Emergency Management Plan                                                             Page 10 of 38
+  March 2025 | Version One
+Authority for this Plan
+
+The public post-secondary sector is governed by two key pieces of legislation: The University Act and the
+College and Institute Act.
+
+Under the Workers Compensation Act, Part 2 Occupational Health and Safety, and the Occupational
+Health and Safety Regulation, UBC is required to have an emergency program.
+Under the Emergency and Disaster Management Act (EDMA), UBC is required to have an emergency
+management plan.
+
+The authority for emergency management planning, response and recovery is established by the following
+UBC policies and all relevant legislation including but not limited to:
+
+          UBC policy Health & Safety (SC01)
+          UBC policy Disaster Management (SC10)
+
+The overall authority for emergency and continuity response rests with the UBC President or designate. UBC
+has a Crisis Management Team (CMT) comprised of UBC’s executive members and this team, when activated,
+is responsible for, and has the authority to make, strategic, financial, and policy decisions for UBC during an
+emergency.
+
+In the event the UBC President is not available when an incident occurs, the line of succession is detailed in
+UBC policy Acting President (GA1).
+
+
+
+
+  UBC Vancouver Emergency Management Plan                                                               Page 11 of 38
+  March 2025 | Version One
+Related Plans and Documents
+
+The table below lists various plans or procedures that guide UBCV in emergency management.
+
+ Document(s)                      Purpose/Scope                                          Owner(s)/Lead(s)
+ Building Emergency Response      Plans to help promote the safety of building           Safety and Risk Services
+ Plans (BERP)                     occupants through emergency evacuation and             (SRS)
+                                  fire prevention. All UBCV buildings are required
+                                  have their own BERP.
+ Continuity Plans (CPs)           Actions which support the departmental                 Administrative Head of the
+                                  response to a disruption. Designed to enable           Units
+                                  the department to continue the delivery of
+                                  critical/crucial activities.
+ Capability Annexes (e.g.,        Plans that detail tactical and strategic               UBC Communications, SRS
+ Emergency Communications         considerations pertaining to response
+ Plan, Mass Care)                 capabilities; deals with emergency/crisis
+                                  communications, shelter and feeding services,
+                                  and initial analysis of building structure integrity
+                                  in an emergency. Supplemental topic specific
+                                  plans to the UBCV Emergency Management
+                                  Plan.
+ Continuity of Service Plan       A framework that aims to ensure the                    SRS
+                                  continuation of required university operations
+                                  and services, including teaching and research.
+ Emergency Procedures             Actions which support immediate response to            Group/Department/Units
+                                  an incident (e.g., flood, etc.). Typically, related
+                                  to health and life safety incidents with the target
+                                  audience being all persons on UBCV property.
+ Emergency Response Annexes       Support annexes detail functional aspects of           SRS
+                                  emergency management, while hazard-specific
+                                  annexes address response and coordination
+                                  regarding more common or high-risk hazards.
+ Harmonized Integrated            Actions which support IT in responding to              Information Technology (IT)
+ Response (formerly IT Code 3)    incidents that adversely impact UBC IT
+                                  infrastructure and data integrity.
+ Hazard, Risk and Vulnerability   Hazard, risk and vulnerability assessment to           SRS
+ Assessment (HRVA)                help UBCV make risk-based choices to
+                                  address vulnerabilities, mitigate hazards and
+                                  prepare for response to, and recovery from, a
+                                  range of hazards.
+ Metro Vancouver Regional         An all-hazards response document specifically          Metro Vancouver
+ District Electoral Area A Plan   to support events occurring in Metro
+                                  Vancouver’s Electoral Area A region.
+
+
+
+
+  UBC Vancouver Emergency Management Plan                                                                    Page 12 of 38
+  March 2025 | Version One
+Document(s)                     Purpose/Scope                                        Owner(s)/Lead(s)
+Neighbourhood Climate Action    This plan sets a pathway to a net-zero and           Campus & Community
+                                climate resilient community for the residential      Planning (C&CP)
+                                neighbourhoods on UBC’s Vancouver campus.
+Climate Action Plan 2030        The plan is a UBC-wide effort across both            C&CP
+                                Vancouver and Okanagan campuses that
+                                focuses on the development of mitigation
+                                strategies to reduce fossil fuel impacts,
+                                responding to climate change; it is
+                                accompanied by an accountability framework
+                                that outlines responsibilities for implementation,
+                                monitoring progress, and governance for
+                                decision making over time.
+UBC Climate Emergency           A report that presents recommendations led           Climate Emergency Task
+Engagement Final Report and     and informed by expertise and ideas from             Force
+Recommendations                 UBC’s community on how UBC can enact its
+                                Declaration on the Climate Emergency on
+                                campus and beyond.
+Campus Vision 2050              This is a comprehensive, 2.5-year public             C&CP
+                                planning process to update two key land use
+                                policy documents for the Vancouver campus
+                                which includes updating the Housing Action
+                                Plan and a Musqueam-specific engagement
+                                process, co-created by UBC and Musqueam,
+                                that supports and aligns with the
+                                implementation of the UBC Indigenous
+                                Strategic Plan.
+
+
+
+
+ UBC Vancouver Emergency Management Plan                                                               Page 13 of 38
+ March 2025 | Version One
+Section 4. Roles and Responsibilities
+Internal Supports
+
+Group                     Roles and Responsibilities
+UBC Executive             The Responsible Executive(s) have primary responsibility for the implementation and
+                          administration of the Disaster Management Policy (SC10) and any associated
+                          procedures and rules. For example, Resolution 20-Emergencies and Disasters which
+                          empowers designated University officials—specifically, the Chair of the Board of
+                          Governors, Chancellor, or President—to execute commitments and agreements related
+                          to necessary actions in response to a disaster.
+
+                          Forms the Crisis Management Team (CMT) which is established for a non-routine or
+                          major incident to address reputational or financial risk.
+
+                          Briefs the UBC Board of Governors.
+
+                          Provides strategic guidance to the Incident Management Team (IMT) and Emergency
+                          Operations Centre (EOC) managing the operational response to an incident.
+
+                          Ensures a recovery process is established after a sustained response, conducts a post-
+                          incident review, and provides recommendations for managing future emergency/disaster
+                          events.
+
+Campus Incident           Staffs the site support mechanisms (EOC, IMT, DOC) providing site-level support for
+Response Team (CIRT)      coordinating operational stakeholders and managing campus impacts.
+
+VPs, Deans, Heads and     Formulates policies related to staff and faculty attendance during an event, enacting
+Directors                 these policies as required.
+
+Administrative Head of    Supports departmental response to a disruption to continue delivery of critical/crucial
+Unit(s)                   activities.
+
+                          Maintains emergency procedures and actions which support immediate response to an
+                          incident typically related to health and life safety.
+
+Service Units (as per     Conducts or delivers critical services to the University (e.g., Safety and Risk Services,
+UBC policy SC10)          Information Technology, UBC Communications, Facilities, Student Housing and
+                          Community Services); participates in campus-wide emergency preparedness, response,
+                          and recovery activities.
+
+
+
+
+ UBC Vancouver Emergency Management Plan                                                                 Page 14 of 38
+ March 2025 | Version One
+External Agencies
+
+Provincial and Federal Agency Support
+The Province will coordinate available resources to provide emergency response assistance that supplements
+but does not substitute existing internal resources or resources available within the broader community. The
+
+Ministry of Emergency Management and Climate Readiness (EMCR) coordinates provincial support through
+the Emergency Coordination Centre (ECC), Provincial Regional Emergency Operations Centre (PREOCs),
+and/or Provincial Emergency Coordination Centre (PECC), if activated, and leads all engagement with federal
+agencies on behalf of the Province. The Ministry of Post-Secondary Education and Future Skills (PSFS) can
+liaise with EMCR to support Post-Secondary Institutions (PSIs); PSIs should attempt to work through local
+authorities first. PSFS can also support PSIs in liaising with other provincial ministries.
+
+ Agency              Roles and Responsibilities
+ Local Authority     Establishes and maintains an emergency management support organization.
+
+                     Metro Vancouver Regional District (MVRD) is UBCV’s local authority and they have the
+                     authority to declare a State of Local Emergency and a Declared Recovery Period when
+                     requested by UBCV.
+
+                     Appoints committees and a coordinator for the emergency management organization – can
+                     delegate its jurisdictional powers and duties under a state of Local Emergency and
+                     coordinates Regional EOC.
+
+                     Prepares regional emergency plans based on the hazards and vulnerabilities in its
+                     community.
+
+ First Responders    Manage emergency operations at the site level via RCMP, fire, ambulance, and other
+                     municipal/First Nations and/or regional agencies as required.
+
+ Ministry of Post-   Activates ministry emergency/business continuity plans and liaises with the Government
+ Secondary           Services Branch of the Provincial Emergency Coordination Centre (PECC)/Catastrophic
+ Education and       Emergency Response and Recovery Centre (CERRC).
+ Future Skills
+ (PSFS)              Activates a Ministry Operations Centre (MOC) to manage critical service recovery, gather
+                     situational understanding, and assess impacts to ministry business from PSIs.
+
+                     Provides sector expertise and/or policy direction:
+                          supporting PSIs to meet the immediate needs of students, faculty and staff;
+                          consolidating impact assessments and situation reports of PSI facilities and
+                             services; and
+                          supports coordination and access to PSI facilities and resources.
+ UNA                 Collaborates with UBCV during the response phase, as detailed in the Neighbours’
+                     Agreement 2024.
+
+
+
+
+  UBC Vancouver Emergency Management Plan                                                                 Page 15 of 38
+  March 2025 | Version One
+Section 5. Mitigation
+Mitigation measures are those undertaken for the purpose of identifying and removing or reducing hazards to
+prevent emergencies from occurring or reduce the scale, scope, and adverse effects of an emergency, where
+possible. UBC has several plans and strategies to improve mitigation efforts across campuses.
+
+Mitigations Measures
+
+ Business Continuity                   UBC has a policy (Disaster Management Policy SC10) that governs
+                                       continuity of services which requires all university administrative and
+                                       academic units to develop and maintain unit-based business continuity
+                                       plans and procedures, and to test their business continuity plans applicable
+                                       to the activities and operations of their unit. The program is managed by
+                                       SRS who assists units to develop strategies for the following scenarios:
+                                             disruption of information technology services;
+                                             workplace disruption;
+                                             workforce disruption;
+                                             supply chain disruption.
+ Insurance                             UBC has a comprehensive insurance program managed by SRS that
+                                       provides risk management expertise to all university units ensuring
+                                       adequate insurance coverage for UBC’s assets as well as handling
+                                       premiums, deductibles, and claims.
+ Seismic Resilience Plan               Since 2016 UBC has been working to improve seismic resilience on the
+                                       Vancouver campus with a view to life safety and re-occupancy within
+                                       financial and logistical constraints by looking holistically at all buildings as
+                                       well as utilities, emergency preparedness and continuity. Progress
+                                       continues on this work according to the outlined priorities.
+ UBC Climate Emergency Declaration     UBC has a Climate Emergency Declaration that recognizes the severity,
+                                       complexity, and disproportionate impacts of, and responsibilities for, the
+                                       climate crisis. It commits UBC to develop a collective response that
+                                       embeds climate justice throughout its activities and priorities. The
+                                       Declaration gives impetus for UBC to update plans to address the climate
+                                       crisis with the urgency it requires.
+ UBC Climate Action Plan 2030          The UBC Climate Action Plan 2030 (CAP 2030) is a UBC-wide effort
+                                       across both Vancouver and Okanagan campuses that focuses on the
+                                       development of mitigation strategies to reduce fossil fuel impacts and
+                                       respond to climate change. The CAP is accompanied by an accountability
+                                       framework that outlines responsibilities for implementation, monitoring
+                                       progress, and governance for decision-making over time.
+ Adaptation, Resilience and            UBC is developing a Climate Adaptation, Resiliency and Biodiversity
+ Biodiversity                          Strategy that is an "umbrella" strategy incorporating other UBC plans,
+                                       policies and initiatives, with specific actions to maintain and enhance urban
+                                       biodiversity as a tool for climate action through nature-based solutions.
+
+
+
+
+  UBC Vancouver Emergency Management Plan                                                                   Page 16 of 38
+  March 2025 | Version One
+Section 6. Preparedness
+Preparedness measures are those undertaken for the purpose of establishing the knowledge, capability, and
+capacity to anticipate, respond to, and recover from the adverse effects of an emergency.
+
+
+Public Notification and Information
+
+There is a variety of ways by which safety information is provided to the community. The right tool depends on
+the type, location and scale of the incident. It is recommended that community members sign up and download
+multiple or all of these to stay informed during an emergency.
+
+
+
+
+UBC Alert is the university’s mass notification system that sends alerts in situations that pose an immediate
+safety or security risks local to the UBC campus and community (update your primary contact information in
+Workday to receive notifications).
+
+The ubc.ca website is the source of information for campus communities to stay up-to-date as the incident
+progresses. The ubc.ca website can be amplified on social media (back up from UBC Okanagan).
+
+UBC Safe Vancouver app is a free mobile safety app for UBC Vancouver (recommended for UBC students,
+faculty, staff and campus visitors) that offers access to campus safety resources and sends alerts and push
+notifications (push notifications must be turned on to receive timely updates and urgent notifications, e.g.,
+weather advisories, class cancellations, etc.).
+
+  UBC Vancouver Emergency Management Plan                                                              Page 17 of 38
+  March 2025 | Version One
+Alertable is MVRD’s free downloadable mass public alert system to help people in Electoral Area A
+(UBCV/UNA) stay informed and safe during an emergency in the region.
+
+NPAS is Canada’s National Public Alerting System (also known as Alert Ready) which provides emergency
+management organizations across the country with the capability to rapidly warn the public of imminent or
+unfolding hazards to life. Registration is not required. Public alerts are issued through radio, cable and satellite
+television and on compatible wireless devices. The Earthquake Early Warning System alerts are also sent out
+using this system. It is designed to send out tens-of-seconds of warning by detecting an earthquake
+immediately as it occurs. Recipients should assume shaking is imminent.
+
+
+Subsidiary Plans
+
+All of the UBCV capability and hazard-based plans are developed from a risk-based approach to address
+emergency preparedness and response (see List of Annexes on page 45).
+
+
+
+
+  UBC Vancouver Emergency Management Plan                                                                  Page 18 of 38
+  March 2025 | Version One
+Training, Exercise and Engagement Program
+
+Training and Exercise
+UBCV provides emergency management training and education for the community, as well as coordinating
+campus‐wide activities to exercise and test emergency and disaster response. Key groups who make up
+response and recovery functions (e.g., Student Housing and Community Services, Facilities, UNA) are
+targeted. Examples of training provided include:
+
+          EOC Essentials;
+          Rapid Damage Assessment (RDA);
+          Mass Care - Reception Centre, Group Lodging.
+
+Exercising is conducted to test and evaluate roles, responsibilities, processes, procedures, plans and priorities.
+Documented exercise outcomes form part of the continuous planning cycle. At a minimum, exercises are
+conducted annually either entirely or through using specific operational, planning or logistic aspects.
+
+Engagement
+UBCV promotes personal and institutional preparedness and readiness through a variety of annual events
+such as Great BC ShakeOut, Ready Week, Emergency Preparedness Week, and UNA Neighbours Day, and
+participates in adjacent community emergency events and exercises wherever possible.
+
+
+Hazards, Risk and Vulnerabilities (HRVA)
+
+The purpose of a Hazard, Risk, and Vulnerability Analysis (HRVA) is to help UBCV make risk-based choices to
+address vulnerability, mitigate hazards, and prepare for response and recovery from disasters. Such risk
+assessments must be prepared in accordance with EDMA and regulations. UBCV uses the list of Analyzed
+Regional Hazards with the Greatest Potential Impact to Metro Vancouver, which the Integrated Partnership for
+Regional Emergency Management (IPREM) compiled following a series of stakeholder workshops, and Metro
+Vancouver’s key hazards and risk which for the Vancouver campus includes:
+      1. Earthquake
+      2. Extreme weather
+      3. Flooding
+      4. Urban and wildland wildfires
+      5. Landslides
+A specific hazard identification risk assessment for UBCV is currently in progress.
+
+
+Infrastructure and Supplies
+
+Emergency preparedness infrastructure on the Vancouver campus is being made resilient with ongoing
+projects that focus on emergency readiness. These include but are not limited to: potable water wells, fuel
+resilience, emergency generator power, and radio infrastructure redundancy.
+
+UBC Vancouver also maintains a sizable inventory of emergency supplies to support the campus post-disaster.
+
+
+
+
+  UBC Vancouver Emergency Management Plan                                                                Page 19 of 38
+  March 2025 | Version One
+Section 7. British Columbia Emergency
+Management System
+The British Columbia Emergency Management System (BCEMS) is a comprehensive framework that helps
+ensure a coordinated and organized approach to emergencies and disasters. It provides a structure for a
+standardized approach to developing, coordinating, and implementing emergency management programs
+across the province.
+
+In 2016 BCEMS was introduced to incorporate the four phases of emergency management. BCEMS views
+emergency management as a continuous process consisting of four interconnected phases: mitigation,
+preparedness, response, and recovery.
+
+
+
+
+  UBC Vancouver Emergency Management Plan                                                         Page 20 of 38
+  March 2025 | Version One
+Section 8. UBCV’s Response Organization
+UBCV’s response organization primarily operates at a site (i.e., specific buildings or facilities) and site support
+(i.e., EOC or DOC) levels within the provincial organizational structure.
+
+An incident may escalate over time, or as additional information becomes available; the response structure is
+flexible and scalable to support the response as required.
+
+
+Response Phases
+
+The Province leads the coordination of response and recovery activities with local, provincial, First Nations,
+national and international emergency partners, following a catastrophic event. The response to an event
+consists of two phases: immediate and sustained response. It is important to note that while there is no overlap
+in the immediate and sustained response, there can be overlap in the response and recovery phases.
+Recovery can start during the response phase and can continue for years beyond the conclusion of the
+response.
+
+Immediate Response In the first hours or days following an emergency event, the immediate response priority
+is to save lives, provide emergency support services and mass care, obtain and share situational awareness,
+restore critical infrastructure and set conditions for a sustained, coordinated response and recovery effort.
+
+Sustained Response Once the immediate response phase ends, a PSI may be closed or used to support
+other response efforts, e.g., provide space for a reception centre, group lodging and/or resource staging areas.
+Requests for PSI resources could come from the Province; however, it is expected that most would come from
+local authorities.
+
+Once a resource has been requested, the PSI will support the request and may consult with PSFS for
+additional support. PSFS will work with impacted PSIs if required, to monitor compensation for eligible claims.
+
+
+
+
+  UBC Vancouver Emergency Management Plan                                                                  Page 21 of 38
+  March 2025 | Version One
+Figure 1 – UBCV Response Structures
+
+
+
+
+Incident Classification
+
+Routine incidents are those that happen on campus regularly, with a well-defined scope, and where duration
+and impacts are understood. Typically, these incidents are handled through normal response procedures, i.e.,
+department-based procedures and/or emergency response plan(s). Routine incidents may be managed by a
+single lead department or multiple departments working together. This could be through normal operational
+roles or through incident management (i.e., DOC). Routine incidents do not require substantial additional
+resources from other campus departments. The affected unit/department(s) may activate their continuity
+plan(s) if deemed necessary or appropriate. Examples: short-term power outage, burst pipe.
+
+Non-Routine incidents are those that have a significant impact on one or multiple campus departments and
+require a coordinated response. Response is not within the normal scope of department activities and affected
+departments cannot effectively manage these incidents without more intensive or longer response activities. An
+Incident Management Team (IMT) is providing site-level support to DOCs. Notification to the Incident
+Management Team or Executive on Call may be necessary, and activation of the EOC, either partially or fully,
+may be required. Departmental business continuity plans may be insufficient at which point additional support
+will be required. Examples: extended power outage, severe weather incident, hazardous substance release.
+
+Major incidents include those where many, if not all, departments on campus are impacted; normal campus
+operations are interrupted; response and recovery activities continue for an extended period, and routine
+
+
+  UBC Vancouver Emergency Management Plan                                                            Page 22 of 38
+  March 2025 | Version One
+responses are insufficient, e.g., earthquake, interface wildfires. Major incidents will require EOC and/or CMT
+activations. A major incident will generally require liaison with external partners such as MVRD, and/or the
+PSFS. Affected unit(s)/department(s) may be directed to activate their DOC and continuity plan(s) with
+centralized coordination occurring through the EOC.
+
+
+Site Level
+
+UBCV’s departmental response may include one or more DOCs, e.g., Campus Security, Facilities, Student
+Housing and Community Services (SHCS) when unique functional support is required to support the
+emergency to ensure regular business activities continue. First responders may set up an incident command
+post to direct all site response activities by single or unified command, i.e., police, fire, and ambulance, if
+deemed necessary or appropriate.
+
+
+Supports to Site Level
+
+An Incident Management Team (IMT) provides site-level support for coordinating operational stakeholders and
+managing campus impacts from a DOC if operational. When institutional coordination is required, the EOC will
+be activated either virtually, in-person or hybrid.
+
+
+Campus Emergency Operations Centre (EOC)
+
+The EOC supports and coordinates the emergency response activities within UBCV for a complex event that
+requires coordination with a large number of stakeholders. The EOC is set up away from the incident site and
+is normally activated at the request of the incident commander or the request of UBC’s senior leadership.
+
+Through the EOC, UBCV:
+
+          assesses the situation;
+          provides support to incident command, and first responders, including resources;
+          provides support and direction to UBCV employees;
+          provides public information, including media briefings;
+          coordinates response activities;
+          liaises with Indigenous and local authorities, PSFS, EMCR, volunteer groups, and other external
+           agencies;
+          develops and distributes situation reports;
+          submits resource requests when jurisdictional resources are exhausted or unable to fill the need;
+          tracks finances;
+          coordinates resumption of crucial services;
+          coordinates recovery efforts.
+
+EOC Communication and Information Management
+Information sharing between the CMT and EOC/others will be via in person briefings, email, Signal app, Teams
+channel and phone call, or other available communication methods as deemed appropriate based on the
+situation and availability of each.
+
+
+
+  UBC Vancouver Emergency Management Plan                                                               Page 23 of 38
+  March 2025 | Version One
+UBCV has emergency communication plans/protocols that outline guidelines for quickly communicating during
+an emergency with UBCV’s community and partners, as well as external stakeholders.
+
+
+Crisis Management Team (CMT)
+
+The UBC Executive Team activate the CMT when a crisis occurs that impacts reputational, strategic and/or
+financial risks. They provide executive oversight and policy decision making for UBC as well as continuity of
+critical functions in their respective areas of responsibilities.
+
+When the EOC or an IMT is activated; this may include supporting the response structure with strategic
+guidance. However, the CMT can be activated to deal with issues without a corresponding response structure
+like an IMT or an EOC activation.
+
+
+UBCV’s Response Structures-Initiation
+
+UBCV’s response structures may be initiated, in whole or part, if an emergency has occurred or appears
+imminent which may require action and coordination beyond normal response procedures. They may also be
+initiated to assist in the planning and coordination of major planned events. The response structure selected is
+based on the requirements for coordination between response partners and the impacts of the event to
+campus activities.
+
+A UBC-V emergency response does not necessarily imply the activation of an EOC. It could involve the use of
+a DOC or an IMT response structure. The formal activation of an EOC occurs separately (see Annex C -
+Emergency Response Playbook). EOC response activation may be requested by any senior leader of UBCV
+which can be implemented by:
+
+          Executive Director, Safety & Risk Services or designate;
+          Director, Emergency Management and Business Continuity or designate.
+
+Figure 2 – UBCV Response Structures
+
+
+
+
+  UBC Vancouver Emergency Management Plan                                                               Page 24 of 38
+  March 2025 | Version One
+Section 9. Recovery
+Recovery is the phase of emergency management in which steps and processes are taken/implemented to:
+
+         repair and rebuild UBCV’s functions and communities affected by a disaster;
+         restore conditions to an acceptable level or, when feasible, improve them;
+         restore self-sufficiency and increase resilience within the campus community.
+
+UBCV’s recovery planning ensures the five aspects of recovery.
+
+
+Five Aspects of Recovery
+
+ Aspect                               Description
+ Emotional and Psychological          Involves caring for the mental health of individuals who experienced or
+ Recovery: Responding to Trauma       witnessed trauma from an emergency, disaster or critical incident.
+
+                                      UBCV has internal services, programs, and resources in the event of a
+                                      traumatic event as well as employee benefits programs.
+
+                                      UBCV will normally have access to critical incident teams when a
+                                      traumatic event occurs.
+
+                                      Additional mental health support services will be added as required.
+ Community and Cultural               Involves reopening campus attractions, cultural and community activities,
+ Recovery                             and reunification of impacted populations to campus for teaching and
+                                      learning purposes.
+
+ Physical and Structural Recovery     UBCV may need to repair or rebuild structures and other infrastructure
+                                      following a disaster.
+
+                                      Delays in doing so could extend emotional impact.
+
+ Business Continuity Planning         When there is significant disruption to UBCV operations, the
+                                      unit/department Business Continuity Plan is activated to facilitate the
+                                      continuation of critical/crucial services and functions following the initial
+                                      emergency or threat.
+ Restoration of Teaching and          Depending on the nature of the emergency, this may involve temporary
+ Research                             arrangements and special accommodations to minimize disruption to
+                                      learning, e.g., attending virtually.
+ Debrief and After-Action Reviews     An opportunity to talk about the experience and gather vital information for
+                                      planners.
+
+                                      Debriefing is critical for those impacted by the emergency and those
+                                      instrumental in the response.
+
+
+
+
+  UBC Vancouver Emergency Management Plan                                                                 Page 25 of 38
+  March 2025 | Version One
+Three Stages of Recovery
+
+Recovery consists of three stages: short, medium and long-term, working towards minimizing future damage.
+The diagram below illustrates possible recovery priorities during recovery stages. They are not all inclusive, or,
+inclusive of community recovery aspects. There is no clear dividing line between response and recovery. It can
+be more effective to initiate recovery efforts during response if it is possible to do so with available resources.
+Recovery can take months or even years.
+
+Various units may contribute to recovery efforts based on their expertise, mandate, and scope. For example,
+UBC Facilities may oversee infrastructure-related tasks, such as conducting rapid damage assessments of
+buildings within their purview, while Student Health Services may provide emotional and psychosocial support
+to students.
+
+
+
+
+  UBC Vancouver Emergency Management Plan                                                                 Page 26 of 38
+  March 2025 | Version One
+Section 10. Financial Considerations
+Spending Authority
+
+To support response and recovery actions, the Board of Governors has approved a Strategic Emergency
+Resolution (Resolution Number 20 – Emergencies and Disasters) which provides various funding level
+approvals, for both response and recovery operations.
+
+The following persons can execute the spending on behalf of the University:
+
+         Chair of the Board of Governors;
+         Chancellor;
+         President.
+
+
+
+
+  UBC Vancouver Emergency Management Plan                                                       Page 27 of 38
+  March 2025 | Version One
+Appendices
+
+
+
+
+ UBC Vancouver Emergency Management Plan   Page 28 of 38
+ March 2025 | Version One
+Geographical/Jurisdictional Boundaries
+
+
+
+
+ UBC Vancouver Emergency Management Plan   Page 29 of 38
+ March 2025 | Version One
+Links and Resources
+
+Agriculture Emergency Planning                         https://www2.gov.bc.ca/gov/content?id=38481F30944E46CB
+                                                       9E77A41F30B9D533
+All Hazard Plan                                        https://www2.gov.bc.ca/assets/gov/public-safety-and-
+                                                       emergency-services/emergency-preparedness-response-
+                                                       recovery/provincial-emergency-planning/embc-all-hazard-
+                                                       plan.pdf
+Partner Engagement List                                https://www2.gov.bc.ca/gov/content/safety/emergency-
+                                                       management/local-emergency-programs/establishing-an-
+                                                       emergency-program#planning-guide
+Provincial Emergency Plans                             https://www2.gov.bc.ca/gov/content/safety/emergency-
+                                                       management/emergency-management/provincial-
+                                                       emergency-planning
+Provincial Earthquake Immediate Response               https://www2.gov.bc.ca/assets/gov/public-safety-and-
+Strategy                                               emergency-services/emergency-preparedness-response-
+                                                       recovery/embc/plans/peirs.pdf
+BC Emergency Management System (BCEMS)                 https://www2.gov.bc.ca/assets/gov/public-safety-and-
+                                                       emergency-services/emergency-preparedness-response-
+                                                       recovery/embc/bcems/bcems_guide.pdf
+BC Wildfire Service Prevention Program and             https://www2.gov.bc.ca/gov/content/safety/wildfire-
+FireSmart Program                                      status/prevention#:~:text=The%20goal%20of%20the%20BC
+                                                       ,disciplines%20of%20the%20FireSmart%20program.
+ClimateReadyBC                                         https://climatereadybc.gov.bc.ca/
+Critical Infrastructure Assessment                     https://www2.gov.bc.ca/gov/content/safety/emergency-
+                                                       management/local-emergency-programs/assessment-
+                                                       analysis#ci
+Disaster Recovery for Communities                      https://www2.gov.bc.ca/gov/content/safety/emergency-
+                                                       management/local-emergency-programs/recovery
+Distinctions-Based Approach Primer                     https://www2.gov.bc.ca/gov/content/governments/indigenous
+                                                       -people/new-relationship/united-nations-declaration-on-the-
+                                                       rights-of-indigenous-peoples/distinctions-based-approach
+DriveBC                                                https://drivebc.ca/
+Emergency and Disaster Management Act                  https://www.leg.bc.ca/Pages/BCLASS-
+                                                       Legacy.aspx#%2Fcontent%2Fdata%2520-
+                                                       %2520ldp%2Fpages%2F42nd4th%2F3rd_read%2Fgov31-
+                                                       3.htm
+Emergency Management in BC                             https://www2.gov.bc.ca/gov/content/safety/emergency-
+                                                       management
+EOC Operational Guidelines                             https://www2.gov.bc.ca/assets/gov/public-safety-and-
+                                                       emergency-services/emergency-preparedness-response-
+                                                       recovery/local-government/eoc_operational_guidelines.pdf
+Functional Needs Frameworks for Every                  https://disabilityalliancebc.org/category/publications/emergen
+Community: Emergency Planning and Response             cy-prep/
+for People with Disabilities, Disability Alliance BC
+
+
+ UBC Vancouver Emergency Management Plan                                                                     Page 30 of 38
+ March 2025 | Version One
+Hazard, Risk and Vulnerability Analysis (HRVA)    https://www2.gov.bc.ca/gov/content/safety/emergency-
+                                                  management/local-emergency-programs/assessment-
+                                                  analysis#hrva
+Interim Guidance on Indigenous Engagement         https://www2.gov.bc.ca/assets/gov/public-safety-and-
+Requirements                                      emergency-services/emergency-preparedness-response-
+                                                  recovery/embc/legislation/ier_primer.pdf
+
+Native-Land.ca                                    https://native-land.ca/
+
+Policy 2.14 First Nations Community Navigator     https://www2.gov.bc.ca/assets/gov/public-safety-and-
+for Emergency Support Services                    emergency-services/emergency-preparedness-response-
+                                                  recovery/embc/policies/214_embc_community_navigator_for
+                                                  _ess_policy.pdf
+
+Policy 2.15 Cultural Activity Locations Support   https://www2.gov.bc.ca/assets/gov/public-safety-and-
+                                                  emergency-services/emergency-preparedness-response-
+                                                  recovery/embc/policies/215_embc_cultural_activites_location
+                                                  _support_cals_policy.pdf
+
+Post-Secondary Emergency Management               Post-Secondary Education Sector Integrated Response Plan
+                                                  for Catastrophic Events:
+                                                  https://www2.gov.bc.ca/assets/gov/education/post-
+                                                  secondary-education/institution-resources-
+                                                  administration/emergency-support/psi_irp.pdf
+                                                  Post-Secondary Education Sector Emergency Management
+                                                  Response and Recovery Planning Guide:
+                                                  https://www2.gov.bc.ca/assets/gov/education/post-
+                                                  secondary-education/institution-resources-
+                                                  administration/emergency-support/psi_rrpg.pdf
+PreparedBC Emergency Guides and Resources         https://www2.gov.bc.ca/gov/content/safety/emergency-
+                                                  management/preparedbc/guides-and-resources
+
+Spills and Environmental Emergencies              https://www2.gov.bc.ca/gov/content?id=FCA7954D13354336
+                                                  86A938616F03B9CD
+
+
+
+
+ UBC Vancouver Emergency Management Plan                                                             Page 31 of 38
+ March 2025 | Version One
+Glossary
+
+Action plans               an oral or written plan containing general objectives that reflect the overall
+                           strategy for managing an incident.
+
+Activate                   to begin the process of mobilizing a response team or to set in motion an
+                           emergency operations response or recovery plan, process, or procedure for an
+                           actual emergency incident.
+
+Authority                  a right or obligation to act on behalf of a department, agency, or jurisdiction.
+
+
+Building emergency         a plan required for compliance to the BC Fire Code that helps ensure the safety
+response plan              of building occupants through fire prevention and emergency evacuation.
+
+Command                    the act of directing, ordering, or controlling under explicit statutory, regulatory, or
+                           delegated authority.
+
+Business continuity        means a business continuity plan prepared in accordance with section 53
+plan (EDMA)                [business continuity plans] of the Emergency and Disaster Management Act.
+
+Critical Infrastructure    means a system, network, facility, asset or land (e.g., physical or virtual, publicly or
+(EDMA)                     privately owned and necessary to protect, maintain or restore health, safety or well-
+                           being of persons) described in section 48 [critical infrastructure identified] of the
+                           Emergency and Disaster Management Act.
+Critical incident (EDMA)   means a single incident to which all of the following apply:
+                           (a) the incident requires the prompt coordination of actions at a particular location
+                                     (i) to protect the health, safety or well-being of one or more persons, or
+                                     (ii) for a prescribed purpose;
+                           (b) the actions required under paragraph (a) are beyond the capability or capacity of
+                           the responsible emergency service provider;
+                           (c) the incident does not include an emergency in relation to which a declaration of
+                           a state of provincial emergency or a declaration of a state of local emergency has
+                           been made.
+Crisis management          the ability of an organization to manage incidents that have the potential to cause
+                           significant security, financial, or reputational impacts.
+Damage assessment          an appraisal or determination of the effects of the emergency/crisis on human,
+                           physical, economic, and natural resources.
+Disaster                   means a calamity that
+                           (a) is caused by accident, fire, explosion or technical failure or by the forces of
+                           nature, and
+                           (b) has resulted in serious harm to the health, safety or welfare of people, or in
+                           widespread damage to property;
+Disruption                 means an occurrence that interrupts normal business, functions, operations, or
+                           processes, whether anticipated or unanticipated.
+
+
+
+ UBC Vancouver Emergency Management Plan                                                                   Page 32 of 38
+ March 2025 | Version One
+Emergency (EDMA)           means a state that
+                           (a) is the result of any of the following:
+                                     (i) an event that
+                                                (A) has occurred, is ongoing or appears imminent, and
+                                                (B) is caused by one or more incidents, whether or not those
+                                                incidents occur in the same location or at the same time, of
+                                                accident, fire, explosion, technical failure, rioting, security threat, or
+                                                terrorist activity within the meaning of section 83.01 of the Criminal
+                                                Code, force of nature or a prescribed type of incident;
+                                     (ii) the presence, suspected presence or imminent spread of a
+                                     transmissible disease or an environmental toxin;
+                                     (iii) a prescribed type of event or the presence or suspected presence of
+                                     prescribed circumstances, and
+                           (b) requires the prompt coordination of action, or the special regulation of persons
+                           or property, to protect
+                                     (i) the health, safety or well-being of persons, or
+                           (ii) the safety of property or of objects or sites of heritage value.
+Emergency                  means the development and implementation of policies and plans with respect to
+management (EDMA)          the measures to be taken in each phase.
+
+Emergency                  means an emergency management plan prepared in accordance with section 52 of
+management plan            the Emergency and Disaster Management Act.
+(EDMA)
+
+Emergency system           means a prescribed system, or a system having prescribed characteristics,
+(EDMA)                     designed
+                           (a) to give warnings or notices to the public if an emergency is present, or
+                           (b) to facilitate, coordinate or carry out activities in relation to emergency
+                           management.
+Evacuation                 a protective action of moving threatened individuals completely out of a building,
+                           facility, or campus.
+First responders           a generic term referring to the first medically trained responder to arrive on the
+                           scene, e.g., fire departments, Police, St John Ambulance, Canadian Coast Guard.
+Hazard (EDMA)              means a circumstance, condition, process, phenomenon, activity or prescribed type
+                           of thing, whether natural or human-caused, that may give rise to an emergency.
+Incident                   a situation that might be or could lead to a disruption, loss, emergency, or crisis.
+
+
+Incident Command           standardized emergency management construct specifically designed to provide for
+System                     the adoption of an integrated organizational structure that reflects the complexity
+                           and demands of single or multiple incidents, without being hindered by jurisdictional
+                           boundaries.
+Indigenous peoples         has the same meaning as in section 1 (1) of the Declaration on the Rights of
+(EDMA)                     Indigenous Peoples Act.
+
+
+
+
+ UBC Vancouver Emergency Management Plan                                                                         Page 33 of 38
+ March 2025 | Version One
+Intersectional             means the intersection of social categorizations of persons or classes of persons,
+disadvantage (EDMA)        including Indigenous identity, race, economic status, sex, sexual orientation, gender
+                           identity and expression, age and ability, in ways that may result in overlapping
+                           systems of discrimination or disadvantage or disproportionate adverse effects.
+Local authority (EDMA)     means the following:
+                                     (a) a municipality;
+                                     (b) a regional district;
+                                     (c) the Nisga'a Nation;
+                                     (d) a treaty first nation.
+Recover (EDMA)             in relation to an emergency, means to take an action for a purpose referred to in
+                           section 3 (1) (d); of the Emergency and Disaster Management Act.
+Risk assessment            means a risk assessment prepared in accordance with section 51 of the
+(EDMA)                     Emergency and Disaster Management Act.
+
+Situation report           document created by Planning Section that provides information and data of all the
+                           response operations occurring in an operational period; this information informs
+                           decisions for the next operational period.
+Shelter-in-Place           shelter in place means finding a safe location indoors and staying there until you are
+                           given an “all clear” or told to evacuate.
+Unified command            authority structure in which the role of Incident Commander is shared by two or
+                           more individuals, each already having authority in a different responding agency.
+
+
+
+
+ UBC Vancouver Emergency Management Plan                                                                Page 34 of 38
+ March 2025 | Version One
+Plan Distribution List
+
+The following table shows the internal record of distribution.
+
+Internal Departments
+
+ Internal Departments
+ Date of Delivery     Method of Delivery                     Group
+                      Electronic MS Teams
+
+
+
+The following table shows the external record of distribution.
+
+External Agencies
+
+ External Agencies
+ Date of Delivery        Method of Delivery                  Agency and Position
+                         Electronic MS Teams                 Metro Vancouver Regional District (MVRD)
+                         Electronic MS Teams
+
+
+
+
+  UBC Vancouver Emergency Management Plan                                                               Page 35 of 38
+  March 2025 | Version One
+Mutual Aid Agreements, Memorandum of Understandings, and
+Affiliations
+
+UBC is regularly reviewing and establishing, as required, mutual aid agreements, memorandum of
+understanding, and affiliations with partners and community stakeholders.
+
+UBC has established the following:
+
+         Memorandum of Affiliation with Musqueam First Nation;
+         a fire services agreement in place between the province and the City of Vancouver to provide fire
+          protection for Point Grey, including the University Endowment Lands (UEL) and UBC;
+         a subsequent neighbourhood fire services contribution agreement between the province and UBC
+          where UBC pays via the UNA services for a portion of the contract;
+         Neighbours’ Agreement 2024.
+
+
+
+
+  UBC Vancouver Emergency Management Plan                                                           Page 36 of 38
+  March 2025 | Version One
+List of Annexes
+
+Name                                        Brief Description
+Hazard, Risk and Vulnerability Assessment   is an assessment of hazards (a circumstance, condition,
+                                            process, phenomenon, activity or prescribed type of thing,
+                                            whether natural or human-caused, that may give rise to an
+                                            emergency), risks (prepared in accordance with section 51
+                                            [risk assessments] of EDMA) and vulnerabilities
+                                            ("vulnerable", in relation to an individual, animal, place or
+                                            thing, or a class of individuals, animals, places or things,
+                                            means the following:
+                                            (a) particularly susceptible, due to physical or geographic
+                                            location or environmental factors, or other similar factors, to
+                                            the adverse effects of an emergency;
+                                            (b) having prescribed characteristics).
+Crisis Management Team Response Playbook    describes the Crisis Management Teams’ priorities and
+                                            responsibilities during a non-routine, or major response and
+                                            includes key activities during activation, deactivation, and
+                                            recovery.
+Vancouver Emergency Response Playbook       describes how the UBCV EOC will support the campus
+                                            during a non-routine or major emergency by providing an
+                                            overview of the core components of the EOC structure.
+Emergency Communication Plan                is intended to outline guidelines for quickly communicating
+                                            with the campus community, community partners and
+                                            external stakeholders during an emergency.
+Mass Care Plan                              documents the strategic coordination of resources for the
+                                            provision of shelter, care and feeding; to be implemented in
+                                            support of the UBCV community following an emergency.
+Evacuation                                  describes the roles and responsibilities of departments,
+                                            agencies and personnel of UBCV in conducting an
+                                            evacuation of all or part of UBCV.
+Fatality Management                         addresses how UBCV will prepare for and respond to a
+                                            mass fatality incident and outlines the major components of
+                                            a mass fatality response; to be used in concert with and
+                                            support of the British Columbia’s Mass Fatality Response
+                                            Plan.
+Extreme Weather                             addresses how UBCV will prepare for and response to
+                                            severe weather threats that may cause interruption,
+                                            cancellation of classes or examinations, curtailment of “non-
+                                            essential” services, and/or closures of the UBCV campus.
+Communicable Disease                        plan provides a flexible university response that is integrated
+                                            with public health and the provincial response efforts to
+                                            reduce, control, and respond to the effects of a disease
+                                            outbreak within the campus community, or province.
+
+
+
+ UBC Vancouver Emergency Management Plan                                                          Page 37 of 38
+ March 2025 | Version One
+Hazmat                                     plan is a reference tool and guidance document for the
+                                           university to conduct a response specific to an incident
+                                           involving a dangerous good or hazardous waste release or
+                                           spill.
+Civil Disturbance                          plan provides response procedures detailing how the
+                                           university will identify and manage the potential for civil
+                                           disturbance/disorder associated with events on campus.
+Active Threat                              plan provides sufficient operational coordination detail
+                                           ensuring swift action to minimize loss of life in an
+                                           organizational response to an active threat incident at
+                                           UBCV.
+Wildfire                                   plan addresses how UBCV prepares for and responds to an
+                                           interface wildfire incident in and around UBC/UNA buildings
+                                           and Pacific Spirit Park.
+Special Risk                               plan to describe internal processes for UBC to work with
+                                           external stakeholders during crisis events.
+
+
+
+
+ UBC Vancouver Emergency Management Plan                                                      Page 38 of 38
+ March 2025 | Version One
+

@@ -1,0 +1,55 @@
+type OrganizationProfile @model @auth(rules: [{allow: owner, ownerField: "owner"}])
+{
+  organizationName: String!
+  organizationType: OrganizationProfileOrganizationType
+  industry: String
+  primaryContactName: String
+  primaryContactEmail: String
+  primaryContactPhone: String
+  secondaryContactName: String
+  secondaryContactEmail: String
+  secondaryContactPhone: String
+  primaryAddress: String
+  city: String
+  state: String
+  zipCode: String
+  country: String @default(value: "Canada")
+  buildingType: OrganizationProfileBuildingType
+  numberOfFloors: Int
+  totalOccupancy: Int
+  buildingAge: Int
+  emergencyContactName: String
+  emergencyContactPhone: String
+  emergencyContactEmail: String
+  nearestHospital: String
+  nearestFireStation: String
+  nearestPoliceStation: String
+  primaryHazards: String
+  secondaryHazards: String
+  specialConsiderations: String
+  operatingHours: String
+  specialPopulations: String
+  accessibilityFeatures: String
+  isOnboardingComplete: Boolean @default(value: "false")
+  lastUpdated: AWSDateTime
+  userId: String
+}
+
+enum OrganizationProfileOrganizationType {
+  CorporateOffice
+  HealthcareFacility
+  EducationalInstitution
+  GovernmentBuilding
+  RetailCommercial
+  Manufacturing
+  Other
+}
+
+enum OrganizationProfileBuildingType {
+  SingleStory
+  MultiStory
+  HighRise
+  Campus
+  Industrial
+  Other
+}

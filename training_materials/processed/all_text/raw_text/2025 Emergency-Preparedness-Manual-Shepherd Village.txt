@@ -1,0 +1,3398 @@
+   SHEPHERD VILLAGE
+
+
+
+EMERGENCY PREPAREDNESS
+
+
+
+        MANUAL
+
+
+
+
+         2025
+
+
+
+
+           0
+                                 TABLE OF CONTENTS
+
+
+        Forward
+                                                                      3
+        Management Staff Phone Numbers
+                                                                      5
+        External Service Provider Phone Numbers
+                                                                      6
+Loss of Utilities                                                     7
+Loss of Natural Gas                                                   8
+Loss of Communication Services                                        9
+Loss of Electrical Power & Generator Information                      10
+Loss of Elevator Service                                              12
+Loss of Internet Service & eMAR Backup & Printing & Backup Policies   13
+Flood                                                                 17
+Loss of Water                                                         18
+Boiled Water Advisory                                                 19
+Gas Leak                                                              23
+Inclement Weather                                                     25
+Public Disturbances                                                   26
+Vandalism                                                             27
+Community Disasters                                                   28
+Receiving Residents from Other Facilities                             28
+        Interruption of Food and Nutrition Services
+                                                                      29
+Food and Nutrition Emergency Policies and Procedures                  31
+        Pharmacy Emergency Procedures
+                                                                      32
+Code White - Violent Outburst                                         34
+Code Brown - Chemical Spill                                           36
+Code Blue - Medical Emergency                                         39
+Code Yellow - Missing Resident                                        43
+                                             1
+Code Black - Bomb Threat                                                      46
+Code Red - Fire                                                               47
+Code Green - Evacuation                                                       48
+Shepherd Village Command Post                                                 59
+Ministry of Long-Term Care Evacuation Guide (Administrative Process)          60
+Fan Out Procedure                                                             62
+Relocation Plan - External                                                    63
+Recovery Plan                                                                 65
+Outbreaks of a Communicable Disease, Outbreaks of a Disease of a              67
+communicable Disease, Outbreaks of a Disease of Public Health Significance,
+Epidemics & Pandemics
+PPE Inventory Management Process                                              72
+Post Emergency Debrief                                                        73
+Annual Evaluation of the Emergency Plan                                       74
+Communication Plan (including Media communication)                            75
+Testing the Emergency Plan                                                    79
+Staff Training                                                                80
+Emergency Lifts and Carries                                                   81
+Staff Contingency Plans                                                       87
+Relocation Arrangements                                                       96
+Shepherd Village Site Plan                                                    97
+
+
+
+
+                                          2
+FORWARD
+
+An emergency is an event, which affects the normal operation of a facility. Fire,
+explosion, communicable disease, chemical spills, loss of heat, water, light and power,
+bomb threats and severe weather are all events which may be classified as an
+emergency. The degree of disruption caused by those events may be minimal as in the
+case of loss of water for a brief time, or major, as in the case of fire requiring total
+evacuation or a pandemic which can last for several months. Additionally, the disruption
+may be created by the reception of individuals from another facility, which has
+undergone a emergency.
+
+Shepherd Village consists of four buildings: Shepherd Lodge, Shepherd Terrace,
+Shepherd Manor, and Shepherd Gardens. Shepherd Terrace is home to retirement
+residents; Shepherd Lodge is home to Long-Term Care (LTC). Shepherd Manor is an
+eleven-storey independent seniors' apartment building. And finally, Shepherd Gardens is
+a seniors Life Lease building.
+
+Shepherd Lodge is a 7-story building. There are three elevators servicing the building
+with one designated as a freight elevator. Approximately 40% of the Lodge residents are
+of the ambulatory type while the others rely on wheelchairs for assistance. A ground
+level emergency generator provides much needed emergency power during any power
+failure.
+
+Shepherd Terrace Retirement Suites are mostly ambulatory residents, with some
+wheelchair residents. The retirement residents can be accessed by elevators # 1-4,
+which are full size elevators. A basement emergency generator provides needed
+emergency power for critical services as well as back-up power for the main kitchen
+walk-in freezers.
+
+Shepherd Manor has self-contained apartments for seniors. Most of the residents are of
+the ambulatory type, although some of the residents need wheelchairs or walkers for
+ambulation purposes. Three (3) elevators service the eleven-storey apartment building.
+The Manor has emergency power which is fed from the Lodge grid.
+
+Shepherd Gardens is 115-unit life lease seniors building. All the residents are of the
+ambulatory type, although some of the residents use wheelchairs or motorized scooters.
+Two (2) elevators service the six-storey building. A roof top generator provides back-up
+emergency power for critical life services.
+
+Although we live in the hope that emergencies will never strike at our door, the truth is
+that they can and do occur. The purpose of this manual is to state the process of
+preparing for, responding to and recovery from any unplanned event that could have a
+negative effect on the organization:
+
+                                             3
+      minimize any inconvenience to the residents, staff, family members and
+       community and minimize damage to the facilities and its contents.
+      protect the health and safety of our residents, staff, and family members.
+      ensure continued operation as a health care facility.
+      reduce damage to the building and or equipment so Shepherd Village can
+       recover quickly.
+      recognize responsibility to the community we serve.
+
+The effectiveness of the emergency and emergency plan described herein is dependent
+upon many. The familiarity with your duties and responsibilities will determine how we
+respond should a emergency strike our facilities. Your cooperation is not only necessary,
+but also essential.
+
+The main command post for Shepherd Village is the ground floor reception of Shepherd
+Lodge. All directions relating to an emergency will be given out and administered from
+that location.
+
+
+
+
+                                            4
+    STAFF PHONE NUMBERS
+                Title                          Name            Home #        Cell #
+
+President/Chief Executive Officer        Wendy Beckles                    416-523-4847
+                                                               289-221-   437-771-4262
+Director. Of Client Care Services         Cathy Fiore            0645
+Director, Of Corporate Services          Marshia Cooke                    905-621-1080
+Director Of Spiritual Life And                                            289-404-3148
+Development                                   Rich Janes
+Director, Facility Services               Mario Gugliotta                 416-564-2498
+Manager, Human Resources                 Dwight Anderson                  416-859-5133
+Director Of Care                         Erica Alexander                  416-879-5516
+Senior Assistant Director              Jessica Kayitesi                   416-219-3096
+Quality And Clinical Education Mgr       Michelle Defante                 647-330-1964
+Manager, Clinical Informatics               Tracy Jansen                  416-779-6790
+Lodge Assistant Director Of Care      Sangeetha Gnanajothi                437-232-5165
+Lodge Assistant Director Of Care     Kishow Krishnamoorthy                416 500 3409
+Lodge Associate Nurse Manager            Heather DaCosta                  416-879-2097
+Lodge Nurse Supervisor                          Iris Li                   647-865-8147
+Lodge Nurse Manager                      Ernesto Adraneda                 416-627-9753
+Lodge Nurse Manager                           Lucy Yan                    647 217 5970
+Lodge Nurse Manager                  Adolfo Vences-Rodriguez              416-996-4278
+Lodge Nurse Manager                     Stacey Carandang                  647-588-7449
+Ipac Manager                                  Soly Diaz                   647-818-9327
+Bso Manager                              Adeola Dosunmu                   647-688-3717
+Resident Care Coordinator                 Denise Jackson                  905 807 0455
+Resident Care Coordinator                 Kailash Chamba                  705 255 3174
+                                                               647-554-   647-330-5499
+Shepherd Terrace General Manager         Noreen Brooker          7125
+Facility Manager                         Coseta Ricketts                  416-418-3318
+Marketing Manager                       Michelle Uniacke                  416-388-7048
+                                       Stephanie Roberts-                 647-792-4507
+Administration Services Supervisor           Thomas
+Lodge Recreation/Volunteer Mgr            Estelle Brown                   416-892-3822
+Finance Manager                           Karen Johnson                   705-817-6199
+It Manager                               Alan Nummey                      905-447-6290
+Food Services General Manager             Wanisha Javid                   289-356-4681
+Food Services Manager                   Maria Hernandez                   437-247-9370
+Food Production Supervisor                 Bosiri Silva                   416-605-5475
+                                         Leonie Comrie-        416-498-   647-284-7735
+Food & Nutrition Supervisor                 McDonald             7654
+Volunteer Co-Ordinator                      Vivian Li                     437-5336986
+Adult Village Club Supervisor            Nicole McGale         905 239-
+                                           5
+                                                                     9428
+Terrace Recreation Supervisor               Viviana Szabo                      647-787-9747
+Medical Director                            Dr. Barat Kalra                    416-949-9880
+
+Shepherd Terrace Unit Nurse               24 Hour Cell Phone                   416-804-5499
+
+
+
+
+  EXTERNAL SERVICE PROVIDER PHONE NUMBERS
+
+
+                             External Emergency Phone Numbers
+                 Service                           Company                  Phone Numbers
+Telephone communications                  Bell Canada                    611
+Fire/Police/Ambulance/emergency
+transportation/toxic spills/natural gas   City of Toronto                911
+emergencies
+Toronto Fire Services non-emergency       City of Toronto                416-338-9000
+Ambulance Services                        City of Toronto                416-489-2111
+Police non-emergency/parking              City of Toronto                416-808-2222
+Garbage/recycling/organic                 City Of Toronto                311
+Natural gas non-emergency                 Enbridge                       1-866-763-5427
+Provincial operations                     Ministry of Health-after hrs   1-888-999-6973
+                                                                         Main     416-480-
+                                                                         2500
+Multi-service                             Red Cross Toronto Office
+                                                                         Dispatch 416-676-
+                                                                         8559
+                                                                         1-888-999-6973.
+Ministry of Long Term Care                Ministry of Long Term Care
+                                          Retirement Homes
+RHRA                                                                     416-440-3570
+                                          Regulatory Authority
+Hospital                                  North York General Main        416-756-6000
+Hospital                                  North York General Emerg       416-756-6001
+                                          Scarb. Health Network
+Hospital                                                                 416-495-2400
+                                          Main
+                                          Scarb. Health Network
+Hospital                                                                 416-431-8181
+                                          Emerg
+                                          Scarb. Health Network
+Hospital                                                                 416-495-2550
+                                          Emerg
+
+                                              6
+(Poison Control Centre)     Toronto                416-813-5900
+Loss of water/power/hydro   Toronto Hydro          416-542-8000
+Vault access                Toronto Hydro          416-542-8000
+                                                   416-393-4000 M-F
+Transportation              TTC-customer service   416-393-3030 WKD
+                                                   option 6
+
+
+
+
+                               7
+LOSS OF UTILITIES
+
+If Shepherd Village loses some or all utilities, including water, electricity, gas etc. the
+following procedures may be implemented at the direction of the Management Team.
+
+Shepherd Lodge ground floor has been designated as the holding area for any SV
+resident(s) who may need care or partial care due to loss of heat, lighting, or any other
+care concern. The Lodge ground floor is equipped with emergency lighting and electrical
+sockets. i.e. orange electrical sockets are visible throughout the ground floor. The
+Terrace basement chapel is another area which has been equipped with an emergency
+receptacle. For that fact the entire Lodge has been built with one emergency receptacle
+in each resident room.
+
+If residents are relocated from another Shepherd Village building(s) there is a procedure
+that should be followed which is found in the relocation section of this manual.
+
+The transition of relocating residents from one area to another is very critical and should
+not be done unless the situation calls for it. If residents are moved please follow all
+instructions in the relocation section of this manual. Proper lifting procedures should
+always be followed plus security checks should be performed throughout. The residents
+should be in a secure environment with proper supervision. There are temporary jobs
+that can be performed by all staff that are assisting with the transition.
+
+For the duration of any major emergency, the main command post will be the main
+reception on the ground floor of the Lodge; the main command post will be staffed by a
+senior management or designated. The main command post will have a walkie-talkie
+and an emergency bin, with additional supplies plus other information necessary to
+direct operations for the duration of the emergency. If the major emergency continues
+for an extended period, two sub-command posts will be set up in the Manor Lobby area
+and Terrace ground floor.
+
+
+
+
+                                               8
+LOSS OF NATURAL GAS
+
+Natural Gas is colourless, odourless, non-toxic, and highly flammable. For safety, a
+smell much like rotten eggs is added for easy detection.
+
+In the event of loss of natural gas, contact Enbridge at 1-866-763-5427 or check out
+their website www.enbridgegas.com in order to determine expected duration of shut
+down. If the supply of gas will be restored quickly, no further action need be taken. If the
+loss of gas has occurred during warm weather and is to be restored in a reasonable
+period, do the following:
+
+             suspend the operation of laundry and dishwashing services to conserve
+              hot water for residents’ use.
+             for emergency feeding of residents, see Interruption of Dietary Services in
+              this manual.
+
+If the loss of gas occurs during cold weather and will be restored in a reasonable length
+of time, ensure that all windows and exterior doors are closed, and all air supply and
+exhaust fans are off. Obtain additional blankets from the laundry and use as necessary
+to keep residents warm.
+
+In the event of a natural gas, leak 1-shut off the gas at the main valve and all secondary
+valves 2- evacuate the building 3- Do not smoke or use any electrical devices 4-call 911
+and 5-call the gas company.
+
+If Enbridge cannot restore supply for an extended period, the management Team) will
+initiate Total Evacuation found in this manual.
+
+
+
+
+                                             9
+LOSS OF COMMUNICATION SERVICES
+
+In the event of loss of regular telephone services at Shepherd Village, utilize the nearest
+resident telephone, fax phone, cell phone or leave the site and utilize other phones
+located in the following areas:
+            Fire hall at Birchmount and Sheppard Ave East or
+            Retail vendors in the area
+
+If all telephone service in the immediate vicinity of the Village is disrupted, one staff
+member is to be delegated to drive to a phone located outside the area of disruption or
+to the closest fire hall. A private phone either from Shepherd Manor, Terrace and/or
+Gardens can be used as well.
+
+The above procedure is to be used to obtain any medical emergencies or any other
+emergency that may arise during the loss of communication services.
+
+
+
+
+                                            10
+LOSS OF ELECTRICAL POWER & GENERATOR INFORMATION
+
+In the event of a total loss of electrical power, contact Toronto Hydro Services 416-542-
+8000 or check their website www.torontohydro.com and determine the anticipated
+duration of the power loss.
+
+If power is to be restored quickly, no further action needs to be taken.
+
+If the loss of power occurs during cold weather, ensure that all windows and exterior
+doors are closed. Obtain additional blankets from the laundry and use as necessary to
+keep residents warm. If gas supplies are still available, supply residents with hot
+beverages as needed.
+
+Keep vacant room doors closed to minimize the loss of heat.
+
+If temperatures drop to unacceptable levels, and/or power supply will not be restored for
+an extended period of time, the Management Team will initiate Total Evacuation found in
+this manual.
+
+
+Emergency Power
+The Lodge/Manor emergency power is generated by a 400 KW Kohler unit, which is
+found on the ground floor close to the covered parking entrance. It provides many hours
+of backup power to both buildings. The diesel storage tank is 500 gallons or 2273 litres.
+The unit is presently running at 30% capacity. The SL heating/refrigeration system is
+backed up on the generator.
+Diesel engine at            at 100%      400 (amp)/12 hours=33 gallons/hr
+                            therefore    500 gallons diesel/33= 15.2 hours
+
+                            at 30%        400 (amp)/40 hrs=10 gallons/hr
+                            therefore     500 gallons/10=50 hours
+The Terrace emergency power is generated by a Kohler Generator, 250 KVA, which is
+found on the south wing of the basement. At full load it produces 600 volts or 263,940
+watts. The diesel storage tanks is 250 galloons or 1136 litres. The system is presently
+running at 40% capacity.
+Diesel engine at           at 100%       250 (amp)/12= 21 gallons/hr
+                            therefore    250 gallons diesel/21= 12 hours
+
+                            at 40%        250 (amp)/30=8 gallons/hr
+                            therefore     250 gallons diesel/8= 32 hours
+The Gardens emergency power is generated by a Simpower Generator, 150 KVA, which
+is found on the rooftop of Shepherd Gardens 115 Bonis Ave. At full load it produces 600
+volts or 75 000 watts. The diesel tank storage is 200 gallons or 909 litres. The system is
+                                             11
+presently running at 10%-15% capacity.
+Diesel engine at         at 100%       150 (amp)/12hrs= 12.5 gallons/hr
+                          therefore    200 gallons diesel/12.5= 16 hours
+
+                          at 20%       150 (amp)/60hrs= 2.5 gallons/hr
+                          therefore    200 gallons diesel/2.5=80 hours
+
+
+
+
+                                         12
+LOSS OF ELEVATOR SERVICE
+In the event of a shutdown of all the elevators for more than three (3) hours, the
+following telephone calls are to be made by the receptionists or facility staff to notify the
+various services:
+
+             Toronto Fire Services dispatch                     416-338-9000
+             Toronto Ambulance                                  416-489 -2111
+
+Shepherd Village has arranged 24hr/day & 7 days/week elevator service contracts with
+the following companies:
+
+             TKE Thyssen-Krupp elevator (all buildings)         416-291-2000
+
+In the event of a person trapped in an elevator you should,
+           never attempt to evacuate them.
+           contact the elevator company.
+           maintain communication with the trapped person.
+           thoroughly investigate the incident
+
+
+
+
+                                              13
+LOSS OF INTERNET SERVICE & eMAR BACKUP/PRINTING & BACKUP POLICIES
+
+CONDITION #1: If all internet services are down and it is ON-SITE
+
+IT is to communicate within 30 minutes of confirmation of ANY network or internet
+outage. IT will inform affected staff immediately using the phone pager system.
+Ongoing updates will be given every 30 minutes thereafter until the issue is resolved.
+
+After 30 min of downtime, IT will notify the nursing management team to start
+preparations to print eMAR reports. At the 2nd status update, 30 mins later, IT will give
+Nursing the go-ahead to print eMAR based on the potential extension of the current
+outage.
+
+The instructions to print eMAR charts are located on the desktops of the eMAR backup
+PCs that will be used when the eMAR charts are required to be printed. IT will make
+themselves available to assist if or when required.
+
+CONDITION #2: If It is OFF-SITE when the internet goes down, CALL THE IT
+DEPARTMENT as soon as possible.
+
+Contact numbers for IT:
+
+Alan 905-447-6290 or 437-775-6019
+Ramani 416-706-5511
+
+IT will ask these questions:
+   1. Are multiple computers or devices impacted?
+   2. Are the eMAR laptops able to access eMAR? If “No,” please try to connect to SV-
+       DR Wi-Fi. Does it work now?
+   3. If SV-WIFI & SV-DR are not working, can Terrace Nursing access Wi-Fi?
+
+IT will ask the on-duty manager to initiate the eMAR printing process within one hour.
+If the internet is down for more than 30 minutes, both IT staff will come in to assist and
+troubleshoot if available.
+
+
+eMAR BACKUP/PRINTING RESPONSIBILITIES & INSTRUCTIONS
+
+Four computers have been set up to receive hourly eMAR downloads automatically.
+
+I.T. Responsibilities:
+      Computers are to be plugged into an Uninterruptable Power Supply (UPS)
+      UPS is to be plugged into an orange or red power receptacle connected to the
+       backup generator.
+                                             14
+      IT will check weekly to ensure the processes continue to run as scheduled.
+      Train (and re-train if requested) the nurse manager or nurse delegates on the
+       processes to follow.
+       Provide documentation and review it annually to ensure accuracy.
+SL Nursing Responsibilities:
+    Adopt a schedule to test knowledge and capability of printing off an eMAR
+     document within your department.
+    ensure an ample supply of 8.5 X 11 paper.
+Locations of the eMAR backup PCs:
+
+   Shepherd Lodge
+        o SL4 South Nursing Station – SV-WS142
+        o SLGF Nrs Mgr Office – SV-WS092
+        o SLGF Nrs Mgr Office – SV-WS093
+
+      Shepherd Terrace
+          o ST5 Nursing Stn – SV-WS180 OR SV-WS183
+
+In the case of a prolonged internet outage, the nursing departments are to print out and
+distribute the eMAR documents to the appropriate floors – preferably within 1 hour of
+inaccessibility of live information from PCC.
+
+Instructions:
+Lodge Nursing management is to coordinate the printing between the 3 PCs listed
+above.
+
+To print the eMAR pdf file from the downloaded eMAR file directory:
+
+   1. Double Click on the desktop shortcut “eMAR Backup Downloads.” If not found,
+       contact IT staff at techsupport@shepherdvillage.org or extension 331 or 344.
+
+
+
+
+                                           15
+2. Right-click on the most recent file and select Extract All, and then follow the
+   prompted instructions:
+
+
+
+
+   Click the Extract button. The files will be extracted to a directory named with the
+   ZIP file name:
+
+
+
+
+                                         16
+3. Change to the newly created directory. To Print the eMAR files, select one
+   “MAR_1” file at a time, right click and select Print. The example below shows the
+   individual MAR files for each floor unit:
+
+
+
+
+   Backup Policies (quarterly)
+   Each quarter, PAC-People and Culture will download all Shepherd Valley policies and
+   procedures to a shared drive that is not part of the Shepherd Village network. The
+   objective of this exercise is for purposes of accessing the information in case the network
+   is down or can't be accessed.
+
+
+   Additional Resources:
+
+   1. Point Click Care eMAR Back Up User Guide, Surge Policy Pro, Forms Manual
+
+
+
+
+                                           17
+FLOOD (EXTERNAL I.E. DUE TO WEATHER)
+In the event of an external flood that may affect the building:
+
+The Director of Facilities or designate will:
+    Will make an announcement of the situation for the building(s) affected and
+      provide directions as required.
+    Tune into local radio/television/internet for information and direction from
+      provincial or community authorities.
+    Alert team members that an evacuation may be necessary.
+    If advised by authorities to remain in the building, notify team members,
+      residents, and visitors of the hazard and reasons to “shelter in place”.
+    Monitor radio/television/internet for further updates and remain in shelter until
+      authorities indicate it is safe to come out.
+    Initiate Code Green evacuation procedures as required.
+
+In the event there is time, and it is safe to do so, the Director of Facilities or designate
+will:
+     Shut down/de-energize utilities not necessary for urgent resident care to reduce
+       ignition sources and damage.
+     Raise and relocate valuable and easily moveable equipment, furniture, and vital
+       records to a higher elevation/upper floor wherever possible.
+     Close emergency valves to sewer drains.
+     Check sump pumps to ensure they are operable.
+     Ensure backup power supplies (i.e. generators) are functional.
+     In the event building is damaged and evacuation has been initiated, arrange for
+       building to be inspected before residents and team members are re-admitted.
+
+
+
+
+                                              18
+LOSS OF WATER
+
+In the event of a complete loss of water, contact City of Toronto 311 in order to
+determine expected duration of shut down.
+
+If water services will be returned to normal quickly, no further action needs to be taken.
+
+If water supplies will not be available for several hours, the following procedure is to be
+followed:
+
+          o use the stock of bottled water.
+
+          o milk and juices are to be used to supply the fluid needs of the residents.
+
+          o laundry and dishwashing operations and regular resident bathing shall be
+            discontinued for the duration of the shortage.
+
+          o water required for emergency care of the residents may be obtained from
+            the water tanks located in the boiler rooms. Water used for this purpose
+            must be allowed to cool before use, as tank temperatures are normally
+            hot.
+
+          o minimize the use of toilets during the period of shortage. Remember, all
+            toilet tanks can be flushed once after supply to the building is cut off.
+
+If water supplies will not be returned to normal for an extended period of time (longer
+than 24 hrs), initiate contact with our water supply company.
+
+       1) Canadian Springs 1-877-442-7873 customer #110013678
+                                After hours
+
+                                          or
+       2) Purchase bottled water at nearby department stores.
+
+
+In the event that water supplies will not be returned to normal indefinitely, Management
+Team will initiate Total Evacuation found in this manual.
+
+
+
+
+                                               19
+BOILED WATER ADVISORY
+
+A boil water advisory is a notification that the drinking water supply may be
+contaminated with pathogenic microorganisms, and that drinking the tap water can
+make residents, staff, and visitors sick. Boiling the tap water destroys pathogens and
+makes the water safe to drink and use.
+
+Implementation
+In the event of à boil water advisory, the location will use boiled water, bottled water, or
+water from another safe public supply not affected by the advisory, and will follow
+procedures as indicated for personal hygiene, cleaning and sanitizing, and preparing
+food, including ensuring handwashing is followed by use of alcohol-based hand rub. The
+location will contact the Public Health Unit that issued the boil water advisory for more
+information as needed.
+
+Do not use tap water to:
+    Drink
+    Prepare foods
+    Make juice
+    Make ice
+    Wash fruits or vegetables
+    Brush teeth
+    Give to pets or animals in pet therapy programs
+
+The Director of Facilities or designate will:
+
+   1) Ensure all team members, residents, families, and visitors are made aware of a
+      boil water advisory in effect and when it is over.
+   2) Ensure alternate sources of water are provided to residents, team members, and
+      visitors that is safe for drinking.
+
+The Infection Prevention & Control Manager or designate will:
+
+   1) Consult Toronto Public Health for information, support, signage, forms etc.
+   2) Post signage at entrance to the location and at all faucets, including the kitchen
+      area,
+      washrooms, and hand sinks, as a reminder that a boil water advisory is in effect
+      and that the water is not safe to drink.
+   3) Post signage advising team members, residents, and visitors to apply alcohol-
+      based hand
+      sanitizer (to be available in all washrooms and at all sinks) after normal
+      handwashing procedures with warm tap water and paper towels.
+
+
+
+                                                20
+The Director of Facilities or designate will:
+
+1) Disconnect all drinking water fountains, soda dispensers with post-mix service, and
+ice making machines from the affected water supply.
+
+The Facilities Team will:
+
+   1) Provide alcohol-based hand sanitizer, containing at least 70% alcohol, in all
+      public and team member washrooms and at all standalone hand sinks.
+
+The General Manager of FNS or designate will:
+
+   1) Discard any ice and beverages that may have been prepared with the affected
+      water supply.
+   2) Direct team to prepare boiled water as needed:
+          a. Bring water to a rolling boil for at least one minute.
+          b. Use hot water from the machine to be used in servery.
+          c. Disconnect Juice machine and prepare juice from crystals using the
+              approved bottled water.
+   3) Boil water in the big soup kettle to be used in the kitchen for food preparing.
+          a. Take all precautions as needed to avoid burns.
+   4) If providing bottled water, check with Public Health Unit about brands of bottled
+      water or water dispensers considered to be safe / that are produced in locations
+      not affected by the boil water advisory.
+
+The Care team will:
+    1) Use boiled water that has been cooled to room temperature, or use sterile
+       water, to wash broken skin and wounds and for other resident care activity
+       (note: commercial bottled water is not sterile).
+    2) Consider using sterile bottled, boiled, or otherwise disinfected drinking water for
+       severely compromised residents.
+    3) Discuss with physician/NP any special precautions that may be needed for
+       residents with weakened immune systems.
+
+NOTE: Water filtration devices cannot be relied on to make tap water safe to drink or
+cook with. Do not use water unless it has been boiled first.
+
+When The Boil Water Advisory Has Ended
+
+The Facilities Team will:
+
+   1) Flush all water-using fixtures and faucets by running them for five minutes (if your
+      service connection is long or complex, consider flushing for a longer period of
+      time).
+
+                                                21
+         a. In multi-story buildings, begin on the top floor, flushing each fixture and
+            faucet for five minutes. Once every fixture and faucet has been flushed for
+            five minutes, proceed to the next floor below; continue the procedure until
+            all fixtures and faucets on all floors
+   2) Ensure equipment with water line connections, such as refrigerators and ice
+      dispensers, are drained, flushed, cleaned, and disinfected according to the
+      manufacturer's recommendations.
+
+The Director of Facilities or designate will:
+
+   1) Run water softeners through a regeneration cycle according to the
+      manufacturer's recommendations.
+   2) Replace the filters on any water filtration devices and flush the fixture according
+      to manufacturer's directions.
+   3) Drain and refill hot water heaters that have been set below 45°C/110°F.
+
+The Director of Facilities or designate will:
+   1) Communicate to all team members, residents, and visitors that the Boil Water
+      Advisory has ended.
+   2) Conduct a debrief with the team to review procedures and make any adjustments
+      to site specific practices/Emergency Management Plan as needed.
+
+The Infection Prevention & Control Lead or designate will:
+
+   1) Remove signage.
+
+Personal Hygiene During A Boil Water Advisory
+
+Can tap water be used to wash hands?
+Yes, tap water can be used for handwashing, but an alcohol-based hand sanitizer must
+be applied to hands afterwards.
+    Wash hands with warm tap water and soap; lather for at least 20 seconds.
+    Rinse hands well under running water and dry them with a paper towel.
+    When hands are dry, apply an alcohol-based hand sanitizer containing at least
+       70% alcohol.
+Can tap water be used for showering or bathing?
+Yes. Residents may take showers or baths with tap water, but must be careful to avoid
+the face, and avoid swallowing any of the water.
+      The use of hand-held showerheads is recommended to assist with this concern.
+      Open wounds, cuts, blisters, or recent surgical wounds must be covered with a
+       waterproof
+       covering prior to showering or bathing, and care must be taken not to
+       contaminate these areas During bathing, showering, or towel-bathing.
+
+                                                22
+      Pre-boiled water, sterile water, or water from a safe alternative source may also
+       be used if
+       towel-bathing is required.
+      Residents with weakened immune systems may require special consideration;
+       discuss with
+       physician/NP.
+
+Can tap water be used for brushing teeth?
+No. During a boil water advisory, tap water is NOT safe for brushing teeth.
+Only pre-boiled water that is cooled, bottled water, or water from another safe source
+may be used for
+brushing teeth.
+
+Cleaning & Sanitizing Practices During A Boil Water Advisory
+
+Can tap water be used for cleaning and disinfecting contact and non-contact
+surfaces?
+Yes. Contact surfaces such as doorknobs, handles, railings, vanities, etc. and non-
+contact surfaces such as walls, floors, and ceilings can be cleaned and disinfected using
+normal routine practices
+Can tap water be used for washing laundry?
+    During a boil water advisory, tap water may be used for general laundry
+      procedures.
+    Consult with Infection Prevention & Control Lead or designate to verify correct
+      procedures for
+      sterile linen processing.
+
+Can medical equipment that is directly connected to the water supply be used?
+Generally, no. Any instruments or machines that use water to sterilize and disinfect
+equipment would typically be affected by a boil water advisory.
+    Consult with Infection Prevention & Control Lead or designate before use of any
+      specialized
+      medical equipment directly connected to the water supply.
+    Contact Public Health for specific questions related to water quality.
+Preparing Food During A Boil Water Advisory
+
+Immediate Steps to Take When a Boil Water Advisory is Issued:
+   DO NOT use the water for drinking, making juices or ice, washing fruits or
+     vegetables, or
+     preparing ready-to eat foods.
+   Turn off drinking water fountains.
+   Discard ice and beverages that may have been prepared with the affected water
+     supply.
+   Discontinue making ice; use ice from a commercial ice supplier made with safe
+     water.
+                                            23
+      Disconnect ice cream machines, dipper wells, and any other food preparation
+       equipment
+       connected to the water supply.
+      Post signs at all faucets, including kitchen area and washrooms, as a reminder of
+       the boil water
+       advisory and not to drink the water.
+      To make the water safe, bring to a rapid rolling boil for at least one minute.
+          o Boil only as much water in the pot that one can comfortably lift without
+              spilling.
+          o Ensure water is cooled appropriately before using or direct handling to
+              prevent scalds.
+
+What sources of water are approved to be used during a boil water advisory?
+   Water that has been boiled for one full minute (water can be boiled the night
+      before, cooled
+      overnight, and stored in a covered disinfected container). Always ensure water is
+      cooled
+      appropriately before use or direct handling to prevent scalds.
+   Commercially bottled water (consult with IPAC Lead or designate to confirm
+      brand used has not
+      been affected by the Boil Water Advisory)
+   Hauled water from an alternate approved supply not affected by the Boil Water
+      Advisory
+
+Can the cold beverage dispensing machine be used?
+No. Beverage machines connected to the cold-water supply used to dispense cold
+drinks (carbonated beverages, iced cappuccino, etc.) must not be used during the boil
+water advisory.
+
+Can tap water be used in commercial coffee brewers and hot tea towers during a
+boil water advisory?
+No unless the coffee maker/hot tea tower produces water at 70°C/160°F. This
+temperature is sufficient to inactivate disease-causing microorganisms. It is
+recommended that the coffee pot be held for at least five minutes on the burner prior to
+consumption.
+
+GAS LEAK
+
+STANDARD:
+  1. There is a systematic plan in place to respond to a natural gas leak to protect
+     residents, staff, and the public from immediate danger.
+  2. All employees are responsible for understanding the use of Code Red, Code
+     Green and Total Evacuation, in the event of a natural gas leak.
+
+                                           24
+PROCEDURE:
+
+NOTE: Natural gas is colorless, odorless, and non-poisonous. It can become highly
+explosive when combined with air and an ignition source. In high concentrations
+asphyxiation can occur. A strong odorant, mercaptan, which smells like rotten eggs is
+deliberately added by the supplier so that even the smallest amount of escaped gas can
+be detected by smell.
+
+IF YOU SMELL GAS and SUSPECT A LEAK:
+
+  1. Evacuate the immediate area and alert others to leave the area. Take those in
+     need of help with you, if possible. Otherwise, provide their location to emergency
+     responders.
+  2. Notify the person in charge of the building.
+  3. Call 911 immediately if a gas leak is suspected.
+NOTE: Do not call from the affected area (See Safety Tips below).
+  4. Call Enbridge Gas immediately at the 24-hour emergency number.
+             • 1-866-763 – 5427 (1 – 866 – SMEL GAS) from non-restricted phones
+NOTE: Do not call from the affected area (See Safety Tips below).
+  5. For an internal gas leak: open doors and windows in the surrounding area to
+     provide ventilation.
+     For an external gas leak: close all windows, doors, and ventilation systems.
+     In the event of a fire follow Code Red policies and procedures in the Emergency
+     Plan Manual.
+  6. In the event of need to evacuate, follow Code Green and Total Evacuation
+     policies and procedures, as deemed necessary and/or as directed by the person
+     in charge.
+  7. In the event of partial or total building evacuation, evacuees must be taken a safe
+     distance from the Home:
+         ● Well out of the way of first emergency responders (fire, police, ambulance,
+             and Enbridge Gas personnel)
+         ● Safe distance as directed by the fire department.
+NOTE: safe distance is contingent upon the size of pipe and the gas pressure
+
+SAFETY TIPS: If You Smell Gas Indoors or Outdoors or Are Near a Gas Leak
+  ➢ Do not use a telephone or cell phone in the vicinity of the gas smell (phones can
+     create a source of ignition sufficient to ignite gas fumes).
+  ➢ Do not turn any electrical switches, appliances, or computers on or off (electrical
+     equipment can create a source of ignition sufficient to ignite gas fumes).
+  ➢ Do not smoke, use lighters, or matches.
+  ➢ Do not start any motors or motor vehicles near the gas leak.
+                                           25
+  ➢ In the event of fire - do not use water on fires that involve natural gas.
+  ➢ Ensure that internal natural gas lines are clearly marked with a yellow tag.
+  ➢ Ensure that personnel in charge of the building know where the external natural
+     gas shut off is located.
+OUTCOME:
+  1. There is evidence that all residents, employees and other occupants will be
+     safely evacuated from the disaster area in the event of a natural gas leak.
+  2. The Fire Department and/or Enbridge Gas will test the internal air quality/gas
+     levels and determine when it is safe for residents, staff, and public to re-enter the
+     building or a specific area of the building.
+
+ADDITIONAL REFERENCES
+  1. Enbridge Gas: www.enbridge.com
+  2. SDS Binder: Safety Data Sheet (SDS) for Natural Gas
+  3. Emergency Plan Manual
+
+
+INCLEMENT WEATHER
+
+Refer to Policy HR-43
+
+
+
+
+PUBLIC DISTURBANCES
+
+Types Of Public Disturbances
+
+      Loitering
+      Noise
+                                            26
+      Swearing
+      Trespassing
+      Drinking in public
+      Rowdiness
+
+Most public disturbances are primarily teen problems. Ways to prevent them from
+happening are:
+    post rules and regulations
+    regular security patrols
+    good lighting
+
+If a situation occurs, DO the following:
+     politely ask the person(s) to leave
+     inform them that you will have to call the police
+     go to the phone and pick it up
+     call police
+     keep records
+
+DO NOT DO:
+   NEVER get into a shouting match
+   NEVER get into a shoving match
+   NEVER swear or insult a person
+   NEVER act unprofessionally
+   AVOID all physical conflict
+
+
+
+
+                                            27
+VANDALISM
+
+Most vandalism occurs between 3:30 pm & 2:00 am. Vandalism is a criminal code
+offence. Vandalism is wilful damage.
+
+The following is a list of different types of vandalism;
+    Ritual:                   Halloween, New Year's Eve
+    Event Related:            Grey Cup, Stanley Cup, World Series
+    Play Related:             Near playing field or yard, broken windows
+    Wear and Tear:            Cigarette burns, scratches, dents
+    Target Specific:          School, strike, racist
+    Vindictive:               For perceived mistreatment or insult
+
+Ways to prevent vandalism are:
+   regular security patrols
+   good lighting
+   regular clean up
+
+If a situation occurs, do the following:
+     keep a log of all damage or vandalism
+     photograph all serious vandalism
+     report all serious vandalism to the police
+     clean up as soon as possible
+     check CCTV (Closed Circuit Television) tapes
+     double check access control mechanisms
+     if serious, post extra security or surveillance
+
+
+
+
+                                             28
+COMMUNITY DISASTERS
+
+We live in a diverse community within the city and there are typical city services in close
+proximity. Emergencies can and do occur from time to time and below are some high
+risk services in our community that could lead to a disruption of essential services or an
+environmental hazard, which would require us to implement our emergency plan, up to
+and including the evacuation of our buildings:
+
+      Chemical spill from nearby gas stations or from a passing train
+      Train derailment from the nearby CN railway line south of us
+      Gas leak or explosion from nearby gasoline service centres
+      Major vehicle accident from Highway 401
+      An emergency at another local long-term care or retirement home
+
+
+RECEIVING RESIDENTS FROM OTHER FACILITIES
+
+Shepherd Village has reciprocal relocation agreements in place with other long term
+care homes.
+
+Management along with the nursing department will assess how many residents
+Shepherd Village can accommodate and then notify the appropriate staff members who
+will be called in to aid with the extra resident count.
+
+
+
+
+                                            29
+INTERRUPTION OF FOOD AND NUTRITION SERVICES
+
+
+POLICY
+
+Food and beverage services will be available to residents, employees, and other in-
+house persons during emergency/disaster periods.
+
+PROCEDURE
+
+
+   1. The General Manager of Food Services will be responsible for the
+      development of a 7-day emergency menu, with assistance from the
+      registered dietitian. The menu must be of sufficient nutritive value, serve
+      items comparable to the regular menu and offer choice if possible.
+   2. The menu must include 2 between meals snacks and an assortment of
+      drinks. Supplements such as Ensure or Boost may be added as applicable,
+      and especially during longer term use such as during pandemic/outbreak
+      situations. Policies & procedures will be laid out for all applicable staff on
+      duties and items to serve in the event of a global
+      pandemic/emergency/power outage etc.
+   3. Once par stock has been established it will be up to the food
+      services/production manager to ensure supplies are kept in good order,
+      checked for expiration dates and re-ordered as needed, etc. Supplies such
+      as disposable serving ware will need to be maintained, checked for
+      adulteration, and counted monthly as part of the food services inventory.
+   4. Any use of said supplies must be reported to the GM immediately and items
+      ordered/restocked.
+
+
+
+
+                                            30
+SAMPLE EMERGENCY MENU DAY
+           BREAKFAST                          AM SNACK
+
+    Water, Milk & Hot Beverage            Juice & Hot Beverage
+              Cereal
+               Toast
+         Scrambled Eggs
+              LUNCH                           PM SNACK
+
+    Water, Milk & Hot Beverage            Juice & Hot Beverage
+           Tomato Soup                            Muffin
+    Ham Sandwich with salad
+             Peaches
+             DINNER                           HS SNACK
+
+    Water, Milk & Hot Beverage            Juice & Hot Beverage
+   Grilled Chicken Breast or Steak         Cheese & Crackers
+            Mashed Potato
+           Mixed Vegetables
+           Chocolate Cake
+
+
+
+
+                                     31
+Food And Nutrition Emergency Policies and Procedures
+
+For additional Pandemic/Emergency Food and Nutrition Policies and Procedures please
+refer to the Food and Nutrition Services Manual.
+
+
+
+
+                                        32
+PHARMACY EMERGENCY PROCEDURES
+
+If the home is expecting Outbreak, Pandemic, Disaster (Silver Fox Pharmacy Policy #
+13.8)
+
+Outbreak: from a Silver Fox Pharmacy staff member, it is the home’s responsibility to
+inform the pharmacy a visit in the event of an outbreak. To protect our employees and to
+minimize the spread of illness to other homes, scheduled visits to an affected home
+[area] may be postponed until the outbreak has been declared over.
+     It is the responsibility of the Silver Fox Pharmacy staff member to inform the
+       home and to postpone a previously scheduled visit if that staff member is unwell
+       to minimize the potential spread of illness
+Pandemic:
+    In the event of a pandemic where a large percentage of the workforce may be
+      absent from their jobs, Silver Fox Pharmacy will endeavour to provide all
+      essential services by implementing the following:
+          o Adequate inventory will be maintained by Silver Fox Pharmacy to minimize
+            the risk of disruption in the dispensing of medication orders.
+          o Silver Fox Pharmacy may dispense in quantities greater than 7 days and
+            up to 90 days in vials.
+          o All regular maintenance medication will be dispensed automatically
+            throughout the duration of the pandemic
+          o Arrangements will be made as needed with each home if special delivery
+            locations are required
+          o Medication reviews may be performed to determine which medications
+            would be considered non-essential
+          o Alternate therapy recommendations will be made if supplies of certain
+            medications are not available
+          o To avoid the spread of illness, site visits will be limited
+          o Medication deliveries may be sent in single-use packaging to minimize
+            returns; and any returns to pharmacy may be temporarily held, and the
+            home will need to ensure adequate storage on-site to facilitate this
+Disaster:
+
+In the event of a major disaster or emergency in the Home, Silver Fox Pharmacy will
+continue to provide medications as follows:
+ Length of Disaster                         Silver Fox Pharmacy Policy
+  Hours, less than        To be treated as a drug holiday in consultation with the home and
+     one day                                       medical director
+                           One-day supply of essential medications to be delivered to the
+     Overnight
+                                                 temporary location
+                                           33
+ Two Days or More                Regular pharmacy service to the temporary location
+    Silver Fox Pharmacy may provide medical supplies and medications in the event
+     of a neighborhood or community disaster in which the home was required for use
+     by the community.
+    Should a disaster occur, and pharmacy services are required, contact Silver Fox
+     Pharmacy immediately with the available details. Our on-call should be
+     contacted if the disaster occurs outside of Silver Fox Pharmacy’s regular
+     business hours.
+Medications, supplies and MAR sheets will be prepared as required and delivered to the
+designated location.
+
+
+
+
+                                          34
+CODE WHITE – VIOLENT OUTBURST
+
+STANDARD:
+
+1. Emergency Code White will be used to attain immediate assistance in a situation
+   related to violent/outbursts/behaviours.
+
+2. The following emergency plan will be activated when faced with
+   violent/outbursts/behaviours.
+
+PROCEDURE:
+
+1. Call out “Code White”. Unit staff to respond immediately to area of concern.
+
+2. Remove Residents/Visitors from immediate area.
+
+3. Announce “Code White”, floor number and location, e.g., “Floor 4, room 404”.
+
+4. Return to the violent person, ensure environment is safe. Using principles noted in
+   the Responsive Behaviour Philosophy Program to attempt to diffuse the situation.
+
+5. All registered staff in the building must respond to the code white.
+
+6. All Managers must always respond to Code White.
+
+7. Once situation is assessed then:
+   a) If able to diffuse violent behaviours, stay with residents, provide reassurance
+      and assess contributing factors. Document on progress notes interventions
+      and outcomes.
+
+   b) If unable to diffuse violent behaviours call 911 for emergency response. Notify
+      physician to determine need for a form 1(if a resident) and notify substitute
+      decision maker, family, Director of Care/Director, Client Care Services.
+
+
+   c) Complete Critical Incident report if warranted, and document strategies on
+      progress notes.
+
+
+OUTCOME:
+
+
+
+
+                                            35
+1.   Code White is used every time immediate response is needed to manage
+     violent/aggressive behaviors.
+
+
+ADDITIONAL REFERENCES:
+
+1.   Fixing Long Term Care Act and Regulation 246/22
+2.   Responsive Behaviour Philosophy Program
+
+
+
+
+                                       36
+CODE BROWN – CHEMICAL SPILL
+
+STANDARD:
+  1. There is a systematic plan in place to respond to a chemical spill to protect
+     residents, staff, and the public from immediate danger.
+  2. All employees are responsible for understanding the use of Code Red, Code
+     Green, and Total Evacuation in the event of a chemical spill.
+
+NOTE:
+Spills are defined as releases of pollutants into the natural environment originating from
+a structure, vehicle, or other container, and that are abnormal considering all
+circumstances.
+
+DEFINITIONS:
+
+A Minor Spill is one in which ALL the following conditions are met:
+   ● the responsible party is at the scene; and
+   ● the material spilled is known; and
+   ● the material spilled is not highly toxic; and
+   ● the quantity spilled is small; and
+   ● there is no fire hazard present; and
+   ● the spill is completely contained inside the building; and
+   ● the material has little or no potential to reach the environment (e.g., via floor
+      drain); and the spill is not in a common area (e.g., a hallway) or other areas
+      accessible to the public (residents, staff, visitors)
+   ● advanced personnel protective equipment (e.g., more than gloves and a half-face
+      respirator) is not needed to respond to the spill.
+
+A Major Spill is one in which ANY of the following conditions apply:
+   ● the material spilled is highly toxic; or
+   ● a large (or undetermined) quantity was spilled; or
+   ● the material has the potential to reach the environment (e.g., via floor drain); or
+   ● the spill is in a common area (e.g., hallway) or other area accessible to the public
+      (residents, staff, visitors); or
+   ● advanced personnel protective equipment (more than gloves and a half-face
+      respirator) is required to respond the spill; or
+   ● adverse health effects; or
+   ● safety risk; or
+   ● loss of enjoyment of normal use of property; or
+   ● interference with the normal conduct of business; or
+
+                                            37
+    ● A responder is unsure whether the spill should be considered "Minor” or “Major”.
+PROCEDURE: Minor Spills:
+If the spill is in the RHA
+    1. The staff member upon recognizing a minor spill must page Code Brown and the
+        location of spill 3 times.
+    2. Staff will remove residents from the affected area and block access to the spill
+        area using wet floor signs or any other object necessary to ensure that residents
+        or staff does not enter the spill zone.
+    3. If at any time staff feel that the residents and their own safety is a risk, they must
+        perform a Code Green
+    4. Environmental staff are to report to the spill location paged wearing appropriate
+        PPE
+    5. Environmental staff must also bring the wet vacuum cleaner to the affected area
+        to clear up the spill.
+    6. Once Environmental staff has cleaned/controlled the area where the spill
+        occurred, they will page Code Brown All Clear 3 times and regular duties may be
+        resumed.
+
+If the spill is not in the RHA
+    7. All staff that are not directly affected by the chemical spill must account for
+        residents in their RHA and remain alert to react to further instructions over the PA
+        system.
+
+Major Spills:
+If the spill is in the RHA
+    1. The staff member upon recognizing a major spill must page Code Brown and the
+        location of spill 3 times.
+    2. Immediately notify the person in charge of the building who will then notify the
+        Environmental Services Manager/Maintenance immediately. After hours, the
+        maintenance on-call number will be called.
+    3. Major spills are to be reported to the Ministry of the Environment, Spills Action
+        Centre 1-800-268-6060 immediately.
+    4. Staff will remove residents from the affected area and block access to the spill
+        area using wet floor signs or any other object necessary to ensure that residents
+        or staff do not enter the spill zone.
+    5. If at any time staff feel that the residents and their own safety is a risk, they must
+        carry out a Code Green.
+    6. Environmental staff are to report to the spill location paged wearing appropriate
+        PPE
+
+                                             38
+   7. Environmental staff must also bring the wet vacuum cleaner to the affected area
+      to clear up the spill.
+   8. Once Environmental staff has cleaned/controlled the area where the spill
+      occurred, they will page Code Brown All Clear 3 times and regular duties may be
+      resumed.
+
+If the spill is not in the RHA
+    9. All staff that are not directly affected by the chemical spill must account for
+        residents in their RHA and remain alert in order to react to further instructions
+        over the PA system.
+
+OUTCOME:
+  1. Staff respond appropriately if there is a chemical spill.
+
+ADDITIONAL REFERENCES
+  1. Ministry of the Environment: www.ene.gov.on.ca
+
+
+
+
+                                             39
+CODE BLUE – MEDICAL EMERGENCY
+
+STANDARD:
+
+1. Code Blue will be used to:
+
+     a)      Alert individuals in the facility of a medical emergency and to provide a
+             systematic approach of responding to it.
+     b)      A medical emergency is defined as a cardiac and/or respiratory arrest,
+             convulsive seizure, acute chest pain, respiratory distress, choking,
+             syncope/decreased level of consciousness and/or any other situation
+             where clinical assistance is needed.
+     c)      When a Code Blue is called the following emergency plan for a Code Blue
+             is activated.
+
+PROCEDURE:
+
+1.        Upon discovering the emergency:
+a)        Pull the nearest call bell and alert nearby staff by shouting Code Blue, Assign
+          a second responder to go to the 4th floor to make a Code blue announcement .
+b)        Code blue announcement will be made via the PA system (fire panel), several
+          times stating the location of the emergency for Registered staff to attend
+c)        Once found; first responder must leave the individual until a Registered staff
+          arrives.
+d)        Determine resident advanced Directives and call 911 where eminent.
+
+2.        Upon hearing the page for “CODE BLUE”:
+          a)    The Registered Nurse or his/her delegate will bring the chart and
+                emergency equipment, which contains suction and oxygen to assist.
+          b)    The Director of Care/Nurse Managers/ Designates will report to scene
+                immediately to the Code Blue area and direct it until EMS personnel
+                arrives.
+
+3.        The Director of Care/Nurse Manager/ Delegate will direct the Code Blue and
+          ensure appropriate resuscitation endeavors or direction.
+          a)    911 to be called.
+          b)    A PSW will be assigned to wait for EMS staff and put elevator on service
+                on their arrival on main floor (after reception hours).
+
+4.        Registered staff on the unit where the Code Blue is will:
+          a)    Complete transfer form and give complete report to ambulance
+                attendants prior to transfer to hospital.
+          b)    Notify the substitute decision-maker.
+                                              40
+       c)     Inform physician of transfer. If transfer occurs after office hours, notify
+              the on-call physician and leave a note to ensure the attending physician
+              is notified the following day by the day the Registered Staff.
+       d)     Ensure that all emergency equipment is replenished/cleaned following
+              the emergency (i.e., oxygen tanks, suction machines).
+       e)     Complete Emergency Debrief
+
+If the medical emergency is an event of unmanageable choking Episode, follow
+the protocol below:
+
+CHOKING EVENT
+
+STANDARD:
+All PSWs and Registered Staff in the affected home area will respond immediately and
+appropriately to incidents of Unmanageable choking Episodes, including the
+management of residents following a choking episode.
+
+DEFINITION:
+Foreign-body airway obstruction (choking)
+Foreign-body obstruction of the airway may be either partial or complete. Abdominal
+thrusts (the Heimlich maneuver) are recommended for relieving foreign-body airway
+obstruction in the conscious adult.
+
+CLINICAL SIGNS:
+Weak, ineffective cough, high pitched noises on inspiration; respiratory distress; inability
+to speak or breath; cyanosis; hand at the throat (universal choking sign).
+
+
+PROCEDURE:
+
+Should a choking event occur, Personal Support Worker (PSW) shall:
+
+1. Initiate steps to clear the airway of obstruction of a conscious resident by
+   encouraging the resident to cough.
+
+2. The Personal Support Worker must immediately call for assistance by notifying the
+   registered staff supervising the mealtime.
+
+Registered Staff shall:
+
+1. Assess the resident and airway, and determine if the resident can speak, cough, or
+   expel air.
+2. Registered Staff/Designate must CALL CODE BLUE if they are unable to clear the
+   airway
+                                             41
+3. Determine if the resident is experiencing partial or complete obstruction.
+
+4. If the resident is experiencing complete obstruction call 911
+
+Partial Obstruction
+1. Encourage the resident to cough to clear the obstruction
+
+2. Closely monitor the resident’s ability to produce an effective cough
+
+3. Ensure that the resident has relieved the obstruction
+
+Complete Obstruction
+
+Conscious Resident:
+  1. Clear the vicinity of where the event is occurring of all other residents and any
+      other hazards or obstacles.
+
+   2. Follow first aid care and perform abdominal thrusts and delegate available staff to
+      CALL CODE BLUE.
+
+   3. Stand behind the resident; wrap your arms around the resident’s waist, and
+      proceed as follows:
+          Make a fist with one hand, placing the thumb side of the fist against the
+            resident’s abdomen in the midline, slightly above the navel and well below
+            the xiphoid process. Grasp the fist with your other hand.
+          Press your fist into the resident’ abdomen with a quick upward thrust. Each
+            new thrust should be a separate and distinct maneuver.
+          Continue until the obstruction is cleared, help arrives, or the resident
+            becomes unresponsive.
+
+Unconscious Resident:
+  1. If not in bed, lower the resident safely to the floor and initiate CODE BLUE if not
+     done previously and follow expected procedures, including determining the
+     appropriate use of CPR.
+  2. Call 911 and notify other responsible parties including the physician and power of
+     attorney.
+
+Note: Every nursing station is equipped with a suction machine and can be used based
+on the registered staff’s assessment.
+
+Follow up Care:
+    1. Inform MD of choking incident
+
+                                            42
+     2. Monitor vitals for 72 hours, including monitoring of temperature, shortness of
+        breath, cough, difficulty swallowing, and pain in the chest and neck.
+
+NOTE: Performing abdominal thrust and chest compressions has the potential to cause
+serious internal injury, including ruptures or laceration of abdominal or thoracic viscera,
+so resident must be examined for injuries.
+
+     3. Send referral to dietician, and review with MD whether SLP assessment is
+        required
+
+     4. Review and revise the president’s plan of care where necessary.
+
+OUTCOME:
+
+1.      Designated person(s) responds to code blue with assigned equipment.
+
+2.      Code blue is carried out consistent with policies and procedures.
+
+3.      Resident will receive immediate and appropriate care when experiencing partial or complete
+        Airway Obstruction.
+
+ADDITIONAL REFERENCES:
+
+1.      Home’s Policies and Procedures
+
+2.      CNO Standards of Practice
+
+3.      CPR Standards of Practice
+
+
+
+
+                                             43
+CODE YELLOW- MISSING RESIDENT
+
+  POLICY:
+
+  Shepherd Lodge fosters the safety and security for all residents. If a resident cannot be
+  accounted for, an organized search must be implemented to locate the missing resident
+  as quickly as possible and ensure the safe return of the resident to the RHA (Resident
+  Home Area). Action taken will be dependent on the nature and impact of the incident
+  and may involve first aid, emergency medical intervention, and immediate and ongoing
+  supportive counselling.
+
+  The staff orientation and ongoing educational program will include training on the Code
+  Yellow emergency search plan.
+
+  A photo of residents who are at risk for elopement will be kept at the Main Reception
+  Desk. Staff are to be aware of those residents with risk for elopement.
+
+
+  PROCEDURE:
+
+  Step One:    Search interior of the building, including all rooms and areas on the
+               missing Resident’s Home Area
+
+     1. Upon becoming aware that a resident cannot be accounted for, the Unit Nurse
+        will immediately notify the Nurse Manager who will lead coordinating the search
+        with the Unit Nurse.
+     2. A search of the Resident Home Area where the resident resides will be
+        conducted. All rooms and bathrooms, closets, behind doors, staircases,
+        elevators etc. will be checked.
+     3. If the resident is not found, a Code Yellow is announced over the paging system
+        to indicate a resident cannot be accounted for.
+        Note: When paging the Code Yellow provide a description of the resident.
+        For example: Male, white hair, glasses and uses a cane. Was wearing blue
+        jeans and a red ball cap.
+     4. Staff on all floors will conduct a full search of Resident Home Areas, checking all
+        rooms and bathrooms, closets, behind doors, staircases etc.
+     5. Complete the Resident Home Area Search Checklist.
+
+
+  Step Two:    Complete search of the premises (interior and exterior including all
+               bushes) if the resident cannot be located in his/her Home Area.
+
+                                              44
+   6. One staff member from each floor will be assigned to report to the Main
+      Reception (Command Centre) on the ground floor.
+   7. The Nurse Manager/delegate will lead the search for the resident on the ground
+      floor/basement and outside premises.
+   8. A detailed description of the resident will be provided to staff who will continue
+      with the search, which may include a picture of the resident.
+   9. As staff arrive, they will be assigned areas to search, which include café, hair
+      salon, pharmacy, fitness center, health center, library, corporate office, offices
+      behind the main reception, Terrace lobby, Manor lobby and basement areas.
+   10. All outside areas will also be searched including parking lots, adjacent
+       businesses, etc.
+   11. Complete the Main Reception Checklist.
+   12. Police will be notified as per our code yellow protocols and also as per MOLTC
+       standards for reporting a wandering resident.
+   13. Complete a Critical Incident Report or call the after-hours number.
+   14. Notify Ministry of Long-Term Care (MOLTC).
+
+If the resident cannot be located:
+   15. The Nurse Manager/delegate will notify the Power of Attorney/Substitute Decision
+       Maker.
+   16. It is important to ask for any places they think the resident may have gone to ex.
+       back home, a favorite park, to a family member’s house etc.
+   17. Call 911 and report the missing resident to the Police.
+   18. At the time of Police contact, ensure that the Police have all of the pertinent
+       information about the resident (i.e., a recent photograph, physical description,
+       any unusual behavior and clothing last seen wearing) to facilitate the police
+       search. A Missing Person Report is to be completed to facilitate the police search
+       for the missing resident. A copy of this form can be obtained from the local police
+       department.
+   19. Ensure both the Director of Care and the Director of Client Care Services are
+       informed by telephone call.
+   20. Notify the Attending Physician.
+   21. Notify the Ministry of Long-Term Care by filing a Critical Incident during business
+       hours or calling the after-hours number.
+   22. The following will be documented by the Nurse Manager and Unit Nurse
+        Time and place resident was last seen and by whom.
+        Time resident was discovered missing.
+                                             45
+          A description of the search effort.
+          Any unusual behavior at the time the resident went missing.
+          Description of clothing that the resident was wearing.
+
+When the Resident is found:
+  1. If the resident is found as a result of the “Step Two” search, (full search of the
+     interior and surrounding area of the building), the designated staff person in
+     charge of the search will announce to the staff “Code Yellow – All Clear”.
+
+   2. The resident will be assessed by the Registered Staff upon return to the unit. The
+      assessment will be documented in the resident’s medical record.
+   3. Upon resident’s return and if warranted, the resident’s condition will be assessed
+      by the attending Physician and or resident is transferred to ER
+   4. Staff on all shifts are to observe and closely monitor the resident for the next 24
+      hours. Any change in health status is to be immediately reported to the unit nurse
+      or Nurse Manager.
+   5. The Nurse Manager, unit nurse or delegate will notify the resident’s POA/SDM.
+   6. Complete Debrief Report.
+   7. Notify the Ministry of Long-Term Care by filing a Critical Incident during business
+      hours or calling the after-hours number.
+   8. The incident will be documented on the progress notes of the resident’s chart.
+   9. Complete Post Emergency Summary Report and Action Plan document.
+OUTCOME:
+   1. PSW Documentation Records are current and signed off at the end of each shift.
+   2. A picture and relevant information on identified wanderers is in the Wanderer’s
+      binder at Reception.
+   3. All wanderers at risk of elopement are identified by the wander guard bracelet,
+      where applicable.
+
+ADDITIONAL REFERENCES:
+
+   1. Fixing Long Term Care Act 2021, Ontario Regulation 246/22
+   2. BSO Responsive Behavior Program
+
+ATTACHMENTS
+  1. Code Yellow Checklists
+  2. Post Emergency Summary Report and Action Plan
+
+
+
+
+                                            46
+CODE BLACK - BOMB THREAT
+
+Bomb threats are usually made by telephone. Bombers prefer to place devices in easily
+accessible locations, (lobbies, and rear exits) to minimize risk of capture.
+Good housekeeping simplifies the task of identifying suspicious package. Security
+measures make it more difficult to plant a bomb. Locked cabinets, rooms and offices
+limit unauthorized access and reduce the areas that need to be secured.
+
+When the announcement over the P.A. system (code BLACK-stranger in building or
+bomb threat) is heard, all staff will commence a search of the entire building.
+
+1) Management will initiate the search:
+        o follow police guidance.
+        o utilize staff members in each area who are familiar with that part of the
+          building
+        o search areas in a systematic fashion, moving progressively room by room
+          until each area is complete, check all rooms in a counterclockwise rotation
+        o concentrate on public and facility areas, outside areas, building entrances
+          and stairwells.
+        o record and secure each area that is searched.
+        o look for out of place or suspicious items.
+        o DO NOT USE RADIOS OR CELL PHONES
+
+2) If a suspicious object is found:
+           • DO NOT touch it
+           • attempt to verify ownership.
+           • inform the police immediately, inform internal command center
+           • evacuate all within 100m and one floor both ways
+
+3) Staff are to ensure the safety of the residents once an object is located, by
+relocating them to another part of the building.
+
+The decision to evacuate will be made by the Management Team or upon advice from
+the Police or Fire department or other knowledgeable persons. Public safety should
+always be the foremost consideration.
+
+The Management staff member will complete a report of the incident and forward copies
+to:
+         President and CEO Shepherd Village Inc.
+         Ministry of Long-Term Care
+         Retirement Hoes Regulatory Authority
+         Director of Care (SL)/ General Manager (ST)
+
+                                            47
+Details Should Be Discussed with Your Local Police and Fire Departments
+
+
+
+
+                                      48
+CODE RED - FIRE
+
+
+Please see the Fire Safety Plan for:
+
+Shepherd Lodge, Shepherd Terrace, Shepherd Manor and Shepherd Gardens in Surge
+Learning – Policy Pro.
+
+
+
+
+                                       49
+CODE GREEN - EVACUATION
+
+
+Types of Evacuation
+
+There are four types of emergency evacuation procedures that can be initiated, and they
+are as follows:
+
+a) Code Red – this includes the evacuation of the room in which the fire originated, and
+the rooms on either side, and directly across the fire location. This evacuation will be
+announced over the voice communication system as "CODE RED", followed by the
+exact location of the fire as indicated on the fire panel in the main lobby. Extended
+Evacuations
+
+b) Code Green - Horizontal Evacuation – this includes the complete evacuation of
+disaster area to a designated safe area on the same Resident Home Area.
+
+c) Code Green - Vertical Evacuation – this includes the complete evacuation of the
+disaster area in a vertically downward direction. This evacuation will be announced as
+"CODE GREEN VERTICAL EVACUATION" followed by directions for which Resident
+Home Areas to be evacuated and in which order.
+
+d) Total Evacuation – this involves total evacuation of all persons in the facility. This will
+be indicated by the sounding of the stage two evacuation alarm. Total evacuation is
+initiated at the discretion of the Fire Department and/or a Senior Leader/Delegate or
+Person in charge.
+
+
+CODE GREEN - HORIZONTAL
+
+1.      Code green (horizontal evacuation) - All residents to be horizontally evacuated to
+        a safe area beyond the fire barrier doors on the same home area.
+
+2.      Person in charge pages code green, the RHA to be evacuated and designated
+        home area (i.e. 2 north RHA code green to 2 South RHA).
+
+
+CODE GREEN – VERTICAL EVACUATION
+
+     1. Code Green Vertical Evacuation is to be used to completely evacuate residents
+        from disaster area in a vertical downward direction and may involve one Resident
+        Home Area/department or the whole building.
+     2. Person in charge pages code green vertical evacuation, the RHA and designated
+        area (i.e. code green vertical evacuation RHA 2 north stairwell to community hall)
+
+                                              50
+     3. Where time permits all exits which promote safe evacuation will be utilized.
+     4. Where the above is not possible the designated safe exits will be utilized to
+        evacuate.
+     5. Where Code Green Vertical Evacuation involves more than one RHA/department
+        evacuation routes to be used by individual RHAs/departments will be announced
+        over the voice communication system to prevent cluttering/blocking of the
+        stairwells when other exits are appropriate/available.
+
+
+CODE GREEN – TOTAL EVACUATION
+
+     1. Total evacuation is initiated at the discretion of the Fire Department and/or
+        President & CEO/Delegate in a crisis or impending danger situation (stage 2
+        alarm).
+     2. Total evacuation will be conducted in an orderly and timely fashion as announced
+        over the voice communication system by the designated personnel.
+     3. The order of total evacuation will be determined by location, severity and the
+        extent of disaster/emergency and various options/methods of evacuation may be
+        utilized as safe and appropriate.
+
+
+PRIORITY OF EVACUATION
+In order from highest to lowest priority:
+    1. Those residents in immediate danger
+    2. All ambulatory residents under supervision. Residents able to walk should be led
+       to another fire barrier area for a horizontal evacuation or a stairway for vertical
+       evacuation.
+    3. All wheelchair residents. Wheelchair residents should be assisted to safe fire
+       barrier areas and if their wheelchairs are required for other residents, then
+       remove them from their wheelchairs.
+    4. All non-ambulatory residents. Most residents can be carried to a safe area, if
+       necessary. Helpless residents may be placed on a blanket on the floor and pulled
+       to a safe area. See for assistance on lifts and carries see section in this manual
+
+
+EVACUATION BAG(S) and PYLONS
+
+1.      Resident Home Coordinator (RHC) is responsible for managing the contents of
+        the Evacuation Bag and Pylons.
+2.      RHC is responsible for auditing monthly content, the expiry dates and
+        replenishing as appropriate. The Evacuation Bag will also be replenished post a
+        Code Green event.
+
+                                            51
+3.    Evacuation Bag(s) will be located in the main SL Nursing Office beside the
+      Administrative Assistant’s desk.
+CONTENTS OF EVACUATION BAG
+ Orange vest (labeled “TRIAGE IN–CHARGE”)
+ Flashlight – 2 per bag
+ Gloves - 1 box of medium size per bag
+ ABD pads – large, 6 per bag
+ Adhesive tape – 3 rolls per bag
+ Reflective blankets – 4 per bag
+ Clipboard with supply of evacuation log sheets & pens attached – 4 per bag.
+ Extra pens
+ Stethoscope – 1 per bag
+ Normal saline – 1 bottle (500 ml) per bag
+ Scissors – 2 per bag
+ Airways – 1 per bag
+ Alcohol wipes – 1 box per bag
+ Band-aids - 1 box per bag
+ Laminated cue cards:
+       Orange – Triage Area:
+            Check:
+                 ABC’s (airway, breathing, circulation)
+                 Gross bleeding
+
+           RED – priority #1 - stat
+           YELLOW – priority #2 – within 30 minutes
+           GREEN – priority #3 - stable
+           BLACK – deceased
+           WHITE - no intervention, can be relocated.
+
+    Baseball Caps labelled IN-CHARGE – Orange, Red, Yellow, Green, Black and White
+
+
+EVACUATION HOLDING AREAS
+
+Areas to evacuate to within Shepherd Village:
+
+    1. Shepherd Terrace Main Floor: can hold approximately 120 residents.
+    2. Shepherd Terrace Garden View Room: can hold approximately 50 residents
+    3. Shepherd Manor Party Room: can hold approximately 30 residents
+    4. Shepherd Garden Party Room: can hold approximately 50 residents
+    5. Community Hall: can hold approximately 50 residents
+*** The ground floor of Shepherd Lodge is equipped with emergency orange
+electrical sockets which are hooked into the generator
+
+                                            52
+Pylons will be kept in designated areas with evacuation bags and will be used to mark
+holding areas.
+Holding Areas:        2 RED
+                      2 YELLOW
+                      2 GREEN
+                      2 WHITE
+                      2 ORANGE
+                      2 BLACK
+
+
+EVACUATION LOG
+  1. The Person in charge assigns staff member(s) to complete the evacuation log
+     Form.
+  2. Process of completing the evacuation log:
+
+          a) Utilize Evacuation Log form provided in disaster bag.
+          b) Ensure that all residents are accounted for upon completion of the
+             Evacuation Log(s).
+          c) Initiate communication with substitute decision maker noting each
+             successful contact made
+
+   3. Person in charge will ensure that:
+         a) Evacuation Log is completed
+         b) All substitute decision makers have been contacted
+
+TRIAGE – AREA SET UP AND RESPONSIBILITIES
+
+PROCEDURE:
+  1. Establish and identify triage area and priority holding areas that is safe and
+     accessible to emergency personnel
+  2. Triage area should be sheltered and provide sufficient light to observe and
+     assess the victims.
+  3. The triage area should be consolidated to allow for easy identification of Red
+     tagged and Yellow tagged individuals/residents in need of urgent medical
+     intervention/treatment.
+  4. The triage area should be set-up to allow for early treatment and intervention of
+     residents/individuals requiring the same.
+  5. Assign at least one staff member to each area. The non-injured may be handled
+     by nonnursing personnel if none is available.
+  6. Co-ordinate to ensure all necessary supplies and emergency kits are delivered to
+     the triage site(s).
+  7. The role of the person (s) assigned to each area includes:
+         a) Providing emotional support/reassurance to the individuals
+         b) Preventing individuals/residents from wandering away
+                                          53
+          c) Keeping out all unnecessary personnel/visitors
+          d) Keeping individuals away from people receiving treatment
+          e) Identifying and logging all individuals
+          f) Directing arriving emergency personnel to the most severely injured
+          g) Providing emergency care/treatment as necessary
+          h) Assisting with transportation of individuals/residents to re-locate to care
+             sites
+
+   8. Maintain ongoing communication with command post/person in charge of
+      disaster to await for further directions
+
+
+TRIAGE – ASSESSMENT OF RESIDENTS
+
+PROCEDURE:
+
+On the Resident Home Area:
+   1. The Resident Home Coordinator is responsible for ensuring that a Code Green
+      Identification Box (CGIDB) for each Resident Home Area (RHA) is stocked and
+      up to date with every resident’s face sheet from PCC on a Resident Identification
+      Tag (RIT).
+
+   2. Once it has been determined that a Code Green is in Order, Registered staff of
+      the Home Area will obtain CGIDB and ensure that all residents don appropriate
+      RIT prior to exiting the home area.
+
+Triage:
+    3. The assessment for triage categorization is to be performed by the person(s)
+       assigned in charge of the triage area (usually RN, RPN). The incumbent will don
+       the orange triage vest and orange baseball cap located in the evacuation bag.
+       Two orange pylons identify the triage area.
+
+   4. The assessment of each resident/individual should not take more than 30
+      seconds per person.
+
+   5. The assessment includes:
+      a)    Asking the individual/resident where it hurts in order to determine level of
+            awareness and main complaint.
+      b)    Observing for any obvious signs of bleeding/trauma.
+      c)    Assessing the ventilatory and circulatory status of the unconscious
+            residents.
+
+   6. The Triage Nurse/Delegate does not provide treatment except in the following
+      conditions/circumstances:
+                                            54
+       a)     Individual/resident is bleeding profusely and will surely die unless
+              immediate treatment is provided.
+       b)     The resident’s airway is severely compromised.
+
+   7. The Triage Nurse/Delegate assigns the resident to the following international
+      categories based on his/her assessment:
+
+First Priority (Red)
+       a)     Immediate medical attention is required.
+       b)     The individual is critical, and their condition is probably deteriorating.
+       c)     Transportation to hospital via ambulance is required.
+
+Second Priority (Yellow)
+     a)    Prompt medical attention is required.
+     b)    Individual is in serious but stable condition.
+     c)    Individual can sustain a wait of approximately 30 minutes to two hours
+           without hospital intervention provided stabilization occurs on-site.
+
+Third Priority (Green)
+      a)      Individual transportation to hospital can be delayed.
+      b)      Individual is ambulatory.
+
+Last Priority (Black)
+      a)      Individual has deceased.
+
+Stable Non-Urgent (White)
+      a)    Individual does not require medical interventions awaiting transportation to
+            relocation center.
+
+
+   8. Time permitting, document assessments on the appropriate face sheets tagged
+      to resident.
+   9. A team member will be assigned to the appropriate holding area by the Director
+      of Care/Delegate.
+
+
+
+
+                                              55
+DUTIES BY DEPARTMENT
+
+DUTIES OF THE NURSE MANAGER
+The Nurse Manager/designate has the authority to Initiate and manage the evacuation
+plan.
+   1. Assess the magnitude and type of threat.
+   2. Ensure notification of CEO regarding the decision to put the evacuation plan into
+       effect.
+   3. CEO will initiate the fan out list.
+   4. Assign a Nurse for Triage Nurse (TN).
+   5. Assign a Nurse for each triage zone (3 red, yellow, green).
+   6. Assign a team member(s) (can be a PSW) to triage the white zone for uninjured
+       residents.
+   7. Assign team members to accompany residents to the relocation areas as per
+       ministry Guidelines
+   8. Assign a team member as Logistics lead who will be responsible for staffing
+       assignments: ensuring team members are at relocation sites; initiating the call-in
+       procedure, etc.
+   9. Assign a team member as Runner -to be a communication link for updates. In the
+       event of a total communication shutdown, the pre-designated external
+       communication centre will be activated and the runner will provide ongoing
+       relaying of messages. Designated runner assigned by NM.
+   10. Assign a team member to be Liaison lead -(coordinate activities and
+       communication with external emergency personnel (fire, ambulance, hospital,
+       etc.). (see duties of Liaison lead).
+   11. Assign a team member in each RHA/neighbourhood to account for all residents
+       in their RHA/neighbourhood.
+   12. Assign a team member as Communications lead
+   13. Assign team members to monitor exit doors to prevent re-entry of residents or
+       unauthorised personnel and to ensure the doors do not close and lock authorised
+       personnel out; each floor has an assigned member as instructed by the charge
+       nurse.
+   14. Assign team members to monitor external traffic flow to ensure unimpeded
+       access for emergency vehicles and access to buildings for emergency personnel
+       (fire, ambulance, etc.) As required by NM
+   15. Ensure all areas are secure and all duties are complete.
+   16. Proceed to triage area to assist with treatment of injured residents as directed
+   17. In conjunction with the DOC/designate, ensure MAR computers are removed and
+       transported to the receiving site(s).
+   18. Complete Incident Manager Evacuation Checklist.
+
+
+DUTIES OF THE UNIT NURSE
+  1. Upon receiving verification of evacuation, begin to instruct team members in the
+                                           56
+      procedure. If immediate need is NOT in your home area, assign team members
+      to go to the affected area as directed by the Manager.
+   2. Remove residents from immediate danger (room of origin) to a safe zone.
+   3. Remove all other residents from the affected fire/danger zone to a safe zone
+      beyond the fire door
+   4. Ensure team members use evacuation tags on doors to indicate the room is
+      vacant and checked.
+   5. Complete head count of residents to ensure no residents have been missed.
+   6. If fire or emergency is in your home area, obtain resident emergency face sheets
+      from the Emergency Box and assign a team member to identify and tag each
+      resident.
+   7. Assist team members in your home area with safe evacuation of residents
+      (transfers) as directed by NM.
+   8. Bring a Laptop to access Emar from your home area to the designated triage
+      area.
+   9. If your home area is NOT being evacuated, assign team members to monitor
+      residents, secure your home area, and go to triage area as assigned by NM.
+
+DUTIES OF THE PSW
+  1. Clear corridors while reporting to your Unit Nurse.
+  2. Verify announcement to evacuate.
+  3. If immediate need is NOT in your home area, secure and monitor residents or go
+     to affected area to assist the evacuation as assigned by your Unit Nurse
+  4. If evacuation IS in your home area, check and mark evacuated rooms with
+     emergency tags. Ensure ALL rooms (locked and unlocked) are checked and
+     empty. Move residents to a safe zone as directed by the Nurse Manager
+  5. Complete a head count of residents to ensure no residents have been missed;
+     confirm using current resident list.
+  6. Report any resistive resident or resident needing assistance to your Unit Nurse
+  7. Once all residents have been moved to a safe area, take direction from the Nurse
+     Manager: may include monitoring residents, assisting to load residents on buses,
+     etc.
+
+DUTIES OF THE MEDICAL DIRECTOR AND ATTENDING PHYSICIANS
+  1. Attend to any emergencies
+  2. Arrange for hospitalization of r3esidents if necessary
+
+DUTIES OF THE OFFICE/RECEPTION TEAM AND MANAGERS
+  1. Communications lead -TEMPORARILY assigned by Nurse Manager. The CEO
+     will review and confirm appointment (See Communication Plan in this Manual)
+     The Communications Lead will manage all communications to outside and
+     coming into the home.
+  2. All managers and corporate office team report to the front desk (reception) and
+     await directions/ assignments of Nurse Manager.
+                                          57
+DUTIES OF THE COMMUNICATIONS LEAD * (appointed by nurse manager)
+  1. Confirm that Fire Department received alarm via monitoring company as per fire
+     plan
+  2. Notify the following external contacts that the Evacuation Plan is in effect:
+     ● All necessary emergency services (fire, police, ambulance, hospital) Medical
+         Advisor
+     ● MLTC/HCCSS/Health Authority (as required)
+     ● Support Services Office
+     ● Pharmacy
+     ● Evacuation sites (if necessary)
+     ● Residents' families
+  3. Assign reception team to screen incoming phone calls, transfer media and
+     resident's family member calls directly to themselves.
+
+*see Communications Plan in this manual
+
+DUTIES OF THE LOGISTICS LEAD (appointed by nurse manager)
+  1. Assign team members to initiate team member fan out call-in list and volunteer
+     call-in list as assigned by the Nurse Manager.
+  2. As required, assign team members to gather supplies:
+         ● for first aid
+         ● blankets, pillows, etc. to assist in transport of residents and at relocation
+              site
+         ● food and water
+  3. As directed by the Incident Manager or Emergency Services, initiate call to
+     transportation service providers for buses, etc.
+
+DUTIES OF THE MAINTENANCE AND SECURITY TEAM
+  1. Assist the Incident Manager as required.
+  2. Ensure all entrances are clear of vehicles to allow for emergency services
+     personnel / vehicle to enter the location.
+  3. Assist TN to set up triage area, set out cones, identifying each coloured zone:
+     RED, closest to entrance for ambulances to attend, YELLOW and GREEN, in
+     parking lot, WHITE, at front of the building to wait for buses, cars to arrive,
+     BLACK furthest away.
+  4. Be available to assist fire and all emergency services providers.
+  5. Ensure information on equipment, systems (HVAC, fire sprinklers, etc.), security
+     doors, access to locked areas, supplies are available.
+  6. Assist with evacuation of residents and with loading wheelchairs and equipment,
+     etc. into transport vehicles.
+  7. Communicate all pertinent information to the IM during the evacuation process.
+  8. Assist ED/IM/DOC with final check of the building if applicable: ensure all
+     electrical equipment is turned off and unplugged lower heat if applicable maintain
+                                            58
+      and monitor generator if in use check building regularly when vacant
+  9. Travel to relocation site(s) and assist as needed
+  10. Keep a record of equipment, supplies, etc, that were removed from the building.
+DUTIES OF THE FOOD AND NUTRITION SERVICES TEAM
+  1. If you are in the servery, ensure all appliances are off and unplugged and secure
+      the area.
+  2. Upon receiving notification of the emergency and the location, if it is on your
+      home area, report to the Unit Nurse on your home area. Assist as directed by the
+      Unit Nurse.
+  3. If you are in the kitchen, turn off all equipment and ensure all hallways are clear;
+      secure the area.
+  4. If emergency is NOT in your home area or the kitchen report to the NM on first
+      floor command station.
+  5. Execute the Plan for provision of Food & Fluid/Emergency Menus as directed by
+      the Food and Nutrition manager/delegat3e
+  6. As assigned, by Nurse Manager or the Unit Nurse in your home area, monitor
+      residents, keep them calm or assist with evacuation from the affected area or
+      other duties.
+  7. Travel to relocation site(s) and assist as needed.
+
+DUTIES OF THE HOUSEKEEPING/LAUNDRY TEAM
+  1. Secure your department by shutting down all equipment; close windows and
+     doors.
+  2. Ensure all rooms both locked and unlocked are clear and vacant.
+  3. If you are in affected area, place red emergency tags on doors to identify that
+     area is not to be re-entered.
+  4. Housekeeping team, report to home area Unit Nurse; follow their direction.
+  5. Laundry team, report to assigned home area report to the NM on first floor
+     command station.
+  6. As assigned by Nurse Manager or Unit Nurse in your home area, monitor
+     residents, keep them calm or assist with evacuation from the affected area or
+     other duties.
+  7. Travel to relocation site(s) and assist as needed.
+
+DUTIES OF THE RECREATION TEAM
+  1. If you are with a group of residents in the danger zone, begin moving residents to
+     the closest safe zone as directed by the Incident Manager.
+  2. If you need assistance to move residents, ask the Nurse Manager to assign team
+     members to assist you.
+  3. If more than one Recreation team member is involved in resident activity, one
+     person will remain with residents while other team members report to Unit Nurse.
+  4. If volunteers are in the building assisting with program activities, they will assist
+     the Recreation team as directed by the Nurse Manager.
+  5. The Nurse Manager will ensure the Recreation team and volunteers are made
+                                            59
+   aware of the evacuation procedure being followed and assist with moving
+   residents.
+6. As assigned, monitor residents, keep them calm or assist with evacuation from
+   the affected area or other duties.
+7. If evacuation of the building has been declared, once residents have been
+   triaged, program team go to WHITE zone and assist loading residents into
+   transport vehicles
+8. Travel to relocation site(s) and assist as needed,
+
+
+
+
+                                      60
+SHEPHERD VILLAGE COMMAND POST
+
+
+
+
+                                61
+62
+Ministry of Long Term Care Evacuation Guide (Administrative Process)
+
+The Director of Client Care Services/designate will:
+
+     1. Start the Home process as per the emergency plan and procedures
+     2. Use the Ministry of Long-Term Care Emergency Evacuation Guide to ensure they
+        are following the MLTC administrative process outlined in the guide (see links
+        below) and in the emergency manual located in Surge.
+
+The guide will:
+   1. Identify the process of transmitting information;
+   2. Provide materials to complete during the evacuation process;
+   3. Provide information regarding licenses, specifically temporary emergency license;
+      and
+   4. Outline the terms and conditions under which the ministry will license eligible
+      beds and reimburse LTC Homes for eligible expenses related to the admission
+      and accommodation of residents during emergency evacuations from existing
+      LTC Homes or the community.
+
+     In addition, the guide will describe:
+      The issuance of Temporary Emergency License(s), with applicable license
+         conditions (more information under licensing below), which typically includes a
+         condition that the Director may revoke the license effective on the day that the
+         affected resident(s) are all discharged from the Recipient Home(s);
+      Information on the provision of applicable funding; and
+      The necessary permission under s. 112(3) of the Fixing Long-Term Care Act,
+         2021 and Ontario Regulation 246/22 (BIA approval) in respect of the temporarily
+         closed beds, and to the associated BIA Agreement to be created, effective until
+         the day when the Source Home/Beds re-opens and the Temporary Emergency
+         License is revoked or surrendered.
+
+NOTE: If at any time during the fire you determine resident/staff safety is at risk you
+initiate code green.
+
+
+REFERENCES:
+
+1.      Ministry of Long Term Care – Instructions, Information and Materials – The Guide
+        on the Policy, Process, and Procedures during Emergency Evacuations –
+        Instructions, Information and Materials (English)
+        https://www.ltchomes.net/LTCHPORTAL/Content/Snippets/Emergency
+        %20Evacuation%20Policy%20(EN).pdf
+
+2.      Ministry of Long Term Care – Instructions, Information and Materials – The Guide
+                                             63
+     on the Policy, Process, and Procedures during Emergency Evacuations –
+     Instructions, Information and Materials (French)
+     https://www.ltchomes.net/LTCHPORTAL/Content/Snippets/Emergency
+     %20Evacuation%20Policy%20(FR).pdf
+
+3.   Evacuation Placement Process (English):
+     https://www.ltchomes.net/LTCHPORTAL/Content/Snippets/Evacuation
+     %20Placement%20Process%20(EN).pdf
+
+4.   Evacuation Placement Process (French):
+     https://www.ltchomes.net/LTCHPORTAL/Content/Snippets/Evacuation
+     %20Placement%20Process%20(FR).pdf
+
+5.   Evacuation Placement Form (English):
+     https://www.ltchomes.net/LTCHPORTAL/Content/Snippets/Emergency
+     %20Placement%20Form%20(Appendix%20B).docx
+
+6.   Evacuation Placement Form (French):
+     https://www.ltchomes.net/LTCHPORTAL/Content/Snippets/Emergency
+     %20Placement%20Form%20(FR).docx
+
+7.   Overview of Temporary Emergency (TE) Licence and Beds In Abeyance (BIAs)
+     (English): https://www.ltchomes.net/LTCHPORTAL/Content/Snippets/Overview
+     %20of%20Temporary%20Emergency%20(TE)%20Licence%20and%20Beds
+     %20in%20Abeyance%20(BIAs)%20(EN).pdf
+
+8.   Overview of Temporary Emergency (TE) Licence and Beds In Abeyance (BIAs)
+     (French): https://www.ltchomes.net/LTCHPORTAL/Content/Snippets/Overview
+     %20of%20Temporary%20Emergency%20(TE)%20Licence%20and%20Beds
+     %20in%20Abeyance%20(BIAs)%20(FR).pdf
+
+9.   Fixing Long Term Care Act, 2021 and Ontario Regulation 246/22, s. 112 –
+     Licensees who report investigation under s. 27 (2) of Act
+
+
+
+
+                                        64
+FAN OUT PROCEDURE
+
+When a situation arises which requires additional staff, President/Senior Management or
+designate will initiate the FAN OUT PROCEDURE
+
+Situations that require the initiation of this procedure are, but not limited to the following;
+       -an evacuation of the facility
+       -receipt of additional residents from another facility
+       -a loss of power, water, gas or inclement weather
+       -any situation which potentially requires increased staff in a very short time frame
+
+The President/CEO or designate will start the process. The senior management team
+will then call their managers/supervisors and they in turn call their staff until all have
+been contacted.
+
+See the Organizational Chart for process of calling staff.
+
+      If the procedure is imitated during normal business hours, each of the callers will
+       obtain phone numbers from the emergency manual.
+      If the procedure is imitated outside of business hours, each of the callers will
+       maintain the most recent call-in sheet close to his/her telephone at home. It is the
+       responsibility of the callers to maintain the most current list.
+      The callers will initiate the staff calls, advising each staff member to report to the
+       on-site command centre.
+      Each caller should obtain an estimated time of arrival from each staff member
+       who will be assisting with the procedure.
+
+
+
+
+                                              65
+RELOCATION PLAN – EXTERNAL
+
+For relocation of residents to an internal holding area please see Code Green –
+Evacuation.
+
+CIRCUMSTANCES NECESSITATING EXTERNAL RELOCATION
+The circumstances under which relocation may be required are:
+        Fire
+        Bomb threat /explosion
+        Natural Emergencies such as flood, hurricane, etc.
+        Loss of heat, water or power for an extended period of time
+        Community emergencies such as toxic spill, train derailment, etc.
+
+PROCEDURE:
+
+   1. Senior Leadership makes the decision to relocate residents.
+   2. The Director of Client Care Services/designate contacts delegated relocation
+      site(s).
+   3. The Director of Care initiates triage procedures.
+   4. The Director of Client Care together with the Director of Care determines and
+      arranges an appropriate mode of transport to delegated relocation site based on
+      individual needs of residents.
+         Wheel trans
+         Ambulance service
+
+   5. The Food Services Manager / delegate contacted the food services provider to
+      initiate plan for alternate food delivery service at relocation site.
+   6. The Director of Care / delegate to coordinate appropriate staffing to ensure
+      continuity of care services at the delegated relocation site.
+   7. The Director of Care / delegate assigns individual(s) to accompany, receive and
+      supervise evacuees at the delegated reception site.
+   8. The Director of Care / delegate coordinates the transfer of critical supplies
+      (including the notification to Pharmacy) and health records to the delegated
+      reception site.
+   9. The Director of Care / delegate to advise personal physicians, specialists and
+      next of kin of resident relocation to delegate site
+   10. Residents can be temporarily discharged to the care of relatives and friends.
+       However, approval by the Medical Director or Director of Resident Care is
+       required. The Director of Care will ensure that the relatives or friends receive the
+       necessary medications and instructions and leave a forwarding address.
+
+
+                                            66
+11. The Nursing Leadership team will regularly visit relocation sites.
+12. Security will complete an initial check of the building and regularly thereafter:
+      appropriate electrical equipment is turned off
+      heat is lowered or shut off as appropriate.
+      all evacuated areas are sealed off, secured and barricaded as necessary.
+      all windows are closed, and doors locked.
+
+13. Facilities will post a sign at the main entrance indicating the names of the
+    receiving facilities and their telephone numbers.
+
+14. The communication plan will be followed with regards to notification of families.
+
+15. During a emergency, all regular work schedules are suspended indefinitely. The
+    department supervisors will call in staff as required.
+
+
+
+
+                                          67
+RECOVERY PLAN
+
+Recovery strategies will be put in place at the care community to ensure a smooth
+return to normal operations post Emergency. The President and CEO is responsible for
+the official declaration of an Emergency ending at the location in consultation with the
+Senior Leadership Team and other applicable management team members.
+
+As Shepherd Village returns to normal operations, the Senior Leadership Team will
+ensure the following is completed:
+
+Ensure the Environment is safe to return to by completing the following:
+    Structural security-obtain a qualified professional validation
+    Safe entry-obtain the proper approval from the government agencies
+    Clean-up safety-ensure the workplace is cleaned up and safe for all to resume
+      their normal duties
+    Air quality assessment-ensure the atmosphere is free of toxic agents
+    Ventilation-ensure proper operations of all HVAC units
+    Interior exposures-ensure all walls and ceiling material is secure and not
+      damaged or falling.
+    Exterior exposures-ensure all windows are in tack and no building material is
+      damaged
+    Protection equipment-clean and test the fire alarm system
+    Electrical safety-check all electrical, computer and telecommunications systems
+    Government authority-seek approval from all government agencies (food,
+      elevators, fire safety)
+    Health/sanitation issues-the building and food sanitation should be inspected
+    Furniture-check for integrity and water damage
+    Lighting-ensure there is adequate lighting levels
+    Emergency planning-practice the emergency procedures and ensure everyone
+      is aware of the procedures
+    Inspections-get qualified people to inspect the elevators and all life safety
+      systems
+    Surfaces-ensure all flooring surface are clean and slip free
+
+Once the environment is deemed safe to return to, other recovery processes to be
+completed:
+
+      Insurance arrangements completed as necessary
+      Third Party contracts involved are now complete
+      Pre-emergency staffing levels resumed as appropriate
+      Any paused or altered programs or processes are restarted
+      Communication with residents via Councils, families via Council(s) and other
+       means on the recovery stage/plan, outcomes and any action items
+                                           68
+   Collaborate with JOHS Committee to execute recovery plan as appropriate
+   Update staff on recovery plan status and any action items
+   Coordinate and support residents, families, and staff (counseling, support
+    groups, EAP etc.)
+   Debrief of the emergency within 30 days using the Post Emergency Debrief Form
+   Make any necessary changes to the emergency plan; communicate and train
+    those changes accordingly
+
+
+
+
+                                        69
+OUTBREAKS OF A COMMUNICABLE DISEASE, OUTBREAKS OF A DISEASE OF
+PUBLIC HEALTH SIGNIFICANCE, EPIDEMICS & PANDEMICS
+
+STANDARD:
+
+A suspected outbreak is defined as follows: one or two residents in a home develop the
+same symptoms in a short period of time. These symptoms refer to any type of
+infection spread via airborne, droplet, or contact route. However, the Home must follow
+mandatory reporting requirements to Public Health and Ministry of Health for single
+cases (i.e., ARI, TB).
+
+Potential Influenza outbreak:
+
+      One laboratory confirmed case of influenza or
+      Two cases of acute respiratory tract illness occurring within 48 hours in a
+       geographic area (i.e., unit, floor) or
+      More than one unit having a case of acute respiratory illness within 48 hours.
+
+
+Potential Respiratory Outbreak (other organisms):
+
+      Two cases of acute respiratory tract illness occurring within 48 hours in a
+       geographic area (e.g. unit, floor) at least one of which must be laboratory
+       confirmed or
+      More than two units having a case of acute respiratory illness within 48 hours or
+      Three cases of ARI (laboratory confirmation not necessary) occurring within 48
+       hours in a geographic area (e.g., unit, floor)
+
+COVID-19
+
+A suspect outbreak in a Home is defined as:
+   One (1) positive PCR test or rapid molecular test or rapid antigen test in a resident
+
+A confirmed outbreak in a Home is defines as:
+   Two (2) or more residents in a Home areas each with a positive PCR test or rapid
+     molecular test or rapid antigen test result AND with an epidemiological link within
+     a ten (10)- day period.
+   All positive molecular test or RAT results in residents, staff, or visitors associated
+     with a suspected or confirmed outbreak in the home must be reported to the PHU
+     and Outbreak Management Team. Negative RAT results should not be used
+     independently to rule out COVID-19 in an outbreak situation due to the test’s
+     limited sensitivity and the increased pre-test probability of COVID-19. If a RAT is
+     used for a staff or resident with symptoms or high-risk exposure (e.g., in
+     extraordinary circumstances when access to timely PCR testing is not available),
+     molecular testing should also be performed in parallel.
+
+                                            70
+Potential Gastroenteritis Outbreak:
+
+       Two suspected cases of infectious gastroenteritis in a specific area, such as a
+        home, unit, or floor within 48 hours. (Three or more case within a 4-day period or
+        three or more units/floors having a case of infectious gastroenteritis within 48
+        hours may meet the definition for an outbreak)
+
+Note: Public Health has the discretion to declare an initial exposure/facility exposure or
+a confirmed outbreak based on the results of their investigation, including when the
+above definintions are not completely met.
+
+Homes are required to call their local public health unit and or hospital partner whenever
+an outbreak is suspected and initiate assessment of the potential outbreak situation.
+Any further progression (additional cases or laboratory confirmations) of the “potential
+outbreak” will be considered an outbreak.
+An outbreak can be declared at any time by the Medical Officer of Health, or their
+designate, or Medical Director for the Long-Term Care Home. There should also be a
+discussion of whether to declare a facility-wide outbreak or unit specific outbreak.
+
+Pandemic flu is a global outbreak that occurs when a new influenza A virus or
+coronavirus emerges, to which the population has little immunity, that has the capacity
+to spread easily from person to person and cause serious human illness.
+
+
+FLU PANDEMIC TIMELINE
+
+Interpandemic Period
+     Phase 1. No new influenza virus subtypes have been detected in humans. An
+       influenza virus subtype that has caused human infection may be present in
+       animals. If present in animals, the risk of human infection or disease is
+       considered to be low
+
+       Phase 2. No new influenza virus subtypes have been detected in humans.
+        However, a circulating animal influenza virus subtype poses a substantial risk of
+        human disease
+
+Pandemic Alert Period
+    Phase 3. Human infection(s) with a new subtype but no human-to-human
+     spread or at most rare instances of spread to a close contact
+
+       Phase 4. Small cluster(s) with limited human-to-human transmission but spread
+        is highly localized, suggesting that the virus is not well adapted to humans
+
+       Phase 5. Larger cluster(s) but human-to-human spread is still localized,
+        suggesting that the virus is becoming increasingly better adapted to humans but
+        may not yet be fully transmissible (substantial pandemic risk)
+                                            71
+Pandemic Period
+    Phase 6. Pandemic phase: increased and sustained transmission in the general
+     population
+
+Postpandemic Period
+    Return to the Interpandemic Period (Phase 1)
+
+PROCEDURE:
+
+1.    When an RN/RPN notices one or more of the residents are showing the same
+      symptoms, the nurse will begin to gather the information on a line list form.
+      When a third resident or staff member begins to show symptoms, then the Nurse
+      on duty calls the Infection Prevention and Control Manager (IPAC Manager) for
+      further support and direction. If the IPAC Manager is not available, the Nurse
+      will notify the Director of Care and/or Executive Director. If deemed appropriate,
+      Public Health will be notified to discuss a suspected or official outbreak. ***It is
+      essential to keep Public Health and Hospital Partners updated with suspected
+      outbreaks so they can provide support before an outbreak is declared.
+
+2.    The Public Health contact will determine if the Home will be monitored for
+      suspected Outbreak or will give the Home an Outbreak number and inform the
+      RN/RPN of what is to be done next. Public Health will tell staff which type of
+      specimens are required and confirm that the Home has an adequate supply of
+      specimen kits.
+
+3.    The Home is expected to have all resident and staff immunization status
+      available immediately to provide to public health when suspecting outbreak
+      during the influenza season.
+
+4.    Once an Outbreak has been declared, the nurse manager and IPAC manager
+      needs to notify the other departments of the Outbreak and of their role during an
+      Outbreak. This notification will advise each department the type of Outbreak the
+      Home is experiencing, and the responsibilities they have during the Outbreak
+      (please refer to IFC G-35 to G-60). If an Influenza Pandemic has been declared,
+      the Outbreak Management Team will be implemented (please refer to policy J-
+      40)
+
+5.    The Director of Care/IPAC Manager/or delegate is responsible for the notification
+      to the MLTC Inspector, the Ministry of Labour when staff are affected by the
+      declared outbreak, followed by submission of a Critical Incident Summary online.
+      Follow policy IFC G-65 regarding requirement within four (4) days of
+      becoming aware of staff being affected (under the Occupational Health and
+      Safety).
+
+
+                                           72
+6.    The IPAC Manager/delegate is responsible for initiating the Outbreak
+      Management Checklist. (Please refer to the checklist of the local Public Health
+      Unit).
+
+
+
+OUTCOME:
+
+1.    There is evidence that outbreaks are reported to Public Health, Ministry of Long
+      Term Care and Ministry of Labour when staff are affected as soon as the Home
+      suspects or has declared an outbreak.
+
+ADDITIONAL REFERENCES:
+
+1.    Public Health Unit, Influenza and Respiratory Outbreak Reference Binder, 2005-
+      2006 and 2007 Updates.
+
+2.    Fixing Long Term Care Act and its Regulations, 2021.
+
+
+3.    IPAC Manual G-05
+
+4.    Outbreak Management Checklist
+
+5.    Ministry of Long-Term Care, A guide for long-term care Homes and Public Health
+      Unit Staff, Control of Gastroenteritis Outbreaks in Long-Term Care Homes.
+      October, 2013
+
+
+6.    Ministry of Long-Term Care, A Guide to the Control of Respiratory Infection
+      Outbreaks in Long-Term Care Homes. September 2016
+
+7.    Ministry of Long Term Care, Disease: Respiratory Infection Outbreaks in
+      Institutions and Public Hospitals Effective: May 2018
+
+8.    Ministry of Long Term Care Disease: Gastroenteritis Outbreaks in Institutions and
+      Public Hospitals Effective: May 2018
+
+
+9.    Ministry of Health Infectious Disease Protocol Effective: January 2020
+
+
+10.   Directive #3 for Long Term Care Homes under the Long Term Care Homes Act,
+      2007 Effective: Sept 9, 2020
+
+
+
+                                          73
+11.   Ministry of Long Term Care Memo: Reporting Outbreaks to the Director, October
+      22, 2020
+
+
+12.   Responsive Group Inc, COVID-19 Home Pandemic Playbook, October 2020
+
+
+13.   Ministry of Health: COVID-19 Guidance: Long Term Care Homes and Retirement
+      Homes for Public Health Units, Version 4 – February 3, 2022.
+
+
+14.   Appendix on Diseases caused by a novel coronavirus, including Coronavirus
+      Disease 2018 (COVID-19), Severe Acute Respiratory Syndrome (SARS) and
+      Middle East Respiratory Syndrome (MERS). May 2023.
+
+
+
+
+                                        74
+PPE INVENTORY MANAGEMENT PROCESS
+
+  Policy:
+
+  The Personal Protective Equipment (PPE) Inventory Survey is completed once a week
+  to ensure a minimum of 4 weeks’ Infection Prevention and Control (IPAC) PPE supply is
+  on hand at all times.
+
+  Procedure:
+
+  1. The Night Shift Manager or delegate will:
+     a. Documents the amount of PPE on hand (including expired product) PPE Survey
+        Tool.
+     b. Share the completed PPE Survey Tool with the IPAC Manager and the Director of
+        Care.
+     c. Rotates inventory to use product closer to expiry date.
+     d. Orders PPE as needed and discards expired PPE.
+     e. Follows any legislated reporting requirements required.
+
+  2. The IPAC Manager will complete quarterly spot checks.
+
+
+
+
+                                           75
+POST EMERGENCY DEBRIEF
+
+A Post Emergency Debrief must be conducted within 30 days of the emergency being
+declared over, after each instance that an emergency plan is activated.
+    The department related to the cause of the Emergency will be responsible to
+       ensure that a Post Emergency Debrief Meeting is held.
+      The debrief meeting must include those who had to act and/or those who were
+       impacted by the emergency. This could include front line staff, residents and
+       family members.
+      A written record must be maintained using the Post Emergency Debrief and
+       Action Plan Form.
+
+
+
+
+                                          76
+ANNUAL EVALUATION OF THE EMERGENCY PLAN
+
+Annually the Director of Facilities will select persons from Shepherd Village across
+different departments to assist with the evaluation of the Emergency Plan.
+
+PROCEDURE:
+
+The evaluation tool will be used to evaluate the Emergency Plan.
+
+Each area reviewed and scored with “Yes” “No” or “N/A” responses.
+
+Areas of non-compliance are recorded on the Annual Evaluation Summary Report Form
+and improvements noted including who participated in the evaluation and who is
+responsible for the improvements.
+
+Areas of non-compliance are reviewed with the Director of Care (SL), Quality
+Improvement Lead, Director of Client Care Services, the GM (Terrace) and the Director
+of Corporate Services.
+
+The Director of Facilities will re-evaluate the area (s) identified in the annual evaluation
+to ensure compliance.
+
+FREQUENCY:
+
+The evaluation of the Emergency Plan will take place at least annually.
+
+
+OUTCOME:
+
+There is documented evidence the Emergency Plan is evaluated, analysed and
+improvements implemented at a minimum annually.
+
+
+
+
+                                             77
+COMMUNICATION PLAN (INCLUDING MEDIA COMMUNICATION)
+
+Note: Please also refer to the Crisis Communication Plan (see Media Policy ADM
+17)
+
+In accordance with the Crisis Communication Plan, in an emergency, the President and
+CEO will appoint a Communications Lead. The Lead will appoint members to form a
+communications team.
+
+The plan will ensure frequent and ongoing communication with residents, families, team
+members, volunteers, and the Resident and Family Council, contractors and service
+providers with the goal of keeping all parties apprised of the status of the emergency.
+
+*Refer to the Crisis Communication Plan for communication with the Media (see Media
+Policy ADM 17)
+
+The Crisis Communications Lead will ensure ongoing communication using various
+methods:
+
+      at the beginning of the emergency
+      when there is a significant change throughout the course of the emergency
+      and when the emergency is over
+
+Depending on the nature of the emergency and if evacuation is required, a
+member of the Senior Leadership Team will immediately notify (if applicable):
+
+   •   Homes/Organizations of which a relocation agreement is in place
+   •   Ministry of Long Term Care
+   •   Retirement Homes Regulatory Authority
+   •   Emergency Management Ontario
+   •   Ministry of Labour
+   •   Public Health
+   •   Ontario Health
+   •   Scarborough Health Network
+   •   IPAC Hub
+   •   Home and Community Care Support Services
+   •   Political Offices
+   •   and others as per the Crisis Communication Plan
+
+
+PHONE COMMUNICATION: INCOMING CALLS
+Senior Leadership will assign a team member(s) to receive incoming calls, prepared to
+respond with/to:
+
+• Status updates on emergency/location/residents
+                                          78
+• Help/resources or staff coming from other facilities
+• Team members calling to find out work schedule
+• Medical information (as appropriate)
+
+A voicemail messaging recording may be used to share a status update and redirect
+callers as appropriate.
+
+
+Incoming calls from the Media
+• Redirect media to the President and CEO (see Media Policy ADM 17)
+
+
+PHONE COMMUNICATION: RESIDENTS & FAMILY
+The Shepherd Village will prepare a telephone tree and have assigned team members
+to update family council members to assure them that resident safety is a priority and
+advise them of the care community’s plan for the crisis. When placing calls, the
+assigned team members will:
+
+•   Advise if unable to contact via telephone where family members may call and/or visit
+    the website to obtain further information
+•   Advise family members that the team will be focused on providing resident care and
+    protection
+•   Leave voicemail (where no immediate answer) and advise where family members
+    can call or visit to obtain further information.
+•   Track calls made and any follow-up required on the Family Emergency Contact
+    Record located in this manual.
+
+
+WRITTEN COMMUNICATION: RESIDENTS & FAMILY
+The Communications Team will compile a “key point bulletin” for the Shepherd Village to
+provide a communication to residents and family members consisting of these basic
+elements:
+• Type of emergency
+• Estimated time and severity of impact
+• Expected disruptions to services and routines
+• Actions to take to mitigate risk
+• Estimated time frame for the next status update
+• What residents and family members can do to assist
+
+
+IN-PERSON COMMUNICATION: RESIDENTS & FAMILY
+Based on the nature of the emergency, team members will keep residents informed via
+various strategies such as daily updates, one-to-one conversations, printed text of
+automated call scripts, and updates to all residents in the dining room with opportunity
+for Q&A, Residents’ Council meetings, etc.
+
+                                             79
+Family and Resident Town Halls may be organized by a member of the Senior
+Leadership Team to provide situational updates, include subject matter experts, answer
+questions, and address concerns. The frequency of written updates and Town Halls will
+be determined by the Senior Leadership Team/Communication Team.
+
+COMMUNICATION: 3rd PARTY SERVICE PROVIDERS
+Inform key service provider partners on the situation and request support if relevant to
+the emergency:
+
+ Sodexo Canada                                 ADP
+ GFS                                           SSC
+ Achieva Health                                Banking Institution
+ Pharmacy Provider                             Insurance Company
+ Medigas                                       Dental/Eye/Foot Care Providers
+ Medial Supply Suppliers                       Mobility Aid Supplier
+
+
+
+COMMUNICATION: TEAM MEMBERS, VOLUNTEERS & STUDENTS
+• See Fan Out Procedure in the Emergency Preparedness Manual
+• Use Email blasts as available for communications to team members.
+
+
+COMMUNICATION: ALTERNATE METHODS
+In an emergency, normal means of communication may become unreliable or
+nonexistent. Methods of communication in a disaster may include:
+
+      Messengers (designated individuals may need to hand deliver important
+       messages in the aftermath of a disaster, once officials have determined that it is
+       safe to leave protective structures)
+      Telephones (both cellular and landline if operating)
+      Two-way radio (always keep in a charger because you may be without power at
+       any point)
+      Fax machine (if phones are operable)
+      Internet (emails/websites) or local area networks (if computer systems are
+       operative)
+      Technology applications – Use website & Email mass messaging system to
+       communicate to all staff, resident and family contacts.
+
+COMMUNICATION: PROVINCIAL REGULATORY AUTHORITIES & COMMUNITY
+PARTNERS
+The Senior Leadership Team will ensure provincial regulatory authorities are kept
+informed as required in the event of an emergency.
+
+
+                                            80
+Based upon the type of emergency, and as deemed necessary, ongoing communication
+with community partners will be facilitated by the President & CEO/Designate. The
+frequency, participant list etc. will be determined in collaboration with the community
+partners.
+Upon the emergency being declared over a debrief meeting is to be organized and
+facilitated by a member of the Senior Leadership Team. (see Post Emergency Debrief
+section in this manual)
+
+
+
+
+                                          81
+        TESTING THE EMERGENCY PLAN AND STAFF TRAINING (Lodge and Terrace)
+
+
+TEST                EVERY YEAR        EVERY THREE          ACCOUNTABILITY        TESTING         TESTING
+                    Risk level 1-5       YEARS                                    MODE            MONTH
+Code Red-Fire            X5                                 DFS & DCCS &          actual         monthly
+                                                                DCS
+Code Yellow               X2                                 DCCS & DCS            actual
+-Missing
+Resident
+Code Grey-Loss            X1                                 DFS & DCS             actual         May
+of essential
+services
+Code Blue-                X2                                 DCCS & DCS            actual
+Medical
+Emergency
+Code Black-               X5                                     DFS               actual         Aug
+bomb threat
+Code White-               X2                                 DCCS & DCS            actual
+violent outburst
+Code Green-               X5                                 DCCS & DCS            actual         Aug
+evacuation
+Fan out                   X5                                     DFS               actual          Feb
+Internet & Wi-Fi          X3                                     DCS               actual
+interruption
+Outbreak                  X1                                 DCCS & DCS            actual
+Code Brown                X5                                    DFS               tabletop        Sept
+hazardous spill
+Code orange               X4                                     DFS              tabletop
+Natural
+disaster/Extreme
+Weather Event
+Boil Water                               X 5 (2027)              DFS              tabletop        July
+Advisory
+Community                                X 5 (2026)              DFS              tabletop
+Disaster
+Gas Leak                                 X 5 (2026)              DFS              tabletop        Sept
+Lockdown                                 X 5 (2027)              DHR              tabletop        April
+
+
+       *Risk 1 – conduct mock testing Risk 5 – table top discussion
+
+       Tests can take the form of table-top exercises, drills, functional exercises, and field
+       exercises.
+
+                                                      82
+Tests will be documented using the Post Emergency Debrief Report and Action Plan
+Form.
+
+
+
+
+                                         83
+STAFF TRAINING
+
+All newly hired staff will receive training via the e-learning platform as well as during
+general orientation (live event).
+
+Staff will receive ongoing training at least annually.
+
+Training will be in different formats including e-learning, live events, and debriefs after
+drills and live events.
+
+
+
+
+                                              84
+EMERGENCY LIFTS AND CARRIES
+Preliminary planning and rehearsal of the most effective responses to a fire of another
+situation are essential. There is scant time to act in an actual emergency situation, let
+alone to plan a course of action.
+
+Many methods might be used to move residents or patients or to give them assistance,
+support and added speed. Experience and practice will increase anyone’s ability to
+move heavier and disabled people under adverse conditions.
+
+Suitable additional methods may also be used depending on the situation and available
+appliances and equipment like chairs and wheelchairs.
+
+The following lifts and carry techniques are suggested for relocation or evacuation of
+residents and others in an emergency. You will have to decide which is the most
+appropriate for the situation at the time of emergency.
+A.     Removing resident from the floor.
+      1.      Spread a blanket or sheet beside the resident. Cross the resident’s ankles
+              and roll them towards you onto the blanket or sheet, grasping them by the
+              shoulders and hips.
+
+      2.     Grasp the blanket or sheet on either side of the resident’s head and drag
+                   backwards to an area of safety. Ensure that the resident is laying
+      face up.
+
+B.     Removing residents from beds
+
+      1.     CRADLE OR KNEE DROP
+             For use when:
+                       resident is very heavy; or
+                       only one staff is available: or
+                       resident’s bed is involved in the fire and the least amount of
+                         contact is permitted.
+
+Procedure (See diagram following)
+      a.    Place a blanket or sheet lengthwise on the floor parallel and next to
+                   the bed. Loosen or remove the top bed clothes.
+
+      b.      Stand beside the resident, slip one arm under the neck and grasp the
+              shoulder.
+
+      c.      Slip your other arm under the resident’s knees and grasp them with
+                     your hand.
+
+      d.      Place one knee against the bed with both feet on the floor, about
+                                            85
+                 6"-8" apart.
+     e.   Bring the resident tot the edge of the bed by moving first their hips
+                 then their shoulders, keeping your back straight and bending your
+                        knees.
+
+     f.   Rock back onto the heels bringing the resident with you keeping
+                resident close to your body.
+
+     g.   When the resident starts to leave the bed, drop to your knees and
+                 allow the resident to slide down your body then to the floor
+          protecting the resident’s head at all times.
+
+     h.   Grasp the blanket or sheet on either side of the resident’s head,
+          and drag them headfirst to an area of safety. The blanket or
+          sheet can be wrapped over the resident.
+
+
+
+
+2.   DOUBLE CRADLE OR KNEE DROP
+     a.   Two rescuers approach the bed. Place a blanket or sheet
+                                        86
+                         lengthwise on the floor parallel and next to the bed. Loosen or
+                               remove the top bed clothes.
+
+         b.        One rescuer slips one arm under the resident’s neck and grasps
+                         shoulder and one arm under their waist.
+
+         c.        The other rescuer slips one arm under the resident’s hips and other
+                         arm under his knees.
+
+         d.        Together both rescuers bring the resident to the edge of the bed.
+                         However, this may be accomplished by both rescuers grabbing the
+                                bottom sheet and pulling the resident to the edge of the bed.
+
+         e.        Together the rescuers rock back on their heels keeping the
+                         resident close to their bodies.
+
+         f.        When the resident starts to leave the bed, both rescuers drop to
+                        their knees and allow the resident to slide down their bodies, then
+to the                   floor protecting the resident’s head at all times.
+
+      g.      Grasp the blanket or sheet on either side to the resident’s head and drag
+him head first to an area of safety. The blanket of sheet may be
+              wrapped over the resident.
+3.       SWING CARRY
+                         For use when:
+                         -two staff available for transporting resident
+                         -resident is very heavy
+                         -vertical evacuation (to another level) is required. This method is
+                         suitable for almost any resident.
+Procedure (See diagram following)
+              a.   Both rescuers approach the resident, one at the head and one at
+                          the feet on the same side of the bed.
+
+              b.   Rescuer at the head assists resident to a sitting position supporting
+                        shoulders.
+
+              c.   When resident is sitting up, the rescuer at the resident’s feet
+                   grasps the ankles and swings the feet off the bed, both bring the
+                   resident to a sitting position on the edge of the bed.
+              d.   Both rescuers stand, one on each side of the resident and places
+                          one arm of the resident around their neck and down across their
+                                 chest.
+
+                                                 87
+        e.   Both rescuers reach under the resident’s knees and grasp each
+             others wrists.
+
+        f.   Both rescuers lift the resident off the bed together, using correct
+                    lifting techniques and carry the resident to a safe area.
+
+
+
+
+        TO UNLOAD:
+        Both rescuers drop on their knee closest to the resident while leaning against
+        the resident to provide supportive pressure. Place the resident on the floor,
+        buttocks first and then the back.
+
+4.    EXTREMITY CARRY
+
+For use when:
+            -a fast method is required
+            -two staff available for transporting resident
+            -there is a narrow exit
+
+Procedure (See diagram following)
+
+        a.   Both rescuers approach the resident, one at the head and one at
+                    the feet on the same side of the bed.
+
+
+                                            88
+        b.   Rescuer at the head assists the resident to a sitting position
+                  supporting the shoulders.
+
+        c.   When resident is sitting up, the rescuer at the feet grasps the
+                  resident’s ankle nearest the edge of the bed and clears it off the
+                         bed. With back to the resident, slide between the residents’
+legs
+             as far as their knees, grasping under both knees.
+
+        d.   Rescuer at the head places their arms though the resident’s
+                  armpits and grasps own wrists high above the resident’s chest.
+
+        e.   Both rescuers lift the resident off the bed together using correct
+                    lifting techniques and carry the resident to a safe area.
+
+        TO UNLOAD
+
+        a.   The rescuer at the feet lowers the resident’s legs to the floor, by
+                   dropping to one knee and keeping straight.
+
+        b.   The rescuer at the head, allows the resident to slide to the floor,
+                   buttocks first and then their back. Rescuer drops to one knee
+                          keeping back straight.
+
+
+
+
+REMOVING AMBULATORY RESIDENTS
+
+       1.    HUMAN CRUTCH WALKING ASSIST
+             For use when:
+             -resident has an injured or unstable side
+                                            89
+      Procedure (See diagram following)
+
+a.    Place resident’s arm, closest to you, behind your back to clutch
+             your waist.
+
+b.    Grasp resident’s wrist with your hand.
+c.    Place your other hand around the resident’s waist gripping clothing
+            on their waist.
+
+d.    Keeping resident close to your body, walk to a safe area.
+
+Note: If two rescuers are available, one can walk on each side of the
+              resident.
+
+
+
+
+                                    90
+STAFF CONTINGENCY PLANS
+
+At the department manager's or delegate's discretion, a Staffing Contingency Plan is to be put
+into operation if needed, especially in case of emergencies, and to allow staff to quickly adapt to
+changing circumstances to minimize disruption to the delivery of care/services.
+
+Possible strategies that are to be used to replace the vacant shift and strategies that are to be
+implemented to provide resident care can include:
+
+      Initiate Call In Roster as per Collective Agreement (if applicable)
+      Extend work shifts
+      Reassign work assignments i.e., if trained as PSW/HCA/RCA but works in the laundry
+      Utilize Agency staff
+      Call local vendors for support i.e. dry cleaning for laundry, catering for meals, restaurants
+       for staffing
+
+
+The staff of all departments and positions can be redeployed as appropriate. In this case, the
+team will receive the proper training to complete the work required.
+
+
+Lodge Recreation and Volunteer Department
+In an emergency, the Recreation and Volunteer Department staff may be redeployed where
+needed as determined by the Director of Client Care Services.
+In an emergency, the following and other tasks as deemed necessary can be performed:
+      One-to-one support for residents at risk
+      Coordinating virtual calls for residents
+      Cleaning of high-touch surfaces
+      Small group programming
+      Hallway programming
+      Assist with meal service delivery and feeding
+      Facilitate outdoor visits
+
+
+Volunteer Coordinator
+      The Volunteer Coordinator will work with the Recreation team by getting her volunteers
+       to help support the resident’s home areas where the recreation assistance is absent by
+       visiting residents, helping provide meal assistance, and working with the recreation team
+       where the Volunteer Coordinator and her volunteers can best help provide support to
+       residents.
+
+
+
+                                                91
+Recreation Manager
+      Helping support all areas of the recreation and volunteer department where required.
+      Communicate with Resident and Family Council
+
+
+Spiritual Life
+The Chaplain and the Pastors will work closely together to support the needs of the residents
+throughout the Village.
+
+
+
+Food and Nutrition Services
+Production Team
+   1. If the staffing level falls below 30-35% for the production team in the kitchen (cooks and
+      utility person), the meal service times will remain the same.
+   2. The General Manager FNS and Production supervisor will review the menu to assess
+      the workload. Adjustments will be made to the menu.
+   3. The menu changes will be communicated with the food service supervisor, and they will
+      communicate the changes with staff and residents by posting them on the floor.
+   4. Emergency menu may be used for making menu adjustments and production.
+
+
+Dietary Aide (SL)
+   1. If the staffing level falls below 30-35% for dietary aides serving on the floor, the meal
+      service on the floor will be moved by half an hour.
+   2. Food Service Supervisor will communicate the change in meal service with the home
+      area with the registered staff, care team, and residents via posting at the dining room
+      entrance.
+   3. Disposable plates, cups, and cutlery from the emergency storage will be used in the
+      home area.
+   4. The staff on the other floor will finish serving in their home area and then move to the
+      other floor and will serve in that home area.
+   5. After finishing serving, the dietary aide will clear and clean both the serveries.
+Dietary Aide (ST)
+   1. If the staffing level falls below 30-35% for dietary aides serving on the floor, the service
+      assignments for Dietary aides will be revised to adjust service sections. For example,
+      currently, the dining room is divided into four sections covered by dietary aides serving
+      on average 12 tables. In the event of a staffing reduction, the sections would be
+      adjusted, and dietary aides will be assigned to serve more residents.
+   2. Food Service Supervisor will communicate the change to frontline team members and
+      support during meal service for smooth service.
+   3. Overtime may be offered to the staff covering the service.
+
+                                                92
+Café Cook & Baker
+      1. If the staffing level falls below 30-35% for Shepherd Village Retail, the assignment of
+         tasks will be reviewed and re-assigned to the staff.
+      2. The Early cook is mainly responsible for preparing food and preparing food from the
+         kitchen, while the late cook stays at the front of the house to prepare food items. The
+         menu will be adjusted to relieve early cooks to be present in the café.
+      3. Food Service Supervisor will communicate the change to frontline team members and
+         support meal service.
+      4. Overtime may be offered to the staff covering the service.
+
+
+Cashier
+      1. If the staffing level falls below 30-35% for Shepherd Village Retail, the assignment of
+         tasks will be reviewed and re-assigned to the staff.
+      2. The General Manager FNS and Retail supervisor will review the menu to assess
+         workload. Adjustments will be made in the menu to relieve the cooks and baker, and
+         they will cover the task for the cashier.
+      3. The retail supervisors will communicate the menu changes to the frontline team and
+         retail customers.
+
+
+Facilities Department
+The staffing contingency plan is to be operationalized when staffing levels reach a critical level
+where operations/services are at risk of interruption to minimize the disruptions to the delivery of
+operations/services.
+         Redeploy the staffing level from the independent buildings (Manor/ Garden) to the
+          retirement home /LTC facilities, which are the critical areas, the most attention is
+          needed.
+         Redeploy extra laundry-aide to housekeeping.
+
+
+
+Lodge Nursing
+RS: Registered Staff
+
+
+DAY SHIFT
+
+                           Regular numbers              30% Reduction             50% Reduction
+                           RS                PSW        RS               PSW      RS             PSW
+ nd
+2 Floor                    2             7              1            4            1              3
+3rd Floor                  2             7              1            4            1              3
+
+                                                   93
+4th Floor                    2            7             1              4           1             3
+5th Floor                    2            7             1              4           1             3
+6th Floor                    2            7             1              4           1             3
+7th Floor                    2            7             1              4           1             3
+Resident Home                2
+Coordinator
+DOC                          1
+ADOC                         3
+Manager Clinical             1
+Informatics
+RAI MDS Backup               1
+Quality & Education          1
+Manager
+Nursing Admin Assist                      1
+Scheduler                                 1
+Nursing Rehab                1
+IPAC Manager
+
+BSO Manager                  1            1
+BSO PSW                      1
+
+Nurse Practitioner           1
+
+Total:                       27           35            10.5           24.5        7.5           17.5
+        Manager to cover units as needed.
+        Use a Registered staff pool for call-ins to cover PSWs duties at 50% reduction Obtain PSW
+         support from housekeeping at 50% reduction, Resident Home Coordinators, and
+         Administrative Staff. Start getting certified PSWs to administer non-controlled substance
+         drugs.
+
+
+EVENING SHIFT
+
+                             Regular Numbers                30% Reduction                50% Reduction
+                             RS           PSW               RS          PSW            RS            PSW
+    nd
+2 Floor                  2            6             1              3           1                2
+3rd Floor                2            6             1              3                            2
+
+                                                  94
+4th Floor                 2              6               1              3              1               2
+5th Floor                 2              6               1              3              0.5             2
+6th Floor                 2              6               1              3              1               2
+7th Floor                 2              6               1              3              1               2
+BSO Nurse                 1
+Nurse Manager             2
+Totals:                   14             30              6.3            17.5           4.5             12.5
+        Manager to cover unit as needed
+        Use our Registered Staff pool for call-ins to cover PSWs Obtain help from other
+         departments as available.
+        Perform only essential services.
+        *All staff registered with CNO were counted as registered staff.
+        Nursing admins were counted as PSWs.
+        *Nursing Rehab, RAI backup will be pulled first to cover units
+        *Nurse Managers will be pulled as a last resort to cover units as their role is critical to
+         supporting the entire building
+
+NIGHT SHIFT
+
+                          Regular Numbers                30% Reduction                 50% Reduction
+                          RS          PSWs               RS          PSWs              RS          PSWs
+
+RS                        1
+    nd
+2 Floor                                  3                              1.5                            1
+    rd
+3 Floor                   1              2               1              1.5            1               1
+    th
+4 Floor                                  3                              1.5                            1
+5th Floor                 1              2               1              1.5            1               1
+6th Floor                                2                              1.5                            1
+7th Floor                 1              2               1              1.5            0.5             1
+Nurse Manager             1
+Total:                    5              14              3.5            8.5            2.5             6
+        Manager to cover unit as needed
+        Use our Registered Staff pool for call-ins to cover PSWs
+        Offer OT
+        Perform only essential services
+        Pair PSWs so they can partner
+
+
+
+Instructions
+                                                       95
+      List the potential vacant positions that would require alternate work assignments
+      Develop a location-specific plan/strategy to provide directions on what to do during
+       vacancies.
+      Identify routines/tasks that must be completed despite the staffing complement for that
+       shift.
+      During outbreaks, cohorting principles to be maintained as much as possible.
+      List all duties that must be done (Priority Tasks) regardless if working with full
+       complement. For example:
+
+
+   o   Residents dressed appropriately
+
+   o   Oral Care
+
+   o   Continence Care
+
+   o   Repositioning
+
+   o   Medications
+
+   o   Time Sensitive Treatments/Wound Care
+
+   o   Nutrition/Hydration
+
+   o   Restriction of large activities
+
+   o   Recreation team to assist with meals/nourishments
+
+   o   Providing additional fluids and nutrients
+
+   o   Assisting with feeding
+
+   o   Recording intake
+
+   o   Progress Notes/Shift to Shift Communication
+
+
+
+People and Culture (including Payroll department)
+ADP payroll/benefits
+   An essential service. If Payroll staff are unable to work, PaC staff are the backups.
+      Payroll can be processed remotely.
+
+
+WSIB, workplace injuries
+   Managers deal directly with staff injuries upon occurrence.
+
+
+                                                   96
+      Claims can be submitted electronically to the Board
+      Director of PaC is back up for the Supervisor of PaC .
+
+
+Finance
+The Finance Department will work from home temporarily on a rotation basis ( eg, two days in
+the office and three days at home) with VPN access to the server. Phone messages will be
+checked daily, with responses provided within 48 hours.
+
+
+Marketing
+The Marketing department will work from home temporarily on a rotation shift. Conducting
+virtual tours with potential clients wanting to view the Terrace and Manor. Phone messages will
+be checked daily, with responses provided within 48 hours.
+
+
+Information Technology
+The IT department will work remotely and be able to log into the server and into individual users’
+PC to provide support. IT will come on-site to respond to emergencies as needed. IT Manager
+can be reached at 905-447-6290.
+
+
+Admin Services/Receptionist
+The receptionist will work onsite depending on the nature of the emergencies. If reception staff
+cannot be onsite, the Receptionist Supervisor will modify the main switchboard phone
+messages as needed based on the communication directive from Senior Management. A
+phone call forwarding system will be activated so that messages can be checked offsite and
+coordinated by the Receptionist Supervisor.
+
+
+Terrace Nursing
+   1. Contact existing staff to offer extra hours/shifts.
+   2. Contact contracted staffing agencies to request staff.
+   3. If no additional staff is available: Modify workload, for example:
+       Have personal laundry done on the night shift.
+          reschedule showers or do sponge baths.
+       Have PSW staff work in pairs to cover multiple floors.
+       Redeploy staff from other departments, i.e., Recreation, Concierge, General
+          Manager, and Village Club, to escort to meals and meal supervision in the dining
+          room and bedmaking.
+
+
+Terrace Recreation
+                                               97
+   1. Call in casual or part-time recreation staff to work extra hours.
+   2. Redeploy volunteers and students of Terrace Recreation to run programs.
+   3. Redeploy other staff from Village Club, Concierge, or General Manager to conduct
+      programs.
+   4. Modify the program calendar schedule as needed by booking extra entertainers, or
+      scheduling programs that can more easily be led by backup staff and volunteers.
+
+
+Village Club Adult Day Program
+   1.   Call in casual or part-time staff and volunteers to work extra hours.
+   2.   Call our contracted staffing agencies to book a PSW to assist in direct care.
+   3.   If not, enough staff are available to work, we may have to close the program temporarily.
+   4.   If the program is closed temporarily, we may need to book extra Terrace staffing to care
+        for residents during the day shift and conduct programs in the resident home areas.
+
+
+Senior Leadership Team
+In the event of an emergency, if these senior leaders are out of office or unreachable, this is the
+prioritized list of delegates to be contacted:
+
+
+Director of Client Care Services
+
+        Director of Care
+        President & CEO
+        SADOC to replace DOC
+
+Director of Corporate Services
+
+        Finance Manager
+        President & CEO (immediate but temporary only)
+
+Director of Facilities
+
+        President & CEO
+        Facility Manager
+
+Director of Spiritual Life & Fund Development
+
+       Lead Pastor CITV
+       Chaplains
+
+
+Director of People & Culture
+
+                                                98
+       President & CEO
+       Director, Corporate Services
+       People & Culture
+
+President & CEO
+   1.    Director of Client Care Services
+   2.    Director of Corporate Services
+   3.    Director of Spiritual Life & Fund Development
+   4.    Director of Facilities
+
+
+
+
+These leaders will work in collaboration with each other and with the Board Chair to resolve any
+issues.
+
+
+
+
+                                               99
+Relocation Arrangements
+
+
+
+
+                          100
+101
+

@@ -1,0 +1,34 @@
+{
+  "timestamp": "/Users/nickdeshpande/epos_project",
+  "statistics": {
+    "PERSON_NAME": 36393,
+    "PHONE_US": 132,
+    "REFERENCE_CODE": 16,
+    "URL": 41,
+    "DATE": 20,
+    "ADDRESS": 30,
+    "EMAIL": 4,
+    "SSN": 2,
+    "CREDIT_CARD": 1,
+    "COMPANY_SUFFIX": 1,
+    "POSTAL_CODE": 149
+  },
+  "total_replacements": 36789,
+  "patterns_used": [
+    "EMAIL",
+    "PHONE_US",
+    "PHONE_INTL",
+    "URL",
+    "SSN",
+    "CREDIT_CARD",
+    "IP_ADDRESS",
+    "FINANCIAL",
+    "DATE",
+    "PERSON_NAME",
+    "COMPANY_SUFFIX",
+    "ADDRESS",
+    "POSTAL_CODE",
+    "REFERENCE_CODE"
+  ],
+  "custom_terms_count": 0
+}

@@ -1,0 +1,20 @@
+EPOS PIPELINE SUMMARY
+==================================================
+
+Input files processed:
+  PDF files: 7
+  Word files: 7
+  Total input files: 14
+
+Output files created:
+  Raw text files: 14
+  Anonymized text files: 15
+
+Directory structure:
+  Raw PDFs: /Users/nickdeshpande/epos_project/training_materials/raw/pdf
+  Raw Word docs: /Users/nickdeshpande/epos_project/training_materials/raw/word
+  Raw text: /Users/nickdeshpande/epos_project/training_materials/processed/all_text/raw_text
+  Anonymized: /Users/nickdeshpande/epos_project/training_materials/processed/all_text/anonymized
+
+Anonymization details:
+  See: /Users/nickdeshpande/epos_project/training_materials/processed/all_text/anonymized/anonymization_summary.txt

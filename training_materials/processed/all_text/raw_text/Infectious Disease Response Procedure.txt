@@ -1,0 +1,73 @@
+Policy Name: Infectious Disease Response Procedure
+Effective: [Insert Date]
+Next Review: [Insert Date]
+Responsibility: Responsible Department: Health Services, Campus Security, Administration
+Procedure Contact: Manager of Campus Safety and Security
+Approval: Director of Facilities and Executive Leadership Team
+Purpose
+This procedure provides direction for responding to an infectious disease case or outbreak within the school community to minimize the risk of transmission and protect students, faculty, staff, and visitors.
+Procedure Statement
+This procedure was developed to outline actions when a student, staff member, or visitor is identified as having a highly communicable disease such as influenza, COVID-19, measles, or another public health threat. It establishes protocols for containment, communication, and coordination with health authorities.
+Scope
+This procedure applies to situations where:
+A student or staff member is diagnosed with a highly communicable disease.
+Public health authorities notify the school of an outbreak in the community.
+Unvaccinated or medically vulnerable individuals may require additional precautions.
+It provides a framework for identifying cases, implementing infection control measures, and responding to public health guidance.
+Emergency Response Definitions
+LEVEL 1 - Enhanced Monitoring: A single case or suspected case is identified. The individual is isolated, close contacts are notified, and basic hygiene measures are reinforced.
+
+LEVEL 2 - Containment Measures: Multiple cases are identified, or public health authorities warn of increased risk. Additional measures such as cohorting, enhanced cleaning, and potential temporary class closures are implemented.
+
+LEVEL 3 - School-Wide Response: A significant outbreak occurs, requiring large-scale interventions such as full campus closure, remote learning, or quarantine measures based on public health directives.
+
+Emergency Notification Procedure
+Report: Any student or staff member experiencing symptoms of a known infectious disease must report to Health Services immediately.
+Assess: Health Services will evaluate the individual and, if necessary, refer them for testing or treatment.
+Notify: If a confirmed case is identified, the Manager of Campus Safety will notify public health authorities and the Executive Leadership Team.
+Activate Response: Based on health authority recommendations, the appropriate response level will be implemented, and communication will be sent via the school’s emergency notification system.
+Responsibilities
+Health Services Team
+Assess individuals presenting symptoms and coordinate medical referrals.
+Implement isolation procedures for confirmed or suspected cases.
+Work with public health authorities to determine contact tracing and response measures.
+Campus Security Team
+Assist with enforcing isolation or quarantine protocols as directed.
+Monitor campus access restrictions if containment measures are required.
+Support logistical needs for remote learning or facility closures.
+Manager of Campus Safety and Security
+Oversee the response and coordinate with health authorities.
+Communicate with the Headmaster and Executive Leadership Team regarding updates.
+Ensure timely information is shared with students, staff, and parents.
+Executive Leadership Team (ELT)
+Provide oversight for policy implementation and decision-making.
+Determine operational changes, including remote learning or campus restrictions.
+Coordinate external communications with parents, media, and regulatory agencies.
+Facilities Team
+Implement enhanced cleaning and disinfection of affected areas.
+Ensure availability of personal protective equipment (PPE) and sanitation supplies.
+Adjust HVAC systems if necessary to improve ventilation.
+Faculty and Staff
+Monitor students for symptoms and report concerns to Health Services.
+Reinforce hygiene protocols, including handwashing and mask use if required.
+Implement cohorting or distancing measures as directed.
+Students
+Follow health and safety instructions, including self-reporting symptoms.
+Comply with isolation or quarantine requirements if instructed.
+Maintain hygiene practices to prevent disease spread.
+Supplementary Duties
+LEVEL 1 Response – Enhanced Monitoring
+Reinforce hand hygiene, respiratory etiquette, and general illness prevention.
+Conduct daily health screenings as needed.
+Isolate symptomatic individuals until they can be evaluated by Health Services.
+LEVEL 2 Response – Containment Measures
+Restrict large gatherings and consider cohorting students to minimize exposure.
+Require mask-wearing in high-risk situations if recommended by health authorities.
+Enhance cleaning and disinfecting protocols in affected areas.
+LEVEL 3 Response – School-Wide Response
+Shift to remote learning if ordered by public health authorities.
+Restrict campus access to essential personnel only.
+Communicate clear timelines and expectations for resumption of normal operations.
+Approval Dates:
+Initial Approval: [Insert Date]
+Revisions: [Insert Date]
