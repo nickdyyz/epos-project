@@ -94,8 +94,8 @@ generated_plans/
 *.tmp
 *.temp
 
-# Git-secret files (unencrypted)
-emplan-web-vite/src/config/passwordConfig.js
+# Git-secret files (unencrypted) - No longer needed
+# emplan-web-vite/src/config/passwordConfig.js
 .gitsecret/keys/random_seed
 !*.secret
 emplan-web-vite/src/config/passwordConfig.js
