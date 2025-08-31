@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import logo from './epos-logo.png';
-import PASSWORD_CONFIG from './config/passwordConfig';
 
 const PasswordProtection = ({ children }) => {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
@@ -10,8 +9,30 @@ const PasswordProtection = ({ children }) => {
   const [isLocked, setIsLocked] = useState(false);
   const [lockoutTime, setLockoutTime] = useState(null);
 
-  // Configuration from config file
-  const { CORRECT_PASSWORD, MAX_ATTEMPTS, LOCKOUT_DURATION, AUTH_KEY, LOCKOUT_KEY } = PASSWORD_CONFIG;
+  // Configuration - uses environment variables in production, fallback for development
+  const getPasswordConfig = () => {
+    // For production builds (Vercel), use environment variables
+    if (import.meta.env.PROD) {
+      return {
+        CORRECT_PASSWORD: import.meta.env.VITE_ACCESS_PASSWORD || 'EPOS2024!',
+        MAX_ATTEMPTS: parseInt(import.meta.env.VITE_MAX_ATTEMPTS) || 5,
+        LOCKOUT_DURATION: parseInt(import.meta.env.VITE_LOCKOUT_DURATION) || 15 * 60 * 1000,
+        AUTH_KEY: import.meta.env.VITE_AUTH_KEY || 'epos_password_authenticated',
+        LOCKOUT_KEY: import.meta.env.VITE_LOCKOUT_KEY || 'epos_lockout_until',
+      };
+    }
+    
+    // For development, use default values
+    return {
+      CORRECT_PASSWORD: 'EPOS2024!',
+      MAX_ATTEMPTS: 5,
+      LOCKOUT_DURATION: 15 * 60 * 1000,
+      AUTH_KEY: 'epos_password_authenticated',
+      LOCKOUT_KEY: 'epos_lockout_until',
+    };
+  };
+
+  const { CORRECT_PASSWORD, MAX_ATTEMPTS, LOCKOUT_DURATION, AUTH_KEY, LOCKOUT_KEY } = getPasswordConfig();
 
   useEffect(() => {
     // Check if user is already authenticated (stored in sessionStorage)
