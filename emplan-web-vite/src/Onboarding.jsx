@@ -374,6 +374,7 @@ function Onboarding({ onComplete, onSignOut, hideHeader = false }) {
     console.log('Current form data when skipping:', formData);
     console.log('Current step when skipping:', currentStep);
     console.log('onComplete callback exists:', !!onComplete);
+    console.log('onComplete callback type:', typeof onComplete);
     console.log('=== END SKIP DEBUG ===');
     
     try {
@@ -386,19 +387,39 @@ function Onboarding({ onComplete, onSignOut, hideHeader = false }) {
       };
       
       console.log('Creating minimal profile:', minimalProfile);
-      await createProfile(minimalProfile);
-      console.log('Minimal profile created successfully');
+      const result = await createProfile(minimalProfile);
+      console.log('Minimal profile created successfully, result:', result);
       
       // Show immediate success feedback
       alert('✅ Minimal profile created successfully! Redirecting to dashboard...');
       
       if (onComplete) {
         console.log('Calling onComplete callback immediately...');
-        onComplete();
-        console.log('onComplete callback executed successfully');
+        console.log('onComplete function:', onComplete.toString());
+        try {
+          onComplete();
+          console.log('onComplete callback executed successfully');
+          
+          // Add a fallback redirect after a short delay
+          setTimeout(() => {
+            console.log('Checking if redirect worked, if not, using fallback...');
+            // Check if we're still on the onboarding page
+            if (window.location.pathname.includes('onboarding') || document.title.includes('Onboarding')) {
+              console.log('Still on onboarding page, using fallback redirect...');
+              window.location.href = '/dashboard';
+            }
+          }, 2000);
+          
+        } catch (callbackError) {
+          console.error('Error in onComplete callback:', callbackError);
+          // Fallback: try to redirect manually
+          console.log('Trying manual redirect due to callback error...');
+          window.location.href = '/dashboard';
+        }
       } else {
         console.error('onComplete callback is not defined!');
         // Fallback: try to redirect manually
+        console.log('Trying manual redirect due to missing callback...');
         window.location.href = '/dashboard';
       }
     } catch (error) {
@@ -406,7 +427,13 @@ function Onboarding({ onComplete, onSignOut, hideHeader = false }) {
       // If creating profile fails, still try to complete onboarding
       if (onComplete) {
         console.log('Profile creation failed, but calling onComplete anyway...');
-        onComplete();
+        try {
+          onComplete();
+          console.log('onComplete callback executed successfully despite profile error');
+        } catch (callbackError) {
+          console.error('Error in onComplete callback after profile error:', callbackError);
+          window.location.href = '/dashboard';
+        }
       } else {
         console.error('onComplete callback not available, trying manual redirect...');
         // Fallback: try to redirect manually

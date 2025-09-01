@@ -1305,10 +1305,25 @@ This plan is currently in draft status and requires final review and approval.`,
       </div>
       <Onboarding 
         onComplete={() => {
+          console.log('=== DASHBOARD ONCOMPLETE DEBUG ===');
           console.log('Onboarding completed - redirecting to dashboard...');
-          setCurrentView('dashboard');
-          // Refresh the profile data without page reload
-          fetchProfile();
+          console.log('Current view before redirect:', currentView);
+          console.log('Setting current view to dashboard...');
+          
+          // Use setTimeout to ensure state update happens
+          setTimeout(() => {
+            console.log('Executing redirect in setTimeout...');
+            setCurrentView('dashboard');
+            console.log('Current view after setCurrentView (in timeout):', currentView);
+            console.log('Calling fetchProfile...');
+            try {
+              fetchProfile();
+              console.log('fetchProfile called successfully');
+            } catch (error) {
+              console.error('Error calling fetchProfile:', error);
+            }
+            console.log('=== END DASHBOARD ONCOMPLETE DEBUG ===');
+          }, 100);
         }}
         onSignOut={handleSignOut}
         hideHeader={true}
