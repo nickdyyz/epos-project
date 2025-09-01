@@ -145,6 +145,21 @@ const SecurePasswordInput = ({ value, onChange, onBlur, error, placeholder, labe
       {error && (
         <p className="text-sm text-red-600">{error}</p>
       )}
+      
+      {successMessage && (
+        <div className="mb-6 p-4 bg-green-50 border border-green-200 rounded-lg">
+          <div className="flex items-center">
+            <svg className="w-5 h-5 text-green-600 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            <p className="text-green-800 font-medium">{successMessage}</p>
+          </div>
+          <div className="mt-2 text-sm text-green-700">
+            <p>📧 Your plan will be delivered by email when ready. Processing times vary.</p>
+            <p>🔒 Remember or securely save the password you used to protect the PDF.</p>
+          </div>
+        </div>
+      )}
     </div>
   );
 };
@@ -384,6 +399,8 @@ function EnhancedPlanForm({ onSubmit, onCancel, user }) {
     return form.scope;
   };
   const [errors, setErrors] = useState({});
+  const [error, setError] = useState('');
+  const [successMessage, setSuccessMessage] = useState('');
   const [submitting, setSubmitting] = useState(false);
   const [hazardSearch, setHazardSearch] = useState('');
   const [expandedCategories, setExpandedCategories] = useState({
@@ -648,16 +665,36 @@ function EnhancedPlanForm({ onSubmit, onCancel, user }) {
         throw new Error(result.error || 'Failed to generate plan');
       }
 
-      // Call the original onSubmit with the generated plan data (excluding password for security)
-      const { pdf_password, ...formDataWithoutPassword } = form;
-      await onSubmit({
-        ...formDataWithoutPassword,
-        generatedPlan: result.plan
-      });
-      
-      // Clear saved form data on successful submission
-      if (user) {
-        localStorage.removeItem(`planForm_${user.username}`);
+      // Handle queue-based response
+      if (result.status === 'queued') {
+        // Show success message for queued plan
+        setSuccessMessage(`✅ ${result.message} Task ID: ${result.task_id}`);
+        
+        // Clear saved form data on successful submission
+        if (user) {
+          localStorage.removeItem(`planForm_${user.username}`);
+        }
+        
+        // Reset form after successful submission
+        setForm(initialFormState);
+        setCurrentStep(1);
+        
+        return;
+      }
+
+      // Handle immediate plan generation (fallback)
+      if (result.plan) {
+        // Call the original onSubmit with the generated plan data (excluding password for security)
+        const { pdf_password, ...formDataWithoutPassword } = form;
+        await onSubmit({
+          ...formDataWithoutPassword,
+          generatedPlan: result.plan
+        });
+        
+        // Clear saved form data on successful submission
+        if (user) {
+          localStorage.removeItem(`planForm_${user.username}`);
+        }
       }
     } catch (error) {
       console.error('Error generating plan:', error);

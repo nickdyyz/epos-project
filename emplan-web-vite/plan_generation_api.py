@@ -31,17 +31,14 @@ from io import BytesIO
 # Add the parent directory to the path so we can import the emergency_plan_generator
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from enhanced_emergency_plan_generator import EnhancedEmergencyPlanGenerator
+from plan_queue_system import plan_queue
 
-app = Flask(__name__)
-CORS(app)  # Enable CORS for all routes
-
-# Initialize the enhanced plan generator
-generator = EnhancedEmergencyPlanGenerator()
+# Initialize the queue system
+plan_queue.start_processing()
 
 @app.route('/api/generate-plan', methods=['POST'])
 def generate_plan():
-    """Generate an emergency plan based on form data."""
+    """Queue a plan generation task for asynchronous processing."""
     try:
         # Get form data from request
         form_data = request.json
@@ -92,40 +89,47 @@ def generate_plan():
         if not any(c in '!@#$%^&*()_+-=[]{}|;:,.<>?' for c in password):
             return jsonify({'error': 'Password must contain at least one special character'}), 400
         
-        # Generate the plan
-        print(f"Generating plan for: {plan_inputs['organization_name']}")
-        plan_content = generator.generate_plan(plan_inputs)
+        # Get user email from form data or use a default
+        user_email = form_data.get('primary_contact_email', 'user@example.com')
         
-        # Save the plan
-        filepath = generator.save_plan(plan_content, plan_inputs)
+        # Add task to queue
+        task_id = plan_queue.add_task(
+            user_email=user_email,
+            organization_name=plan_inputs['organization_name'],
+            plan_inputs=plan_inputs
+        )
         
-        # Create password-protected PDF (password is not logged or stored)
-        pdf_path = create_pdf_from_markdown(plan_content, plan_inputs['pdf_password'], plan_inputs['organization_name'])
-        
-        # Clear password from memory for security
-        plan_inputs['pdf_password'] = '***REDACTED***'
-        
-        # Return the plan data
+        # Return immediate response with task ID
         response = {
             'success': True,
-            'plan': {
-                'content': plan_content,
-                'filepath': str(filepath),
-                'pdf_path': pdf_path,
-                'organization_name': plan_inputs['organization_name'],
-                'organization_type': plan_inputs['organization_type'],
-                'location': plan_inputs['location'],
-                'hazards': plan_inputs['primary_hazards'],
-                'special_considerations': plan_inputs['special_considerations'],
-                'generated_at': datetime.now().isoformat()
-            }
+            'message': 'Your plan has been queued for generation. You will receive an email when it is ready.',
+            'task_id': task_id,
+            'status': 'queued',
+            'organization_name': plan_inputs['organization_name']
         }
         
         return jsonify(response)
         
     except Exception as e:
-        print(f"Error generating plan: {e}")
-        return jsonify({'error': f'Failed to generate plan: {str(e)}'}), 500
+        print(f"Error queuing plan generation: {str(e)}")
+        return jsonify({'error': f'Failed to queue plan generation: {str(e)}'}), 500
+
+@app.route('/api/task-status/<task_id>', methods=['GET'])
+def get_task_status(task_id):
+    """Get the status of a plan generation task."""
+    try:
+        task = plan_queue.get_task_status(task_id)
+        if not task:
+            return jsonify({'error': 'Task not found'}), 404
+        
+        return jsonify({
+            'success': True,
+            'task': task
+        })
+        
+    except Exception as e:
+        print(f"Error getting task status: {str(e)}")
+        return jsonify({'error': f'Failed to get task status: {str(e)}'}), 500
 
 @app.route('/api/health', methods=['GET'])
 def health_check():
