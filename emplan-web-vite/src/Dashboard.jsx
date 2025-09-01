@@ -15,6 +15,8 @@ function Dashboard({ user, plans = [], signOut }) {
   const [plansSectionCollapsed, setPlansSectionCollapsed] = useState(false);
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [showProfileEditor, setShowProfileEditor] = useState(false);
+  const [showWelcomeBanner, setShowWelcomeBanner] = useState(true);
+  const [welcomeBannerExpanded, setWelcomeBannerExpanded] = useState(false);
   
   // Personal information editing state
   const [personalInfo, setPersonalInfo] = useState({
@@ -465,6 +467,90 @@ This plan is currently in draft status and requires final review and approval.`,
           Create, manage, and maintain comprehensive emergency plans and related documentation for your organization
         </p>
       </div>
+
+      {/* Welcome Banner */}
+      {showWelcomeBanner && (
+        <div className="bg-blue-50 border border-blue-200 rounded-xl p-6">
+          <div className="flex items-start justify-between">
+            <div className="flex items-center">
+              <div className="flex-shrink-0">
+                <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+              </div>
+              <div className="ml-3">
+                <h3 className="text-lg font-medium text-blue-900">
+                  Welcome to EPOS
+                </h3>
+                {!welcomeBannerExpanded && (
+                  <p className="text-blue-700 mt-1">
+                    Welcome to the Emergency Plan Operating System (EPOS), where you can create a comprehensive emergency plan for your organization.
+                  </p>
+                )}
+              </div>
+            </div>
+            <div className="flex items-center space-x-2">
+              <button
+                onClick={() => setWelcomeBannerExpanded(!welcomeBannerExpanded)}
+                className="text-blue-600 hover:text-blue-800 transition-colors"
+              >
+                {welcomeBannerExpanded ? (
+                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 15l7-7 7 7" />
+                  </svg>
+                ) : (
+                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                  </svg>
+                )}
+              </button>
+              <button
+                onClick={() => setShowWelcomeBanner(false)}
+                className="text-blue-600 hover:text-blue-800 transition-colors"
+              >
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              </button>
+            </div>
+          </div>
+          
+          {welcomeBannerExpanded && (
+            <div className="mt-4 text-blue-800 space-y-3">
+              <p>
+                We designed EPOS to assist organizations to create a relevant emergency plan using AI.
+              </p>
+              <p>
+                To get started, you'll need to verify your email. This ensures that you can securely access your plan and that we can send it to you.
+              </p>
+              <p>
+                At EPOS, your data security and privacy are our top priorities. All your information is kept strictly confidential and is encrypted both when it's stored and when it's being transmitted. Additionally, any plans you create are protected with a unique password that you set, giving you complete control over who can access your information.
+              </p>
+              <p>
+                To learn more about how we protect your data, please review our{' '}
+                <a 
+                  href="/privacy-policy" 
+                  className="text-blue-600 hover:text-blue-800 underline font-medium"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Privacy Policy
+                </a>{' '}
+                and{' '}
+                <a 
+                  href="/terms-of-use" 
+                  className="text-blue-600 hover:text-blue-800 underline font-medium"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Terms of Use
+                </a>
+                .
+              </p>
+            </div>
+          )}
+        </div>
+      )}
 
       {/* Quick Stats */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
