@@ -373,7 +373,11 @@ function Onboarding({ onComplete, onSignOut, hideHeader = false }) {
     console.log('=== SKIP DEBUG ===');
     console.log('Current form data when skipping:', formData);
     console.log('Current step when skipping:', currentStep);
+    console.log('onComplete callback exists:', !!onComplete);
     console.log('=== END SKIP DEBUG ===');
+    
+    setLoading(true);
+    
     try {
       // Create a minimal profile when user skips onboarding
       const minimalProfile = {
@@ -393,6 +397,11 @@ function Onboarding({ onComplete, onSignOut, hideHeader = false }) {
       if (onComplete) {
         console.log('Calling onComplete callback immediately...');
         onComplete();
+        console.log('onComplete callback executed successfully');
+      } else {
+        console.error('onComplete callback is not defined!');
+        // Fallback: try to redirect manually
+        window.location.href = '/dashboard';
       }
     } catch (error) {
       console.error('Error creating minimal profile:', error);
@@ -400,7 +409,13 @@ function Onboarding({ onComplete, onSignOut, hideHeader = false }) {
       if (onComplete) {
         console.log('Profile creation failed, but calling onComplete anyway...');
         onComplete();
+      } else {
+        console.error('onComplete callback not available, trying manual redirect...');
+        // Fallback: try to redirect manually
+        window.location.href = '/dashboard';
       }
+    } finally {
+      setLoading(false);
     }
   };
 
@@ -1749,9 +1764,14 @@ function Onboarding({ onComplete, onSignOut, hideHeader = false }) {
                   <button
                     type="button"
                     onClick={handleSkip}
-                    className="px-6 py-3 rounded-lg font-medium text-gray-600 hover:text-gray-800 hover:bg-gray-100 transition-all duration-200"
+                    disabled={loading}
+                    className={`px-6 py-3 rounded-lg font-medium transition-all duration-200 ${
+                      loading
+                        ? 'bg-gray-100 text-gray-400 cursor-not-allowed'
+                        : 'text-gray-600 hover:text-gray-800 hover:bg-gray-100'
+                    }`}
                   >
-                    Skip for Now
+                    {loading ? 'Skipping...' : 'Skip for Now'}
                   </button>
                 )}
 

@@ -1305,9 +1305,10 @@ This plan is currently in draft status and requires final review and approval.`,
       </div>
       <Onboarding 
         onComplete={() => {
+          console.log('Onboarding completed - redirecting to dashboard...');
           setCurrentView('dashboard');
-          // Refresh the profile data
-          window.location.reload();
+          // Refresh the profile data without page reload
+          fetchProfile();
         }}
         onSignOut={handleSignOut}
         hideHeader={true}
