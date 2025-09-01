@@ -111,7 +111,7 @@ function ProfileEditor({ onCancel, onSave }) {
     assemblyAreas: '',
   });
 
-  const totalSteps = 6;
+  const totalSteps = 5;
 
   useEffect(() => {
     const getUser = async () => {
@@ -407,7 +407,7 @@ function ProfileEditor({ onCancel, onSave }) {
         return formData.industry;
       case 2:
         return formData.primaryContactName && formData.primaryContactEmail;
-                    case 3:
+      case 3:
         // City is always required
         if (!formData.city) return false;
         
@@ -428,11 +428,9 @@ function ProfileEditor({ onCancel, onSave }) {
         // City-only mode only requires city and country
         return true;
       case 4:
-        return true; // Optional fields
+        return true; // Emergency Services step - all fields are optional
       case 5:
-        return true; // All fields are optional in Emergency Services step
-      case 6:
-        return true; // Summary step - always valid for review
+        return true; // Review step - always valid for review
       default:
         return false;
     }
@@ -1262,78 +1260,7 @@ function ProfileEditor({ onCancel, onSave }) {
     </div>
   );
 
-  const renderStep4 = () => (
-    <div className="space-y-6">
-      <div>
-        <h3 className="text-lg font-semibold text-gray-900 mb-4">Building Information</h3>
-        <p className="text-gray-600 mb-6">Tell us about your building structure.</p>
-      </div>
-      
-      <div className="space-y-4">
-        <div>
-          <label className="block text-sm font-medium text-gray-700 mb-2">
-            Building Type
-          </label>
-          <select
-            name="buildingType"
-            value={formData.buildingType}
-            onChange={handleInputChange}
-            className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-          >
-            <option value="">Select building type</option>
-            <option value="SingleStory">Single Story</option>
-            <option value="MultiStory">Multi Story</option>
-            <option value="HighRise">High Rise</option>
-            <option value="Campus">Campus</option>
-            <option value="Industrial">Industrial</option>
-            <option value="Other">Other</option>
-          </select>
-        </div>
-
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div>
-            <label className="block text-sm font-medium text-gray-700 mb-2">
-              Number of Floors
-            </label>
-            <input
-              type="number"
-              name="numberOfFloors"
-              value={formData.numberOfFloors}
-              onChange={handleInputChange}
-              className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-              placeholder="e.g., 5"
-            />
-          </div>
-          <div>
-            <label className="block text-sm font-medium text-gray-700 mb-2">
-              Total Occupancy
-            </label>
-            <input
-              type="number"
-              name="totalOccupancy"
-              value={formData.totalOccupancy}
-              onChange={handleInputChange}
-              className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-              placeholder="e.g., 100"
-            />
-          </div>
-          <div>
-            <label className="block text-sm font-medium text-gray-700 mb-2">
-              Building Age (years)
-            </label>
-            <input
-              type="number"
-              name="buildingAge"
-              value={formData.buildingAge}
-              onChange={handleInputChange}
-              className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-              placeholder="e.g., 25"
-            />
-          </div>
-        </div>
-      </div>
-    </div>
-  );
+  // Step 4 removed - building information is now part of Step 3 (Location Information)
 
   const renderStep5 = () => (
     <div className="space-y-6">
@@ -1687,11 +1614,9 @@ function ProfileEditor({ onCancel, onSave }) {
       case 3:
         return renderStep3();
       case 4:
-        return renderStep4();
+        return renderStep5(); // Step 4 removed, show Emergency Services
       case 5:
-        return renderStep5();
-      case 6:
-        return renderStep6();
+        return renderStep6(); // Review step
       default:
         return renderStep1();
     }
@@ -1788,7 +1713,7 @@ function ProfileEditor({ onCancel, onSave }) {
               </button>
 
               <div className="flex space-x-4">
-                {currentStep === 5 ? (
+                {currentStep === 4 ? (
                   <button
                     type="button"
                     onClick={(e) => {
@@ -1801,7 +1726,7 @@ function ProfileEditor({ onCancel, onSave }) {
                   >
                     Review & Save Profile
                   </button>
-                ) : currentStep === 6 ? (
+                ) : currentStep === 5 ? (
                   <button
                     type="submit"
                     disabled={isSubmitting}
