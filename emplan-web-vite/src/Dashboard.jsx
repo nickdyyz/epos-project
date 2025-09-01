@@ -286,6 +286,8 @@ This plan is currently in draft status and requires final review and approval.`,
     setShowProfileEditor(false);
     // Refresh the profile to show updated data
     fetchProfile();
+    // Navigate back to dashboard to show the updated profile
+    setCurrentView('dashboard');
     alert('✅ Organization profile updated successfully!');
   };
 
