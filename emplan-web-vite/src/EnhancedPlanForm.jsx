@@ -47,6 +47,11 @@ const SecurePasswordInput = ({ value, onChange, onBlur, error, placeholder, labe
 
   const handlePasswordChange = (e) => {
     const newPassword = e.target.value;
+    console.log('SecurePasswordInput handlePasswordChange:', {
+      name: e.target.name,
+      value: newPassword,
+      event: e
+    });
     onChange(e);
     
     if (newPassword) {
@@ -79,6 +84,7 @@ const SecurePasswordInput = ({ value, onChange, onBlur, error, placeholder, labe
       <div className="relative">
         <input
           type={showPassword ? 'text' : 'password'}
+          name={name}
           value={value}
           onChange={handlePasswordChange}
           onBlur={onBlur}
