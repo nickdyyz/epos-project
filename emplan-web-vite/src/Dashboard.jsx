@@ -373,7 +373,9 @@ This plan is currently in draft status and requires final review and approval.`,
       generatedPlan: planData.generatedPlan // Store the generated plan content
     };
     setUserPlans(prev => [newPlan, ...prev]);
-    setCurrentView('dashboard');
+    // Set the selected plan and navigate to view-plan to show the generated plan
+    setSelectedPlan(newPlan);
+    setCurrentView('view-plan');
   };
 
   // Chatbot functionality commented out for version 1
