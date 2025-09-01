@@ -24,6 +24,15 @@ function CustomAuth() {
   // Organization profile hook
   const { profile, loading: profileLoading, isOnboardingComplete, fetchProfile, backendStatus } = useOrganizationProfileUnified();
 
+  // Track profile state changes
+  useEffect(() => {
+    console.log('🔄 PROFILE STATE CHANGED:');
+    console.log('- profile:', profile);
+    console.log('- profileLoading:', profileLoading);
+    console.log('- isOnboardingComplete:', isOnboardingComplete);
+    console.log('- showOnboarding:', showOnboarding);
+  }, [profile, profileLoading, isOnboardingComplete, showOnboarding]);
+
   // Check if user is already authenticated
   useEffect(() => {
     console.log('CustomAuth: Component mounted, checking auth state...');
@@ -327,13 +336,18 @@ function CustomAuth() {
   };
 
   const handleOnboardingComplete = async () => {
-    console.log('handleOnboardingComplete called - fetching profile...');
+    console.log('🚀 handleOnboardingComplete called - fetching profile...');
+    console.log('Current state before fetch:');
+    console.log('- showOnboarding:', showOnboarding);
+    console.log('- profile:', profile);
+    console.log('- isOnboardingComplete:', isOnboardingComplete);
     
     // Force a fresh profile fetch
     try {
       const freshProfile = await fetchProfile();
-      console.log('Fresh profile fetched:', freshProfile);
-      console.log('Profile fetched, setting showOnboarding to false');
+      console.log('✅ Fresh profile fetched:', freshProfile);
+      console.log('✅ Fresh profile isOnboardingComplete:', freshProfile?.isOnboardingComplete);
+      console.log('🔄 Setting showOnboarding to false...');
       setShowOnboarding(false);
       
       // Add a small delay to ensure state updates are processed
@@ -342,11 +356,13 @@ function CustomAuth() {
         console.log('Profile after fetch:', profile);
         console.log('Fresh profile result:', freshProfile);
         console.log('Is onboarding complete after fetch:', isOnboardingComplete);
+        console.log('Show onboarding state:', showOnboarding);
         console.log('=== END DEBUG ===');
       }, 1000);
     } catch (error) {
-      console.error('Error fetching profile after onboarding:', error);
+      console.error('❌ Error fetching profile after onboarding:', error);
       // Even if fetch fails, try to hide onboarding
+      console.log('🔄 Setting showOnboarding to false due to error...');
       setShowOnboarding(false);
     }
   };
@@ -364,26 +380,38 @@ function CustomAuth() {
   }
 
   if (user) {
-    console.log('=== PROFILE STATE DEBUG ===');
+    console.log('=== CUSTOMAUTH RENDER DEBUG ===');
+    console.log('Component re-rendering with user:', user);
     console.log('Profile:', profile);
     console.log('Profile loading:', profileLoading);
     console.log('Is onboarding complete:', isOnboardingComplete);
     console.log('Show onboarding:', showOnboarding);
-    console.log('=== END DEBUG ===');
+    console.log('Profile exists:', !!profile);
+    console.log('Profile isOnboardingComplete:', profile?.isOnboardingComplete);
+    console.log('=== END RENDER DEBUG ===');
     
     // Check if user needs to complete onboarding
     if (!profileLoading && !profile && !showOnboarding) {
-      console.log('No profile found, setting showOnboarding to true');
+      console.log('🔴 CONDITION 1: No profile found, setting showOnboarding to true');
       setShowOnboarding(true);
     } else if (!profileLoading && profile && !profile.isOnboardingComplete && !showOnboarding) {
-      console.log('Profile exists but onboarding not complete, setting showOnboarding to true');
+      console.log('🔴 CONDITION 2: Profile exists but onboarding not complete, setting showOnboarding to true');
       setShowOnboarding(true);
+    } else {
+      console.log('🟢 No onboarding conditions met - profile state is:', {
+        profileLoading,
+        hasProfile: !!profile,
+        profileIsOnboardingComplete: profile?.isOnboardingComplete,
+        showOnboarding
+      });
     }
     
     if (showOnboarding) {
+      console.log('🔄 RENDERING: Onboarding component');
       return <Onboarding onComplete={handleOnboardingComplete} onSignOut={handleSignOut} />;
     }
     
+    console.log('🔄 RENDERING: Dashboard component');
     return <Dashboard user={user} plans={[]} signOut={handleSignOut} />;
   }
 

@@ -369,7 +369,7 @@ function Onboarding({ onComplete, onSignOut, hideHeader = false }) {
   };
 
   const handleSkip = async () => {
-    console.log('Skip button clicked - creating minimal profile...');
+    console.log('🎯 SKIP BUTTON CLICKED - creating minimal profile...');
     console.log('=== SKIP DEBUG ===');
     console.log('Current form data when skipping:', formData);
     console.log('Current step when skipping:', currentStep);
@@ -391,56 +391,56 @@ function Onboarding({ onComplete, onSignOut, hideHeader = false }) {
         country: 'Canada',
       };
       
-      console.log('Creating minimal profile:', minimalProfile);
+      console.log('📝 Creating minimal profile:', minimalProfile);
       const result = await createProfile(minimalProfile);
-      console.log('Minimal profile created successfully, result:', result);
+      console.log('✅ Minimal profile created successfully, result:', result);
       
       // Show immediate success feedback
       alert('✅ Minimal profile created successfully! Redirecting to dashboard...');
       
       if (onComplete) {
-        console.log('Calling onComplete callback immediately...');
+        console.log('🚀 Calling onComplete callback immediately...');
         console.log('onComplete function:', onComplete.toString());
         try {
           onComplete();
-          console.log('onComplete callback executed successfully');
+          console.log('✅ onComplete callback executed successfully');
           
           // Add a fallback redirect after a short delay
           setTimeout(() => {
-            console.log('Checking if redirect worked, if not, using fallback...');
+            console.log('⏰ Checking if redirect worked, if not, using fallback...');
             // Check if we're still on the onboarding page
             if (window.location.pathname.includes('onboarding') || document.title.includes('Onboarding')) {
-              console.log('Still on onboarding page, using fallback redirect...');
+              console.log('🔄 Still on onboarding page, using fallback redirect...');
               window.location.href = '/dashboard';
             }
           }, 2000);
           
         } catch (callbackError) {
-          console.error('Error in onComplete callback:', callbackError);
+          console.error('❌ Error in onComplete callback:', callbackError);
           // Fallback: try to redirect manually
-          console.log('Trying manual redirect due to callback error...');
+          console.log('🔄 Trying manual redirect due to callback error...');
           window.location.href = '/dashboard';
         }
       } else {
-        console.error('onComplete callback is not defined!');
+        console.error('❌ onComplete callback is not defined!');
         // Fallback: try to redirect manually
-        console.log('Trying manual redirect due to missing callback...');
+        console.log('🔄 Trying manual redirect due to missing callback...');
         window.location.href = '/dashboard';
       }
     } catch (error) {
-      console.error('Error creating minimal profile:', error);
+      console.error('❌ Error creating minimal profile:', error);
       // If creating profile fails, still try to complete onboarding
       if (onComplete) {
-        console.log('Profile creation failed, but calling onComplete anyway...');
+        console.log('🔄 Profile creation failed, but calling onComplete anyway...');
         try {
           onComplete();
-          console.log('onComplete callback executed successfully despite profile error');
+          console.log('✅ onComplete callback executed successfully despite profile error');
         } catch (callbackError) {
-          console.error('Error in onComplete callback after profile error:', callbackError);
+          console.error('❌ Error in onComplete callback after profile error:', callbackError);
           window.location.href = '/dashboard';
         }
       } else {
-        console.error('onComplete callback not available, trying manual redirect...');
+        console.error('❌ onComplete callback not available, trying manual redirect...');
         // Fallback: try to redirect manually
         window.location.href = '/dashboard';
       }
