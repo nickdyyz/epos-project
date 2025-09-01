@@ -4,7 +4,8 @@ import uuid
 import time
 import threading
 import sqlite3
-import smtplib
+import boto3
+from botocore.exceptions import ClientError
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from email.mime.base import MIMEBase
@@ -26,15 +27,18 @@ class PlanQueueSystem:
         self.should_stop = False
         self._init_database()
         
-        # Email configuration
+        # Email configuration for AWS SES
         self.email_config = {
-            'smtp_server': os.getenv('SMTP_SERVER', 'smtp.gmail.com'),
-            'smtp_port': int(os.getenv('SMTP_PORT', '587')),
-            'username': os.getenv('EMAIL_USERNAME', ''),
-            'password': os.getenv('EMAIL_PASSWORD', ''),
-            'from_email': os.getenv('FROM_EMAIL', 'noreply@epos-project.com'),
-            'from_name': os.getenv('FROM_NAME', 'EPOS Emergency Plan System')
+            'from_email': 'training@lesconsulting.org',
+            'from_name': 'EPOS Emergency Plan System',
+            'reply_to': 'training@lesconsulting.org'
         }
+        
+        # Initialize AWS SES client
+        self.ses_client = boto3.client('ses', region_name='us-east-1')
+        
+        # Verify SES configuration
+        self._verify_ses_config()
         
     def _init_database(self):
         """Initialize the SQLite database for storing queue tasks"""
@@ -186,13 +190,45 @@ class PlanQueueSystem:
         conn.commit()
         conn.close()
     
+    def _verify_ses_config(self):
+        """Verify AWS SES configuration and email verification status"""
+        try:
+            # Check if the from email is verified
+            response = self.ses_client.get_send_quota()
+            print(f"AWS SES Quota: {response['MaxSendRate']} emails per second, {response['Max24HourSend']} emails per day")
+            
+            # Check verification status of the from email
+            try:
+                response = self.ses_client.get_identity_verification_attributes(
+                    Identities=[self.email_config['from_email']]
+                )
+                
+                if self.email_config['from_email'] in response['VerificationAttributes']:
+                    status = response['VerificationAttributes'][self.email_config['from_email']]['VerificationStatus']
+                    if status == 'Success':
+                        print(f"✅ Email {self.email_config['from_email']} is verified in AWS SES")
+                    else:
+                        print(f"⚠️ Email {self.email_config['from_email']} verification status: {status}")
+                else:
+                    print(f"❌ Email {self.email_config['from_email']} not found in SES verification attributes")
+                    
+            except ClientError as e:
+                print(f"⚠️ Could not verify email status: {str(e)}")
+                
+        except ClientError as e:
+            print(f"❌ AWS SES configuration error: {str(e)}")
+            print("Please ensure AWS credentials are properly configured and SES permissions are granted")
+        except Exception as e:
+            print(f"❌ Unexpected error verifying SES config: {str(e)}")
+    
     def send_plan_email(self, task: Dict, pdf_path: str) -> bool:
-        """Send the completed plan via email"""
+        """Send the completed plan via email using AWS SES"""
         try:
             # Create email message
             msg = MIMEMultipart()
             msg['From'] = f"{self.email_config['from_name']} <{self.email_config['from_email']}>"
             msg['To'] = task['user_email']
+            msg['Reply-To'] = self.email_config['reply_to']
             msg['Subject'] = f"Your Emergency Plan for {task['organization_name']} is Ready"
             
             # Email body
@@ -210,6 +246,8 @@ Plan Details:
 - Status: Ready for download
 
 The password-protected PDF is attached to this email.
+
+If you have any questions or need assistance, please reply to this email.
 
 Best regards,
 EPOS Emergency Plan System
@@ -229,18 +267,50 @@ EPOS Emergency Plan System
             )
             msg.attach(part)
             
-            # Send email
-            server = smtplib.SMTP(self.email_config['smtp_server'], self.email_config['smtp_port'])
-            server.starttls()
-            server.login(self.email_config['username'], self.email_config['password'])
-            server.send_message(msg)
-            server.quit()
+            # Send email using AWS SES
+            response = self.ses_client.send_raw_email(
+                Source=self.email_config['from_email'],
+                Destinations=[task['user_email']],
+                RawMessage={'Data': msg.as_string()}
+            )
             
-            print(f"Email sent successfully to {task['user_email']}")
+            print(f"Email sent successfully to {task['user_email']} via AWS SES. Message ID: {response['MessageId']}")
             return True
             
+        except ClientError as e:
+            print(f"Failed to send email to {task['user_email']} via AWS SES: {str(e)}")
+            return False
         except Exception as e:
-            print(f"Failed to send email to {task['user_email']}: {str(e)}")
+            print(f"Unexpected error sending email to {task['user_email']}: {str(e)}")
+            return False
+    
+    def send_notification_email(self, to_email: str, subject: str, body: str) -> bool:
+        """Send a notification email using AWS SES"""
+        try:
+            # Create email message
+            msg = MIMEMultipart()
+            msg['From'] = f"{self.email_config['from_name']} <{self.email_config['from_email']}>"
+            msg['To'] = to_email
+            msg['Reply-To'] = self.email_config['reply_to']
+            msg['Subject'] = subject
+            
+            msg.attach(MIMEText(body, 'plain'))
+            
+            # Send email using AWS SES
+            response = self.ses_client.send_raw_email(
+                Source=self.email_config['from_email'],
+                Destinations=[to_email],
+                RawMessage={'Data': msg.as_string()}
+            )
+            
+            print(f"Notification email sent successfully to {to_email} via AWS SES. Message ID: {response['MessageId']}")
+            return True
+            
+        except ClientError as e:
+            print(f"Failed to send notification email to {to_email} via AWS SES: {str(e)}")
+            return False
+        except Exception as e:
+            print(f"Unexpected error sending notification email to {to_email}: {str(e)}")
             return False
     
     def start_processing(self):

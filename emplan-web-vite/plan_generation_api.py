@@ -131,6 +131,39 @@ def get_task_status(task_id):
         print(f"Error getting task status: {str(e)}")
         return jsonify({'error': f'Failed to get task status: {str(e)}'}), 500
 
+@app.route('/api/send-notification', methods=['POST'])
+def send_notification():
+    """Send a notification email using AWS SES"""
+    try:
+        data = request.json
+        
+        if not data:
+            return jsonify({'error': 'No data provided'}), 400
+        
+        required_fields = ['to_email', 'subject', 'body']
+        for field in required_fields:
+            if not data.get(field):
+                return jsonify({'error': f'Missing required field: {field}'}), 400
+        
+        # Send notification email
+        success = plan_queue.send_notification_email(
+            to_email=data['to_email'],
+            subject=data['subject'],
+            body=data['body']
+        )
+        
+        if success:
+            return jsonify({
+                'success': True,
+                'message': 'Notification email sent successfully'
+            })
+        else:
+            return jsonify({'error': 'Failed to send notification email'}), 500
+        
+    except Exception as e:
+        print(f"Error sending notification: {str(e)}")
+        return jsonify({'error': f'Failed to send notification: {str(e)}'}), 500
+
 @app.route('/api/health', methods=['GET'])
 def health_check():
     """Health check endpoint."""
