@@ -4,7 +4,7 @@ import { useHazardIntelligence } from './hooks/useHazardIntelligence';
 
 // Tag Component for displaying selected items
 // Secure Password Input Component
-const SecurePasswordInput = ({ value, onChange, onBlur, error, placeholder, label, required = false }) => {
+const SecurePasswordInput = ({ value, onChange, onBlur, error, placeholder, label, name, required = false }) => {
   const [showPassword, setShowPassword] = useState(false);
   const [passwordStrength, setPasswordStrength] = useState({ score: 0, feedback: [] });
 
