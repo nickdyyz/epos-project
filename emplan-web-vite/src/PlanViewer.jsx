@@ -5,6 +5,12 @@ function PlanViewer({ plan, onBack, onDownload }) {
   const [showEmailModal, setShowEmailModal] = useState(false);
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
+  
+  // Debug function to log password changes
+  const handlePasswordChange = (e) => {
+    console.log('Password change event:', e.target.value);
+    setPassword(e.target.value);
+  };
   const [isGeneratingPDF, setIsGeneratingPDF] = useState(false);
   const [emailSent, setEmailSent] = useState(false);
 
@@ -169,12 +175,26 @@ function PlanViewer({ plan, onBack, onDownload }) {
               
               {/* Password Input for PDF Download */}
               <div className="flex items-center space-x-2">
+                {/* Test input to debug */}
                 <input
                   type="text"
+                  placeholder="Test Input"
+                  onChange={(e) => console.log('Test input:', e.target.value)}
+                  className="px-3 py-2 border border-red-300 rounded-md text-sm"
+                  style={{ width: '100px' }}
+                />
+                <input
+                  type="text"
+                  name="pdf_password"
                   value={password}
-                  onChange={(e) => setPassword(e.target.value)}
+                  onChange={handlePasswordChange}
+                  onFocus={() => console.log('Password input focused')}
+                  onBlur={() => console.log('Password input blurred')}
+                  onKeyDown={(e) => console.log('Password keydown:', e.key)}
                   placeholder="PDF Password"
                   className="px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-purple-500"
+                  autoComplete="off"
+                  style={{ pointerEvents: 'auto', zIndex: 10 }}
                 />
                 <button
                   type="button"
@@ -345,7 +365,10 @@ function PlanViewer({ plan, onBack, onDownload }) {
                     type="email"
                     id="email"
                     value={email}
-                    onChange={(e) => setEmail(e.target.value)}
+                    onChange={(e) => {
+                      console.log('Email change event:', e.target.value);
+                      setEmail(e.target.value);
+                    }}
                     className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
                     placeholder="Enter your email address"
                     required
@@ -360,11 +383,13 @@ function PlanViewer({ plan, onBack, onDownload }) {
                     <input
                       type="text"
                       id="password"
+                      name="pdf_password"
                       value={password}
-                      onChange={(e) => setPassword(e.target.value)}
+                      onChange={handlePasswordChange}
                       className="flex-1 px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
                       placeholder="Enter password for PDF"
                       required
+                      autoComplete="off"
                     />
                     <button
                       type="button"

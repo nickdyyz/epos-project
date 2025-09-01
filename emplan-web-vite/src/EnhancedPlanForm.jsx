@@ -481,11 +481,28 @@ function EnhancedPlanForm({ onSubmit, onCancel, user }) {
     const step = FORM_STEPS[stepIndex];
     const newErrors = {};
 
-    // Skip validation for review step
+    // Special validation for review step (includes password validation)
     if (step.id === 'review') {
-      return true;
+      // Validate password on review step
+      if (!form.pdf_password || !form.pdf_password.trim()) {
+        newErrors.pdf_password = 'PDF password is required';
+      } else if (form.pdf_password.length < 8) {
+        newErrors.pdf_password = 'Password must be at least 8 characters long';
+      } else if (!/[a-z]/.test(form.pdf_password)) {
+        newErrors.pdf_password = 'Password must contain at least one lowercase letter';
+      } else if (!/[A-Z]/.test(form.pdf_password)) {
+        newErrors.pdf_password = 'Password must contain at least one uppercase letter';
+      } else if (!/[0-9]/.test(form.pdf_password)) {
+        newErrors.pdf_password = 'Password must contain at least one number';
+      } else if (!/[^A-Za-z0-9]/.test(form.pdf_password)) {
+        newErrors.pdf_password = 'Password must contain at least one special character';
+      }
+      
+      setErrors(newErrors);
+      return Object.keys(newErrors).length === 0;
     }
 
+    // Regular validation for other steps
     step.fields.forEach(field => {
       if (field === 'organization_name' && !form[field].trim()) {
         newErrors[field] = 'Organization name is required';
@@ -501,21 +518,6 @@ function EnhancedPlanForm({ onSubmit, onCancel, user }) {
       }
       if (field === 'primary_hazards' && form[field].length === 0) {
         newErrors[field] = 'Please select at least one hazard';
-      }
-      if (field === 'pdf_password') {
-        if (!form[field].trim()) {
-          newErrors[field] = 'PDF password is required';
-        } else if (form[field].length < 8) {
-          newErrors[field] = 'Password must be at least 8 characters long';
-        } else if (!/[a-z]/.test(form[field])) {
-          newErrors[field] = 'Password must contain at least one lowercase letter';
-        } else if (!/[A-Z]/.test(form[field])) {
-          newErrors[field] = 'Password must contain at least one uppercase letter';
-        } else if (!/[0-9]/.test(form[field])) {
-          newErrors[field] = 'Password must contain at least one number';
-        } else if (!/[^A-Za-z0-9]/.test(form[field])) {
-          newErrors[field] = 'Password must contain at least one special character';
-        }
       }
     });
 
@@ -658,6 +660,18 @@ function EnhancedPlanForm({ onSubmit, onCancel, user }) {
       }).length;
     }, 0);
     return Math.round((filledFields / totalFields) * 100);
+  };
+
+  // Check if password is valid for plan generation
+  const isPasswordValid = () => {
+    const password = form.pdf_password;
+    if (!password || !password.trim()) return false;
+    if (password.length < 8) return false;
+    if (!/[a-z]/.test(password)) return false;
+    if (!/[A-Z]/.test(password)) return false;
+    if (!/[0-9]/.test(password)) return false;
+    if (!/[^A-Za-z0-9]/.test(password)) return false;
+    return true;
   };
 
   const showTooltip = (title, content) => {
@@ -1316,9 +1330,27 @@ function EnhancedPlanForm({ onSubmit, onCancel, user }) {
             </div>
 
             {/* PDF Password Section */}
-            <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-6">
-              <h3 className="text-lg font-semibold text-yellow-900 mb-4">PDF Security</h3>
-              <p className="text-yellow-700 mb-4">
+            <div className={`border rounded-lg p-6 ${isPasswordValid() ? 'bg-green-50 border-green-200' : 'bg-yellow-50 border-yellow-200'}`}>
+              <div className="flex items-center justify-between mb-4">
+                <h3 className="text-lg font-semibold text-gray-900">PDF Security</h3>
+                {isPasswordValid() ? (
+                  <div className="flex items-center text-green-700">
+                    <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                    Password Set
+                  </div>
+                ) : (
+                  <div className="flex items-center text-yellow-700">
+                    <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-2.5L13.732 4c-.77-.833-1.964-.833-2.732 0L3.732 16.5c-.77.833.192 2.5 1.732 2.5z" />
+                    </svg>
+                    Password Required
+                  </div>
+                )}
+              </div>
+              
+              <p className={`mb-4 ${isPasswordValid() ? 'text-green-700' : 'text-yellow-700'}`}>
                 Your emergency plan will be generated as a password-protected PDF for security. 
                 Please set a strong password that you will remember. This password will be required to open the PDF file.
               </p>
@@ -1336,21 +1368,36 @@ function EnhancedPlanForm({ onSubmit, onCancel, user }) {
                 />
               </div>
               
-              <div className="mt-4 p-4 bg-yellow-100 rounded-lg">
-                <h4 className="font-semibold text-yellow-800 mb-2">Security Reminders:</h4>
-                <ul className="text-sm text-yellow-700 space-y-1">
-                  <li>• Keep your password secure and do not share it with unauthorized individuals</li>
-                  <li>• Store your password in a secure password manager</li>
-                  <li>• The password cannot be recovered if lost - you will need to regenerate the plan</li>
-                  <li>• This password will be used to protect sensitive emergency planning information</li>
-                </ul>
+              <div className={`mt-4 p-4 rounded-lg ${isPasswordValid() ? 'bg-green-100' : 'bg-yellow-100'}`}>
+                <h4 className={`font-semibold mb-2 ${isPasswordValid() ? 'text-green-800' : 'text-yellow-800'}`}>
+                  {isPasswordValid() ? 'Security Status:' : 'Security Reminders:'}
+                </h4>
+                {isPasswordValid() ? (
+                  <ul className="text-sm text-green-700 space-y-1">
+                    <li>• ✅ Password meets all security requirements</li>
+                    <li>• ✅ Your plan will be protected with this password</li>
+                    <li>• ✅ You can now generate your emergency plan</li>
+                  </ul>
+                ) : (
+                  <ul className="text-sm text-yellow-700 space-y-1">
+                    <li>• Keep your password secure and do not share it with unauthorized individuals</li>
+                    <li>• Store your password in a secure password manager</li>
+                    <li>• The password cannot be recovered if lost - you will need to regenerate the plan</li>
+                    <li>• This password will be used to protect sensitive emergency planning information</li>
+                  </ul>
+                )}
               </div>
             </div>
 
-            <div className="bg-green-50 border border-green-200 rounded-lg p-6">
-              <h3 className="text-lg font-semibold text-green-900 mb-2">Ready to Generate Plan</h3>
-              <p className="text-green-700">
-                All information has been collected. Click the "Generate Emergency Plan" button below to create your comprehensive emergency plan.
+            <div className={`border rounded-lg p-6 ${isPasswordValid() ? 'bg-green-50 border-green-200' : 'bg-gray-50 border-gray-200'}`}>
+              <h3 className={`text-lg font-semibold mb-2 ${isPasswordValid() ? 'text-green-900' : 'text-gray-700'}`}>
+                {isPasswordValid() ? 'Ready to Generate Plan' : 'Plan Generation Pending'}
+              </h3>
+              <p className={isPasswordValid() ? 'text-green-700' : 'text-gray-600'}>
+                {isPasswordValid() 
+                  ? 'All information has been collected and your password is set. Click the "Generate Emergency Plan" button below to create your comprehensive emergency plan.'
+                  : 'All information has been collected. Please set a strong password above to enable plan generation.'
+                }
               </p>
             </div>
           </div>
@@ -1470,13 +1517,20 @@ function EnhancedPlanForm({ onSubmit, onCancel, user }) {
                     <button
                       type="button"
                       onClick={handleGeneratePlan}
-                      disabled={submitting}
+                      disabled={submitting || !isPasswordValid()}
                       className="px-6 py-3 bg-gradient-to-r from-green-600 to-blue-600 text-white rounded-lg hover:from-green-700 hover:to-blue-700 disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-200"
                     >
                       {submitting ? (
                         <div className="flex items-center">
                           <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-white mr-2"></div>
                           Generating Plan...
+                        </div>
+                      ) : !isPasswordValid() ? (
+                        <div className="flex items-center">
+                          <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
+                          </svg>
+                          Set Password First
                         </div>
                       ) : (
                         'Generate Emergency Plan'
