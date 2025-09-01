@@ -537,6 +537,18 @@ function EnhancedPlanForm({ onSubmit, onCancel, user }) {
 
   const handleChange = (e) => {
     const { name, value, type, checked } = e.target;
+    
+    // Debug password field changes
+    if (name === 'pdf_password') {
+      console.log('Password field change:', {
+        name,
+        value,
+        type,
+        oldValue: form.pdf_password,
+        newValue: value
+      });
+    }
+    
     setForm(prev => ({
       ...prev,
       [name]: type === 'checkbox' 
@@ -546,6 +558,7 @@ function EnhancedPlanForm({ onSubmit, onCancel, user }) {
           )
         : value
     }));
+    
     // Clear error when user starts typing
     if (errors[name]) {
       setErrors(prev => ({ ...prev, [name]: '' }));
@@ -665,12 +678,42 @@ function EnhancedPlanForm({ onSubmit, onCancel, user }) {
   // Check if password is valid for plan generation
   const isPasswordValid = () => {
     const password = form.pdf_password;
-    if (!password || !password.trim()) return false;
-    if (password.length < 8) return false;
-    if (!/[a-z]/.test(password)) return false;
-    if (!/[A-Z]/.test(password)) return false;
-    if (!/[0-9]/.test(password)) return false;
-    if (!/[^A-Za-z0-9]/.test(password)) return false;
+    console.log('Password validation check:', {
+      password: password,
+      hasPassword: !!password,
+      trimmed: password ? password.trim() : '',
+      length: password ? password.length : 0,
+      hasLowercase: password ? /[a-z]/.test(password) : false,
+      hasUppercase: password ? /[A-Z]/.test(password) : false,
+      hasNumber: password ? /[0-9]/.test(password) : false,
+      hasSpecial: password ? /[^A-Za-z0-9]/.test(password) : false
+    });
+    
+    if (!password || !password.trim()) {
+      console.log('Password validation failed: No password or empty');
+      return false;
+    }
+    if (password.length < 8) {
+      console.log('Password validation failed: Too short');
+      return false;
+    }
+    if (!/[a-z]/.test(password)) {
+      console.log('Password validation failed: No lowercase');
+      return false;
+    }
+    if (!/[A-Z]/.test(password)) {
+      console.log('Password validation failed: No uppercase');
+      return false;
+    }
+    if (!/[0-9]/.test(password)) {
+      console.log('Password validation failed: No number');
+      return false;
+    }
+    if (!/[^A-Za-z0-9]/.test(password)) {
+      console.log('Password validation failed: No special character');
+      return false;
+    }
+    console.log('Password validation passed');
     return true;
   };
 
@@ -1520,21 +1563,36 @@ function EnhancedPlanForm({ onSubmit, onCancel, user }) {
                       disabled={submitting || !isPasswordValid()}
                       className="px-6 py-3 bg-gradient-to-r from-green-600 to-blue-600 text-white rounded-lg hover:from-green-700 hover:to-blue-700 disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-200"
                     >
-                      {submitting ? (
-                        <div className="flex items-center">
-                          <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-white mr-2"></div>
-                          Generating Plan...
-                        </div>
-                      ) : !isPasswordValid() ? (
-                        <div className="flex items-center">
-                          <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
-                          </svg>
-                          Set Password First
-                        </div>
-                      ) : (
-                        'Generate Emergency Plan'
-                      )}
+                      {(() => {
+                        const passwordValid = isPasswordValid();
+                        console.log('Button render state:', {
+                          submitting,
+                          passwordValid,
+                          formPassword: form.pdf_password,
+                          currentStep,
+                          totalSteps: FORM_STEPS.length
+                        });
+                        
+                        if (submitting) {
+                          return (
+                            <div className="flex items-center">
+                              <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-white mr-2"></div>
+                              Generating Plan...
+                            </div>
+                          );
+                        } else if (!passwordValid) {
+                          return (
+                            <div className="flex items-center">
+                              <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
+                              </svg>
+                              Set Password First
+                            </div>
+                          );
+                        } else {
+                          return 'Generate Emergency Plan';
+                        }
+                      })()}
                     </button>
                   )}
                 </div>
