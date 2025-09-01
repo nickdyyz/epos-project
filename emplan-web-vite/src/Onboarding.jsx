@@ -376,8 +376,6 @@ function Onboarding({ onComplete, onSignOut, hideHeader = false }) {
     console.log('onComplete callback exists:', !!onComplete);
     console.log('=== END SKIP DEBUG ===');
     
-    setLoading(true);
-    
     try {
       // Create a minimal profile when user skips onboarding
       const minimalProfile = {
@@ -414,8 +412,6 @@ function Onboarding({ onComplete, onSignOut, hideHeader = false }) {
         // Fallback: try to redirect manually
         window.location.href = '/dashboard';
       }
-    } finally {
-      setLoading(false);
     }
   };
 

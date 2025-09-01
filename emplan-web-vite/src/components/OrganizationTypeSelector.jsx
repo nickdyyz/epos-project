@@ -226,7 +226,7 @@ const OrganizationTypeSelector = ({
               <div className="absolute z-10 w-full mt-1 bg-white border border-gray-300 rounded-md shadow-lg max-h-60 overflow-y-auto">
                 {filteredIndustryOptions.map((industry) => (
                   <button
-                    key={industry.code}
+                    key={`${value}-${industry.code}`}
                     type="button"
                     onClick={() => {
                       setSelectedIndustry(industry.code);
@@ -256,7 +256,7 @@ const OrganizationTypeSelector = ({
           >
             <option value="">{value === 'Other' ? 'Select Industry (Optional)' : 'Select Industry'}</option>
             {industryOptions.map((industry) => (
-              <option key={industry.code} value={industry.code}>
+              <option key={`${value}-${industry.code}`} value={industry.code}>
                 {industry.code} - {industry.description}
               </option>
             ))}
@@ -308,7 +308,7 @@ const OrganizationTypeSelector = ({
               <div className="absolute z-10 w-full mt-1 bg-white border border-gray-300 rounded-md shadow-lg max-h-60 overflow-y-auto">
                 {filteredSubcategoryOptions.map((subcategory) => (
                   <button
-                    key={subcategory.code}
+                    key={`${value}-${selectedIndustry}-${subcategory.code}`}
                     type="button"
                     onClick={() => {
                       setSelectedSubcategory(subcategory.code);
@@ -337,7 +337,7 @@ const OrganizationTypeSelector = ({
           >
             <option value="">Select Specific Category (Optional)</option>
             {subcategoryOptions.map((subcategory) => (
-              <option key={subcategory.code} value={subcategory.code}>
+              <option key={`${value}-${selectedIndustry}-${subcategory.code}`} value={subcategory.code}>
                 {subcategory.code} - {subcategory.description}
               </option>
             ))}
