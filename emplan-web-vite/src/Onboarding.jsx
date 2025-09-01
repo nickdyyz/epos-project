@@ -280,6 +280,8 @@ function Onboarding({ onComplete, onSignOut, hideHeader = false }) {
   const handleSubmit = async () => {
     try {
       console.log('🚀 Onboarding: Starting profile creation...');
+      console.log('Current step:', currentStep);
+      console.log('Total steps:', totalSteps);
       console.log('Form data:', formData);
       console.log('Form data keys:', Object.keys(formData));
       console.log('Organization name:', formData.organizationName);
@@ -300,6 +302,7 @@ function Onboarding({ onComplete, onSignOut, hideHeader = false }) {
       console.log('Step 3 valid:', isStepValid(3));
       console.log('Step 4 valid:', isStepValid(4));
       console.log('Step 5 valid:', isStepValid(5));
+      console.log('Step 6 valid:', isStepValid(6));
       console.log('Current step:', currentStep);
       console.log('Total steps:', totalSteps);
       console.log('=== END VALIDATION DEBUG ===');
@@ -316,6 +319,20 @@ function Onboarding({ onComplete, onSignOut, hideHeader = false }) {
       console.log('emergencyContactPhone filled:', !!formData.emergencyContactPhone);
       console.log('=== END REQUIRED FIELDS CHECK ===');
       
+      // Validate that we have the minimum required data
+      if (!formData.organizationName || !formData.organizationType) {
+        throw new Error('Organization name and type are required');
+      }
+      
+      if (!formData.primaryContactName || !formData.primaryContactEmail) {
+        throw new Error('Primary contact name and email are required');
+      }
+      
+      if (!formData.city) {
+        throw new Error('City is required');
+      }
+      
+      console.log('✅ Validation passed, creating profile...');
       const result = await createProfile(formData);
       console.log('✅ Onboarding: Profile created successfully:', result);
       
@@ -1381,6 +1398,20 @@ function Onboarding({ onComplete, onSignOut, hideHeader = false }) {
       <div>
         <h3 className="text-lg font-semibold text-gray-900 mb-4">Review Your Organization Profile</h3>
         <p className="text-gray-600 mb-6">Please review all the information below before creating your profile. You can go back to any step to make changes.</p>
+        
+        {/* Debug Information */}
+        <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-4 mb-6">
+          <h4 className="text-sm font-medium text-yellow-800 mb-2">Debug Information</h4>
+          <div className="text-xs text-yellow-700 space-y-1">
+            <div>Current Step: {currentStep} of {totalSteps}</div>
+            <div>Organization Name: {formData.organizationName || 'Not set'}</div>
+            <div>Organization Type: {formData.organizationType || 'Not set'}</div>
+            <div>Primary Contact: {formData.primaryContactName || 'Not set'}</div>
+            <div>Primary Email: {formData.primaryContactEmail || 'Not set'}</div>
+            <div>City: {formData.city || 'Not set'}</div>
+            <div>Loading State: {loading ? 'Yes' : 'No'}</div>
+          </div>
+        </div>
       </div>
       
       <div className="space-y-8">
@@ -1713,14 +1744,16 @@ function Onboarding({ onComplete, onSignOut, hideHeader = false }) {
               </button>
 
               <div className="flex space-x-3">
-                {/* Skip Button */}
-                <button
-                  type="button"
-                  onClick={handleSkip}
-                  className="px-6 py-3 rounded-lg font-medium text-gray-600 hover:text-gray-800 hover:bg-gray-100 transition-all duration-200"
-                >
-                  Skip for Now
-                </button>
+                {/* Skip Button - Only show on steps 1-5, not on review step */}
+                {currentStep < 6 && (
+                  <button
+                    type="button"
+                    onClick={handleSkip}
+                    className="px-6 py-3 rounded-lg font-medium text-gray-600 hover:text-gray-800 hover:bg-gray-100 transition-all duration-200"
+                  >
+                    Skip for Now
+                  </button>
+                )}
 
                 {currentStep === 5 ? (
                   <button
