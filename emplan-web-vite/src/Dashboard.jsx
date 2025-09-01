@@ -1311,14 +1311,15 @@ This plan is currently in draft status and requires final review and approval.`,
           console.log('Setting current view to dashboard...');
           
           // Use setTimeout to ensure state update happens
-          setTimeout(() => {
+          setTimeout(async () => {
             console.log('Executing redirect in setTimeout...');
             setCurrentView('dashboard');
             console.log('Current view after setCurrentView (in timeout):', currentView);
             console.log('Calling fetchProfile...');
             try {
-              fetchProfile();
-              console.log('fetchProfile called successfully');
+              const freshProfile = await fetchProfile();
+              console.log('fetchProfile called successfully, result:', freshProfile);
+              console.log('Profile isOnboardingComplete:', freshProfile?.isOnboardingComplete);
             } catch (error) {
               console.error('Error calling fetchProfile:', error);
             }

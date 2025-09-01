@@ -384,6 +384,11 @@ function Onboarding({ onComplete, onSignOut, hideHeader = false }) {
         organizationType: 'Other',
         isOnboardingComplete: true,
         lastUpdated: new Date().toISOString(),
+        // Add required fields to ensure profile is valid
+        primaryContactName: 'Primary Contact',
+        primaryContactEmail: user?.attributes?.email || 'contact@organization.com',
+        city: 'City',
+        country: 'Canada',
       };
       
       console.log('Creating minimal profile:', minimalProfile);

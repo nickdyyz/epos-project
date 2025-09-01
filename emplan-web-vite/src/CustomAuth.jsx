@@ -328,17 +328,27 @@ function CustomAuth() {
 
   const handleOnboardingComplete = async () => {
     console.log('handleOnboardingComplete called - fetching profile...');
-    await fetchProfile();
-    console.log('Profile fetched, setting showOnboarding to false');
-    setShowOnboarding(false);
     
-    // Add a small delay to ensure state updates are processed
-    setTimeout(() => {
-      console.log('=== AFTER ONBOARDING COMPLETE DEBUG ===');
-      console.log('Profile after fetch:', profile);
-      console.log('Is onboarding complete after fetch:', isOnboardingComplete);
-      console.log('=== END DEBUG ===');
-    }, 1000);
+    // Force a fresh profile fetch
+    try {
+      const freshProfile = await fetchProfile();
+      console.log('Fresh profile fetched:', freshProfile);
+      console.log('Profile fetched, setting showOnboarding to false');
+      setShowOnboarding(false);
+      
+      // Add a small delay to ensure state updates are processed
+      setTimeout(() => {
+        console.log('=== AFTER ONBOARDING COMPLETE DEBUG ===');
+        console.log('Profile after fetch:', profile);
+        console.log('Fresh profile result:', freshProfile);
+        console.log('Is onboarding complete after fetch:', isOnboardingComplete);
+        console.log('=== END DEBUG ===');
+      }, 1000);
+    } catch (error) {
+      console.error('Error fetching profile after onboarding:', error);
+      // Even if fetch fails, try to hide onboarding
+      setShowOnboarding(false);
+    }
   };
 
   if (loading) {
@@ -362,8 +372,11 @@ function CustomAuth() {
     console.log('=== END DEBUG ===');
     
     // Check if user needs to complete onboarding
-    if (!profileLoading && !isOnboardingComplete && !showOnboarding) {
-      console.log('Setting showOnboarding to true');
+    if (!profileLoading && !profile && !showOnboarding) {
+      console.log('No profile found, setting showOnboarding to true');
+      setShowOnboarding(true);
+    } else if (!profileLoading && profile && !profile.isOnboardingComplete && !showOnboarding) {
+      console.log('Profile exists but onboarding not complete, setting showOnboarding to true');
       setShowOnboarding(true);
     }
     
